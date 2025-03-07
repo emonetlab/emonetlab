@@ -8,8 +8,8 @@
     href: /team/
   - text: Alumni
     href: /alumni/
-  - text: Join
-    href: /join/
+  # - text: Join
+  #   href: /join/
   - text: Galleries
     href: /galleries/
 # - text: Research
@@ -23,9 +23,11 @@
 - text: Publications
   menu:
   - text: Neuroscience
-    href: /publications-neuro/
+    href: /pubs-neuro/
   - text: Microbiology
-    href: /publications-micro/
+    href: /pubs-micro/
+  - text: Everything
+    href: /pubs-all/
 - text: News
   href: /news/
 - text: Contact
