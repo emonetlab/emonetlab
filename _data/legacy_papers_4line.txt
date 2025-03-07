@@ -1,0 +1,84 @@
+{
+Vo L*, Avgidis F*, Mattingly HH*, Edmonds K, Burger I, Balasubramanian R, Shimizu TS, Kazmierczak BI, Emonet T.
+Non-genetic adaptation by collective migration.
+PNAS, 122 (8) e2423774122 (2025). doi: https://doi.org/10.1073/pnas.2423774122
+*co-first authors
+}
+{
+Mattingly HH*, Kamino K*, Ong Jǂ, Kottou Rǂ, Emonet T#, Machta BB#
+E. coli do not count single molecules
+bioRxiv 2024.07.09.602750; doi: https://doi.org/10.1101/2024.07.09.602750
+* contributed equally; ǂ contributed equally; # co-corresponding author
+}
+{
+Choi K*, Rosenbluth W*, Graf IR, Kadakia N#, Emonet T#
+Bifurcation enhances temporal information encoding in the olfactory periphery
+PRX Life 2, 043011 (2024) (html)
+* contributed equally; #co-corresponding authors
+}
+{
+Sherry DM, Graf IR#, Bryant SJ, Emonet T#, Machta BB#
+Lattice ultrasensitivity produces large gain in E. coli chemosensing
+bioRxiv 2024.05.28.596300; doi: https://doi.org/10.1101/2024.05.28.596300
+# co-corresponding author
+}
+{
+Phan TV*, Mattingly HH*, Vo Lam, Marvin JS, Looger LL, Emonet T
+Direct measurement of dynamic attractant gradients reveals breakdown of the Patlak-Keller-Segel chemotaxis model
+PNAS 121 (3) e2309251121 (2023) (html, PDF, Supp info)
+* contributed equall
+}
+{
+Vo L*, Avgidis F*, Mattingly H*, Edmunds K, Burger I, Balasubramanian R, Shimizu TS, Kazmierczak BI, Emonet T
+Non-genetic adaptation by collective migration.
+bioRxiv 2024.01.02.573956; (2024)  (bioRxiv)
+* contributed equally
+}
+{
+Jayaram V*, Sehdev A*, Kadakia N, Brown EA, Emonet T
+Temporal novelty detection and multiple timescale integration drive Drosophila orientation dynamics in temporally diverse olfactory environments
+PLoS Comput Biol 19(5): e1010606 (2023) (html, PDF, bioRxiv)
+* contributed equall
+}
+{
+Jayaram V*, Kadakia N*, Emonet T
+Sensing complementary temporal features of odor signals enhances navigation of diverse turbulent plumes
+eLife, 11:e72415 (2022) (html)
+* contributed equall
+}
+{
+Nesper J*, Hug I*, Kato S*, Hee C-S*, Habazettl JM, Mandredi P, Grzesiek S, Tilman S, Emonet T, Jenal U
+Cyclic di-GMP differentially tunes a bacterial flagellar motor through a novel class of CheY-like regulators
+eLife 6:e28842 (2017) (pdf, ​html, supp info)
+* contributed equally
+}
+{
+Das D, Chatti D, Emonet T*, Holley SA*
+Patterned Disordered Cell Motion Ensures Vertebral Column Symmetry
+Developmental Cell, 42(2), 170-180.e5 (2017) (html, pdf, supp info)
+*corresponding authors
+}
+{
+Gorur-Shandilya S*, Demir M*, Long J, Clark DA1, Emonet T1
+Olfactory receptor neurons use gain control and complementary kinetics to encode intermittent odorant stimuli
+eLife, 6:e27670 (2017) DOI: 10.7554/eLife.27670 (html, pdf)
+* contributed equally; 1corresponding authors
+}
+{
+Dufour Y, Fu X, Hernandez-Nunez L, Emonet T
+Limits of feedback control in bacterial chemotaxis
+PLoS Comput Biol. 10(6): e1003694 (2014)
+(Note: There were several typos in the published PDF. Make sure to use this corrected version: pdf, supp. info., html
+}
+{
+Sliusarenko O, Heinritz J, Emonet T*, Jacobs-Wagner C.*,
+High-throughput, subpixel precision analysis of bacterial morphogenesis and intracellular spatio-temporal dynamics.
+Mol. Micro., 80(3):612–627, May 2011 (pdf, html, supp. info., supp. movies, source code)
+ * Co-corresponding authors
+ }
+{
+Sneddon MW, Faeder JR, Emonet T.
+Efficient modeling, simulation and coarse-graining of biological complexity with NFsim,
+Nature Methods, 8:177-183 (2011). (pdf, html, supp. info., supp. video 1, supp. video 2, source code)
+see also News & Views by Bachman and Sorger Nature Methods, 8:130-131 (2011) (pdf, html
+}

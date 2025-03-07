@@ -1,9 +1,3 @@
-
-#######
-####### 2023
-#######
-
-
 - authors: "Szyszka P, Emonet T, Edwards TL"
   title: "Extracting spatial information from temporal odor patterns: insights from insects"
   journal: "Current Opinion in Insect Science"
@@ -28,12 +22,6 @@
   extra: |-
     \* contributed equally.
 
-
-#######
-####### 2022
-#######
-
-
 - authors: "Kadakia N, Demir M, Michaelis BT, DeAngelis, BD, Reidenbach MA, Clark DA*, Emonet T*"
   title: "Odour motion sensing enhances complex plume navigation"
   journal: "Nature"
@@ -52,3 +40,49 @@
     - [Yale News article](https://news.yale.edu/2022/11/09/flies-smell-motion-odors-and-use-it-navigate-yale-study-finds) by Bill Hathaway
     - [YouTube: Flies smell the motion of odors and use it to navigate](https://www.youtube.com/embed/3CC-0t8vPPM)
     - [How animals follow their nose](https://knowablemagazine.org/article/living-world/2023/how-animals-follow-their-nose), Knowable Magazine, by Dana Mackenzie, March 6 2023
+
+
+- authors: "Emonet T & Vergassola M"
+  title: "Olfactory cues and memories in animal navigation"
+  journal: "Nature Review Physics (2024) https://doi.org/10.1038/s42254-024-00710-7"
+  date: "2024"
+
+- authors: "Brudner S, Emonet T"
+  title: "Navigation: Where is that smell coming from?"
+  journal: "eLife,  11:e82635 (2022) "
+  date: "2022"
+
+- authors: "Kadakia N & Emonet T"
+  title: "Front-end Weber-Fechner gain control enhances the fidelity of combinatorial odor coding"
+  journal: "eLife 8: e45293 (2019) )"
+  date: "2019"
+
+- authors: "Gorur-Shandilya S, Martelli C, Demir M, Emonet T"
+  title: "Controlling and measuring dynamic odorant stimuli in the laboratory"
+  journal: "Journal of Experimental Biology, 222: jeb207787 (2019) )"
+  date: "2019"
+
+- authors: "Raccuglia D, McCurdy LY, Demir M, Gorur-Shandilya S, Kunst M, Emonet T, Nitabach MN"
+  title: "Presynaptic GABA receptors mediate temporal contrast enhancement in Drosophila olfactory sensory neurons and modulate odor-driven behavioral "kinetics
+  journal: "eNeuro"
+  edition: "(2016)"
+  date: "2016"
+  doi: "10.1523/ENEURO.0080-16.2016"
+
+- authors: "Mathew D, Martelli C, Kelley-Swift E, Brusalis C, Gershow M, Samuel AD, Emonet T, Carlson JR."
+  title: "Functional diversity among sensory receptors in a Drosophila olfactory circuit."
+  journal: "PNAS"
+  edition: "110(23):E2134-43 (2013)"
+  date: "2013"
+
+- authors: "Martelli C, Carlson J, and Emonet T"
+  title: "Intensity invariant dynamics and odor-specific latencies in olfactory receptor neuron response."
+  journal: "Journal of Neuroscience"
+  edition: "33(15):6285-6297 (2013)"
+  date: "2013"
+
+- authors: "Su CY, Martelli C, Emonet T, Carlson JR."
+  title: "Temporal coding of odor mixtures in an olfactory receptor neuron.,"
+  journal: "PNAS"
+  edition: "108(12):5075-80 (2011)"
+  date: "2011"

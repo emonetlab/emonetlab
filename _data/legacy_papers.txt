@@ -1,0 +1,62 @@
+{
+Kadakia N, Demir M, Michaelis BT, DeAngelis, BD, Reidenbach MA, Clark DA*, Emonet T*
+Odor motion sensing enhances complex plume navigation
+Nature doi: 10.1038/s41586-022-05423-4 (2022) (html, PDF, Supp info)
+*co-corresponding authors
+News and Views: Flies catch wind of where smells come from, by Floris van Breugel and Bingni W. Brunton, Nature, doi: 10.1038/d41586-022-03561-3, Nov 9, 2022
+Yale News article by Bill Hathaway
+YouTube: Flies smell the motion of odors and use it to navigate
+How animals follow their nose, Knowable Magazine, by Dana Mackenzie, March 6, 202
+}
+{
+Mattingly HH*, Kamino K*, Machta BB#, Emonet T#
+Escherichia coli chemotaxis is information limited
+Nature Physics 17, 1426–1431 (2021) (html, pdf, Supp Info)
+* contributed equally, #co-corresponding authors
+Неоптимальная обработка информации замедлила хемотаксис кишечной палочки, Dec 3, 2021
+Bacterial bandwidth, Yale News, Dec 7, 2021
+Information processing constrains how E. coli bacteria navigate chemical gradients, by Ingrid Fadelli, Phys.org News, January 11, 2022
+E. coli’s Streaming Bandwidth, By Abigail Jolteus, May 16, 202
+}
+{
+Kamino K, Keegstra JM, Long J, Emonet T*, Shimizu TS*
+Adaptive tuning of cell sensory diversity without changes in gene expression
+Science Advances, Vol. 6, no. 46, eabc1087 (2020) (html, pdf, suppinfo)
+* corresponding authors
+Dynamic risk management in cell populations, EurekaAlert Nov 13 2020
+Cellular bet hedgers cash in when environment changes, Yale New
+}
+{
+Demir M*, Kadakia N*, Anderson HD, Clark DA, Emonet T
+Walking Drosophila navigate complex plumes using stochastic decisions biased by the timing of odor encounters
+eLife, 9:e57524 (2020) (html, pdf, figures and supplements)
+* contributed equally
+Insight article: Celani A, Olfactory Navigation: Tempo is the key, eLife, 9:e63385 (2020) (html, pdf)
+How insects find their targets in a chaotic world, William Hathaway
+YouTube video
+Yale scientists track how walking fruit flies navigate to odor sources, Katlin Flores article in Yale News Nov 16 202
+}
+{
+Fu X*, Kato S*,  Long J, Mattingly HH, He C, Vural DC, Zucker SW & Emonet T
+Spatial Self-Organization Resolves Conflicts Between Individuality and Collective Migration
+Nature Communications 9, Article number: 2177 (2018) (html, pdf, supp info)
+*contributed equally
+Yale News, by Bill Hathaway
+preLights by Amanda Haage
+}
+{
+Waite AJ*, Frankel NW*, Dufour Y*, Johnston JF, Long J and Emonet T
+Non‐genetic diversity modulates population performance
+Molecular Systems Biology, 12: 895, 1-14 (2016)  (html, pdf, expanded view figures, appendix)
+* contributed equally
+See also News and Views: van Vliet S & Ackermann M, Stochastic gene expression: bacterial elites in chemotaxis, Molecular Systems Biology, 13: 909, 1-2 (2017) (html, pdf)
+Recommended in 
+}
+{
+Dufour YS, Gillet S, Frankel NW, Weibel DB, Emonet T
+Direct correlation between motile behavior and protein abundance in single cells
+PLoS Comput Biol. 12(9):e1005041 (2016)  (html, pdf, supp info,  bioRXiv)
+Frankel N
+Trade-offs in Bacterial Chemotaxis and the Adaptation of Non-Genetic Diversity
+Dissertation (2014) (pdf
+}
