@@ -1,3 +1,4 @@
+
 - name: Aarti Sehdev
   when: "2020-2023"
   role: Postdoc
@@ -46,7 +47,6 @@
     Austin is an undergraduate student majoring in Earth and Planetary Sciences. He is broadly interested in evolutionary systems and environmental geomicrobiology. He currently studies the evolutionary dynamics of how E. coli develop resistance to bacteriophage chi, a virus that infects bacteria by first binding to the flagella. In his free time, he enjoys swimming, reading, and learning languages.
   email: austin.theroux@yale.edu
 
-
 - name: Rafaela Kottou
   role: Undergraduate Student
   when: "2021-2023"
@@ -55,7 +55,6 @@
     Rafaela is an undergraduate interested in studying biochemistry through the lens of mathematical modeling. She is currently trying to understand how different binding modalities affect the diversity of sensory parameters in bacterial chemosensing. In her free time, she writes for the Yale Daily News and enjoys spending time outdoors.
   email: rafaela.kottou@yale.edu
 
-
 - name: Ravi Balasubramanian
   role: Undergraduate Student
   when: "2023-2024"
@@ -63,7 +62,6 @@
   description: >
     Ravi is an undergraduate interested in the living world and how it is structured on mathematical, physical, and biological levels. He is currently studying how E. coli adapt to their environment and how they spatially organize themselves during group migration. In his free time he enjoys hiking, magical realist literature (Borges in particular), playing sitar, the card game Magic the Gathering, and hosting study breaks for his friends. He also enjoys solving puzzles and making puns.
   email: ravi.balasubramanian@yale.edu
-
 
 - name: Viraaj Jayaram
   role: Graduate Student
@@ -75,7 +73,6 @@
     Viraaj is a physics graduate student, having graduated from UChicago in 2019 with bachelor's degrees in math and physics. He is broadly interested in theoretical and computational biophysics and understanding information processing, decision making and optimality in biological systems. In his free time he enjoys playing and watching cricket, tennis and soccer, as well as playing board games, watching movies and trying out new restaurants with friends.
   email: viraaj.jayaram@yale.edu
 
-
 - name: Swayamshree Patra
   role: Postdoc
   when: "2022-2024"
@@ -83,3 +80,214 @@
   description: >
     Swayamshree is working on the theoretical aspects of chemical navigation. She finished her PhD at Indian Institute of Technology Kanpur under the guidance of Debashish Chowdhury where she developed theories for control and coordination of flagellar length in multiflagellated eukaryotes. In her free time she loves to explore new techniques of digital art for communicating her scientific projects.
   email: swayamshree.patra@yale.edu
+
+- name: Swayamshree Patra
+  role: "Postdoc"
+
+- name: Henry Mattingly,
+  role: "Postdoc"
+  description: > # Can be Markdown
+    Associate Research Scientist at CCB, Flatiron Institute
+
+- name: Keita Kamino,
+  role: "Postdoc"
+  description: > # Can be Markdown
+    Assistant Professor at Academia Sinica, Taiwan
+
+- name: Artur Wachtel
+  role: "Postdoc"
+
+- name: Adam Waite,
+  role: "Postdoc"
+  description: > # Can be Markdown
+    Research Specialist at Calico Labs
+
+- name: Amitaba Nandi,
+  role: "Postdoc"
+  description: > # Can be Markdown
+    Assistant Professor at IIT, Bombay, India
+
+- name: Carlotta Martelli,
+  role: "Postdoc"
+  description: > # Can be Markdown
+    Junior Group Leader, J. Gutenberg University Mainz, Germany
+
+- name: Dervis Can Vural,
+  role: "Postdoc"
+  description: > # Can be Markdown
+    Assistant Professor at Notre Dame University, IN
+
+- name: Garrit Jentsch,
+  role: "Postdoc"
+  description: > # Can be Markdown
+    managing director of BAST GmbH Clinical Data Science and Model Based Drug Development
+
+- name: Oleksii Sliusarenko,
+  role: "Postdoc"
+  description: > # Can be Markdown
+    Quant researcher at a quantitative hedge fund
+
+- name: Roger Alexander,
+  role: "Postdoc"
+  description: > # Can be Markdown
+    Senior Research Scientist, Pacific Northwest Diabetes Research, Seattle
+
+- name: Xiongfei Fu,
+  role: "Postdoc"
+  description: > # Can be Markdown
+    Assistant Professor, Shenzhen Institute of Advanced Technology, The Chinese Academy of Sciences, Shenzhen, China
+
+- name: Yann Dufour,
+  role: "Postdoc"
+  description: > # Can be Markdown
+    Assistant Professor at Michigan State University, Lansing, MI
+
+- name: Setsu Kato,
+  role: "Postdoc"
+  description: > # Can be Markdown
+    Assistant Professor at Hiroshima University, Japan
+
+- name: Viraaj Jayaram,
+  role: "Graduate Student"
+  description: > # Can be Markdown
+    Machine Learning Engineer, Schrödinger, NYC.
+
+- name: Junjiajia Long,
+  role: "Graduate Student"
+  description: > # Can be Markdown
+    Quantitative trader, Tower Research Capital, NYC.
+
+- name: Michael Sneddon,
+  role: "Graduate Student"
+  description: > # Can be Markdown
+    Director of Scientific Computing at Predicine
+
+- name: Nicholas Frankel,
+  role: "Graduate Student"
+  description: > # Can be Markdown
+    Postdoc with Wendell Lim at UCSF, San Francisco, CA
+
+- name: Srinivas Gorur-Shandilya,
+  role: "Graduate Student"
+  description: > # Can be Markdown
+    Postdoc with Eve Marder, Brandeis University
+
+- name: William Pontius,
+  role: "Graduate Student"
+  description: > # Can be Markdown
+    Software Engineer, Mighty.com, New York City
+
+- name: Tomas Lamot,
+  role: "Postgraduate Student"
+  description: > # Can be Markdown
+    Graduate student at University of Namur in Belgium
+
+- name: Luca Rappez,
+  role: "Postgraduate Student"
+  description: > # Can be Markdown
+    Graduate student at EMBL Heidelberg, Germany
+
+- name: Noah Olsman,
+  role: "Postgraduate Student"
+  description: > # Can be Markdown
+    Graduate student at Caltech, Pasadena CA
+
+- name: Pedro Cisneros,
+  role: "Postgraduate Student"
+  description: > # Can be Markdown
+    Graduate student at UCSB, Santa Barbara CA
+
+- name: Sébastien Gillet,
+  role: "Postgraduate Student"
+  description: > # Can be Markdown
+    Graduate student at University of Namur, Belgium
+
+- name: Luis Hernandez-Nuñes,
+  role: "Postgraduate Student"
+  description: > # Can be Markdown
+    Graduate student at Harvard, Cambridge MA
+
+- name: Agastya Rana
+  role: "Undergraduate Student"
+
+- name: Will Rosenbluth,
+  role: "Undergraduate Student"
+  description: > # Can be Markdown
+    Nuclear Engineer at Naval Reactors, Washington DC
+
+- name: Rafaela Kottou,
+  role: "Undergraduate Student"
+  description: > # Can be Markdown
+    Analyst, Cornerstone Research
+
+- name: Ravi Balasubramanian,
+  role: "Undergraduate Student"
+  description: > # Can be Markdown
+    Graduate student at Princeton University
+
+- name: Ethan Brown,
+  role: "Undergraduate Student"
+  description: > # Can be Markdown
+    Bioinformatics analyst at Tempus Labs, Chicago
+
+- name: Jude Ong,
+  role: "Undergraduate Student"
+  description: > # Can be Markdown
+    Postgraduate researcher at NIH
+
+- name: Garima Singh,
+  role: "Undergraduate Student"
+  description: > # Can be Markdown
+    began job at SparkCognition
+
+- name: Helen Cai,
+  role: "Undergraduate Student"
+  description: > # Can be Markdown
+    began job at Epic Systems
+
+- name: Hope Anderson,
+  role: "Undergraduate Student"
+  description: > # Can be Markdown
+    graduate student at The University of Chicago
+
+- name: Charlotte Brannon,
+  role: "Undergraduate Student"
+  description: > # Can be Markdown
+    graduate student at Stanford University
+
+- name: Adam Fine,
+  role: "Undergraduate Student"
+  description: > # Can be Markdown
+     graduate student at University of Chicago physics
+
+- name: Megan Ayers,
+  role: "Undergraduate Student"
+  description: > # Can be Markdown
+    graduate student at Yale University
+
+- name: Mattia Mahmoud,
+  role: "Undergraduate Student"
+  description: > # Can be Markdown
+    undergraduate at Harvard University
+
+- name: Abhishek Sethi
+  role: "Undergraduate Student"
+
+- name: Adam Bildersee,
+  role: "Undergraduate Student"
+  description: > # Can be Markdown
+    software engineer at Google[x]
+
+- name: Faez Syed
+  role: "Undergraduate Student"
+
+- name: Jennifer Wang
+  role: "Undergraduate Student"
+
+- name: Michael Weiner,
+  role: "Undergraduate Student"
+  description: > # Can be Markdown
+    Graduate student Cornell University
+
+- name: Tobias Holden
+  role: "Undergraduate Student"
