@@ -25,7 +25,8 @@
 
 - authors: "Moore  JP, Kamino K, Kottou R, Shimizu, TS, Emonet T"
   title: "Signal integration and adaptive sensory diversity tuning in Escherichia coli chemotaxis"
-  journal: "Cell Systems 15, 1-11 (2024), https://doi.org/10.1016/j.cels.2024.06.003 "
+  journal: "Cell Systems 15, 1-11 (2024)"
+  doi: "10.1016/j.cels.2024.06.003"
   date: "2024"
 
 - authors: "Kamino K, Kadakia N, Avgidis F, Liu Z, Aoki K, Shimizu TS, Emonet T"
@@ -135,12 +136,12 @@
 
 - authors: "Park H, Pontius W, Guet CC, Marko JF, Emonet T, Cluzel P."
   title: "Interdependence of behavioural variability and response to small stimuli in bacteria,"
-  journal: "Nature, 468(7325):819-823 (2010)."
+  journal: "Nature, 468(7325):819-823 (2010)"
   date: "2010"
 
 - authors: "Feinerman O*, Jentsch G*, Tkach K, Coward JW, Hathorn M, Sneddon MW, Emonet T, Smith KA, Altan-Bonnet G,"
   title: "Single-cell quantification of IL-2 response by effector and regulatory T cells reveals critical plasticity in immune response,"
-  journal: "Molecular Systems Biology, 6:437 (2010)., SBML model)"
+  journal: "Molecular Systems Biology, 6:437 (2010), SBML model)"
   date: "2010"
   extra: |-
     * Co-first author"
@@ -152,62 +153,72 @@
 
 - authors: "Llopis PM, Jackson AF, Sliusarenko O, Surovtsev I, Heinritz J, Emonet T, Jacobs-Wagner C."
   title: "Spatial organization of the flow of genetic information in bacteria,"
-  journal: "Nature, 466(7302):77-81 (2010)."
+  journal: "Nature, 466(7302):77-81 (2010)"
   date: "2010"
 
 - authors: "Sliusarenko O, Cabeen M, Wolgemuth C, Jacobs-Wagner C, Emonet T."
   title: "The processivity of peptidoglycan synthesis provides a built-in mechanism for the robustness of straight-rod cell morphology,"
   journal: "PNAS"
-  edition: "107(22):10086-91 (2010)."
+  edition: "107(22):10086-91 (2010)"
   date: "2010"
 
 - authors: "Alexander RP, Kim PM, Emonet T*, and Gerstein MB*"
   title: "Understanding Modularity in Molecular Networks Requires Dynamics"
-  journal: "Sci. Signal., 81(2):44 (2009).)"
+  journal: "Sci. Signal., 81(2):44 (2009)"
+  date: "2009"
   extra: |-
     * Co-corresponding author"
 
 - authors: "Alyahya SA, Alexander R, Costa T, Henriques AO, Emonet T, and Jacobs-Wagner C.,"
   title: "RodZ, a component of the bacterial core morphogenic apparatus,"
   journal: "PNAS"
-  edition: "106(4):1239-44 (2009)."
+  edition: "106(4):1239-44 (2009)"
+  date: "2009"
 
 - authors: "Emonet T*, Cluzel P."
   title: "Relationship between cellular response and behavioral variability in bacterial chemotaxis,"
   journal: "PNAS"
-  edition: "105(9):3304-9(2008).)"
+  edition: "105(9):3304-9(2008)"
+  date: "2008"
   extra: |-
     * Corresponding author"
 
 - authors: "Guet C., Bruneaux L., Min T.L., Siegal-Gaskins D., Figueroa I., Emonet T and Cluzel P."
   title: "Minimally invasive determination of mRNA concentration in single living bacteria,"
-  journal: "Nucleic Acids Research, 36(12):1-8 (2008). file 1 file 2"
+  journal: "Nucleic Acids Research, 36(12):1-8 (2008)"
+  date: "2008"
 
 - authors: "Le TT, Emonet T, Harlepp S., Guet CC, Cluzel P."
   title: "Dynamical determinants of inducible gene expression in a single bacterium"
-  journal: "Biophysical J., 90(9):3315-21 (2006)."
+  journal: "Biophysical J., 90(9):3315-21 (2006)"
+  date: "2006"
 
 - authors: "Korobkova E., Emonet T, Park H, Cluzel P."
   title: "Hidden stochastic nature of a single bacterial motor"
-  journal: "Phys. Rev. Letters, 96, 58105 (2006)."
+  journal: "Phys. Rev. Letters, 96, 58105 (2006)"
+  date: "2006"
 
 - authors: "Le TT, Harlepp S., Guet CC, Dittmar K, Emonet T, Pan T., Cluzel P."
   title: "Real-time RNA profiling within a single bacterium"
   journal: "PNAS"
-  edition: "102 (26):9160-4 (2005)."
+  edition: "102 (26):9160-4 (2005)"
+  date: "2005"
 
 - authors: "Emonet T*, Macal CM, North MJ, Wickersham CE, Cluzel P."
   title: "AgentCell: a digital single-cell assay for bacterial chemotaxis"
-  journal: "Bioinformatics, 1; 21(11):2714-21 (2005).)"
+  journal: "Bioinformatics, 1; 21(11):2714-21 (2005)"
+  date: "2005"
   extra: |-
     * Corresponding author"
 
 - authors: "Vogler A., Shelyag S., Schussler M., Cattaneo F. Emonet, T. & Linde T."
   title: "Simulations of magneto-convection in the solar photosphere - Equations, methods, and results of the MURaM code,"
-  journal: "Astronomy & Astrophysics, 429, 335-U113 (2005)."
+  journal: "Astronomy & Astrophysics, 429, 335-U113 (2005)"
+  date: "2005"
 
 - authors: "Korobkova E.*, Emonet T.*, Vilar J., Shimizu T. & Cluzel P."
   title: "From molecular noise to behavioral variability in a single bacterium"
-  journal: "Nature, 428, 574-578 (2004).)"
+  journal: "Nature, 428, 574-578 (2004)"
+  date: "2004"
   extra: |-
     * co-first author"
