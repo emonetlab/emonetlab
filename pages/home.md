@@ -14,7 +14,7 @@ Our work unveils the intricate computations that empower organisms to sense and 
 
 #### What We Do
 
-We blend mathematical modeling with quantitative experiments to decode the biological computations underlying how organisms navigate their environments. Our research dives deep into the principles of signal processing and decision making, revealing the marvelous mechanisms by which nature translates chemical signals into action.
+We blend mathematical modeling with quantitative experiments to decode the biological computations underlying how organisms navigate their environments. Our research dives deep into the principles of signal processing and decision making, revealing the mechanisms by which nature translates chemical signals into action.
 
 #### Why Chemical Navigation?
 
@@ -22,7 +22,7 @@ Chemical navigation is not just about following gradients—it involves a series
 <div class="col-lg">
     <ul class="fa-ul">
         <li>
-            <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Signal Integration</strong>: How organisms synthesize diverse chemical cues.
+            <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Signal Integration</strong>: How organisms use sensory cues over space and time.
         </li>
         <li>
             <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Decision Making</strong>: How they choose optimal paths based on environmental inputs.
