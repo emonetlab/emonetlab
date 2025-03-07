@@ -12,18 +12,19 @@ permalink: /
 
 #### What We Do
 
-Our work unveils the computations that empower organisms to sense and interpret their chemical world. We blend mathematical modeling with quantitative experiments to decode the biological computations underlying how organisms navigate their environments. Our research dives deep into the principles of signal processing and decision making, revealing the mechanisms by which nature translates chemical signals into action.
+We investigate how organisms compute and interpret chemical signals. By combining mathematical modeling with quantitative experiments, our research decodes the processes that drive navigation—from molecules and cells to entire populations. Our findings explain the signal processing and decision-making mechanisms used to translate chemical cues into behavior.
 
 #### Why Chemical Navigation?
 
-Chemical navigation is not just about following gradients—it involves a series of non-trivial computations that enable:
+Chemical navigation is not just about following gradients—it involves complex computations in three main areas:
+
 <div class="col-lg">
     <ul class="fa-ul">
         <li>
-            <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Signal Integration</strong>: How organisms use sensory cues over space and time.
+            <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Signal Integration</strong>: Combining spatial and temporal sensory information.
         </li>
         <li>
-            <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Decision Making</strong>: How they choose optimal paths based on environmental inputs.
+            <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Decision Making</strong>: Choosing optimal paths based on environmental inputs.
         </li>
         <li>
             <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Biological Computation</strong>: How these processes are executed at the molecular and cellular levels.
@@ -31,18 +32,18 @@ Chemical navigation is not just about following gradients—it involves a series
     </ul>
 </div>
 
-This innovative perspective offers a quantitative lens into the fundamental strategies organisms employs to cope with complex environments.
+This quantitative perspective reveals the fundamental strategies that organisms use to adapt to diverse environments.
 
 #### From Bacteria to Fruit Flies
 
-We investigate well-characterized systems such as bacterial chemotaxis and fly olfaction. By bridging microbiology and neuroscience, our dual-system approach:
+We investigate the well-characterized systems in bacterial chemotaxis and fly olfaction. By bridging microbiology and neuroscience, our dual-system approach:
 <div class="col-lg">
     <ul class="fa-ul">
         <li>
-            <i class="fa-li fa fa-chevron-circle-right"></i> Uncovers general principles that govern biological computation.
+            <i class="fa-li fa fa-chevron-circle-right"></i> Identify universal principles of biological computation.
         </li>
         <li>
-            <i class="fa-li fa fa-chevron-circle-right"></i> Sparks creativity and fresh ideas through the cross-pollination of disciplines.
+            <i class="fa-li fa fa-chevron-circle-right"></i> Sparks creativity and fresh ideas through interdisciplinary research.
         </li>
     </ul>
 </div>
