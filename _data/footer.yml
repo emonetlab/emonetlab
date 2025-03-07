@@ -15,8 +15,8 @@ columns:
       href: pubs-neuro/
       new_window: false
 
-  - description: | # E.g. funding acknowledgement. Can be Markdown
-      [Join the Lab! ❤](thierry.emonet@yale.edu)
+  - description: |
+      [Join the Lab! ❤](mailto:thierry.emonet@yale.edu)
 
 #      *Last updated: 03/2025*
     links:
