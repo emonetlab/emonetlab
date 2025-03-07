@@ -9,22 +9,19 @@ columns:
       href: team/
       new_window: false
     - text: Microbiology
-      href: micro/
+      href: pubs-micro/
       new_window: false
     - text: Neuroscience
-      href: neuro/
-      new_window: false
-    - text: Publications
-      href: publications/
+      href: pubs-neuro/
       new_window: false
 
   - description: | # E.g. funding acknowledgement. Can be Markdown
-      [Join the Lab! ❤](/join/)
-      
-#      *Last updated: 09/2023*
+      [Join the Lab! ❤](thierry.emonet@yale.edu)
+
+#      *Last updated: 03/2025*
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >
-  2023
+  2025
