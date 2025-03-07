@@ -13,7 +13,7 @@ description: alumni page.
 <br />
 
 {% assign sorted_team = alumni | sort:"name" %}
-{% for member in alumni %}
+{% for member in sorted_team %}
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
       {% if member.image %}
