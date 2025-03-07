@@ -9,6 +9,7 @@
   journal: "Current Opinion in Insect Science"
   edition: "59:101082 (2023)"
   doi: "10.1016/j.cois.2023.101082"
+  date: "2023-10"
   html: "https://authors.elsevier.com/c/1hTg97tYJFnQVO"
   pdf: "/assets/papers/2023/2023_EmonetCurrOpInsSci.pdf"
   # preprint: 
@@ -20,6 +21,7 @@
   journal: "PLoS Computational Biology"
   edition: "19(5):e1010606 (2023)"
   doi: "10.1371/journal.pcbi.1010606"
+  date: "2023-05-11"
   html: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010606"
   pdf: "/assets/papers/2023/2023_JayaramPlosCompBio.pdf"
   preprint: "https://www.biorxiv.org/content/10.1101/2022.09.28.509840v2"
@@ -38,6 +40,7 @@
   journal: "Nature"
   edition: "611, pages 754–761 (2022)"
   doi: "10.1038/s41586-022-05423-4"
+  date: "2024-10"
   html: "https://www.nature.com/articles/s41586-022-05423-4"
   pdf: "/assets/papers/2022/2022_KadakiaNature.pdf"
   suppinfo: "/assets/papers/2022/2022_KadakiaNatureSuppInfo.pdf"

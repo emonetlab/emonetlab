@@ -25,7 +25,8 @@ description: neuroscience publications page.
 </div>
 <br />
 
-{% for paper in publications %}
+{% assign sorted_publications = publications | sort:"date" | reverse %}
+{% for paper in sorted_publications %}
   <div class="d-flex team-member">
     <!-- <div class="flex-shrink-0 me-3">
       {% if paper.image %}
@@ -44,7 +45,7 @@ description: neuroscience publications page.
           <br /><strong>{{ paper.journal }}</strong>
         {% endif %}
         {% if paper.edition %}
-         {{ paper. edition}}
+         {{ paper.edition }}
         {% endif %}
         {% if paper.doi %}
          | <a href="https://doi.org/{{ paper.doi }}" title="DOI">{{ paper.doi }}</a>
