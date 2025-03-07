@@ -41,7 +41,7 @@
 - name: Fotis Avgidis
   role: Postdoc
   when: "2024-"
-  image: assets/team/fotios-avgidis.jpg # Can be external link
+  image: assets/team/fotis-avgidis.jpg # Can be external link
   description: > # Can be Markdown
     Fotis is broadly interested in how living organisms process information and how information processing shapes behavior. He completed his PhD with Tom Shimizu at AMOLF in the Netherlands, where he studied the origins of sensory diversity in bacteria and the dynamics of the bacterial chemotaxis system near criticality. Before developing a fascination for biology, he dabbled in quantum computing and particle accelerators. Outside of science, he enjoys reading, traveling, visiting art museums, and taking photos.
   googlescholar: AvQIo1kAAAAJ
