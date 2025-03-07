@@ -12,7 +12,9 @@ description: team page.
 {{ content }}
 <br />
 
-{% for member in team %}
+{% assign sorted_team = team | sort:"name" %}
+
+{% for member in sorted_team %}
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
       {% if member.image %}
@@ -50,7 +52,7 @@ description: team page.
             <a href="https://researchgate.net/profile/{{ member.researchgate }}"><i class="ai ai-researchgate"></i></a>
           </li>
         {% endif %}
-        
+
         {% if member.googlescholar %}
           <li class="list-inline-item">
             <a href="https://scholar.google.com/citations?user={{ member.googlescholar }}"><i class="ai ai-google-scholar"></i></a>
@@ -85,7 +87,7 @@ description: team page.
   </div>
 {% endfor %}
 
-<!-- 
+<!--
 <div class="d-flex team-member">
   <h2>Alumni</h2>
 </div>
