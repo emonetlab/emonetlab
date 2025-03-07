@@ -3,7 +3,7 @@
   role: Postdoc
   image: assets/team/aarti-sehdev.jpg # Can be external link
   description: > # Can be Markdown
-    2024: Data engineer consultant at [Kubrick](https://www.kubrickgroup.com/us/?__geom=✪).
+    Now a Data engineer consultant at [Kubrick](https://www.kubrickgroup.com/us/).
   website: https://www.linkedin.com/feed/update/urn:li:activity:7020477652058689536/
 
 - name: Nirag Kadakia
@@ -11,15 +11,23 @@
   when: "2019-2023"
   image: assets/team/nirag-kadakia.jpg # Can be external link
   description: > # Can be Markdown
-    2023: Neural Interfaces Researcher, [Reality Labs](https://tech.fb.com/ar-vr/).
+    Now a Neural Interfaces Researcher, [Reality Labs](https://tech.fb.com/ar-vr/).
   website: https://nkadakia.com
+
+- name: Mahmut Demir
+  role: Associate Researcher
+  when: "2015-2022"
+  image: assets/team/mahmut-demir.jpg # Can be external link
+  description: > # Can be Markdown
+    Now a Senior Research Scientist, [Apple Tree Partners](https://www.appletreepartners.com).
+  website: https://scholar.google.com/citations?user=G6PyTbEAAAAJ&hl=en
 
 - name: Average Phan
   role: Postdoc
   when: "2022-2023"
   image: assets/team/average-phan.jpg # Can be external link
   description: > # Can be Markdown
-    2024: Postdoc in the Department of Chemical and Biomolecular Engineering at Johns Hopkins University.
+    Now a Postdoc in the Department of Chemical and Biomolecular Engineering at Johns Hopkins University.
   website: https://trungphan.squarespace.com/
 
 - name: Agastya Rana
