@@ -12,6 +12,7 @@ description: alumni page.
 {{ content }}
 <br />
 
+{% assign sorted_team = alumni | sort:"name" %}
 {% for member in alumni %}
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
@@ -56,7 +57,7 @@ description: alumni page.
             <a href="https://researchgate.net/profile/{{ member.researchgate }}"><i class="ai ai-researchgate"></i></a>
           </li>
         {% endif %}
-        
+
         {% if member.googlescholar %}
           <li class="list-inline-item">
             <a href="https://scholar.google.com/citations?user={{ member.googlescholar }}"><i class="ai ai-google-scholar"></i></a>
