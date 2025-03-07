@@ -19,7 +19,8 @@
 
 - authors: "Moore J, Emonet T"
   title: "Physics of bacterial chemotaxis"
-  journal: "Current Biology 34(20), R972-R977 (2024)"
+  journal: "Current Biology"
+  edition: "34(20), R972-R977 (2024)"
   date: "2024"
 
 - authors: "Moore JP, Kamino K, Kottou R, Shimizu, TS, Emonet T"
@@ -42,22 +43,25 @@
 
 - authors: "Moore JP, Kamino K, Emonet T"
   title: "Non-Genetic Diversity in Chemosensing and Chemotactic Behavior"
-  journal: "Int. J. Mol. Sci. 2021, 22(13), 6960)"
+  journal: "Int. J. Mol. Sci."
+  edition: "2021, 22(13), 6960)"
 
 - authors: "Lin CK, Lee DSW, McKeithen-Mead S, Emonet T, Kazmierczak B"
   title: "A Primed Subpopulation of Bacteria Enables Rapid Expression of the Type 3 Secretion System in Pseudomonas aeruginosa"
-  journal: "mBio 12:e00831-21 (2021)"
+  journal: "mBio"
+  edition: "12:e00831-21 (2021)"
   date: "2021"
-
 
 - authors: "Schniederberend M, Johnston JF, Shine E, Shen C, Jain R, Emonet T, Kazmierczak BI"
   title: "Modulation of flagellar rotation in surface-attached bacteria: a circuit for rapid surface-sensing"
-  journal: "PLoS Pathog. Nov 19 (11):e1008149 (2019)"
+  journal: "PLoS Pathogens"
+  edition: "19 (11):e1008149 (2019)"
   date: "2019"
 
 - authors: "Mattingly HH & Emonet T"
   title: "A rule from bacteria to balance growth and expansion"
-  journal: "Nature, 153, 708–2 (2019)"
+  journal: "Nature"
+  edition: "153, 708–2 (2019)"
   date: "2019"
 
 - authors: "Das D, Jülich D, Schwendinger-Schreck J, Guillon E, Lawton AK, Dray N, Emonet T, O’Hern CS, Shattuck MD, Holley SA"
@@ -67,48 +71,57 @@
 
 - authors: "Waite AJ, Frankel NW, Emonet T"
   title: "Behavioral variability and phenotypic variability in bacterial chemotaxis"
-  journal: "Annual Review of Biophysics 47:27.1–27.22 (2018)"
+  journal: "Annual Review of Biophysics"
+  edition: "47:27.1–27.22 (2018)"
   date: "2018"
 
 - authors: "Keegstra JM, Kamino K, Anquez F, Lazova MD, Emonet T, Shimizu TS"
   title: "Phenotypic diversity and temporal variability in a bacterial signaling network revealed by single-cell FRET"
-  journal: "eLife 6: e27455 (2017)"
+  journal: "eLife"
+  edition: "6:e27455 (2017)"
   date: "2017"
 
 - authors: "Long J, Zucker SW, Emonet T"
   title: "Feedback between motion and sensation provides nonlinear boost in run-and-tumble navigation"
-  journal: "PLoS Computational Biology, 13(3): e1005429. (2017)"
+  journal: "PLoS Computational Biology"
+  edition: "13(3):e1005429. (2017)"
   date: "2017"
-  doi: "10.1371/ journal.pcbi.1005429"
+  doi: "10.1371/journal.pcbi.1005429"
 
 - authors: "Frankel N, Pontius W,Dufour Y, Long J,Hernandez-Nunez, Emonet T"
   title: "Adaptability of non-genetic diversity in bacterial chemotaxis"
-  journal: "eLife 3:e03526 (2014)"
+  journal: "eLife"
+  edition: "3:e03526 (2014)"
   date: "2014"
 
 - authors: "Pontius W, Sneddon MW, Emonet T"
   title: "Adaptation dynamics in densely clustered chemoreceptors"
-  journal: "PLoS Comput Biol. 9(9):e1003230 (2013)"
+  journal: "PLoS Computational Biology"
+  edition: "9(9):e1003230 (2013)"
   date: "2013"
 
 - authors: "Dray N, Lawton AK, Nandi A, D. Jülich, Emonet T, Holley SA"
   title: "Cell-Fibronectin interactions propel vertebrate trunk elongation via tissue mechanics"
-  journal: "Current Biology Jul 22;23(14):1335-41.(2013)"
+  journal: "Current Biology"
+  edition: "23(14):1335-41. (2013)"
   date: "2013"
 
 - authors: "Lawton AK, Nandi A, Stulberg MJ, Dray N, Sneddon MW, Pontius W, Emonet T, and Holley SA"
   title: "Regulated tissue fluidity steers zebrafish body elongation"
-  journal: "Development, 140(3):573-82(2013)"
+  journal: "Development"
+  edition: "140(3):573-82 (2013)"
   date: "2013"
 
 - authors: "Trofka A, Schwendinger-Schreck J, Brend T, Pontius W, Emonet T, and Holley SA"
   title: "The Her7 node modulates the network topology of the zebrafish segmentation clock via sequestration of the Hes6 hub"
-  journal: "Development, 139:940-947(2012)"
+  journal: "Development"
+  edition: "139:940-947 (2012)"
   date: "2012"
 
 - authors: "Sneddon MW and Emonet T"
   title: "Modeling cellular signaling: taking space into the computation"
-  journal: "Nature Methods, 9:239–242 (2012)"
+  journal: "Nature Methods"
+  edition: "9:239–242 (2012)"
   date: "2012"
 
 - authors: "Sneddon MW, Pontius W, Emonet T"
@@ -119,44 +132,50 @@
 
 - authors: "Dufour YS, Sneddon MW, Emonet T"
   title: "Thermal robustness: lessons from bacterial chemotaxis"
-  journal: "Curr. Biol., 21(12):R465-8 (2011)"
+  journal: "Current Biology"
+  edition: "21(12):R465-8 (2011)"
   date: "2011"
 
 - authors: "Chylek LA, Hu B, Blinov ML, Emonet T, Faeder JR, Goldstein Byron, Gutenkunst RN, Haugh JM, Lipniacki T, Posner RG, Yang J and Hlavacek WS"
   title: "Guidelines for visualizing and annotating rule-based models"
-  journal: "Mol. BioSyst., (2011)"
+  journal: "Mol. BioSyst."
+  edition: "(2011)"
   date: "2011"
 
 - authors: "Emonet T & Altan-Bonnet G"
   title: "Systems Immunology: a primer for Biophysicists"
   journal: "Mathematical Modeling of Complex Systems: from genes and molecules to organs and organisms: immune system"
-  edition: "Chapter 9:26 for “Comprehensive Biophysics” (Edited by Edward Egelman)"
+  edition: "Chapter 9:26 for “Comprehensive Biophysics” (Edited by Edward Egelman) (2012)"
   date: "2012-04-12"
 
 - authors: "Park H, Pontius W, Guet CC, Marko JF, Emonet T, Cluzel P"
-  title: "Interdependence of behavioural variability and response to small stimuli in bacteria,"
-  journal: "Nature, 468(7325):819-823 (2010)"
+  title: "Interdependence of behavioural variability and response to small stimuli in bacteria"
+  journal: "Nature"
+  edition: "468(7325):819-823 (2010)"
   date: "2010"
 
-- authors: "Feinerman O*, Jentsch G*, Tkach K, Coward JW, Hathorn M, Sneddon MW, Emonet T, Smith KA, Altan-Bonnet G,"
-  title: "Single-cell quantification of IL-2 response by effector and regulatory T cells reveals critical plasticity in immune response,"
-  journal: "Molecular Systems Biology, 6:437 (2010), SBML model)"
+- authors: "Feinerman O*, Jentsch G*, Tkach K, Coward JW, Hathorn M, Sneddon MW, Emonet T, Smith KA, Altan-Bonnet G"
+  title: "Single-cell quantification of IL-2 response by effector and regulatory T cells reveals critical plasticity in immune response"
+  journal: "Molecular Systems Biology"
+  edition: "6:437 (2010)"
   date: "2010"
   extra: |-
     \* Co-first author
 
 - authors: "Park H, Guet CC, Emonet T, Cluzel P"
-  title: "Fine-Tuning of Chemotactic Response in E. coli Determined by High-Throughput Capillary Assay,"
-  journal: "Current Microbiology 62(3):764-769 (2011)"
+  title: "Fine-Tuning of Chemotactic Response in E. coli Determined by High-Throughput Capillary Assay"
+  journal: "Current Microbiology"
+  edition: "62(3):764-769 (2011)"
   date: "2011"
 
 - authors: "Llopis PM, Jackson AF, Sliusarenko O, Surovtsev I, Heinritz J, Emonet T, Jacobs-Wagner C"
-  title: "Spatial organization of the flow of genetic information in bacteria,"
-  journal: "Nature, 466(7302):77-81 (2010)"
+  title: "Spatial organization of the flow of genetic information in bacteria"
+  journal: "Nature"
+  edition: "466(7302):77-81 (2010)"
   date: "2010"
 
 - authors: "Sliusarenko O, Cabeen M, Wolgemuth C, Jacobs-Wagner C, Emonet T"
-  title: "The processivity of peptidoglycan synthesis provides a built-in mechanism for the robustness of straight-rod cell morphology,"
+  title: "The processivity of peptidoglycan synthesis provides a built-in mechanism for the robustness of straight-rod cell morphology"
   journal: "PNAS"
   edition: "107(22):10086-91 (2010)"
   date: "2010"
@@ -168,14 +187,14 @@
   extra: |-
     \* Co-corresponding author
 
-- authors: "Alyahya SA, Alexander R, Costa T, Henriques AO, Emonet T, and Jacobs-Wagner C.,"
-  title: "RodZ, a component of the bacterial core morphogenic apparatus,"
+- authors: "Alyahya SA, Alexander R, Costa T, Henriques AO, Emonet T, and Jacobs-Wagner C"
+  title: "RodZ, a component of the bacterial core morphogenic apparatus"
   journal: "PNAS"
   edition: "106(4):1239-44 (2009)"
   date: "2009"
 
 - authors: "Emonet T*, Cluzel P"
-  title: "Relationship between cellular response and behavioral variability in bacterial chemotaxis,"
+  title: "Relationship between cellular response and behavioral variability in bacterial chemotaxis"
   journal: "PNAS"
   edition: "105(9):3304-9(2008)"
   date: "2008"
@@ -183,18 +202,21 @@
     \* Corresponding author
 
 - authors: "Guet C., Bruneaux L., Min T.L., Siegal-Gaskins D., Figueroa I., Emonet T and Cluzel P"
-  title: "Minimally invasive determination of mRNA concentration in single living bacteria,"
-  journal: "Nucleic Acids Research, 36(12):1-8 (2008)"
+  title: "Minimally invasive determination of mRNA concentration in single living bacteria"
+  journal: "Nucleic Acids Research"
+  edition: "36(12):1-8 (2008)"
   date: "2008"
 
 - authors: "Le TT, Emonet T, Harlepp S., Guet CC, Cluzel P"
   title: "Dynamical determinants of inducible gene expression in a single bacterium"
-  journal: "Biophysical J., 90(9):3315-21 (2006)"
+  journal: "Biophysical J."
+  edition: "90(9):3315-21 (2006)"
   date: "2006"
 
 - authors: "Korobkova E., Emonet T, Park H, Cluzel P"
   title: "Hidden stochastic nature of a single bacterial motor"
-  journal: "Phys. Rev. Letters, 96, 58105 (2006)"
+  journal: "Phys. Rev. Letters"
+  edition: "96, 58105 (2006)"
   date: "2006"
 
 - authors: "Le TT, Harlepp S., Guet CC, Dittmar K, Emonet T, Pan T., Cluzel P"
@@ -205,19 +227,16 @@
 
 - authors: "Emonet T*, Macal CM, North MJ, Wickersham CE, Cluzel P"
   title: "AgentCell: a digital single-cell assay for bacterial chemotaxis"
-  journal: "Bioinformatics, 1; 21(11):2714-21 (2005)"
+  journal: "Bioinformatics"
+  edition: "21(11):2714-21 (2005)"
   date: "2005"
   extra: |-
     \* Corresponding author
 
-- authors: "Vogler A., Shelyag S., Schussler M., Cattaneo F. Emonet, T. & Linde T"
-  title: "Simulations of magneto-convection in the solar photosphere - Equations, methods, and results of the MURaM code,"
-  journal: "Astronomy & Astrophysics, 429, 335-U113 (2005)"
-  date: "2005"
-
 - authors: "Korobkova E.*, Emonet T.*, Vilar J., Shimizu T. & Cluzel P"
   title: "From molecular noise to behavioral variability in a single bacterium"
-  journal: "Nature, 428, 574-578 (2004)"
+  journal: "Nature"
+  edition: "428, 574-578 (2004)"
   date: "2004"
   extra: |-
     \* co-first author
