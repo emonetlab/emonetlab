@@ -64,7 +64,9 @@ description: microbiology publications page.
         {% endif %}
       </div>
 
-      {{ paper.extra | markdownify | newline_to_br | split: '<br />' }}
+      {% if paper.extra %}
+          {{ paper.extra | markdownify | newline_to_br | split: '<br />' }}
+      {% endif %}
 
       <ul class="list-inline">
         {% if paper.html %}
