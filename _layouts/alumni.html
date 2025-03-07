@@ -4,69 +4,98 @@ description: alumni page.
 ---
 
 {% comment %}
-  Load the alumni data as before.
+Load the alumni data as before.
 {% endcomment %}
 {% if page.alumni and site.data[page.alumni] %}
-  {% assign alumni = site.data[page.alumni] %}
+{% assign alumni = site.data[page.alumni] %}
 {% elsif site.data.alumni %}
-  {% assign alumni = site.data.alumni %}
+{% assign alumni = site.data.alumni %}
 {% endif %}
-
 {{ content }}
 <br />
-
 {% comment %}
-  Define the desired order of roles (singular) and display them in that order.
+Define the desired order of roles (singular) for display.
 {% endcomment %}
 {% assign order = "Postdoc,Graduate Student,Postgraduate Student,Undergraduate Student" | split: "," %}
-
-{% for role in order %}
-  {% assign alumni_in_role = alumni | where:"role", role | sort:"name" %}
-  {% if alumni_in_role.size > 0 %}
-
-    {% comment %}
-      Determine the pluralized section title.
-    {% endcomment %}
-    {% if role == "Postdoc" %}
-      {% assign plural_role = "Postdocs" %}
-    {% elsif role == "Graduate Student" %}
-      {% assign plural_role = "Graduate Students" %}
-    {% elsif role == "Postgraduate Student" %}
-      {% assign plural_role = "Postgraduate Students" %}
-    {% elsif role == "Undergraduate Student" %}
-      {% assign plural_role = "Undergraduate Students" %}
-    {% endif %}
-
-    <h3 style="margin-top: 20px; margin-bottom: 20px;">{{ plural_role }}</h3>
-
-    {% for member in alumni_in_role %}
-      <div class="d-flex team-member">
-        <div class="flex-shrink-0 me-3">
-          {% if member.image %}
-            <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
-          {% endif %}
-        </div>
-        <div>
-          <h5 id="{{ member.name | strip | url_encode }}" style="margin-bottom: 0; margin-block-end: 0;">
-            {{ member.name }}
-            <!-- {% if member.role %}
-              <small class="text-muted">| {{ member.role }}</small>
-            {% endif %} -->
-            {% if member.website %}
-              <small class="text-muted">| <a href="{{ member.website }}"><i class="far fa-desktop"></i></a></small>
-            {% endif %}
-            {% if member.email %}
-              <small class="text-muted"><a href="mailto:{{ member.email }}"><i class="far fa-envelope"></i></a></small>
-            {% endif %}
-          </h5>
-          {% if member.program %}
-            <small class="text-muted">{{ member.program | markdownify | newline_to_br | split: '<br />' }}</small>
-          {% endif %}
-
-          {{ member.now | markdownify }}
-        </div>
-      </div>
+{% comment %}
+Build the Table of Contents.
+Only include sections where there is at least one member.
+{% endcomment %}
+<nav id="toc" style="margin-bottom:20px;">
+  <h3>Table of Contents</h3>
+  <ul>
+    {% for role in order %}
+      {% assign alumni_in_role = alumni | where:"role", role | sort:"name" %}
+      {% if alumni_in_role.size > 0 %}
+        {% if role == "Postdoc" %}
+          {% assign plural_role = "Postdocs" %}
+        {% elsif role == "Graduate Student" %}
+          {% assign plural_role = "Graduate Students" %}
+        {% elsif role == "Postgraduate Student" %}
+          {% assign plural_role = "Postgraduate Students" %}
+        {% elsif role == "Undergraduate Student" %}
+          {% assign plural_role = "Undergraduate Students" %}
+        {% endif %}
+        <li>
+          <a href="#{{ plural_role | downcase | replace: " ", "-" }}">{{ plural_role }}</a>
+        </li>
+      {% endif %}
     {% endfor %}
+  </ul>
+</nav>
 
-  {% endif %}
+{% comment %}
+Now output the sections, each with its header.
+{% endcomment %}
+{% for role in order %}
+{% assign alumni_in_role = alumni | where:"role", role | sort:"name" %}
+{% if alumni_in_role.size > 0 %}
+{% comment %}
+  Determine the pluralized section title.
+{% endcomment %}
+{% if role == "Postdoc" %}
+  {% assign plural_role = "Postdocs" %}
+{% elsif role == "Graduate Student" %}
+  {% assign plural_role = "Graduate Students" %}
+{% elsif role == "Postgraduate Student" %}
+  {% assign plural_role = "Postgraduate Students" %}
+{% elsif role == "Undergraduate Student" %}
+  {% assign plural_role = "Undergraduate Students" %}
+{% endif %}
+
+<h3 id="{{ plural_role | downcase | replace: " ", "-" }}" style="margin-top:20px; margin-bottom:20px;">
+  {{ plural_role }}
+</h3>
+
+{% for member in alumni_in_role %}
+  <div class="d-flex team-member">
+    <div class="flex-shrink-0 me-3">
+      {% if member.image %}
+        <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+      {% endif %}
+    </div>
+    <div>
+      <h5 id="{{ member.name | strip | url_encode }}" style="margin-bottom: 0; margin-block-end: 0;">
+        {{ member.name }}
+        {% if member.role %}
+          <small class="text-muted">| {{ member.role }}</small>
+        {% endif %}
+        {% if member.website %}
+          <small class="text-muted">| <a href="{{ member.website }}"><i class="far fa-desktop"></i></a></small>
+        {% endif %}
+        {% if member.email %}
+          <small class="text-muted"><a href="mailto:{{ member.email }}"><i class="far fa-envelope"></i></a></small>
+        {% endif %}
+      </h5>
+      {% if member.program %}
+        <small class="text-muted">
+          {{ member.program | markdownify | newline_to_br | split: '<br />' }}
+        </small>
+      {% endif %}
+
+      {{ member.description | markdownify }}
+    </div>
+  </div>
+{% endfor %}
+{% endif %}
 {% endfor %}
