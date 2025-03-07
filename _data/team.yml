@@ -3,23 +3,6 @@
 ############# first name alphabetical order
 #############
 
-
-- name: Agastya Rana
-  role: Undergraduate Student
-  image: assets/theme/images/team/agastya-rana.jpeg
-  description: >
-    Agastya is an undergraduate interested in applying mathematical and computational modelling techniques to biological systems. He is currently working on using data assimilation to quantify the cellular parameters that govern bacterial chemotaxis. In his free time, he enjoys swimming, playing basketball and finding new music to listen to.
-  email: agastya.rana@yale.edu
-
-
-- name: Austin Theroux
-  role: Undergraduate Student
-  image: assets/theme/images/team/austin-theroux.jpeg
-  description: >
-    Austin is an undergraduate student majoring in Earth and Planetary Sciences. He is broadly interested in evolutionary systems and environmental geomicrobiology. He currently studies the evolutionary dynamics of how E. coli develop resistance to bacteriophage chi, a virus that infects bacteria by first binding to the flagella. In his free time, he enjoys swimming, reading, and learning languages.
-  email: austin.theroux@yale.edu
-
-
 - name: Carrie Nardella
   role: Administrative Assistant
   image: assets/theme/images/team/carrie-nardella.jpg
@@ -73,45 +56,12 @@
   email: lam.vo@yale.edu
 
 
-- name: Rafaela Kottou
-  role: Undergraduate Student
-  image: assets/theme/images/team/rafaela-kottou.jpg
-  description: >
-    Rafaela is an undergraduate interested in studying biochemistry through the lens of mathematical modeling. She is currently trying to understand how different binding modalities affect the diversity of sensory parameters in bacterial chemosensing. In her free time, she writes for the Yale Daily News and enjoys spending time outdoors.
-  email: rafaela.kottou@yale.edu
-
-
-- name: Ravi Balasubramanian
-  role: Undergraduate Student
-  image: assets/theme/images/team/ravi-balasub.png
-  description: >
-    Ravi is an undergraduate interested in the living world and how it is structured on mathematical, physical, and biological levels. He is currently studying how E. coli adapt to their environment and how they spatially organize themselves during group migration. In his free time he enjoys hiking, magical realist literature (Borges in particular), playing sitar, the card game Magic the Gathering, and hosting study breaks for his friends. He also enjoys solving puzzles and making puns.
-  email: ravi.balasubramanian@yale.edu
-
-
 - name: Samuel Brudner
   role: Postdoc
   image: assets/theme/images/team/sam-brudner.png
   description: >
     Sam is interested in the mechanics of adaptive animal behavior. He studies how hungry fruit flies decide where to look for food based on patterns in the odors drifting over them. He was previously a grad student at Duke with Dr. Richard Mooney where he studied how young finches learn to imitate the songs of adult birds. He hopes that studying how animals solve tasks, we will broaden our understanding of what intelligence is, and how brains create it. Apart from neuroscience, Sam likes food, music, dancing, and learning about native plants and animals where he lives.
   email: samuel.brudner@yale.edu
-
-- name: Viraaj Jayaram
-  role: Graduate Student
-  program: >
-    [Physics](https://physics.yale.edu), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
-  image: assets/theme/images/team/viraaj-jayaram.jpg
-  description: >
-    Viraaj is a physics graduate student, having graduated from UChicago in 2019 with bachelor's degrees in math and physics. He is broadly interested in theoretical and computational biophysics and understanding information processing, decision making and optimality in biological systems. In his free time he enjoys playing and watching cricket, tennis and soccer, as well as playing board games, watching movies and trying out new restaurants with friends.
-  email: viraaj.jayaram@yale.edu
-
-
-- name: Swayamshree Patra
-  role: Postdoc
-  image: assets/theme/images/team/swayamshree-patra.jpg
-  description: >
-    Swayamshree is working on the theoretical aspects of chemical navigation. She finished her PhD at Indian Institute of Technology Kanpur under the guidance of Debashish Chowdhury where she developed theories for control and coordination of flagellar length in multiflagellated eukaryotes. In her free time she loves to explore new techniques of digital art for communicating her scientific projects.
-  email: swayamshree.patra@yale.edu
 
 
 - name: Thierry Emonet
