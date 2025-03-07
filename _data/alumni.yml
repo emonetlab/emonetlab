@@ -29,7 +29,7 @@
 - name: Agastya Rana
   role: Undergraduate Student
   when: "2022-2023"
-  imaage: assets/team/agastya-rana.jpg
+  image: assets/team/agastya-rana.jpg
   now: Quantitative Trading, SIG
   description: >
     Agastya is an undergraduate interested in applying mathematical and computational modelling techniques to biological systems. He is currently working on using data assimilation to quantify the cellular parameters that govern bacterial chemotaxis. In his free time, he enjoys swimming, playing basketball and finding new music to listen to.
@@ -38,7 +38,7 @@
 - name: Austen Theroux
   role: Undergraduate Student
   when: "2022-2023"
-  imaage: assets/team/austin-theroux.jpg
+  image: assets/team/austin-theroux.jpg
   now: Research assistant, Harvard University
   description: >
     Austin is an undergraduate student majoring in Earth and Planetary Sciences. He is broadly interested in evolutionary systems and environmental geomicrobiology. He currently studies the evolutionary dynamics of how E. coli develop resistance to bacteriophage chi, a virus that infects bacteria by first binding to the flagella. In his free time, he enjoys swimming, reading, and learning languages.
@@ -65,6 +65,7 @@
 - name: Viraaj Jayaram
   role: Graduate Student
   when: "2020-2024"
+  image: assets/team/viraaj-jayaram.jpg
   program: >
     [Physics](https://physics.yale.edu), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
   now: assets/team/viraaj-jayaram.Viraaj is a physics graduate student, having graduated from UChicago in 2019 with bachelor's degrees in math and physics. He is broadly interested in theoretical and computational biophysics and understanding information processing, decision making and optimality in biological systems. In his free time he enjoys playing and watching cricket, tennis and soccer, as well as playing board games, watching movies and trying out new restaurants with friends.
@@ -73,6 +74,7 @@
 - name: Swayamshree Patra
   role: Postdoc
   when: "2022-2024"
+  image: assets/team/empty.jpg
   now: assets/team/swayamshree-patra.Swayamshree is working on the theoretical aspects of chemical navigation. She finished her PhD at Indian Institute of Technology Kanpur under the guidance of Debashish Chowdhury where she developed theories for control and coordination of flagellar length in multiflagellated eukaryotes. In her free time she loves to explore new techniques of digital art for communicating her scientific projects.
   email: swayamshree.patra@yale.edu
 
