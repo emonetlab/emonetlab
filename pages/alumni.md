@@ -1,7 +1,7 @@
 ---
 layout: alumni
 title: Alumni
-description: Who got us where we are today
+description: The people who got us to where we are today.
 permalink: /alumni/
 ---
 

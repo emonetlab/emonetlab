@@ -3,13 +3,17 @@ layout: default
 description: microbiology publications page.
 ---
 
-{% if page.publications-micro and site.data[page.publications-micro] %}
-  {% assign publications = site.data[page.publications-micro] %}
-{% elsif site.data.publications-micro %}
-  {% assign publications = site.data.publications-micro %}
-{% endif %}
+{% comment %}
+  Load the YAML files for micro and physics publications.
+  Use bracket notation for keys with hyphens.
+{% endcomment %}
+{% assign pubs_micro = site.data["publications-micro"] %}
+{% assign pubs_physics = site.data["publications-physics"] %}
 
-<!-- {% include breadcrumbs.html %} -->
+{% comment %}
+  Combine the two arrays.
+{% endcomment %}
+{% assign publications_all = pubs_micro | concat: pubs_physics %}
 
 {{ content }}
 <div>
@@ -20,38 +24,47 @@ description: microbiology publications page.
     <li><span class="fa-li"><i class="far fa-copy"></i></span>PDF Supplemental Information</li>
     <li><span class="fa-li"><i class="far fa-file-powerpoint"></i></span>Preprint</li>
     <li><span class="fa-li"><i class="fab fa-twitter"></i></span>Twitter</li>
-    <li><span class="fa-li"><i class="fab fa-github"></i></span>Github</li>
+    <li><span class="fa-li"><i class="fab fa-github"></i></span>GitHub</li>
   </ul>
 </div>
 <br />
 
-{% for paper in publications %}
+{% comment %}
+  Sort the combined publications by date (most recent first). 
+  Ensure your YAML 'date' fields are in a recognized format.
+{% endcomment %}
+{% assign sorted_publications = publications_all | sort:"date" | reverse %}
+
+{% for paper in sorted_publications %}
   <div class="d-flex team-member">
-    <!-- <div class="flex-shrink-0 me-3">
+    <!-- Uncomment the block below if you want to display an image -->
+    <!--
+    <div class="flex-shrink-0 me-3">
       {% if paper.image %}
         <img src="{{ paper.image | relative_url }}" alt="{{ paper.name }}">
       {% endif %}
-    </div> -->
+    </div>
+    -->
     <div>
       <h6 id="{{ paper.title | strip | url_encode }}" style="margin-bottom: 0; margin-block-end: 0;">
-        <i>{{ paper.title }}</i>
+        <i><strong>{{ paper.title }}</strong></i>
       </h6>
       <div class="text-muted">
         {% if paper.authors %}
-          {{ paper.authors | newline_to_br | split: '<br />'}}
+          {{ paper.authors | newline_to_br | split: '<br />' }}
         {% endif %}
         {% if paper.journal %}
           <br /><strong>{{ paper.journal }}</strong>
         {% endif %}
         {% if paper.edition %}
-         {{ paper. edition}}
+          {{ paper.edition }}
         {% endif %}
         {% if paper.doi %}
-         | <a href="https://doi.org/{{ paper.doi }}" title="DOI">{{ paper.doi }}</a>
+          | <a href="https://doi.org/{{ paper.doi }}" title="DOI">{{ paper.doi }}</a>
         {% endif %}
       </div>
 
-      {{ paper.extra | markdownify | newline_to_br | split: '<br />'}}
+      {{ paper.extra | markdownify | newline_to_br | split: '<br />' }}
 
       <ul class="list-inline">
         {% if paper.html %}
@@ -74,13 +87,11 @@ description: microbiology publications page.
             <a href="{{ paper.preprint }}" title="Preprint"><i class="far fa-file-powerpoint"></i></a>
           </li>
         {% endif %}
-
         {% if paper.twitter %}
           <li class="list-inline-item">
             <a href="{{ paper.twitter }}" title="Twitter"><i class="fab fa-twitter"></i></a>
           </li>
         {% endif %}
-
         {% if paper.github %}
           <li class="list-inline-item">
             <a href="https://github.com/emonetlab/opto-track" title="GitHub"><i class="fab fa-github"></i></a>
