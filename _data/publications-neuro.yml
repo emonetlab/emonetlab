@@ -2,7 +2,7 @@
   title: "Extracting spatial information from temporal odor patterns: insights from insects"
   journal: "Current Opinion in Insect Science"
   edition: "59:101082 (2023)"
-  doi: "doi.org/10.1016/j.cois.2023.101082"
+  doi: "10.1016/j.cois.2023.101082"
   date: "2023-10"
   html: "https://www.sciencedirect.com/science/article/pii/S2214574523000792"
   pdf: "/assets/papers/2023/2023_EmonetCurrOpInsSci.pdf"
@@ -44,22 +44,23 @@
 
 - authors: "Emonet T & Vergassola M"
   title: "Olfactory cues and memories in animal navigation"
-  journal: "Nature Review Physics (2024) https://doi.org/10.1038/s42254-024-00710-7"
+  journal: "Nature Review Physics (2024)"
   date: "2024"
+  doi: "10.1038/s42254-024-00710-7"
 
 - authors: "Brudner S, Emonet T"
   title: "Navigation: Where is that smell coming from?"
-  journal: "eLife,  11:e82635 (2022) "
+  journal: "eLife, 11:e82635 (2022) "
   date: "2022"
 
 - authors: "Kadakia N & Emonet T"
   title: "Front-end Weber-Fechner gain control enhances the fidelity of combinatorial odor coding"
-  journal: "eLife 8: e45293 (2019) )"
+  journal: "eLife 8: e45293 (2019)"
   date: "2019"
 
 - authors: "Gorur-Shandilya S, Martelli C, Demir M, Emonet T"
   title: "Controlling and measuring dynamic odorant stimuli in the laboratory"
-  journal: "Journal of Experimental Biology, 222: jeb207787 (2019) )"
+  journal: "Journal of Experimental Biology, 222: jeb207787 (2019)"
   date: "2019"
 
 - authors: "Raccuglia D, McCurdy LY, Demir M, Gorur-Shandilya S, Kunst M, Emonet T, Nitabach MN"
