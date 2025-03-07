@@ -12,11 +12,11 @@ Our work unveils the intricate computations that empower organisms to sense and 
 
 <!-- #### Bacterial Chemotaxis and Fruit Fly Olfactory Navigation -->
 
-### What We Do
+#### What We Do
 
 We blend mathematical modeling with quantitative experiments to decode the biological computations underlying how organisms navigate their environments. Our research dives deep into the principles of signal processing and decision making, revealing the marvelous mechanisms by which nature translates chemical signals into action.
 
-### Why Chemical Navigation?
+#### Why Chemical Navigation?
 
 Chemical navigation is not just about following gradients—it involves a series of non-trivial computations that enable:
 <div class="col-lg">
@@ -35,7 +35,7 @@ Chemical navigation is not just about following gradients—it involves a series
 
 This innovative perspective offers a quantitative lens into the fundamental strategies organisms employs to cope with complex environments.
 
-### From Bacteria to Fruit Flies
+#### From Bacteria to Fruit Flies
 
 We investigate well-characterized systems such as bacterial chemotaxis and fly olfaction. By bridging microbiology and neuroscience, our dual-system approach:
 <div class="col-lg">
@@ -49,7 +49,7 @@ We investigate well-characterized systems such as bacterial chemotaxis and fly o
     </ul>
 </div>
 
-### Join Us
+#### Join Us
 
 Our lab offers a unique environment where interdisciplinary research meets pioneering exploration. If you're passionate about decoding the secrets of nature through innovative computational and experimental methods, we welcome your curiosity and expertise to our team.
 
