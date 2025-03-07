@@ -94,10 +94,10 @@ description: neuroscience publications page.
 
 
 
-{% if page.publications-neuro and site.data[page.publications-all] %}
-  {% assign publications = site.data[page.publications-all] %}
-{% elsif site.data.publications-all %}
-  {% assign publications = site.data.publications-all %}
+{% if page.publications-neuro and site.data[page.publications-physics] %}
+  {% assign publications = site.data[page.publications-physics] %}
+{% elsif site.data.publications-physics %}
+  {% assign publications = site.data.publications-physics %}
 {% endif %}
 
 {% assign sorted_publications = publications | sort:"date" | reverse %}
