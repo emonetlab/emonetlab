@@ -16,44 +16,57 @@ description: alumni page.
 <br />
 
 {% comment %}
-  Create a unique, sorted list of roles present in the alumni.
-  This will be used as the outer sort order.
+  Define the desired order of roles (singular) and display them in that order.
 {% endcomment %}
-{% assign roles = alumni | map: "role" | uniq | sort %}
+{% assign order = "Postdoc,Graduate Student,Postgraduate Student,Undergraduate Student" | split: "," %}
 
-{% for role in roles %}
-  <h3>{{ role }}</h3>
-  {% comment %}
-    For each role, filter the alumni that have this role and sort them by name.
-  {% endcomment %}
+{% for role in order %}
   {% assign alumni_in_role = alumni | where:"role", role | sort:"name" %}
+  {% if alumni_in_role.size > 0 %}
 
-  {% for member in alumni_in_role %}
-    <div class="d-flex team-member">
-      <div class="flex-shrink-0 me-3">
-        {% if member.image %}
-          <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
-        {% endif %}
-      </div>
-      <div>
-        <h5 id="{{ member.name | strip | url_encode }}" style="margin-bottom: 0; margin-block-end: 0;">
-          {{ member.name }}
-          {% if member.role %}
-            <small class="text-muted">| {{ member.role }}</small>
-          {% endif %}
-          {% if member.website %}
-            <small class="text-muted">| <a href="{{ member.website }}"><i class="far fa-desktop"></i></a></small>
-          {% endif %}
-          {% if member.email %}
-            <small class="text-muted"><a href="mailto:{{ member.email }}"><i class="far fa-envelope"></i></a></small>
-          {% endif %}
-        </h5>
-        {% if member.program %}
-          <small class="text-muted">{{ member.program | markdownify | newline_to_br | split: '<br />' }}</small>
-        {% endif %}
+    {% comment %}
+      Determine the pluralized section title.
+    {% endcomment %}
+    {% if role == "Postdoc" %}
+      {% assign plural_role = "Postdocs" %}
+    {% elsif role == "Graduate Student" %}
+      {% assign plural_role = "Graduate Students" %}
+    {% elsif role == "Postgraduate Student" %}
+      {% assign plural_role = "Postgraduate Students" %}
+    {% elsif role == "Undergraduate Student" %}
+      {% assign plural_role = "Undergraduate Students" %}
+    {% endif %}
 
-        {{ member.description | markdownify }}
+    <h3>{{ plural_role }}</h3>
+
+    {% for member in alumni_in_role %}
+      <div class="d-flex team-member">
+        <div class="flex-shrink-0 me-3">
+          {% if member.image %}
+            <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+          {% endif %}
+        </div>
+        <div>
+          <h5 id="{{ member.name | strip | url_encode }}" style="margin-bottom: 0; margin-block-end: 0;">
+            {{ member.name }}
+            {% if member.role %}
+              <small class="text-muted">| {{ member.role }}</small>
+            {% endif %}
+            {% if member.website %}
+              <small class="text-muted">| <a href="{{ member.website }}"><i class="far fa-desktop"></i></a></small>
+            {% endif %}
+            {% if member.email %}
+              <small class="text-muted"><a href="mailto:{{ member.email }}"><i class="far fa-envelope"></i></a></small>
+            {% endif %}
+          </h5>
+          {% if member.program %}
+            <small class="text-muted">{{ member.program | markdownify | newline_to_br | split: '<br />' }}</small>
+          {% endif %}
+
+          {{ member.description | markdownify }}
+        </div>
       </div>
-    </div>
-  {% endfor %}
+    {% endfor %}
+
+  {% endif %}
 {% endfor %}
