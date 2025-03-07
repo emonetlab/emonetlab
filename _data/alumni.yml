@@ -1,4 +1,3 @@
-
 - name: Aarti Sehdev
   when: "2020-2023"
   role: Postdoc
@@ -83,211 +82,256 @@
 
 - name: Swayamshree Patra
   role: "Postdoc"
+  image: assets/team/empty.jpg
 
 - name: Henry Mattingly,
   role: "Postdoc"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Associate Research Scientist at CCB, Flatiron Institute
 
 - name: Keita Kamino,
   role: "Postdoc"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Assistant Professor at Academia Sinica, Taiwan
 
 - name: Artur Wachtel
   role: "Postdoc"
+  image: assets/team/empty.jpg
 
 - name: Adam Waite,
   role: "Postdoc"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Research Specialist at Calico Labs
 
 - name: Amitaba Nandi,
   role: "Postdoc"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Assistant Professor at IIT, Bombay, India
 
 - name: Carlotta Martelli,
   role: "Postdoc"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Junior Group Leader, J. Gutenberg University Mainz, Germany
 
 - name: Dervis Can Vural,
   role: "Postdoc"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Assistant Professor at Notre Dame University, IN
 
 - name: Garrit Jentsch,
   role: "Postdoc"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     managing director of BAST GmbH Clinical Data Science and Model Based Drug Development
 
 - name: Oleksii Sliusarenko,
   role: "Postdoc"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Quant researcher at a quantitative hedge fund
 
 - name: Roger Alexander,
   role: "Postdoc"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Senior Research Scientist, Pacific Northwest Diabetes Research, Seattle
 
 - name: Xiongfei Fu,
   role: "Postdoc"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Assistant Professor, Shenzhen Institute of Advanced Technology, The Chinese Academy of Sciences, Shenzhen, China
 
 - name: Yann Dufour,
   role: "Postdoc"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Assistant Professor at Michigan State University, Lansing, MI
 
 - name: Setsu Kato,
   role: "Postdoc"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Assistant Professor at Hiroshima University, Japan
 
 - name: Viraaj Jayaram,
   role: "Graduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Machine Learning Engineer, Schrödinger, NYC.
 
 - name: Junjiajia Long,
   role: "Graduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Quantitative trader, Tower Research Capital, NYC.
 
 - name: Michael Sneddon,
   role: "Graduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Director of Scientific Computing at Predicine
 
 - name: Nicholas Frankel,
   role: "Graduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Postdoc with Wendell Lim at UCSF, San Francisco, CA
 
 - name: Srinivas Gorur-Shandilya,
   role: "Graduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Postdoc with Eve Marder, Brandeis University
 
 - name: William Pontius,
   role: "Graduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Software Engineer, Mighty.com, New York City
 
 - name: Tomas Lamot,
   role: "Postgraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Graduate student at University of Namur in Belgium
 
 - name: Luca Rappez,
   role: "Postgraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Graduate student at EMBL Heidelberg, Germany
 
 - name: Noah Olsman,
   role: "Postgraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Graduate student at Caltech, Pasadena CA
 
 - name: Pedro Cisneros,
   role: "Postgraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Graduate student at UCSB, Santa Barbara CA
 
 - name: Sébastien Gillet,
   role: "Postgraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Graduate student at University of Namur, Belgium
 
 - name: Luis Hernandez-Nuñes,
   role: "Postgraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Graduate student at Harvard, Cambridge MA
 
 - name: Agastya Rana
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
 
 - name: Will Rosenbluth,
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Nuclear Engineer at Naval Reactors, Washington DC
 
 - name: Rafaela Kottou,
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Analyst, Cornerstone Research
 
 - name: Ravi Balasubramanian,
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Graduate student at Princeton University
 
 - name: Ethan Brown,
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Bioinformatics analyst at Tempus Labs, Chicago
 
 - name: Jude Ong,
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Postgraduate researcher at NIH
 
 - name: Garima Singh,
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     began job at SparkCognition
 
 - name: Helen Cai,
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     began job at Epic Systems
 
 - name: Hope Anderson,
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     graduate student at The University of Chicago
 
 - name: Charlotte Brannon,
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     graduate student at Stanford University
 
 - name: Adam Fine,
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
      graduate student at University of Chicago physics
 
 - name: Megan Ayers,
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     graduate student at Yale University
 
 - name: Mattia Mahmoud,
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     undergraduate at Harvard University
 
 - name: Abhishek Sethi
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
 
 - name: Adam Bildersee,
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     software engineer at Google[x]
 
 - name: Faez Syed
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
 
 - name: Jennifer Wang
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
 
 - name: Michael Weiner,
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
   description: > # Can be Markdown
     Graduate student Cornell University
 
 - name: Tobias Holden
   role: "Undergraduate Student"
+  image: assets/team/empty.jpg
