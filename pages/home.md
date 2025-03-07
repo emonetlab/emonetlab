@@ -19,10 +19,10 @@ As model systems, we use the well characterized bacterial chemotaxis and fly olf
 <div class="col-lg">
     <ul class="fa-ul">
         <li>
-			<i class="fa-li fa fa-chevron-circle-right"></i> For more on bacterial chemotaxis, see our <a href="micro/">Microbiolgy page</a>.
+			<i class="fa-li fa fa-chevron-circle-right"></i> For more on bacterial chemotaxis, see our <a href="pubs-micro/">Microbiolgy papers</a>.
         </li>
         <li>
-			<i class="fa-li fa fa-chevron-circle-right"></i> For more on fruit fly olfactory navigation, see our <a href="neuro/">Neuroscience page</a>.
+			<i class="fa-li fa fa-chevron-circle-right"></i> For more on fruit fly olfactory navigation, see our <a href="pubs-neuro/">Neuroscience papers</a>.
         </li>
     </ul>
 </div>

@@ -12,14 +12,14 @@
     href: /join/
   - text: Galleries
     href: /galleries/
-- text: Research
-  menu:
-  - text: Neuroscience
-    href: /neuro/
-  - text: Microbiology
-    href: /micro/
-  - text: Funding
-    href: /funding/
+# - text: Research
+#   menu:
+#   - text: Neuroscience
+#     href: /neuro/
+#   - text: Microbiology
+#     href: /micro/
+#   - text: Funding
+#     href: /funding/
 - text: Publications
   menu:
   - text: Neuroscience
