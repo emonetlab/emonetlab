@@ -1,0 +1,30 @@
+# Footer content is organized in columns, with the first one reserved for social icons (defined in _config.yml).
+# You can also add a small print license statement at the bottom.
+
+# Columns (the more you add, the narrower they will be)
+columns:
+  - description:
+    links:
+    - text: Team
+      href: team/
+      new_window: false
+    - text: Microbiology
+      href: micro/
+      new_window: false
+    - text: Neuroscience
+      href: neuro/
+      new_window: false
+    - text: Publications
+      href: publications/
+      new_window: false
+
+  - description: | # E.g. funding acknowledgement. Can be Markdown
+      [Join the Lab! ❤](/join/)
+      
+#      *Last updated: 09/2023*
+    links:
+
+# Small print license statement to add at the bottom of the footer. Can be Markdown
+# Will be prefixed by "© {{ site.author }}" if defined in _config.yml
+license: >
+  2023

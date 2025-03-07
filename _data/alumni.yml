@@ -1,0 +1,20 @@
+- name: Aarti Sehdev
+  role: Postdoc
+  # image: assets/theme/images/team/gustavo-santana.jpg # Can be external link
+  description: > # Can be Markdown
+    Data engineer consultant at [Kubrick](https://www.kubrickgroup.com/us/?__geom=✪).
+  website: https://www.linkedin.com/feed/update/urn:li:activity:7020477652058689536/
+
+- name: Nirag Kadakia
+  role: Postdoc
+  # image: assets/theme/images/team/gustavo-santana.jpg # Can be external link
+  description: > # Can be Markdown
+    Neural Interfaces Researcher, [Reality Labs](https://tech.fb.com/ar-vr/).
+  website: https://nkadakia.com
+
+- name: Average Phan
+  role: Postdoc
+  # image: assets/theme/images/team/gustavo-santana.jpg # Can be external link
+  description: > # Can be Markdown
+    Postdoc in the Department of Chemical and Biomolecular Engineering at Johns Hopkins University.
+  website: https://trungphan.squarespace.com/

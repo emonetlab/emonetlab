@@ -1,4 +1,3 @@
-# emonetlab
-emonet lab website
+# emonet lab website
 
-http://emonet.biology.yale.edu
+see it live [here](https://emonetlab.github.io)

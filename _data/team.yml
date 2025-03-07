@@ -1,0 +1,125 @@
+#############
+############# Team
+############# first name alphabetical order
+#############
+
+
+- name: Agastya Rana
+  role: Undergraduate Student
+  image: assets/theme/images/team/agastya-rana.jpeg
+  description: >
+    Agastya is an undergraduate interested in applying mathematical and computational modelling techniques to biological systems. He is currently working on using data assimilation to quantify the cellular parameters that govern bacterial chemotaxis. In his free time, he enjoys swimming, playing basketball and finding new music to listen to.
+  email: agastya.rana@yale.edu
+
+
+- name: Austin Theroux
+  role: Undergraduate Student
+  image: assets/theme/images/team/austin-theroux.jpeg
+  description: >
+    Austin is an undergraduate student majoring in Earth and Planetary Sciences. He is broadly interested in evolutionary systems and environmental geomicrobiology. He currently studies the evolutionary dynamics of how E. coli develop resistance to bacteriophage chi, a virus that infects bacteria by first binding to the flagella. In his free time, he enjoys swimming, reading, and learning languages.
+  email: austin.theroux@yale.edu
+
+
+- name: Carrie Nardella
+  role: Administrative Assistant
+  image: assets/theme/images/team/carrie-nardella.jpg
+  description: > # Can be Markdown
+    Carrie worked in the Medical School from 1990 to 2000.  She returned to Yale in 2016 in the Department of Molecular, Cellular and Developmental Biology. In her free time she enjoys living on the shore and raising her 3 daughters.
+  email: carrie.nardella@yale.edu
+
+
+- name: Gustavo Madeira Santana
+  role: Graduate Student
+  program: >
+    [Interdepartmental Neuroscience Program](https://medicine.yale.edu/inp/), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
+  image: assets/theme/images/team/gustavo-santana.jpg # Can be external link
+  description: > # Can be Markdown
+    Gustavo completed his undergraduate in Computer Engineering at the Federal University of Rio Grande do Sul in Brazil, where he studied the ontogeny of vocal communication in mice. He is currently interested in understanding how flies explore spatiotemporal features of odor plumes for optimal navigation. In his free time, he spends too much money going to concerts, and enjoys playing guitar.
+  # orcid: 0000-0003-1897-1625
+  # researchgate: researchgate_username
+  googlescholar: L603SPwAAAAJ
+  twitter: gumadeiras
+  # mastodon: https://mastodon.social/@mastodon_username
+  # github: github_username
+  email: gustavo.santana@yale.edu
+  website: https://gumadeiras.com
+
+
+- name: Jeremy Moore
+  role: Graduate Student
+  program: >
+    [Graduate Program in Molecular, Cellular, and Developmental Biology](https://mcdb.yale.edu)
+  image: assets/theme/images/team/jeremy-moore.jpg
+  description: >
+    Jeremy did his undergraduate degree in molecular biology at Kenyon College. He is interested in how bacteria make decisions in complex environments and is currently studying how they integrate information from multiple signals at once. In his free time, he enjoys playing piano, cooking, and video games.
+  email: jeremy.moore@yale.edu
+
+
+- name: Jyot Antani
+  role: Postdoc
+  image: assets/theme/images/team/jyot-antani.jpg
+  description: >
+    Jyot is a joint postdoc with [Paul Turner Lab](https://turnerlab.yale.edu/). Jyot worked on his PhD with [Pushkar Lele](http://pushkarlelelab.org/) at Texas A&M University where he studied the sensory functions of the bacterial flagellar motor. He is currently developing a project to visualize and study the interactions between bacteria and bacteriophage- the viruses that infect bacteria. In his free time, Jyot enjoys reading fantasy novels, taking road trips to parks and beaches, cooking, and eating. 
+  email: jyot.antani@yale.edu
+
+
+- name: Lam Vo
+  role: Graduate Student
+  program: >
+    [Graduate Program in Molecular, Cellular, and Developmental Biology](https://mcdb.yale.edu), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
+  image: assets/theme/images/team/lam-vo.jpg
+  description: >
+    Lam studied chemotaxis in Azosprillium brasilense at the University of Tennessee at Knoxville during his undergraduate years under Dr. Gladys Alexandre. He is interested in studying spatial sorting in chemotaxis waves and the connection between virulence and chemotaxis in Pseudomonas aeruginosa. When he is not working, he loves watching random Youtube video, listening to music, and exercise. He's looking forward to going to the beach, exploring local boutique shop, and hunting for good restaurants. 
+  email: lam.vo@yale.edu
+
+
+- name: Rafaela Kottou
+  role: Undergraduate Student
+  image: assets/theme/images/team/rafaela-kottou.jpg
+  description: >
+    Rafaela is an undergraduate interested in studying biochemistry through the lens of mathematical modeling. She is currently trying to understand how different binding modalities affect the diversity of sensory parameters in bacterial chemosensing. In her free time, she writes for the Yale Daily News and enjoys spending time outdoors.
+  email: rafaela.kottou@yale.edu
+
+
+- name: Ravi Balasubramanian
+  role: Undergraduate Student
+  image: assets/theme/images/team/ravi-balasub.png
+  description: >
+    Ravi is an undergraduate interested in the living world and how it is structured on mathematical, physical, and biological levels. He is currently studying how E. coli adapt to their environment and how they spatially organize themselves during group migration. In his free time he enjoys hiking, magical realist literature (Borges in particular), playing sitar, the card game Magic the Gathering, and hosting study breaks for his friends. He also enjoys solving puzzles and making puns.
+  email: ravi.balasubramanian@yale.edu
+
+
+- name: Samuel Brudner
+  role: Postdoc
+  image: assets/theme/images/team/sam-brudner.png
+  description: >
+    Sam is interested in the mechanics of adaptive animal behavior. He studies how hungry fruit flies decide where to look for food based on patterns in the odors drifting over them. He was previously a grad student at Duke with Dr. Richard Mooney where he studied how young finches learn to imitate the songs of adult birds. He hopes that studying how animals solve tasks, we will broaden our understanding of what intelligence is, and how brains create it. Apart from neuroscience, Sam likes food, music, dancing, and learning about native plants and animals where he lives.
+  email: samuel.brudner@yale.edu
+
+- name: Viraaj Jayaram
+  role: Graduate Student
+  program: >
+    [Physics](https://physics.yale.edu), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
+  image: assets/theme/images/team/viraaj-jayaram.jpg
+  description: >
+    Viraaj is a physics graduate student, having graduated from UChicago in 2019 with bachelor's degrees in math and physics. He is broadly interested in theoretical and computational biophysics and understanding information processing, decision making and optimality in biological systems. In his free time he enjoys playing and watching cricket, tennis and soccer, as well as playing board games, watching movies and trying out new restaurants with friends.
+  email: viraaj.jayaram@yale.edu
+
+
+- name: Swayamshree Patra
+  role: Postdoc
+  image: assets/theme/images/team/swayamshree-patra.jpg
+  description: >
+    Swayamshree is working on the theoretical aspects of chemical navigation. She finished her PhD at Indian Institute of Technology Kanpur under the guidance of Debashish Chowdhury where she developed theories for control and coordination of flagellar length in multiflagellated eukaryotes. In her free time she loves to explore new techniques of digital art for communicating her scientific projects.
+  email: swayamshree.patra@yale.edu
+
+
+- name: Thierry Emonet
+  role: Principal Investigator
+  image: assets/theme/images/team/thierry-emonet-crop.jpg
+  description: > # Can be Markdown
+    Thierry is the Lewis B. Cullman Professor of Molecular, Cellular and Developmental Biology, and Professor of Physics, at Yale University. His research combines mathematical modeling and quantitative experiments to understand the biological computations that enable organisms to sense and navigate their chemical environments. As model systems, his lab uses bacterial chemotaxis and fly olfaction, in which they can make multi-scale measurements and compare to quantitative mathematical models. Navigation requires performing many non-trivial computations and can be quantified precisely. The Emonet lab exploits this quantitative framework for discovering how biological systems compute, and how computations are implemented in molecular and cellular mechanisms. Before coming to Yale in 2007, Thierry studied physics at the ETH Zürich. He received his PhD (cum laude) in theoretical astrophysics from the University of La Laguna (Spain) in 1998, before doing postdocs at the National Center for Atmospheric Research, Boulder CO and The University of Chicago, discovering key mechanisms that enable magnetic field to float to the surface of the Sun to create Sunspots. During his postdoc Thierry became fascinated with the question of where individuality comes from and what is its functional role in life and he switched to biology. His work is supported by NIH, NSF, the Paul G Allen Family Foundation (Distinguished Allen Investigator), the Whitehall Foundation, the James S. McDonnell Foundation and the Alfred P. Sloan Foundation. Outside of science, Thierry’s main interest is art. He grew up at the intersection of science and art and he is married to renowned sculptor [Susan Clinard](http://www.clinard.org/).
+  googlescholar: k93FQp4AAAAJ
+  twitter: emonetlab
+  github: emonetlab
+  email: thierry.emonet@yale.edu
