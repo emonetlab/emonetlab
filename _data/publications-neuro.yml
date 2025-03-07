@@ -8,13 +8,12 @@
   title: "Extracting spatial information from temporal odor patterns: insights from insects"
   journal: "Current Opinion in Insect Science"
   edition: "59:101082 (2023)"
-  doi: "10.1016/j.cois.2023.101082"
+  doi: "doi.org/10.1016/j.cois.2023.101082"
   date: "2023-10"
-  html: "https://authors.elsevier.com/c/1hTg97tYJFnQVO"
+  html: "https://www.sciencedirect.com/science/article/pii/S2214574523000792"
   pdf: "/assets/papers/2023/2023_EmonetCurrOpInsSci.pdf"
-  # preprint: 
-  extra: > # Can be Markdown
-    Online ahead of print.
+  # preprint:
+  # extra:
 
 - authors: "Jayaram V*, Sehdev A*, Kadakia N, Brown EA, Emonet T"
   title: "Temporal novelty detection and multiple timescale integration drive Drosophila orientation dynamics in temporally diverse olfactory environments"
@@ -40,7 +39,7 @@
   journal: "Nature"
   edition: "611, pages 754–761 (2022)"
   doi: "10.1038/s41586-022-05423-4"
-  date: "2024-10"
+  date: "2022-11-09"
   html: "https://www.nature.com/articles/s41586-022-05423-4"
   pdf: "/assets/papers/2022/2022_KadakiaNature.pdf"
   suppinfo: "/assets/papers/2022/2022_KadakiaNatureSuppInfo.pdf"

@@ -35,7 +35,7 @@ description: neuroscience publications page.
     </div> -->
     <div>
       <h6 id="{{ paper.title | strip | url_encode }}" style="margin-bottom: 0; margin-block-end: 0;">
-        <i>{{ paper.title }}</i>
+        <i><strong>{{ paper.title }}</strong></i>
       </h6>
       <div class="text-muted">
         {% if paper.authors %}
