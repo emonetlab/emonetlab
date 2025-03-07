@@ -8,13 +8,9 @@ permalink: /
 
 #### We use chemical navigation as a dynamic framework to explore how signals guide behaviors—ranging from molecules and cells to entire populations.
 
-Our work unveils the intricate computations that empower organisms to sense and interpret their chemical world.
-
-<!-- #### Bacterial Chemotaxis and Fruit Fly Olfactory Navigation -->
-
 #### What We Do
 
-We blend mathematical modeling with quantitative experiments to decode the biological computations underlying how organisms navigate their environments. Our research dives deep into the principles of signal processing and decision making, revealing the mechanisms by which nature translates chemical signals into action.
+Our work unveils the computations that empower organisms to sense and interpret their chemical world. We blend mathematical modeling with quantitative experiments to decode the biological computations underlying how organisms navigate their environments. Our research dives deep into the principles of signal processing and decision making, revealing the mechanisms by which nature translates chemical signals into action.
 
 #### Why Chemical Navigation?
 
