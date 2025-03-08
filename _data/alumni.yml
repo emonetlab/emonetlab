@@ -82,12 +82,12 @@
   role: "Postdoc"
   image: assets/team/empty.jpg
 
-- name: Henry Mattingly,
+- name: Henry Mattingly
   role: "Postdoc"
   image: assets/team/empty.jpg
   now: Associate Research Scientist at CCB, Flatiron Institute
 
-- name: Keita Kamino,
+- name: Keita Kamino
   role: "Postdoc"
   image: assets/team/empty.jpg
   now: Assistant Professor at Academia Sinica, Taiwan
@@ -96,162 +96,162 @@
   role: "Postdoc"
   image: assets/team/empty.jpg
 
-- name: Adam Waite,
+- name: Adam Waite
   role: "Postdoc"
   image: assets/team/empty.jpg
   now: Research Specialist at Calico Labs
 
-- name: Amitaba Nandi,
+- name: Amitaba Nandi
   role: "Postdoc"
   image: assets/team/empty.jpg
   now: Assistant Professor at IIT, Bombay, India
 
-- name: Carlotta Martelli,
+- name: Carlotta Martelli
   role: "Postdoc"
   image: assets/team/empty.jpg
   now: Junior Group Leader, J. Gutenberg University Mainz, Germany
 
-- name: Dervis Can Vural,
+- name: Dervis Can Vural
   role: "Postdoc"
   image: assets/team/empty.jpg
   now: Assistant Professor at Notre Dame University, IN
 
-- name: Garrit Jentsch,
+- name: Garrit Jentsch
   role: "Postdoc"
   image: assets/team/empty.jpg
   now: Managing director of BAST GmbH Clinical Data Science and Model Based Drug Development
 
-- name: Oleksii Sliusarenko,
+- name: Oleksii Sliusarenko
   role: "Postdoc"
   image: assets/team/empty.jpg
   now: Quant researcher at a quantitative hedge fund
 
-- name: Roger Alexander,
+- name: Roger Alexander
   role: "Postdoc"
   image: assets/team/empty.jpg
   now: Senior Research Scientist, Pacific Northwest Diabetes Research, Seattle
 
-- name: Xiongfei Fu,
+- name: Xiongfei Fu
   role: "Postdoc"
   image: assets/team/empty.jpg
   now: Assistant Professor, Shenzhen Institute of Advanced Technology, The Chinese Academy of Sciences, Shenzhen, China
 
-- name: Yann Dufour,
+- name: Yann Dufour
   role: "Postdoc"
   image: assets/team/empty.jpg
   now: Assistant Professor at Michigan State University, Lansing, MI
 
-- name: Setsu Kato,
+- name: Setsu Kato
   role: "Postdoc"
   image: assets/team/empty.jpg
   now: Assistant Professor at Hiroshima University, Japan
 
-- name: Viraaj Jayaram,
+- name: Viraaj Jayaram
   role: "Graduate Student"
   image: assets/team/empty.jpg
   now: Machine Learning Engineer, Schrödinger, NYC.
 
-- name: Junjiajia Long,
+- name: Junjiajia Long
   role: "Graduate Student"
   image: assets/team/empty.jpg
   now: Quantitative trader, Tower Research Capital, NYC.
 
-- name: Michael Sneddon,
+- name: Michael Sneddon
   role: "Graduate Student"
   image: assets/team/empty.jpg
   now: Director of Scientific Computing at Predicine
 
-- name: Nicholas Frankel,
+- name: Nicholas Frankel
   role: "Graduate Student"
   image: assets/team/empty.jpg
   now: Postdoc with Wendell Lim at UCSF, San Francisco, CA
 
-- name: Srinivas Gorur-Shandilya,
+- name: Srinivas Gorur-Shandilya
   role: "Graduate Student"
   image: assets/team/empty.jpg
   now: Postdoc with Eve Marder, Brandeis University
 
-- name: William Pontius,
+- name: William Pontius
   role: "Graduate Student"
   image: assets/team/empty.jpg
   now: Software Engineer, Mighty.com, New York City
 
-- name: Tomas Lamot,
+- name: Tomas Lamot
   role: "Postgraduate Student"
   image: assets/team/empty.jpg
   now: Graduate student at University of Namur in Belgium
 
-- name: Luca Rappez,
+- name: Luca Rappez
   role: "Postgraduate Student"
   image: assets/team/empty.jpg
   now: Graduate student at EMBL Heidelberg, Germany
 
-- name: Noah Olsman,
+- name: Noah Olsman
   role: "Postgraduate Student"
   image: assets/team/empty.jpg
   now: Graduate student at Caltech, Pasadena CA
 
-- name: Pedro Cisneros,
+- name: Pedro Cisneros
   role: "Postgraduate Student"
   image: assets/team/empty.jpg
   now: Graduate student at UCSB, Santa Barbara CA
 
-- name: Sébastien Gillet,
+- name: Sébastien Gillet
   role: "Postgraduate Student"
   image: assets/team/empty.jpg
   now: Graduate student at University of Namur, Belgium
 
-- name: Luis Hernandez-Nuñes,
+- name: Luis Hernandez-Nuñes
   role: "Postgraduate Student"
   image: assets/team/empty.jpg
   now: Graduate student at Harvard, Cambridge MA
 
-- name: Will Rosenbluth,
+- name: Will Rosenbluth
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
   now: Nuclear Engineer at Naval Reactors, Washington DC
 
-- name: Ethan Brown,
+- name: Ethan Brown
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
   now: Bioinformatics analyst at Tempus Labs, Chicago
 
-- name: Jude Ong,
+- name: Jude Ong
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
   now: Postgraduate researcher at NIH
 
-- name: Garima Singh,
+- name: Garima Singh
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
   now: Began job at SparkCognition
 
-- name: Helen Cai,
+- name: Helen Cai
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
   now: Began job at Epic Systems
 
-- name: Hope Anderson,
+- name: Hope Anderson
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
   now: Graduate student at The University of Chicago
 
-- name: Charlotte Brannon,
+- name: Charlotte Brannon
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
   now: Graduate student at Stanford University
 
-- name: Adam Fine,
+- name: Adam Fine
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
   now: Graduate student at University of Chicago physics
 
-- name: Megan Ayers,
+- name: Megan Ayers
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
   now: Graduate student at Yale University
 
-- name: Mattia Mahmoud,
+- name: Mattia Mahmoud
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
   now: Undergraduate at Harvard University
@@ -260,7 +260,7 @@
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
 
-- name: Adam Bildersee,
+- name: Adam Bildersee
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
   now: Software engineer at Google[x]
@@ -273,7 +273,7 @@
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
 
-- name: Michael Weiner,
+- name: Michael Weiner
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
   now: Graduate student Cornell University
