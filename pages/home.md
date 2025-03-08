@@ -40,7 +40,7 @@ We investigate the well-characterized systems in bacterial chemotaxis and fly ol
 <div class="col-lg">
     <ul class="fa-ul">
         <li>
-            <i class="fa-li fa fa-chevron-circle-right"></i> Identify universal principles of biological computation.
+            <i class="fa-li fa fa-chevron-circle-right"></i> Identifies universal principles of biological computation.
         </li>
         <li>
             <i class="fa-li fa fa-chevron-circle-right"></i> Sparks creativity and fresh ideas through interdisciplinary research.
