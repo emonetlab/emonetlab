@@ -85,9 +85,9 @@ Now output the sections, each with its header.
             <div>
               <h5 id="{{ member.name | strip | url_encode }}" style="margin-bottom: 0; margin-block-end: 0;">
                 {{ member.name }}
-                {% if member.role %}
+                <!-- {% if member.role %}
                   <small class="text-muted">| {{ member.role }}</small>
-                {% endif %}
+                {% endif %} -->
                 {% if member.website %}
                   <small class="text-muted">| <a href="{{ member.website }}"><i class="far fa-desktop"></i></a></small>
                 {% endif %}
