@@ -76,8 +76,9 @@
 - name: "Swayamshree Patra"
   role: "Postdoc"
   when: "2022-2024"
-  image: assets/team/empty.jpg
-  now: assets/team/swayamshree-patra.Swayamshree is working on the theoretical aspects of chemical navigation. She finished her PhD at Indian Institute of Technology Kanpur under the guidance of Debashish Chowdhury where she developed theories for control and coordination of flagellar length in multiflagellated eukaryotes. In her free time she loves to explore new techniques of digital art for communicating her scientific projects.
+  image: assets/team/swayamshree-patra.jpg
+  description: >
+    Swayamshree is working on the theoretical aspects of chemical navigation. She finished her PhD at Indian Institute of Technology Kanpur under the guidance of Debashish Chowdhury where she developed theories for control and coordination of flagellar length in multiflagellated eukaryotes. In her free time she loves to explore new techniques of digital art for communicating her scientific projects.
   email: swayamshree.patra@yale.edu
 
 - name: "Swayamshree Patra"
