@@ -33,9 +33,9 @@
     {% if page.background.img and page.background.by %}
       <div class="caption">
         {% if page.background.href %}
-          <a href="{{ page.background.href }}">{{ page.background.by }}</a>
+          <i><a href="{{ page.background.href }}">{{ page.background.by }}</a></i>
         {% else %}
-          {{ page.background.by }}
+          <i>{{ page.background.by }}</i>
         {% endif %}
       </div>
     {% endif %}
