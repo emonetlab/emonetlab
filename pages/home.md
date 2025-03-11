@@ -2,7 +2,9 @@
 layout: home
 title: Laboratory of Chemosensation and Behavior
 # description: We study how organisms use chemosensation to navigate
-background: /assets/backgrounds/jyot-phages.jpg
+background:
+  img: /assets/backgrounds/jyot-phages.jpg
+  by: Phage bacteria interaction - Jyot Antani
 permalink: /
 ---
 
