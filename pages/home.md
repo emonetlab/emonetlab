@@ -2,7 +2,7 @@
 layout: home
 title: Laboratory of Chemosensation and Behavior
 # description: We study how organisms use chemosensation to navigate
-background: /assets/backgrounds/splash.jpg
+background: /assets/backgrounds/jyot-phages.jpg
 permalink: /
 ---
 

@@ -3,7 +3,7 @@ layout: team
 title: Team
 description: Who we are.
 permalink: /team/
-background: /assets/backgrounds/jyot-phages.jpg
+background: /assets/backgrounds/gustavo-drosophila.jpg
 # toc: true
 ---
 
