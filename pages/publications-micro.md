@@ -4,7 +4,7 @@ title: Microbiology Publications
 # description: 
 permalink: /pubs-micro/
 background:
-  img: /assets/backgrounds/jyot-phages.jpg
+  img: /assets/backgrounds/jyot-phages-blue.jpg
   by: Phage bacteria interaction - Jyot Antani
 ---
 
