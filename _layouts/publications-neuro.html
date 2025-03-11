@@ -30,18 +30,24 @@ description: neuroscience publications page.
 <br />
 
 {% comment %}
-  Sort the combined publications by date (most recent first). 
+  Sort the combined publications by date (most recent first).
   Ensure your YAML 'date' fields are in a format that Jekyll can parse.
 {% endcomment %}
 {% assign sorted_publications = publications_all | sort:"date" | reverse %}
 
+{% comment %}
+  Initialize a variable to track the last printed year.
+{% endcomment %}
+{% assign last_year = "" %}
+
 {% for paper in sorted_publications %}
+  {% assign pub_year = paper.date | date: "%Y" %}
+  {% if pub_year != last_year %}
+    <h3>{{ pub_year }}</h3>
+    {% assign last_year = pub_year %}
+  {% endif %}
+
   <div class="d-flex team-member">
-    <!-- <div class="flex-shrink-0 me-3">
-      {% if paper.image %}
-        <img src="{{ paper.image | relative_url }}" alt="{{ paper.name }}">
-      {% endif %}
-    </div> -->
     <div>
       <h6 id="{{ paper.title | strip | url_encode }}" style="margin-bottom: 0; margin-block-end: 0;">
         <i><strong>{{ paper.title }}</strong></i>
@@ -62,7 +68,7 @@ description: neuroscience publications page.
       </div>
 
       {% if paper.extra %}
-          {{ paper.extra | markdownify | newline_to_br | split: '<br />' }}
+        {{ paper.extra | markdownify | newline_to_br | split: '<br />' }}
       {% endif %}
 
       <ul class="list-inline">
@@ -93,7 +99,7 @@ description: neuroscience publications page.
         {% endif %}
         {% if paper.github %}
           <li class="list-inline-item">
-            <a href="https://github.com/emonetlab/opto-track" title="GitHub"><i class="fab fa-github"></i></a>
+            <a href="{{ paper.github }}" title="GitHub"><i class="fab fa-github"></i></a>
           </li>
         {% endif %}
       </ul>
