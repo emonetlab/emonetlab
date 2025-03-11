@@ -35,7 +35,20 @@ description: microbiology publications page.
 {% endcomment %}
 {% assign sorted_publications = publications_all | sort:"date" | reverse %}
 
+{% comment %}
+  Initialize a variable to track the last printed year.
+{% endcomment %}
+{% assign last_year = "" %}
+
 {% for paper in sorted_publications %}
+  {% comment %}
+    Extract the year from the date. This approach handles YYYY-MM-DD, YYYY, or YYYY-MM.
+  {% endcomment %}
+  {% assign pub_year = paper.date | slice: 0, 4 %}
+  {% if pub_year != last_year %}
+    <h3>{{ pub_year }}</h3>
+    {% assign last_year = pub_year %}
+  {% endif %}
   <div class="d-flex team-member">
     <!-- Uncomment the block below if you want to display an image -->
     <!--
