@@ -41,7 +41,10 @@ description: neuroscience publications page.
 {% assign last_year = "" %}
 
 {% for paper in sorted_publications %}
-  {% assign pub_year = paper.date | date: "%Y" %}
+  {% comment %}
+    Extract the year from the date. This approach handles YYYY-MM-DD, YYYY, or YYYY-MM.
+  {% endcomment %}
+  {% assign pub_year = paper.date | slice: 0, 4 %}
   {% if pub_year != last_year %}
     <h3>{{ pub_year }}</h3>
     {% assign last_year = pub_year %}
