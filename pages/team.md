@@ -4,7 +4,7 @@ title: Team
 description: Who we are.
 permalink: /team/
 background:
-  img: /assets/backgrounds/AdobeStock_445690126.jpg
+  img: /assets/backgrounds/AdobeStock_445690126.jpeg
   # by: Adobe Stock
 # toc: true
 ---
