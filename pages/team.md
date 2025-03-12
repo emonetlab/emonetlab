@@ -4,8 +4,8 @@ title: Team
 description: Who we are.
 permalink: /team/
 background:
-  img: /assets/backgrounds/gustavo-drosophilaiso.jpg
-  by: Drosophila melanogaster - Jacob Liao/Gustavo Santana
+  img: /assets/backgrounds/AdobeStock_445690126.jpg
+  # by: Adobe Stock
 # toc: true
 ---
 
