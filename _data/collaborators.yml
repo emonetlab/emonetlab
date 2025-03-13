@@ -8,7 +8,7 @@
 #   role: Graduate Student
 #   program: >
 #     [Interdepartmental Neuroscience Program](https://medicine.yale.edu/inp/), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
-  image: assets/team/gustavo-santana.jpg # Can be external link
+#   image: assets/team/gustavo-santana.jpg # Can be external link
 #   description: > # Can be Markdown
 #     Gustavo completed his undergraduate in Computer Engineering at the Federal University of Rio Grande do Sul in Brazil, where he studied the ontogeny of vocal communication in mice. He is currently interested in understanding how flies explore spatiotemporal features of odor plumes for optimal navigation. In his free time, he spends too much money going to concerts, and enjoys playing guitar.
 #   # orcid: 0000-0003-1897-1625
@@ -25,64 +25,53 @@
   role: Yale University
   website:
   scholar:
-  # image: assets/team/empty.jpg
 
 - name: Steven Zucker
   role: Yale University
   website:
   scholar:
-  # image: assets/team/empty.jpg
 
 - name: Grégoire Altan-Bonnet
   role: Memorial Sloan-Kettering Cancer Center
   website:
   scholar:
-  # image: assets/team/empty.jpg
 
 - name: John Carlson
   role: Yale University
   website:
   scholar:
-  # image: assets/team/empty.jpg
 
 - name: Philippe Cluzel
   role: Harvard University
   website:
   scholar:
-  # image: assets/team/empty.jpg
 
 - name: James Faeder
   role: University of Pittsburgh
   website:
   scholar:
-  # image: assets/team/empty.jpg
 
 - name: Scott Holley
   role: Yale University
   website:
   scholar:
-  # image: assets/team/empty.jpg
 
 - name: Christine Jacobs-Wagner
   role: Stanford University
   website:
   scholar:
-  # image: assets/team/empty.jpg
 
 - name: Urs Jenal
   role: Biozentrum, Switzerland
   website:
   scholar:
-  # image: assets/team/empty.jpg
 
 - name: Barbara Kazmierczak
   role: Yale University
   website:
   scholar:
-  # image: assets/team/empty.jpg
 
 - name: Thomas Shimizu
   role: AMOLF, Netherlands
   website:
   scholar:
-  # image: assets/team/empty.jpg
