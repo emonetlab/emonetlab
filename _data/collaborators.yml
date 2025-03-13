@@ -23,55 +23,55 @@
 
 - name: Damon Clark
   role: Yale University
-  website:
+  website: http://clarklab.yale.edu/
   scholar:
 
 - name: Steven Zucker
   role: Yale University
-  website:
+  website: https://seas.yale.edu/faculty-research/faculty-directory/steven-zucker
   scholar:
 
 - name: Grégoire Altan-Bonnet
-  role: Memorial Sloan-Kettering Cancer Center
-  website:
+  role: National Cancer Institute
+  website: https://ccr.cancer.gov/staff-directory/gregoire-altan-bonnet
   scholar:
 
 - name: John Carlson
   role: Yale University
-  website:
+  website: https://carlsonlab.yale.edu
   scholar:
 
 - name: Philippe Cluzel
   role: Harvard University
-  website:
+  website: https://cluzel.fas.harvard.edu
   scholar:
 
 - name: James Faeder
   role: University of Pittsburgh
-  website:
+  website: https://csbweb.csb.pitt.edu/Faculty/Faeder/
   scholar:
 
 - name: Scott Holley
   role: Yale University
-  website:
+  website: https://holleylab.yale.edu
   scholar:
 
 - name: Christine Jacobs-Wagner
   role: Stanford University
-  website:
+  website: https://jacobswagnerlab.stanford.edu
   scholar:
 
 - name: Urs Jenal
   role: Biozentrum, Switzerland
-  website:
+  website: https://www.biozentrum.unibas.ch/research/research-groups/research-groups-a-z/overview/unit/research-group-urs-jenal
   scholar:
 
 - name: Barbara Kazmierczak
   role: Yale University
-  website:
+  website: https://medicine.yale.edu/bbs/profile/barbara-kazmierczak/
   scholar:
 
 - name: Thomas Shimizu
   role: AMOLF, Netherlands
-  website:
+  website: https://amolf.nl/research-groups/physics-of-behavior
   scholar:
