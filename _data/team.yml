@@ -23,8 +23,8 @@
 - name: Kevin Chen
   role: Postdoc
   when: "2024-"
-  image: assets/team/kevin-chen.jpg # Can be external link
-  description: > # Can be Markdown
+  image: assets/team/kevin-chen.jpg
+  description: >
     Kevin is interested in animal behavior, biophysical models, and network dynamics. He completed his PhD with Andy Leifer and Jonathan Pillow at Princeton, where he studied worm chemotaxis through biophysical experiments and statistical modeling. Working with the Emonet and Clark labs, Kevin hopes to characterize how seemingly simple systems, like fruit flies, can produce complex behaviors and sophisticated computations during sensory navigation. Outside of the lab, Kevin enjoys jogging, reading, origami, music, and bubble tea.
   googlescholar: nDBcpSAAAAAJ
   email: kevin.s.chen@yale.edu
@@ -32,8 +32,8 @@
 - name: Kiri Choi
   role: Postdoc
   when: "2023-"
-  image: assets/team/kiri-choi.jpg # Can be external link
-  description: > # Can be Markdown
+  image: assets/team/kiri-choi.jpg
+  description: >
     Kiri is interested in how the brain encodes and processes olfactory information and makes appropriate decisions. Previously, he was a research fellow at the Korea Institute for Advanced Study under the mentorship of Changbong Hyeon, where he studied how a brain’s spatial, structural, and connective characteristics contribute to its functionality. He completed his PhD in Bioengineering at the University of Washington under the advice of Herbert M. Sauro, where he designed the biochemical reaction networks using high-throughput simulation studies.
   googlescholar: vu7Ma2QAAAAJ
   email: kiri.choi@yale.edu
@@ -41,8 +41,8 @@
 - name: Fotis Avgidis
   role: Postdoc
   when: "2024-"
-  image: assets/team/fotis-avgidis.jpg # Can be external link
-  description: > # Can be Markdown
+  image: assets/team/fotis-avgidis.jpg
+  description: >
     Fotis is broadly interested in how living organisms process information and how information processing shapes behavior. He completed his PhD with Tom Shimizu at AMOLF in the Netherlands, where he studied the origins of sensory diversity in bacteria and the dynamics of the bacterial chemotaxis system near criticality. Before developing a fascination for biology, he dabbled in quantum computing and particle accelerators. Outside of science, he enjoys reading, traveling, visiting art museums, and taking photos.
   googlescholar: AvQIo1kAAAAJ
   email: fotios.avgidis@yale.edu
@@ -50,7 +50,7 @@
 - name: Carrie Nardella
   role: Senior Administrative Assistant
   image: assets/team/carrie-nardella.jpg
-  description: > # Can be Markdown
+  description: >
     Carrie worked in the Medical School from 1990 to 2000. She returned to Yale in 2016 in the Department of Molecular, Cellular and Developmental Biology Business Office as a Senior Administrative Assistant II. In her free time, she enjoys living on the shore and spending time with her family and friends.
   email: carrie.nardella@yale.edu
 
@@ -58,8 +58,8 @@
   role: Graduate Student
   program: >
     [Interdepartmental Neuroscience Program](https://medicine.yale.edu/inp/), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
-  image: assets/team/gustavo-santana.jpg # Can be external link
-  description: > # Can be Markdown
+  image: assets/team/gustavo-santana.jpg
+  description: >
     Gustavo completed his undergraduate in Computer Engineering at the Federal University of Rio Grande do Sul in Brazil, where he studied the ontogeny of vocal communication in mice. He is currently interested in understanding how flies explore spatiotemporal features of odor plumes for optimal navigation. In his free time, he spends too much money going to concerts, and enjoys playing guitar.
   googlescholar: L603SPwAAAAJ
   twitter: gumadeiras
@@ -104,7 +104,7 @@
 - name: Thierry Emonet
   role: Principal Investigator
   image: assets/team/thierry-emonet-crop.jpg
-  description: > # Can be Markdown
+  description: >
     Thierry is the Lewis B. Cullman Professor of Molecular, Cellular and Developmental Biology, and Professor of Physics, at Yale University. His research combines mathematical modeling and quantitative experiments to understand the biological computations that enable organisms to sense and navigate their chemical environments. As model systems, his lab uses bacterial chemotaxis and fly olfaction, in which they can make multi-scale measurements and compare to quantitative mathematical models. Navigation requires performing many non-trivial computations and can be quantified precisely. The Emonet lab exploits this quantitative framework for discovering how biological systems compute, and how computations are implemented in molecular and cellular mechanisms. Before coming to Yale in 2007, Thierry studied physics at the ETH Zürich. He received his PhD (cum laude) in theoretical astrophysics from the University of La Laguna (Spain) in 1998, before doing postdocs at the National Center for Atmospheric Research, Boulder CO and The University of Chicago, discovering key mechanisms that enable magnetic field to float to the surface of the Sun to create Sunspots. During his postdoc Thierry became fascinated with the question of where individuality comes from and what is its functional role in life and he switched to biology. His work is supported by NIH, NSF, the Paul G Allen Family Foundation (Distinguished Allen Investigator), the Whitehall Foundation, the James S. McDonnell Foundation and the Alfred P. Sloan Foundation. Outside of science, Thierry’s main interest is art. He grew up at the intersection of science and art and he is married to renowned sculptor [Susan Clinard](http://www.clinard.org/).
   googlescholar: k93FQp4AAAAJ
   twitter: emonetlab
