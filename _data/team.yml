@@ -79,8 +79,10 @@
   role: Postdoc
   image: assets/team/jyot-antani.jpg
   description: >
-    Jyot is a joint postdoc with [Paul Turner Lab](https://turnerlab.yale.edu/). Jyot worked on his PhD with [Pushkar Lele](http://pushkarlelelab.org/) at Texas A&M University where he studied the sensory functions of the bacterial flagellar motor. He is currently developing a project to visualize and study the interactions between bacteria and bacteriophage- the viruses that infect bacteria. In his free time, Jyot enjoys reading fantasy novels, taking road trips to parks and beaches, cooking, and eating. 
+    Jyot is a joint postdoc with [Paul Turner Lab](https://turnerlab.yale.edu/). In his doctoral work at Texas A&M University, Jyot studied the [sensory functions of the bacterial flagellar motor](https://hdl.handle.net/1969.1/195225). His current work involves visualization of the interactions between bacteria and phages- the viruses that infect bacteria. This research will be useful in the development of phage therapy strategies to battle antimicrobial resistance. In his free time, Jyot enjoys reading high fantasy, exploring parks and beaches, cooking, and eating.
   email: jyot.antani@yale.edu
+  website: https://antanij.netlify.app/
+  googlescholar: rR08FJAAAAAJ&hl
 
 - name: Lam Vo
   role: Graduate Student
@@ -88,7 +90,7 @@
     [Graduate Program in Molecular, Cellular, and Developmental Biology](https://mcdb.yale.edu), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
   image: assets/team/lam-vo.jpg
   description: >
-    Lam studied chemotaxis in Azosprillium brasilense at the University of Tennessee at Knoxville during his undergraduate years under Dr. Gladys Alexandre. He is interested in studying spatial sorting in chemotaxis waves and the connection between virulence and chemotaxis in Pseudomonas aeruginosa. When he is not working, he loves watching random Youtube video, listening to music, and exercise. He's looking forward to going to the beach, exploring local boutique shop, and hunting for good restaurants. 
+    Lam studied chemotaxis in Azosprillium brasilense at the University of Tennessee at Knoxville during his undergraduate years under Dr. Gladys Alexandre. He is interested in studying spatial sorting in chemotaxis waves and the connection between virulence and chemotaxis in Pseudomonas aeruginosa. When he is not working, he loves watching random Youtube video, listening to music, and exercise. He's looking forward to going to the beach, exploring local boutique shop, and hunting for good restaurants.
   email: lam.vo@yale.edu
 
 - name: Samuel Brudner
