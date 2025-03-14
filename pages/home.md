@@ -7,7 +7,7 @@ background:
   by: Phage bacteria interaction - Jyot Antani
 permalink: /
 hero:
-  img: /assets/backgrounds/gustavo-drosophila.jpg
+  img: /assets/backgrounds/AdobeStock_460158415.jpeg
 ---
 
 #### We use chemical navigation as a dynamic framework to explore how signals guide behaviors—ranging from molecules and cells to entire populations.
