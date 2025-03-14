@@ -18,7 +18,7 @@ hero: /assets/backgrounds/gustavo-drosophila.jpg
 We investigate how organisms compute and interpret chemical signals. By combining mathematical modeling with quantitative experiments, our research decodes the processes that drive navigation—from molecules and cells to entire populations. Our findings explain the signal processing and decision-making mechanisms used to translate chemical cues into behavior.
 
 
-<div class="fakeheader bg-image" style="background-image: url('{{ hero | relative_url }}')">
+<div class="fakeheader bg-image" style="background-image: url('{{ hero | relative_url }}')"></div>
 
 #### Why Chemical Navigation?
 
