@@ -32,7 +32,7 @@ P:  +1 (203) 432-9599
 E: carrie.nardella@yale.edu
 ```
 
-##### Lab Shipping address (FedEx …)
+##### Packages shipping address (FedEx, UPS, …)
 
 ```
 BASS Receiving
