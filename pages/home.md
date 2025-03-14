@@ -22,6 +22,8 @@ We investigate how organisms compute and interpret chemical signals. By combinin
 
 <div class="fakeheader bg-image" style="background-image: url('{{ page.hero.img | relative_url }}')"></div>
 
+<br>
+
 #### Why Chemical Navigation?
 
 Chemical navigation is not just about following gradients—it involves complex computations in three main areas:
@@ -42,6 +44,8 @@ Chemical navigation is not just about following gradients—it involves complex 
 
 This quantitative perspective reveals the fundamental strategies that organisms use to adapt to diverse environments.
 
+<br>
+
 #### From Bacteria to Fruit Flies
 
 We investigate the well-characterized systems in bacterial chemotaxis and fly olfaction. By bridging microbiology and neuroscience, our dual-system approach:
@@ -55,6 +59,8 @@ We investigate the well-characterized systems in bacterial chemotaxis and fly ol
         </li>
     </ul>
 </div>
+
+<br>
 
 #### Join Us
 
@@ -70,5 +76,7 @@ Our lab offers a unique environment where interdisciplinary research meets pione
         </li>
     </ul>
 </div>
+
+<br>
 
 #### News
