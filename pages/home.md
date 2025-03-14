@@ -6,6 +6,7 @@ background:
   img: /assets/backgrounds/jyot-phages.jpg
   by: Phage bacteria interaction - Jyot Antani
 permalink: /
+hero: /assets/backgrounds/gustavo-drosophila.jpg
 ---
 
 #### We use chemical navigation as a dynamic framework to explore how signals guide behaviors—ranging from molecules and cells to entire populations.
@@ -15,6 +16,9 @@ permalink: /
 #### What We Do
 
 We investigate how organisms compute and interpret chemical signals. By combining mathematical modeling with quantitative experiments, our research decodes the processes that drive navigation—from molecules and cells to entire populations. Our findings explain the signal processing and decision-making mechanisms used to translate chemical cues into behavior.
+
+
+<header class="header bg-image" style="background-image: url('{{ hero | relative_url }}')">
 
 #### Why Chemical Navigation?
 
