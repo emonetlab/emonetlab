@@ -121,9 +121,11 @@
   padding: 2rem 1rem;
   position: relative; // To contain overlay
   text-align: center;
+  height: 300px;
 
   @include media-breakpoint-up(md) {
     padding: 6rem 2rem;
+    height: 350px;
   }
 
   &.bg-no-image {
