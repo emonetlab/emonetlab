@@ -20,6 +20,14 @@
 #   email: gustavo.santana@yale.edu
 #   website: https://gumadeiras.com
 
+- name: Lechi Akalaonu
+  role: Undergraduate
+  when: "2024-"
+  image: assets/team/empty.jpg
+  description: >
+    Kelechi is an undergraduate at Yale studying Neuroscience with a certificate of Advanced Study in French. His interests lie in circuits and computational neuroscience; in the lab he is studying the neural circuitry that underlies spatial memory/place preference in Drosophila olfactory navigation.
+  email: lechi.akalaonu@yale.edu
+
 - name: Kevin Chen
   role: Postdoc
   when: "2024-"
@@ -55,6 +63,7 @@
   email: carrie.nardella@yale.edu
 
 - name: Gustavo Madeira Santana
+  when: "2021-"
   role: Graduate Student
   program: >
     [Interdepartmental Neuroscience Program](https://medicine.yale.edu/inp/), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
@@ -67,6 +76,7 @@
   website: https://gumadeiras.com
 
 - name: Jeremy Moore
+  when: "2020-"
   role: Graduate Student
   program: >
     [Graduate Program in Molecular, Cellular, and Developmental Biology](https://mcdb.yale.edu)
@@ -76,6 +86,7 @@
   email: jeremy.moore@yale.edu
 
 - name: Jyot Antani
+  when: "2020-"
   role: Postdoc
   image: assets/team/jyot-antani.jpg
   description: >
@@ -85,6 +96,7 @@
   googlescholar: rR08FJAAAAAJ&hl
 
 - name: Lam Vo
+  when: "2020-"
   role: Graduate Student
   program: >
     [Graduate Program in Molecular, Cellular, and Developmental Biology](https://mcdb.yale.edu), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
@@ -94,6 +106,7 @@
   email: lam.vo@yale.edu
 
 - name: Samuel Brudner
+  when: "2022-"
   role: Postdoc
   image: assets/team/sam-brudner.png
   description: >
