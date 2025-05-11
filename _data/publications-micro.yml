@@ -7,9 +7,22 @@
   extra: |-
     *co-first authors
 
+- authors: "Antani JD, Ward T,  Emonet T, Turner PE"
+  title: "Microscopic phage adsorption assay: High-throughput quantification of virus particle attachment to host bacterial cells"
+  journal: "PNAS"
+  edition: "121 (52) e2410905121"
+  date: "2024-12-19"
+
+- authors: "Moore J, Emonet T"
+  title: "Physics of bacterial chemotaxis"
+  journal: "Current Biology"
+  edition: "34(20), R972-R977"
+  date: "2024-10-21"
+
 - authors: "Mattingly HH*, Kamino K*, Ong Jǂ, Kottou Rǂ, Emonet T#, Machta BB#"
   title: "E. coli do not count single molecules"
   journal: "bioRxiv 2024.07.09.602750"
+  date: "2024-07-13"
   doi: "https://doi.org/10.1101/2024.07.09.602750"
   extra: |-
     * contributed equally; ǂ contributed equally; # co-corresponding author
@@ -17,6 +30,7 @@
 - authors: "Sherry DM, Graf IR#, Bryant SJ, Emonet T#, Machta BB#"
   title: "Lattice ultrasensitivity produces large gain in E. coli chemosensing"
   journal: "bioRxiv 2024.05.28.596300"
+  date: "2024-05-28"
   doi: "https://doi.org/10.1101/2024.05.28.596300"
   extra: |-
     # co-corresponding author
@@ -67,7 +81,6 @@
   title: "Optimal inference of molecular interaction dynamics in FRET microscopy"
   journal: "PNAS"
   edition: "120 (15) e2211807120 (2023)"
-  date: "2023"
   doi: "10.1073/pnas.2211807120"
   date: "2023-04-04"
   html: "https://www.pnas.org/doi/10.1073/pnas.2211807120"
