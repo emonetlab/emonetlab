@@ -36,4 +36,10 @@ remark: See also page.layout == 'home' in head.html and header.html.
         {% endfor %}
       </div>
     {% endif %}
+    <!-- add a button to go to archive page of news -->
+    {% if site.posts_on_home > 0 %}
+      <div class="text-center mt-4">
+        <a href="{{ site.baseurl }}/news/" class="btn btn-primary">See all news</a>
+      </div>
+    {% endif %}
 </div>
