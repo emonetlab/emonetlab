@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Seeing how bacteria change their enviroment | Emonet Lab"
-background: {{ site.baseurl }}/assets/posts/2024-01-09-seeing-how-bacteria-change-their-enviroment-emonet-lab/pnas.2309251121fig01.jpg
+background: "{{ site.baseurl }}/assets/posts/2024-01-09-seeing-how-bacteria-change-their-enviroment-emonet-lab/pnas.2309251121fig01.jpg"
 date: "2024-01-09"
 original_url: "https://emonet.biology.yale.edu/news/seeing-how-bacteria-change-their-enviroment"
 ---

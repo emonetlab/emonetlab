@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Mahmut and Nirag’s preprint posted: How Drosophila navigate complex, intermittent odor plumes | Emonet Lab"
-background: {{ site.baseurl }}/assets/posts/2020-03-27-mahmut-and-nirags-preprint-posted-how-drosophila-navigate-complex-intermittent-odor-plumes-emonet-lab/website_pic.png
+background: "{{ site.baseurl }}/assets/posts/2020-03-27-mahmut-and-nirags-preprint-posted-how-drosophila-navigate-complex-intermittent-odor-plumes-emonet-lab/website_pic.png"
 date: "2020-03-27"
 original_url: "https://emonet.biology.yale.edu/news/mahmut-and-nirags-preprint-posted-how-drosophila-navigate-complex-intermittent-odor-plumes"
 ---

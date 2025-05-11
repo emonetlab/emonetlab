@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Our paper on odor motion detection in Yale News | Emonet Lab"
-background: {{ site.baseurl }}/assets/posts/2022-11-11-our-paper-on-odor-motion-detection-in-yale-news-emonet-lab/screen_shot_2022-11-11_at_4.03.45_pm.png
+background: "{{ site.baseurl }}/assets/posts/2022-11-11-our-paper-on-odor-motion-detection-in-yale-news-emonet-lab/screen_shot_2022-11-11_at_4.03.45_pm.png"
 date: "2022-11-11"
 original_url: "https://emonet.biology.yale.edu/news/our-paper-odor-motion-detection-yale-news"
 ---

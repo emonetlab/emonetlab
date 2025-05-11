@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Congrats to Lam Fotis and Henry for getting their paper published in PNAS | Emonet Lab"
-background: {{ site.baseurl }}/assets/posts/2025-02-21-congrats-to-lam-fotis-and-henry-for-getting-their-paper-published-in-pnas-emonet-lab/picture2.png
+background: "{{ site.baseurl }}/assets/posts/2025-02-21-congrats-to-lam-fotis-and-henry-for-getting-their-paper-published-in-pnas-emonet-lab/picture2.png"
 date: "2025-02-21"
 original_url: "https://emonet.biology.yale.edu/news/congrats-lam-fotis-and-henry-getting-their-paper-published-pnas"
 ---

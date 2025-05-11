@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Climbing gradient fast | Emonet Lab"
-background: {{ site.baseurl }}/assets/posts/2017-03-21-climbing-gradient-fast-emonet-lab/screen_shot_2017-03-21_at_2.39.43_pm_1.png
+background: "{{ site.baseurl }}/assets/posts/2017-03-21-climbing-gradient-fast-emonet-lab/screen_shot_2017-03-21_at_2.39.43_pm_1.png"
 date: "2017-03-21"
 original_url: "https://emonet.biology.yale.edu/news/climbing-gradient-fast"
 ---
