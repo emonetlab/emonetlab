@@ -55,7 +55,7 @@
   journal: "PLoS Comput Biol. 10(6):e1003694"
   date: "2014"
   extra: |-
-    (Note: "There were several typos in the published PDF. Make sure to use this corrected version: "pdf, supp. info., html"
+    Note: There were several typos in the published PDF. Make sure to use this corrected version: pdf
 
 - authors: "Sliusarenko O, Heinritz J, Emonet T*, Jacobs-Wagner C.*"
   title: "High-throughput, subpixel precision analysis of bacterial morphogenesis and intracellular spatio-temporal dynamics."
