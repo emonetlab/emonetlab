@@ -1,7 +1,8 @@
 ---
 layout: "post"
-title: "Reconciliating individuality and collective behavior | Emonet Lab"
+title: "Reconciliating individuality and collective behavior"
 background: "assets/posts/2018-06-06-reconciliating-individuality-and-collective-behavior-emonet-lab/screen_shot_2018-06-06_at_11.22.15_am.png"
+background-use: "no"
 date: "2018-06-06"
 original_url: "https://emonet.biology.yale.edu/news/reconciliating-individuality-and-collective-behavior"
 ---

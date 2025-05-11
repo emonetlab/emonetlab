@@ -1,7 +1,8 @@
 ---
 layout: "post"
-title: "Lam win’s Annie Le Award! | Emonet Lab"
+title: "Lam win’s Annie Le Award!"
 background: "assets/posts/2025-05-07-lam-wins-annie-le-award-emonet-lab/image_3.png"
+background-use: "no"
 date: "2025-05-07"
 original_url: "https://emonet.biology.yale.edu/news/lam-wins-annie-le-award"
 ---

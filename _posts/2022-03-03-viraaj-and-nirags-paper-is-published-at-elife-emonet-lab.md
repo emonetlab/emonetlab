@@ -1,7 +1,8 @@
 ---
 layout: "post"
-title: "Viraaj and Nirag’s paper is published at eLife | Emonet Lab"
+title: "Viraaj and Nirag’s paper is published at eLife"
 background: "assets/posts/2022-03-03-viraaj-and-nirags-paper-is-published-at-elife-emonet-lab/screen_shot_2022-03-03_at_1.18.53_pm.png"
+background-use: "no"
 date: "2022-03-03"
 original_url: "https://emonet.biology.yale.edu/news/viraaj-and-nirags-paper-published-elife"
 ---

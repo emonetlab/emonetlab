@@ -1,7 +1,8 @@
 ---
 layout: "post"
-title: "Keita’s paper about dynamic risk management in cell populations | Emonet Lab"
+title: "Keita’s paper about dynamic risk management in cell populations"
 background: "assets/posts/2020-11-17-keitas-paper-about-dynamic-risk-management-in-cell-populations-emonet-lab/keita_paper.jpg"
+background-use: "no"
 date: "2020-11-17"
 original_url: "https://emonet.biology.yale.edu/news/keitas-paper-about-dynamic-risk-management-cell-populations"
 ---

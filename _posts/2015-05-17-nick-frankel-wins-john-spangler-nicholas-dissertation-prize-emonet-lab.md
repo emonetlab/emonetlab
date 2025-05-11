@@ -1,7 +1,8 @@
 ---
 layout: "post"
-title: "Nick Frankel wins John Spangler Nicholas Dissertation Prize | Emonet Lab"
+title: "Nick Frankel wins John Spangler Nicholas Dissertation Prize"
 background: "assets/posts/2015-05-17-nick-frankel-wins-john-spangler-nicholas-dissertation-prize-emonet-lab/nickfrankel.jpg"
+background-use: "no"
 date: "2015-05-17"
 original_url: "https://emonet.biology.yale.edu/news/nick-frankel-wins-john-spangler-nicholas-dissertation-prize"
 ---

@@ -1,7 +1,8 @@
 ---
 layout: "post"
-title: "Welcome Baby Hakan! | Emonet Lab"
+title: "Welcome Baby Hakan!"
 background: "assets/posts/2019-12-22-welcome-baby-hakan-emonet-lab/img-20191217-wa0021.jpg"
+background-use: "no"
 date: "2019-12-22"
 original_url: "https://emonet.biology.yale.edu/news/welcome-baby-hakan"
 ---

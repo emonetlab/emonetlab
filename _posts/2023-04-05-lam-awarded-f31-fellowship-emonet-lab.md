@@ -1,7 +1,8 @@
 ---
 layout: "post"
-title: "Lam awarded F31 fellowship! | Emonet Lab"
+title: "Lam awarded F31 fellowship!"
 background: "assets/posts/2023-04-05-lam-awarded-f31-fellowship-emonet-lab/img_5513_0.jpg"
+background-use: "no"
 date: "2023-04-05"
 original_url: "https://emonet.biology.yale.edu/news/lam-awarded-f31-fellowship"
 ---

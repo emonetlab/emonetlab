@@ -1,7 +1,8 @@
 ---
 layout: "post"
-title: "Mahmut and Nirag’s paper is out together with an insight article | Emonet Lab"
+title: "Mahmut and Nirag’s paper is out together with an insight article"
 background: "assets/posts/2020-11-03-mahmut-and-nirags-paper-is-out-together-with-an-insight-article-emonet-lab/elife-63385-fig1-v1.jpg"
+background-use: "no"
 date: "2020-11-03"
 original_url: "https://emonet.biology.yale.edu/news/mahmut-and-nirags-paper-out-together-insight-article"
 ---

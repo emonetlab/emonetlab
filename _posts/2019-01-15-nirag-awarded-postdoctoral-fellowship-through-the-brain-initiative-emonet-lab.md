@@ -1,7 +1,8 @@
 ---
 layout: "post"
-title: "Nirag awarded postdoctoral fellowship through the BRAIN Initiative | Emonet Lab"
+title: "Nirag awarded postdoctoral fellowship through the BRAIN Initiative"
 background: "assets/posts/2019-01-15-nirag-awarded-postdoctoral-fellowship-through-the-brain-initiative-emonet-lab/2019_01_15_grant_pic_0.png"
+background-use: "no"
 date: "2019-01-15"
 original_url: "https://emonet.biology.yale.edu/news/nirag-awarded-postdoctoral-fellowship-through-brain-initiative"
 ---

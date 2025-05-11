@@ -1,7 +1,8 @@
 ---
 layout: "post"
-title: "Henry, Keita and Mahmut Moving on to new positions! | Emonet Lab"
+title: "Henry, Keita and Mahmut Moving on to new positions!"
 background: "assets/posts/2022-04-19-henry-keita-and-mahmut-moving-on-to-new-positions-emonet-lab/screen_shot_2022-04-19_at_9.06.56_am.png"
+background-use: "no"
 date: "2022-04-19"
 original_url: "https://emonet.biology.yale.edu/news/henry-keita-and-mahmut-moving-new-positions"
 ---

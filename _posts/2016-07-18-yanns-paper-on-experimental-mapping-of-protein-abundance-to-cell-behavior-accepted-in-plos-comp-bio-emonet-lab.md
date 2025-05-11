@@ -1,7 +1,8 @@
 ---
 layout: "post"
-title: "Yann’s paper on experimental mapping of protein abundance to cell behavior accepted in PLoS Comp Bio | Emonet Lab"
+title: "Yann’s paper on experimental mapping of protein abundance to cell behavior accepted in PLoS Comp Bio"
 background: "assets/posts/2016-07-18-yanns-paper-on-experimental-mapping-of-protein-abundance-to-cell-behavior-accepted-in-plos-comp-bio-emonet-lab/yannpaper.png"
+background-use: "no"
 date: "2016-07-18"
 original_url: "https://emonet.biology.yale.edu/news/yanns-paper-experimental-mapping-protein-abundance-cell-behavior-accepted-plos-comp-bio"
 ---

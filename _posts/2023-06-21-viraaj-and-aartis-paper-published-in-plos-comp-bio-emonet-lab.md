@@ -1,7 +1,8 @@
 ---
 layout: "post"
-title: "Viraaj and Aarti’s paper published in Plos Comp Bio! | Emonet Lab"
+title: "Viraaj and Aarti’s paper published in Plos Comp Bio!"
 background: "assets/posts/2023-06-21-viraaj-and-aartis-paper-published-in-plos-comp-bio-emonet-lab/2023_jayaramblurbphoto.png"
+background-use: "no"
 date: "2023-06-21"
 original_url: "https://emonet.biology.yale.edu/news/viraaj-and-aartis-paper-published-plos-comp-bio"
 ---

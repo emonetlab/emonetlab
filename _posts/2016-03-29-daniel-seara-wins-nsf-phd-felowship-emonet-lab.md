@@ -1,7 +1,8 @@
 ---
 layout: "post"
-title: "Daniel Seara wins NSF PhD felowship | Emonet Lab"
+title: "Daniel Seara wins NSF PhD felowship"
 background: "assets/posts/2016-03-29-daniel-seara-wins-nsf-phd-felowship-emonet-lab/daniel_seara.jpg"
+background-use: "no"
 date: "2016-03-29"
 original_url: "https://emonet.biology.yale.edu/news/daniel-seara-wins-nsf-phd-felowship"
 ---
