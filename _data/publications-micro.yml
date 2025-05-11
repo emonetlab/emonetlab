@@ -5,7 +5,7 @@
   date: "2025"
   doi: "https://doi.org/10.1073/pnas.2423774122"
   extra: |-
-    *co-first authors
+    \* co-first authors
 
 - authors: "Antani JD, Ward T,  Emonet T, Turner PE"
   title: "Microscopic phage adsorption assay: High-throughput quantification of virus particle attachment to host bacterial cells"
@@ -25,7 +25,7 @@
   date: "2024-07-13"
   doi: "https://doi.org/10.1101/2024.07.09.602750"
   extra: |-
-    * contributed equally; ǂ contributed equally; # co-corresponding author
+    \* contributed equally; ǂ contributed equally; # co-corresponding author
 
 - authors: "Sherry DM, Graf IR#, Bryant SJ, Emonet T#, Machta BB#"
   title: "Lattice ultrasensitivity produces large gain in E. coli chemosensing"
@@ -40,21 +40,21 @@
   journal: "PNAS 121 (3) e2309251121"
   date: "2023"
   extra: |-
-    * contributed equall
+    \* contributed equall
 
 - authors: "Nesper J*, Hug I*, Kato S*, Hee C-S*, Habazettl JM, Mandredi P, Grzesiek S, Tilman S, Emonet T, Jenal U"
   title: "Cyclic di-GMP differentially tunes a bacterial flagellar motor through a novel class of CheY-like regulators"
   journal: "eLife 6:e28842"
   date: "2017"
   extra: |-
-    * contributed equally
+    \* contributed equally
 
 - authors: "Das D, Chatti D, Emonet T*, Holley SA*"
   title: "Patterned Disordered Cell Motion Ensures Vertebral Column Symmetry"
   journal: "Developmental Cell, 42(2), 170-180.e5"
   date: "2017"
   extra: |-
-    *corresponding authors
+    \* corresponding authors
 
 - authors: "Dufour Y, Fu X, Hernandez-Nunez L, Emonet T"
   title: "Limits of feedback control in bacterial chemotaxis"
@@ -68,7 +68,7 @@
   journal: "Mol. Micro., 80(3):612–627"
   date: "2011-05"
   extra: |-
-    * Co-corresponding authors
+    \* Co-corresponding authors
 
 - authors: "Sneddon MW, Faeder JR, Emonet T"
   title: "Efficient modeling, simulation and coarse-graining of biological complexity with NFsim,"
