@@ -42,7 +42,7 @@ New Haven, CT 06511
 P: +1 (203) 432-9599
 ```
 
-##### Mailing address
+##### Mailing address (PO Box)
 
 ```
 Emonet Lab, MCDB
