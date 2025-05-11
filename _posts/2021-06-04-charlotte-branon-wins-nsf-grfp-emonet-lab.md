@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Charlotte Branon wins NSF GRFP | Emonet Lab"
-background: "{{ site.baseurl }}/assets/posts/2021-06-04-charlotte-branon-wins-nsf-grfp-emonet-lab/charlotte-brannon_profilephoto.jpg"
+background: "assets/posts/2021-06-04-charlotte-branon-wins-nsf-grfp-emonet-lab/charlotte-brannon_profilephoto.jpg"
 date: "2021-06-04"
 original_url: "https://emonet.biology.yale.edu/news/charlotte-branon-wins-nsf-grfp"
 ---

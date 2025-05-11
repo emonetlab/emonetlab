@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Nirag’s paper on odor coding published in eLife! | Emonet Lab"
-background: "{{ site.baseurl }}/assets/posts/2019-06-28-nirags-paper-on-odor-coding-published-in-elife-emonet-lab/img_for_website.png"
+background: "assets/posts/2019-06-28-nirags-paper-on-odor-coding-published-in-elife-emonet-lab/img_for_website.png"
 date: "2019-06-28"
 original_url: "https://emonet.biology.yale.edu/news/nirags-paper-odor-coding-published-elife"
 ---

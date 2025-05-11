@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Henry awarded an NIH postdoctoral fellowship! | Emonet Lab"
-background: "{{ site.baseurl }}/assets/posts/2019-01-15-henry-awarded-an-nih-postdoctoral-fellowship-emonet-lab/henry1-200x119.jpg"
+background: "assets/posts/2019-01-15-henry-awarded-an-nih-postdoctoral-fellowship-emonet-lab/henry1-200x119.jpg"
 date: "2019-01-15"
 original_url: "https://emonet.biology.yale.edu/news/henry-awarded-nih-postdoctoral-fellowship"
 ---

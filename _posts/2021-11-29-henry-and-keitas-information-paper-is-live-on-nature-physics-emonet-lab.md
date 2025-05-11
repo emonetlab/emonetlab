@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Henry and Keita’s Information Paper Is Live on Nature Physics! | Emonet Lab"
-background: "{{ site.baseurl }}/assets/posts/2021-11-29-henry-and-keitas-information-paper-is-live-on-nature-physics-emonet-lab/informationpapergraphic.png"
+background: "assets/posts/2021-11-29-henry-and-keitas-information-paper-is-live-on-nature-physics-emonet-lab/informationpapergraphic.png"
 date: "2021-11-29"
 original_url: "https://emonet.biology.yale.edu/news/henry-and-keitas-information-paper-live-nature-physics"
 ---

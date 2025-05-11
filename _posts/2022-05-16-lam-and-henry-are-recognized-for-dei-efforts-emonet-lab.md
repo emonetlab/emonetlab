@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Lam and Henry are recognized for DEI efforts | Emonet Lab"
-background: "{{ site.baseurl }}/assets/posts/2022-05-16-lam-and-henry-are-recognized-for-dei-efforts-emonet-lab/lamhenry.png"
+background: "assets/posts/2022-05-16-lam-and-henry-are-recognized-for-dei-efforts-emonet-lab/lamhenry.png"
 date: "2022-05-16"
 original_url: "https://emonet.biology.yale.edu/news/lam-and-henry-are-recognized-dei-efforts"
 ---

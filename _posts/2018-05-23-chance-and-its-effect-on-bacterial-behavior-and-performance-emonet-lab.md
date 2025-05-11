@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Chance and its effect on bacterial behavior and performance | Emonet Lab"
-background: "{{ site.baseurl }}/assets/posts/2018-05-23-chance-and-its-effect-on-bacterial-behavior-and-performance-emonet-lab/screen_shot_2018-05-25_at_11.34.59_am.png"
+background: "assets/posts/2018-05-23-chance-and-its-effect-on-bacterial-behavior-and-performance-emonet-lab/screen_shot_2018-05-25_at_11.34.59_am.png"
 date: "2018-05-23"
 original_url: "https://emonet.biology.yale.edu/news/chance-and-its-effect-bacterial-behavior-and-performance"
 ---
