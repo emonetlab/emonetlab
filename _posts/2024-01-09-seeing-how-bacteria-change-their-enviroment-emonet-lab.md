@@ -1,12 +1,12 @@
 ---
 layout: "post"
 title: "Seeing how bacteria change their enviroment | Emonet Lab"
-background: "assets/posts/2024-01-09-seeing-how-bacteria-change-their-enviroment-emonet-lab/pnas.2309251121fig01.jpg"
+background: {{ site.baseurl }}/assets/posts/2024-01-09-seeing-how-bacteria-change-their-enviroment-emonet-lab/pnas.2309251121fig01.jpg
 date: "2024-01-09"
 original_url: "https://emonet.biology.yale.edu/news/seeing-how-bacteria-change-their-enviroment"
 ---
 # Seeing how bacteria change their enviroment
 
-![](assets/posts/2024-01-09-seeing-how-bacteria-change-their-enviroment-emonet-lab/pnas.2309251121fig01.jpg)
+![]({{ site.baseurl }}/assets/posts/2024-01-09-seeing-how-bacteria-change-their-enviroment-emonet-lab/pnas.2309251121fig01.jpg)
 
 Check out Average and Henry’s exciting [paper](https://www.pnas.org/doi/10.1073/pnas.2309251121) in which they devised a new way to monitor in real time how a migrating population of *E. coli* (red) generates its own attractant gradient by consuming the aspartate present in the environment (green).
