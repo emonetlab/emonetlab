@@ -22,13 +22,13 @@
       <h6 class="card-subtitle">{{ item.date | date: '%B %d, %Y' }}</h6>
     {% endif %}
 
-    <div class="card-text">
+    <!-- <div class="card-text">
       {% if item.description %}
         {{ item.description | markdownify | strip_html | truncatewords: 20 }}
       {% else %}
         {{ item.excerpt | strip_html | truncatewords: 20 }}
       {% endif %}
-    </div>
+    </div> -->
   </div>
 
 <!--   {% if item.collection == 'posts' and item.tags and site.archive_permalink %}

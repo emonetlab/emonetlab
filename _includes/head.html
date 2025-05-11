@@ -44,9 +44,13 @@
     <meta property="og:description" content="{{ description }}">
   {% endif %}
   {% if page.background.first %}
-    {% assign background = page.background.img %}
+      {% assign background = page.background.img %}
   {% else %}
-    {% assign background = page.background %}
+    {% if page.background-use %}
+    {% assign background = '/assets/backgrounds/jyot-phages-blue.jpg' | relative_url %}
+    {% else %}
+      {% assign background = page.background %}
+    {% endif %}
   {% endif %}
   {% if background %}
     <meta property="og:image" content="{{ background | absolute_url }}">

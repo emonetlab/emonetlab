@@ -28,14 +28,6 @@
   extra: |-
     * contributed equall
 
-- authors: "Vo L*, Avgidis F*, Mattingly H*, Edmunds K, Burger I, Balasubramanian R, Shimizu TS, Kazmierczak BI, Emonet T"
-  title: "Non-genetic adaptation by collective migration"
-  journal: "bioRxiv 2024.01.02.573956;"
-  date: "2024"
-  extra: |-
-    * contributed equally
-
-
 - authors: "Nesper J*, Hug I*, Kato S*, Hee C-S*, Habazettl JM, Mandredi P, Grzesiek S, Tilman S, Emonet T, Jenal U"
   title: "Cyclic di-GMP differentially tunes a bacterial flagellar motor through a novel class of CheY-like regulators"
   journal: "eLife 6:e28842"
@@ -100,12 +92,6 @@
   journal: "Cell Systems 15, 1-11 (2024)"
   doi: "10.1016/j.cels.2024.06.003"
   date: "2024"
-
-- authors: "Kamino K, Kadakia N, Avgidis F, Liu Z, Aoki K, Shimizu TS, Emonet T"
-  title: "Optimal inference of molecular interaction dynamics in FRET microscopy"
-  journal: "PNAS"
-  edition: " 120 (15) e2211807120 (2023)"
-  date: "2023"
 
 - authors: "Mattingly H, Emonet T"
   title: "Collective behavior and non-genetic inheritance allow bacterial populations to adapt to changing environments"
