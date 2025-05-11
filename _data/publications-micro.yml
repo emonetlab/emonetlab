@@ -1,6 +1,6 @@
 
-- authors: "Vo L*, Avgidis F*, Mattingly HH*, Edmonds K, Burger I, Balasubramanian R, Shimizu TS, Kazmierczak BI, Emonet T."
-  title: "Non-genetic adaptation by collective migration."
+- authors: "Vo L*, Avgidis F*, Mattingly HH*, Edmonds K, Burger I, Balasubramanian R, Shimizu TS, Kazmierczak BI, Emonet T"
+  title: "Non-genetic adaptation by collective migration"
   journal: "PNAS, 122 (8) e2423774122"
   date: "2025"
   doi: "https://doi.org/10.1073/pnas.2423774122"
@@ -29,7 +29,7 @@
     * contributed equall
 
 - authors: "Vo L*, Avgidis F*, Mattingly H*, Edmunds K, Burger I, Balasubramanian R, Shimizu TS, Kazmierczak BI, Emonet T"
-  title: "Non-genetic adaptation by collective migration."
+  title: "Non-genetic adaptation by collective migration"
   journal: "bioRxiv 2024.01.02.573956;"
   date: "2024"
   extra: |-
@@ -58,13 +58,13 @@
     Note: There were several typos in the published PDF. Make sure to use this corrected version: pdf
 
 - authors: "Sliusarenko O, Heinritz J, Emonet T*, Jacobs-Wagner C.*"
-  title: "High-throughput, subpixel precision analysis of bacterial morphogenesis and intracellular spatio-temporal dynamics."
+  title: "High-throughput, subpixel precision analysis of bacterial morphogenesis and intracellular spatio-temporal dynamics"
   journal: "Mol. Micro., 80(3):612–627"
   date: "2011-05"
-   extra: |-
-     * Co-corresponding authors
+  extra: |-
+    * Co-corresponding authors
 
-- authors: "Sneddon MW, Faeder JR, Emonet T."
+- authors: "Sneddon MW, Faeder JR, Emonet T"
   title: "Efficient modeling, simulation and coarse-graining of biological complexity with NFsim,"
   journal: "Nature Methods, 8:177-183"
   date: "2011"
@@ -115,7 +115,7 @@
 
 - authors: "Moore JP, Kamino K, Emonet T"
   title: "Non-Genetic Diversity in Chemosensing and Chemotactic Behavior"
-  journal: "Int. J. Mol. Sci."
+  journal: "Int. J. Mol. Sci"
   edition: "2021, 22(13), 6960"
   date: "2021"
 
@@ -211,7 +211,7 @@
 
 - authors: "Chylek LA, Hu B, Blinov ML, Emonet T, Faeder JR, Goldstein Byron, Gutenkunst RN, Haugh JM, Lipniacki T, Posner RG, Yang J and Hlavacek WS"
   title: "Guidelines for visualizing and annotating rule-based models"
-  journal: "Mol. BioSyst."
+  journal: "Mol. BioSyst"
   edition: "(2011)"
   date: "2011"
 
@@ -282,7 +282,7 @@
 
 - authors: "Le TT, Emonet T, Harlepp S., Guet CC, Cluzel P"
   title: "Dynamical determinants of inducible gene expression in a single bacterium"
-  journal: "Biophysical J."
+  journal: "Biophysical J"
   edition: "90(9):3315-21 (2006)"
   date: "2006"
 
