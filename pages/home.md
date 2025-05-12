@@ -26,7 +26,7 @@ We investigate how organisms compute and interpret chemical signals. By combinin
 
 #### Why Chemical Navigation?
 
-Chemical navigation is not just about following gradients—it involves complex computations in three main areas:
+Chemical navigation is not just about following chemical gradients—it involves complex computations in three main areas:
 
 <div class="col-lg">
     <ul class="fa-ul">
