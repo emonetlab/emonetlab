@@ -16,7 +16,7 @@ hero:
 
 <!-- #### What We Do -->
 
-We investigate how organisms compute and interpret chemical signals. By combining mathematical modeling with quantitative experiments, our research decodes the processes that drive navigation. Our goal is to explain the signal processing and decision-making mechanisms used to translate chemical cues into behavior.
+We investigate how organisms compute and interpret chemical signals. By combining quantitative experiments with mathematical modeling, our research decodes the processes that drive navigation. Our goal is to explain the signal processing and decision-making mechanisms used to translate chemical cues into behavior.
 
 <br>
 
