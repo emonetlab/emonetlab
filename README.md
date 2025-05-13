@@ -29,7 +29,7 @@ All data is sorted alphabetically or by year depending on the content type. No n
  - Once a lab member leaves:
    - Move their picture from `assets/team` to `assets/team/alumni`.
    - Move their data from `team.yml` to `alumni.yml`.
-   - Modify 
+   ***Note:** the `team.html` and `alumni.html` pages look for pictures in their respective folders automatically.*
 - Neuroscience publications data is located in `_data/publications-neuro.yml`.
 - Microbiology publications data is located in `_data/publications-micro.yml`.
 ***Note:** the "Everything" publications page populates automatically by combining both data files.*

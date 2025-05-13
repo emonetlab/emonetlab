@@ -79,7 +79,7 @@ Now output the sections, each with its header.
           <div class="d-flex team-member">
             <div class="flex-shrink-0 me-3">
               {% if member.image %}
-                <img src="assets/team/alumni/{{ member.image }}" alt="{{ member.name }}">
+                <img src="{{ 'assets/team/alumni/' | append: member.image | relative_url }}" alt="{{ member.name }}">
               {% endif %}
             </div>
             <div>
