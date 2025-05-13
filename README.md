@@ -22,19 +22,16 @@ see it live [here](https://emonetlab.github.io/emonetlab)
 
 Navigation menu items and links are located in `_data/navigation.yml`.
 
-## Lab members, alumni, publications...
+## Lab members and alumni
 
-All data is sorted alphabetically or by year depending on the content type. No need to reorder entries in the data files when adding/removing information.
+All data is sorted alphabetically. No need to reorder entries in the source data files when adding/removing information.
 
 -  Lab members data is located in `_data/team.yml`.
 -  Alumni data is located in `_data/alumni.yml`.
   - Once a lab member leaves:
     - Move their picture from `assets/team` to `assets/team/alumni`.
     - Move their data from `team.yml` to `alumni.yml`.
-    - ***Note:** the `team.html` and `alumni.html` pages look for pictures in their respective folders automatically.*
--  Neuroscience publications data is located in `_data/publications-neuro.yml`.
--  Microbiology publications data is located in `_data/publications-micro.yml`.
-  - ***Note:** the "Everything" publications page populates automatically by combining both data files.*
+    - ***Note:** the `_layouts/team.html` and `_layouts/alumni.html` pages look for pictures in their respective folders automatically.*
 
 
 Example entry for a new lab member:
@@ -53,6 +50,15 @@ Example entry for a new lab member:
   email: gustavo.santana@yale.edu
   website: https://gumadeiras.com
 ```
+
+## Publications
+
+All data is sorted by date. No need to reorder entries in the source data files when adding/removing information.
+
+-  Neuroscience publications data is located in `_data/publications-neuro.yml`.
+-  Microbiology publications data is located in `_data/publications-micro.yml`.
+  - ***Note:** the "Everything" publications page populates automatically by combining both data files.*
+
 
 Example entry for a new publication:
 
