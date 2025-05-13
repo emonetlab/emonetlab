@@ -2,7 +2,7 @@
 
 see it live [here](https://emonetlab.github.io/emonetlab)
 
-# Posting News
+# Posting news
 
 1. Duplicate a `.md` file in `_posts` (any old news post) as a starting template.
 2. Edit the file name using the following format: `YYYY-MM-DD-title-separated-by-dashes.md`.
@@ -14,15 +14,16 @@ see it live [here](https://emonetlab.github.io/emonetlab)
      - `background` (this will be used as the photo on the news blurb on the home/archive page)
      - `date`
 5. Push your changes to the repository and monitor the [GitHub Actions](https://github.com/emonetlab/emonetlab/actions) tab for any errors.
+   - The GitHub Action will automatically build and deploy the new version of the website. To see changes, force refresh the page on your browser.
 
 
-# Editing
+# Editing content
 
-## Navigation Menu
+## Navigation menu
 
 Navigation menu items and links are located in `_data/navigation.yml`.
 
-## Lab members and alumni
+## Adding a lab member or alumni
 
 All data is sorted alphabetically. No need to reorder entries in the source data files when adding/removing information.
 
@@ -51,13 +52,13 @@ Example entry for a new lab member:
   website: https://gumadeiras.com
 ```
 
-## Publications
+## Adding a publication
 
 All data is sorted by date. No need to reorder entries in the source data files when adding/removing information.
 
 -  Neuroscience publications data is located in `_data/publications-neuro.yml`.
 -  Microbiology publications data is located in `_data/publications-micro.yml`.
-  - ***Note:** the "Everything" publications page populates automatically by combining both data files.*
+  - ***Note:** the "Everything" publications page populates automatically by combining data from both files.*
 
 
 Example entry for a new publication:
