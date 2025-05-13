@@ -312,3 +312,52 @@
   date: "2004"
   extra: |-
     \* co-first author
+
+- authors: "Mattingly HH*, Kamino K*, Machta BB#, Emonet T#"
+  title: "Escherichia coli chemotaxis is information limited"
+  journal: "Nature Physics 17, 1426–1431"
+  when: "2021"
+  extra: |-
+    \* contributed equally, #co-corresponding authors
+    - Неоптимальная обработка информации замедлила хемотаксис кишечной палочки, Dec 3, 2021
+    - Bacterial bandwidth, Yale News, Dec 7, 2021
+    - Information processing constrains how E. coli bacteria navigate chemical gradients, by Ingrid Fadelli, Phys.org News, January 11, 2022
+    - E. coli’s Streaming Bandwidth, By Abigail Jolteus, May 16, 202
+
+- authors: "Kamino K, Keegstra JM, Long J, Emonet T*, Shimizu TS*"
+  title: "Adaptive tuning of cell sensory diversity without changes in gene expression"
+  journal: "Science Advances, Vol. 6, no. 46, eabc1087"
+  when: "2020"
+  extra: |-
+    \* corresponding authors
+    - Dynamic risk management in cell populations, EurekaAlert Nov 13 2020
+    - Cellular bet hedgers cash in when environment changes, Yale New
+
+- authors: "Fu X*, Kato S*,  Long J, Mattingly HH, He C, Vural DC, Zucker SW & Emonet T"
+  title: "Spatial Self-Organization Resolves Conflicts Between Individuality and Collective Migration"
+  journal: "Nature Communications 9, Article number: 2177"
+  when: "2018"
+  extra: |-
+    \* contributed equally
+    - Yale News, by Bill Hathaway
+    - preLights by Amanda Haage
+
+- authors: "Waite AJ*, Frankel NW*, Dufour Y*, Johnston JF, Long J and Emonet T"
+  title: "Non‐genetic diversity modulates population performance"
+  journal: "Molecular Systems Biology, 12: 895, 1-14"
+  when: "2016"
+  extra: |-
+    \* contributed equally
+    - See also News and Views: van Vliet S & Ackermann M, Stochastic gene expression: bacterial elites in chemotaxis, Molecular Systems Biology, 13: 909, 1-2 (2017)
+    - Recommended in  F1000Prime http://f1000.com/prime/727128562?bd=1&ui=22314
+
+- authors: "Dufour YS, Gillet S, Frankel NW, Weibel DB, Emonet T"
+  title: "Direct correlation between motile behavior and protein abundance in single cells"
+  journal: "PLoS Comput Biol. 12(9):e1005041"
+  when: "2016"
+  extra: |-
+
+- authors: "Frankel N"
+  title: "Trade-offs in Bacterial Chemotaxis and the Adaptation of Non-Genetic Diversity"
+  journal: "Dissertation"
+  when: "2014"

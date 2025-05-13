@@ -1,35 +1,35 @@
 - name: "Aarti Sehdev"
   when: "2020-2023"
   role: "Postdoc"
-  image: assets/team/aarti-sehdev.jpg # Can be external link
+  image: aarti-sehdev.jpg # Can be external link
   now: Data engineer consultant at [Kubrick](https://www.kubrickgroup.com/us/).
   website: https://www.linkedin.com/feed/update/urn:li:activity:7020477652058689536/
 
 - name: "Nirag Kadakia"
   role: "Postdoc"
   when: "2019-2023"
-  image: assets/team/nirag-kadakia.jpg # Can be external link
+  image: nirag-kadakia.jpg # Can be external link
   now: Neural Interfaces Researcher, [Reality Labs](https://tech.fb.com/ar-vr/).
   website: https://nkadakia.com
 
 - name: "Mahmut Demir"
   role: "Postdoc"
   when: "2015-2022"
-  image: assets/team/mahmut-demir.jpg # Can be external link
+  image: mahmut-demir.jpg # Can be external link
   now: Senior Research Scientist, [Apple Tree Partners](https://www.appletreepartners.com).
   website: https://scholar.google.com/citations?user=G6PyTbEAAAAJ&hl=en
 
 - name: "Average Phan"
   role: "Postdoc"
   when: "2022-2023"
-  image: assets/team/average-phan.jpg # Can be external link
+  image: average-phan.jpg # Can be external link
   now: Postdoc in the Department of Chemical and Biomolecular Engineering at Johns Hopkins University.
   website: https://trungphan.squarespace.com/
 
 - name: "Agastya Rana"
   role: "Undergraduate Student"
   when: "2022-2023"
-  image: assets/team/agastya-rana.jpg
+  image: agastya-rana.jpg
   now: Quantitative Trading, SIG
   description: >
     Agastya is an undergraduate interested in applying mathematical and computational modelling techniques to biological systems. He is currently working on using data assimilation to quantify the cellular parameters that govern bacterial chemotaxis. In his free time, he enjoys swimming, playing basketball and finding new music to listen to.
@@ -38,7 +38,7 @@
 - name: "Austen Theroux"
   role: "Undergraduate Student"
   when: "2022-2023"
-  image: assets/team/austin-theroux.jpg
+  image: austin-theroux.jpg
   now: Research assistant, Harvard University
   description: >
     Austen is an undergraduate student majoring in Earth and Planetary Sciences. He is broadly interested in evolutionary systems and environmental geomicrobiology. He currently studies the evolutionary dynamics of how E. coli develop resistance to bacteriophage chi, a virus that infects bacteria by first binding to the flagella. In his free time, he enjoys swimming, reading, and learning languages.
@@ -47,7 +47,7 @@
 - name: "Rafaela Kottou"
   role: "Undergraduate Student"
   when: "2021-2023"
-  image: assets/team/rafaela-kottou.jpg
+  image: rafaela-kottou.jpg
   now: Analyst, Cornerstone Research
   description: >
     Rafaela is an undergraduate interested in studying biochemistry through the lens of mathematical modeling. She is currently trying to understand how different binding modalities affect the diversity of sensory parameters in bacterial chemosensing. In her free time, she writes for the Yale Daily News and enjoys spending time outdoors.
@@ -56,7 +56,7 @@
 - name: "Ravi Balasubramanian"
   role: "Undergraduate Student"
   when: "2023-2024"
-  image: assets/team/ravi-balasub.png
+  image: ravi-balasub.png
   now: Fullbright Interdisciplinary Masters in Life Sciences, Institut Curie
   description: >
     Ravi is an undergraduate interested in the living world and how it is structured on mathematical, physical, and biological levels. He is currently studying how E. coli adapt to their environment and how they spatially organize themselves during group migration. In his free time he enjoys hiking, magical realist literature (Borges in particular), playing sitar, the card game Magic the Gathering, and hosting study breaks for his friends. He also enjoys solving puzzles and making puns.
@@ -65,7 +65,7 @@
 - name: "Viraaj Jayaram"
   role: "Graduate Student"
   when: "2020-2024"
-  image: assets/team/viraaj-jayaram.jpg
+  image: viraaj-jayaram.jpg
   program: >
     [Physics](https://physics.yale.edu), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
   description: >
@@ -76,221 +76,221 @@
 - name: "Swayamshree Patra"
   role: "Postdoc"
   when: "2022-2024"
-  image: assets/team/swayamshree-patra.jpg
+  image: swayamshree-patra.jpg
   description: >
     Swayamshree is working on the theoretical aspects of chemical navigation. She finished her PhD at Indian Institute of Technology Kanpur under the guidance of Debashish Chowdhury where she developed theories for control and coordination of flagellar length in multiflagellated eukaryotes. In her free time she loves to explore new techniques of digital art for communicating her scientific projects.
   email: swayamshree.patra@yale.edu
 
 - name: "Swayamshree Patra"
   role: "Postdoc"
-  image: assets/team/empty.jpg
+  image: empty.jpg
 
 - name: "Henry Mattingly"
   role: "Postdoc"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Associate Research Scientist at CCB, Flatiron Institute
 
 - name: "Keita Kamino"
   role: "Postdoc"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Assistant Professor at Academia Sinica, Taiwan
 
 - name: "Artur Wachtel"
   role: "Postdoc"
-  image: assets/team/empty.jpg
+  image: empty.jpg
 
 - name: "Adam Waite"
   role: "Postdoc"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Research Specialist at Calico Labs
 
 - name: "Amitaba Nandi"
   role: "Postdoc"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Assistant Professor at IIT, Bombay, India
 
 - name: "Carlotta Martelli"
   role: "Postdoc"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Junior Group Leader, J. Gutenberg University Mainz, Germany
 
 - name: "Dervis Can Vural"
   role: "Postdoc"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Assistant Professor at Notre Dame University, IN
 
 - name: "Garrit Jentsch"
   role: "Postdoc"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Managing director of BAST GmbH Clinical Data Science and Model Based Drug Development
 
 - name: "Oleksii Sliusarenko"
   role: "Postdoc"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Quant researcher at a quantitative hedge fund
 
 - name: "Roger Alexander"
   role: "Postdoc"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Senior Research Scientist, Pacific Northwest Diabetes Research, Seattle
 
 - name: "Xiongfei Fu"
   role: "Postdoc"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Assistant Professor, Shenzhen Institute of Advanced Technology, The Chinese Academy of Sciences, Shenzhen, China
 
 - name: "Yann Dufour"
   role: "Postdoc"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Assistant Professor at Michigan State University, Lansing, MI
 
 - name: "Setsu Kato"
   role: "Postdoc"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Assistant Professor at Hiroshima University, Japan
 
 - name: "Junjiajia Long"
   role: "Graduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Quantitative trader, Tower Research Capital, NYC.
 
 - name: "Michael Sneddon"
   role: "Graduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Director of Scientific Computing at Predicine
 
 - name: "Nicholas Frankel"
   role: "Graduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Postdoc with Wendell Lim at UCSF, San Francisco, CA
 
 - name: "Srinivas Gorur-Shandilya"
   role: "Graduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Postdoc with Eve Marder, Brandeis University
 
 - name: "William Pontius"
   role: "Graduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Software Engineer, Mighty.com, New York City
 
 - name: "Tomas Lamot"
   role: "Postgraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Graduate student at University of Namur in Belgium
 
 - name: "Luca Rappez"
   role: "Postgraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Graduate student at EMBL Heidelberg, Germany
 
 - name: "Noah Olsman"
   role: "Postgraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Graduate student at Caltech, Pasadena CA
 
 - name: "Pedro Cisneros"
   role: "Postgraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Graduate student at UCSB, Santa Barbara CA
 
 - name: "Sébastien Gillet"
   role: "Postgraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Graduate student at University of Namur, Belgium
 
 - name: "Luis Hernandez-Nuñes"
   role: "Postgraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Graduate student at Harvard, Cambridge MA
 
 - name: "Will Rosenbluth"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Nuclear Engineer at Naval Reactors, Washington DC
 
 - name: "Ethan Brown"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Bioinformatics analyst at Tempus Labs, Chicago
 
 - name: "Jude Ong"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Postgraduate researcher at NIH
 
 - name: "Garima Singh"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Began job at SparkCognition
 
 - name: "Helen Cai"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Began job at Epic Systems
 
 - name: "Hope Anderson"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Graduate student at The University of Chicago
 
 - name: "Charlotte Brannon"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Graduate student at Stanford University
 
 - name: "Adam Fine"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Graduate student at University of Chicago physics
 
 - name: "Megan Ayers"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Graduate student at Yale University
 
 - name: "Mattia Mahmoud"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Undergraduate at Harvard University
 
 - name: "Abhishek Sethi"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
 
 - name: "Adam Bildersee"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Software engineer at Google[x]
 
 - name: "Faez Syed"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
 
 - name: "Jennifer Wang"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
 
 - name: "Michael Weiner"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
   now: Graduate student Cornell University
 
 - name: "Tobias Holden"
   role: "Undergraduate Student"
-  image: assets/team/empty.jpg
+  image: empty.jpg
 
 - name: "Bohan Shakes"
   role: "Undergraduate Student"
   when: "2023"
-  image: assets/team/empty.jpg
+  image: empty.jpg
 
 - name: "Isabel Burger"
   role: "Undergraduate Student"
   when: "2023"
-  image: assets/team/empty.jpg
+  image: empty.jpg
 
 - name: "Karah Edmonds"
   role: "Undergraduate Student"
   when: "2024"
-  image: assets/team/empty.jpg
+  image: empty.jpg
