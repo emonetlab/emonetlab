@@ -37,7 +37,7 @@ E: carrie.nardella@yale.edu
 ```
 BASS Receiving
 266 Whitney Ave.
-YSB C155
+YSB C169
 New Haven, CT 06511
 P: +1 (203) 432-9599
 ```
