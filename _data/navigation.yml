@@ -22,12 +22,12 @@
 #     href: /funding/
 - text: Publications
   menu:
-  - text: Neuroscience
-    href: /pubs-neuro/
-  - text: Microbiology
-    href: /pubs-micro/
   - text: Everything
     href: /pubs-all/
+  - text: Microbiology
+    href: /pubs-micro/
+  - text: Neuroscience
+    href: /pubs-neuro/
 - text: News
   href: /news/
 - text: Contact
