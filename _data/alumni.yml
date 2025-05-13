@@ -279,3 +279,18 @@
 - name: "Tobias Holden"
   role: "Undergraduate Student"
   image: assets/team/empty.jpg
+
+- name: "Bohan Shakes"
+  role: "Undergraduate Student"
+  when: "2023"
+  image: assets/team/empty.jpg
+
+- name: "Isabel Burger"
+  role: "Undergraduate Student"
+  when: "2023"
+  image: assets/team/empty.jpg
+
+- name: "Karah Edmonds"
+  role: "Undergraduate Student"
+  when: "2024"
+  image: assets/team/empty.jpg
