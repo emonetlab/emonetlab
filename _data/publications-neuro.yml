@@ -13,15 +13,16 @@
   journal: 'bioRxiv'
   date: '2025-04-03'
   doi: 10.1101/2025.03.31.646361
+  html: https://www.biorxiv.org/content/10.1101/2025.03.31.646361v1
 
 - authors: 'Choi K*, Rosenbluth W*, Graf IR, Kadakia N#, Emonet T#'
   title: 'Bifurcation enhances temporal information encoding in the olfactory periphery'
   journal: 'PRX Life 2'
   edition: '043011'
   date: '2024-11'
+  html: https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.043011
   extra: |-
     \* contributed equally; # co-corresponding authors
-  html: https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.043011
 
 - authors: 'Szyszka P, Emonet T, Edwards TL'
   title: 'Extracting spatial information from temporal odor patterns: insights from insects'
@@ -63,7 +64,6 @@
     - [Yale News article](https://news.yale.edu/2022/11/09/flies-smell-motion-odors-and-use-it-navigate-yale-study-finds) by Bill Hathaway
     - [YouTube: Flies smell the motion of odors and use it to navigate](https://www.youtube.com/embed/3CC-0t8vPPM)
     - [How animals follow their nose](https://knowablemagazine.org/article/living-world/2023/how-animals-follow-their-nose), Knowable Magazine, by Dana Mackenzie, March 6 2023
-  suppinfo: papers/kadakia_emonet_2022_suppinfo.pdf
 
 - authors: 'Demir M*, Kadakia N*, Anderson HD, Clark DA, Emonet T'
   title: 'Walking Drosophila navigate complex plumes using stochastic decisions biased by the timing of odor encounters'
@@ -95,10 +95,10 @@
   edition: '6:e27670'
   date: '2017'
   doi: 10.7554/eLife.27670
-  extra: |-
-    \* contributed equally; 1corresponding authors
   html: https://elifesciences.org/articles/27670
   pdf: /assets/papers/past/gorurshandilya_emonet_2017_paper.pdf
+  extra: |-
+    \* contributed equally; 1corresponding authors
 
 - authors: 'Emonet T & Vergassola M'
   title: 'Olfactory cues and memories in animal navigation'

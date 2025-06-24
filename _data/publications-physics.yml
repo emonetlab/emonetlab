@@ -60,6 +60,8 @@
   journal: 'Astrophysical Letters & Communications'
   edition: '34, 9-15 (1996)'
   date: '1996'
+  html: https://adsabs.harvard.edu/full/1996ApL%26C..34....9E
+  pdf: /assets/papers/past/MHS_1996.pdf
 
 - authors: 'Emonet, T. & Moreno Insertis, F.'
   title: 'Equilibrium of twisted horizontal magnetic flux tubes'
