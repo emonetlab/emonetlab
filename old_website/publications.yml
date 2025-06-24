@@ -1,0 +1,272 @@
+- title: 'Fly navigational responses to odor motion and gradient cues are tuned to plume statistics'
+  10.1101/2025.03.31.646361: https://doi.org/10.1101/2025.03.31.646361
+- title: 'Divergent synaptic dynamics originate parallel pathways for computation and behavior in an olfactory circuit.'
+  10.1016/j.cub.2025.05.051: https://doi.org/10.1016/j.cub.2025.05.051
+- title: 'Non-genetic adaptation by collective migration'
+  https://doi.org/10.1073/pnas.2423774122: https://doi.org/10.1073/pnas.2423774122
+- title: 'Microscopic phage adsorption assay: High-throughput quantification of virus particle attachment to host bacterial cells'
+  html: https://www.pnas.org/doi/10.1073/pnas.2410905121
+- title: 'Physics of bacterial chemotaxis'
+  html: https://authors.elsevier.com/a/1jzSR3QW8S6Eyz
+- title: 'E. coli do not count single molecules'
+  https://doi.org/10.1101/2024.07.09.602750: https://doi.org/10.1101/2024.07.09.602750
+- title: 'Bifurcation enhances temporal information encoding in the olfactory periphery'
+  html: https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.043011
+- title: 'Lattice ultrasensitivity produces large gain in E. coli chemosensing'
+  https://doi.org/10.1101/2024.05.28.596300: https://doi.org/10.1101/2024.05.28.596300
+- title: 'Signal integration and adaptive sensory diversity tuning in Escherichia coli chemotaxis'
+  https://doi.org/10.1016/j.cels.2024.06.003: https://doi.org/10.1016/j.cels.2024.06.003
+  html: https://doi.org/10.1016/j.cels.2024.06.003
+  pdf: https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fa%2F1jOXh8YyDfqlJ%257E/1/0102019092dc7bf0-310ee50e-40e7-4ae2-8805-1c6360e1d038-000000/tG0kLQ5N6zL9EjyLPytcztkP9sg=381
+- title: 'Olfactory cues and memories in animal navigation'
+  https://doi.org/10.1038/s42254-024-00710-7: https://doi.org/10.1038/s42254-024-00710-7
+  html: https://www.nature.com/articles/s42254-024-00710-7
+- title: 'Direct measurement of dynamic attractant gradients reveals breakdown of the Patlak-Keller-Segel chemotaxis model'
+  html: https://www.pnas.org/doi/10.1073/pnas.2309251121
+  pdf: papers/phan_emonet_2023_paper.pdf
+  supp_info: papers/phan_emonet_2023_suppinfo.pdf
+- title: 'Non-genetic adaptation by collective migration.'
+  biorxiv: https://www.biorxiv.org/content/10.1101/2024.01.02.573956v1
+- title: 'Extracting spatial information from temporal odor patterns: insights from insects.'
+  html: https://authors.elsevier.com/c/1hTg97tYJFnQVO
+- title: 'Temporal novelty detection and multiple timescale integration drive Drosophila orientation dynamics in temporally diverse olfactory environments'
+  html: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010606
+  pdf: papers/jayaram_emonet_2023_paper.pdf
+  biorxiv: https://doi.org/10.1101/2022.09.28.509840
+- title: 'Optimal inference of molecular interaction dynamics in FRET microscopy'
+  html: https://www.pnas.org/doi/10.1073/pnas.2211807120
+  pdf: papers/kamino_emonet_2023_paper.pdf
+  supp_info: papers/kamino_emonet_2023_suppinfo.pdf
+- title: 'Odor motion sensing enhances complex plume navigation'
+  html: https://doi.org/10.1038/s41586-022-05423-4
+  pdf: papers/kadakia_emonet_2022_paper.pdf
+  supp_info: papers/kadakia_emonet_2022_suppinfo.pdf
+  news_and_views:_flies_catch_wind_of_where_smells_come_from: https://doi.org/10.1038/d41586-022-03561-3
+  yale_news_article: https://news.yale.edu/2022/11/09/flies-smell-motion-odors-and-use-it-navigate-yale-study-finds
+  youtube:_flies_smell_the_motion_of_odors_and_use_it_to_navigate: https://www.youtube.com/embed/3CC-0t8vPPM
+  how_animals_follow_their_nose: https://knowablemagazine.org/article/living-world/2023/how-animals-follow-their-nose
+- title: 'Navigation: Where is that smell coming from?'
+  html: https://elifesciences.org/articles/82635
+- title: 'Collective behavior and non-genetic inheritance allow bacterial populations to adapt to changing environments.'
+  html: https://www.pnas.org/doi/10.1073/pnas.2117377119
+  biorxiv: https://www.biorxiv.org/content/10.1101/2021.09.21.461202v1.full.pdf+html
+  pdf: papers/mattingly_emonet_2022_paper.pdf
+- title: 'Sensing complementary temporal features of odor signals enhances navigation of diverse turbulent plumes'
+  html: https://elifesciences.org/articles/72415
+- title: 'Escherichia coli'
+  html: https://www.nature.com/articles/s41567-021-01380-3?proof=t%C2%A0
+  pdf: papers/mattingly_emonet_2021_paper.pdf
+  supp_info: papers/mattingly_emonet_2021_suppinfo.pdf
+  неоптимальная_обработка_информации_замедлила_хемотаксис_кишечной_палочки: https://nplus1.ru/news/2021/12/03/e-coli-inf
+  bacterial_bandwidth: https://news.yale.edu/2021/12/07/insights-outcomes-extra-electrons-virtual-scribes-and-more
+  information_processing_constrains_how_e._coli_bacteria_navigate_chemical_gradients: https://phys.org/news/2022-01-constrains-coli-bacteria-chemical-gradients.html
+  e._coli’s_streaming_bandwidth: http://www.yalescientific.org/2022/05/e-colis-streaming-bandwidth￼/
+- title: 'Non-Genetic Diversity in Chemosensing and Chemotactic Behavior'
+  html: https://www.mdpi.com/1422-0067/22/13/6960
+  pdf: papers/moore_emonet_2021_paper.pdf
+- title: 'Adaptive tuning of cell sensory diversity without changes in gene expression'
+  html: https://advances.sciencemag.org/content/6/46/eabc1087
+  pdf: papers/kamino_shimizu_2020_paper.pdf
+  suppinfo: https://emonet.biology.yale.edu/sites/default/files/files/2020_scienceAdvancesKeita_SM.pdf
+  dynamic_risk_management_in_cell_populations: https://www.eurekalert.org/pub_releases/2020-11/a-drm111020.php
+  cellular_bet_hedgers_cash_in_when_environment_changes: https://news.yale.edu/2020/11/16/insights-outcomes-cellular-bet-hedgers-and-message-magnetar
+- title: 'Walking Drosophila navigate complex plumes using stochastic decisions biased by the timing of odor encounters'
+  html: https://elifesciences.org/articles/63385
+  pdf: papers/demir_emonet_2020_paper.pdf
+  figures_and_supplements: https://emonet.biology.yale.edu/sites/default/files/files/2020_elife_demir_kadakia_figures_and_SI.pdf
+  how_insects_find_their_targets_in_a_chaotic_world: https://news.yale.edu/2020/11/03/how-insects-find-their-targets-chaotic-world
+  youtube_video: https://www.youtube.com/watch?v=NsjouzeURIw
+  yale_scientists_track_how_walking_fruit_flies_navigate_to_odor_sources: https://yaledailynews.com/blog/2020/11/16/yale-scientists-track-how-walking-fruit-flies-navigate-to-odor-sources/
+- title: 'Modulation of flagellar rotation in surface-attached bacteria: a circuit for rapid surface-sensing'
+  html: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008149
+- title: 'Controlling and measuring dynamic odorant stimuli in the laboratoryJournal of Experimental Biology,'
+  html: http://jeb.biologists.org/lookup/doi/10.1242/jeb.207787
+- title: 'Front-end Weber-Fechner gain control enhances the fidelity of combinatorial odor coding'
+  html: https://elifesciences.org/articles/45293
+  pdf: papers/kadakia_emonet_2019_paper.pdf
+- title: 'Organization of Embryonic Morphogenesis via Mechanical Information'
+  html: https://www.sciencedirect.com/science/article/pii/S1534580719303867?via%3Dihub
+  pdf: papers/das_holley_2019_paper.pdf
+- title: 'Spatial Self-Organization Resolves Conflicts Between Individuality and Collective Migration'
+  html: https://www.nature.com/articles/s41467-018-04539-4
+  pdf: papers/fu_emonet_2018_paper.pdf
+  supp_info: papers/fu_emonet_2018_suppinfo.pdf
+  yale_news,_by_bill_hathaway: https://news.yale.edu/2018/06/05/bacterial-balancing-act-preserving-diversity-while-move
+  prelights_by_amanda_haage: https://prelights.biologists.com/highlights/spatial-self-organization-resolves-conflicts-individuality-collective-migration/
+- title: 'Behavioral variability and phenotypic variability in bacterial chemotaxis'
+  html_and_pdf: http://www.annualreviews.org/eprint/v9f7Sf7kXICsk49Ve84q/full/10.1146/annurev-biophys-062215-010954
+- title: 'Phenotypic diversity and temporal variability in a bacterial signaling network revealed by single-cell FRET'
+  pdf: papers/keegstra_shimizu_2017_paper.pdf
+  html: https://elifesciences.org/articles/27455
+  supp_info: papers/keegstra_shimizu_2017_suppinfo.035
+- title: 'Cyclicdi-GMPdifferentially tunes abacterial flagellar motor through a novelclass ofCheY-like'
+  pdf: papers/nesper_jenal_2017_paper.pdf
+  ​: https://emonet.biology.yale.edu/sites/default/files/files/elife-28842-v2.pdf
+  html: https://elifesciences.org/articles/28842
+- title: 'Patterned Disordered Cell Motion Ensures Vertebral Column Symmetry'
+  html: http://www.cell.com/developmental-cell/abstract/S1534-5807(17)30508-7
+  pdf: papers/das_holley_2017_paper.pdf
+  supp_info: papers/das_holley_2017_suppinfo.pdf
+- title: 'Olfactory receptor neurons use gain control and complementary kinetics to encode intermittent odorant stimuli'
+  doi:_10.7554/elife.27670: https://doi.org/10.7554/eLife.27670
+  html: https://elifesciences.org/articles/27670
+  pdf: papers/gorurshandilya_emonet_2017_paper.pdf
+- title: 'Feedback between motion and sensation provides nonlinear boost in run-and-tumble navigation'
+  html: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005429
+  pdf: papers/long_emonet_2017_paper.pdf
+  supp_info: papers/long_emonet_2017_suppinfo.pdf
+  movie: papers/long_emonet_2017_movie.avi
+- title: 'Non‐genetic diversity modulates population performance'
+  html: http://msb.embopress.org/content/13/1/909
+  pdf: papers/waite_emonet_2016_paper.pdf
+  expanded_view_figures: https://emonet.biology.yale.edu/sites/default/files/files/2016_waite_inline-supplementary-material-2.pdf
+  appendix: https://emonet.biology.yale.edu/sites/default/files/files/2016_waite_inline-supplementary-material-1.pdf
+- title: 'Presynaptic GABA receptors mediate temporal contrast enhancement in Drosophila olfactory sensory neurons and modulate odor-driven behavioral kinetics'
+  html: http://eneuro.org/content/early/2016/07/25/ENEURO.0080-16.2016
+- title: 'Direct correlation between motile behavior and protein abundance in single cells'
+  html: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005041
+  pdf: papers/dufour_emonet_2016_paper.pdf
+  supp_info: papers/dufour_emonet_2016_suppinfo.pdf
+  biorxiv: http://biorxiv.org/content/early/2016/08/04/067918
+- title: 'Trade-offs in Bacterial Chemotaxis and the Adaptation of Non-Genetic Diversity'
+  pdf: papers/frankel_frankel_2014_paper.pdf
+- title: 'Adaptability of non-genetic diversity in bacterial chemotaxis'
+  html: http://elifesciences.org/content/3/e03526
+  pdf: papers/frankel_emonet_2014_paper.pdf
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2014_Frankel.zip
+- title: 'Limits of feedback control in bacterial chemotaxis'
+  pdf: papers/dufour_emonet_2014_paper.pdf
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2014_Dufour_Supp.zip
+  html: http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003694
+- title: 'Adaptation dynamics in densely clustered chemoreceptors.'
+  pdf: papers/pontius_emonet_2013_paper.pdf
+  supp.info.: https://emonet.biology.yale.edu/sites/default/files/files/2013_pontius_PlosCompBio_SuppInfo.pdf
+  html: http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003230
+- title: 'Functional diversity among sensory receptors in a Drosophila olfactory circuit.'
+  pdf: papers/mathew_carlson_2013_paper.pdf
+  supplement: https://emonet.biology.yale.edu/sites/default/files/files/2013_dennis-supp1.pdf
+  data: https://emonet.biology.yale.edu/sites/default/files/files/2013_dennis_supp2.xlsx
+  html: http://www.pnas.org/content/110/23/E2134.short
+- title: 'Cell-Fibronectin interactions propel vertebrate trunk elongation via tissue mechanics.'
+  pdf: papers/dray_holley_2013_paper.pdf
+  html: http://www.sciencedirect.com/science/article/pii/S0960982213006775
+- title: 'Intensity invariant dynamics and odor-specific latencies in olfactory receptor neuron response.'
+  pdf: papers/martelli_and_2013_paper.pdf
+  html: http://www.jneurosci.org/content/33/15/6285.short
+- title: 'Regulated tissue fluidity steers zebrafish body elongation.'
+  pdf: papers/lawton_and_2013_paper.pdf
+  html: http://dev.biologists.org/content/140/3/573.long
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2013_Lawton_supp.pdf
+- title: 'The Her7 node modulates the network topology of the zebrafish segmentation clock via sequestration of the Hes6 hub.'
+  pdf: papers/trofka_and_2012_paper.pdf
+  html: http://dev.biologists.org/content/139/5/940.short
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2012_Development_Trofka_Supp.zip
+- title: 'Modeling cellular signaling: taking space into the computation.'
+  pdf: papers/sneddon_emonet_2012_paper.pdf
+  html: http://www.nature.com/nmeth/journal/v9/n3/full/nmeth.1900.html?WT.ec_id=NMETH-201203
+- title: 'Stochastic coordination of multiple actuators reduces latency and improves chemotactic response in bacteria.'
+  pdf: papers/sneddon_emonet_2012_paper.pdf
+  html: http://www.pnas.org/content/109/3/805.short
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/Sneddon-2011-Appendix.pdf
+- title: 'Thermal robustness: lessons from bacterial chemotaxis.'
+  pdf: papers/dufour_emonet_2011_paper.pdf
+  html: http://www.sciencedirect.com/science/article/pii/S0960982211005410
+- title: 'Guidelines for visualizing and annotating rule-based models.'
+  pdf: papers/chylek_hlavacek_2011_paper.pdf
+  html: http://pubs.rsc.org/en/Content/ArticleLanding/2011/MB/c1mb05077j
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/MolBioSys2011-supp.zip
+- title: '“Systems Immunology: a primer for Biophysicists”, Section: “Mathematical Modeling of Complex Systems: from genes and molecules to organs and organisms: immune system”,'
+  pdf: papers/emonet__2012_paper.pdf
+- title: 'High-throughput, subpixel precision analysis of bacterial morphogenesis and intracellular spatio-temporal dynamics.'
+  pdf: papers/sliusarenko__2011_paper.pdf
+  html: http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2958.2011.07579.x/abstract
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2011_mol_micro_supp.pdf
+  supp._movies: http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2958.2011.07579.x/suppinfo
+  source_code: http://www.microbetracker.org
+- title: 'Temporal coding of odor mixtures in an olfactory receptor neuron.,'
+  pdf: papers/su_carlson_2011_paper.pdf
+  html: http://www.pnas.org/content/108/12/5075
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2011_pnas_olfaction_supp.pdf
+- title: 'Efficient modeling, simulation and coarse-graining of biological complexity with NFsim,'
+  pdf: papers/sneddon_emonet_2011_paper.pdf
+  html: http://www.nature.com/nmeth/journal/v8/n2/full/nmeth0211-130.html
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2011_nature_methods_supp.pdf
+  supp._video_1: https://emonet.biology.yale.edu/sites/default/files/files/papers/2011_nature_methods_video1.mov
+  supp._video_2: https://emonet.biology.yale.edu/sites/default/files/files/2011_nature_methods_video2.mov
+  source_code: http://www.nfsim.org
+- title: 'Interdependence of behavioural variability and response to small stimuli in bacteria,'
+  pdf: papers/park_cluzel_2010_paper.pdf
+  html: http://www.nature.com/nature/journal/v468/n7325/full/nature09551.html
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2010b_nature_supp.pdf
+- title: 'Single-cell quantification of IL-2 response by effector and regulatory T cells reveals critical plasticity in immune response,'
+  pdf: papers/feinerman__2010_paper.pdf
+  html: http://www.nature.com/msb/journal/v6/n1/full/msb201090.html
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2010_msb201090_supp.pdf
+  sbml_model: https://emonet.biology.yale.edu/sites/default/files/files/2010_msb201090_SBML.xml
+- title: 'Fine-Tuning of Chemotactic Response in E. coli Determined by High-Throughput Capillary Assay,'
+  pdf: papers/park_cluzel_2011_paper.pdf
+  html: http://www.ncbi.nlm.nih.gov/pubmed/20972792
+- title: 'Spatial organization of the flow of genetic information in bacteria,'
+  pdf: papers/llopis_jacobswagner_2010_paper.pdf
+  html: http://www.nature.com/nature/journal/v466/n7302/full/nature09152.html
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2010_nature_supp.pdf
+- title: 'The processivity of peptidoglycan synthesis provides a built-in mechanism for the robustness of straight-rod cell morphology,'
+  pdf: papers/sliusarenko_emonet_2010_paper.pdf
+  html: http://www.pnas.org/content/107/22/10086
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2010_pnas_supp.pdf
+- title: 'Understanding Modularity in Molecular Networks Requires Dynamics'
+  pdf: papers/alexander_and_2009_paper.pdf
+  html: http://stke.sciencemag.org/cgi/content/full/sigtrans;2/81/pe44
+- title: 'RodZ, a component of the bacterial core morphogenic apparatus,'
+  pdf: papers/alyahya__2009_paper.pdf
+  html: http://www.pnas.org/content/106/4/1239
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2009_pnas_supp.pdf
+- title: 'Relationship between cellular response and behavioral variability in bacterial chemotaxis,'
+  pdf: papers/emonet_cluzel_2008_paper.pdf
+  html: http://www.pnas.org/cgi/content/full/105/9/3304
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2008_pnas_supp.pdf
+- title: 'Minimally invasive determination of mRNA concentration in single living bacteria,'
+  pdf: papers/guet_cluzel_2008_paper.pdf
+  html: http://nar.oxfordjournals.org/cgi/content/full/gkn329v1/
+  supp._info._file_1: https://emonet.biology.yale.edu/sites/default/files/files/2008_nucleic_acids_research_supp1.doc
+  supp._info._file_2: https://emonet.biology.yale.edu/sites/default/files/files/2008_nucleic_acids_research_supp2.ppt
+- title: 'Dynamical determinants of inducible gene expression in a single bacterium'
+  pdf: papers/le_cluzel_2006_paper.pdf
+  html: http://www.biophysj.org/cgi/content/full/90/9/3315
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2006_biophysical_journal_supp.doc
+- title: 'Hidden stochastic nature of a single bacterial motor'
+  pdf: papers/korobkova_cluzel_2006_paper.pdf
+  html: http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&id=PRLTAO000096000005058105000001
+- title: 'AgentCell: a digital single-cell assay for bacterial chemotaxis'
+  pdf: papers/emonet_cluzel_2005_paper.pdf
+  html: http://bioinformatics.oxfordjournals.org/cgi/content/full/21/11/2714
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2005_bioinformatics_supp.pdf
+- title: 'Simulations of magneto-convection in the solar photosphere - Equations, methods, and results of the MURaM code,'
+  pdf: papers/vogler_linde_2005_paper.pdf
+  html: http://www.aanda.org/index.php?option=article&access=doi&doi=10.1051/0004-6361:20041507
+- title: 'From molecular noise to behavioral variability in a single bacterium'
+  pdf: papers/korobkova_cluzel_2004_paper.pdf
+  html: http://www.nature.com/nature/journal/v428/n6982/full/nature02404.html
+  supp._info.: https://emonet.biology.yale.edu/sites/default/files/files/2004_nature_supp.pdf
+- title: 'On the interaction between convection and magnetic fields,'
+  pdf: papers/cattaneo_weiss_2003_paper.pdf
+  html: http://www.journals.uchicago.edu/doi/abs/10.1086/374313
+- title: 'Polarization of photospheric lines from turbulent dynamo simulations'
+  pdf: papers/almeida_cattaneo_2003_paper.pdf
+  html: http://www.journals.uchicago.edu/doi/abs/10.1086/346077
+- title: 'Small-scale photospheric fields: Observational evidence and numerical simulations'
+  pdf: papers/emonet_f_2001_paper.pdf
+  html: http://www.journals.uchicago.edu/doi/abs/10.1086/324315
+- title: 'The zigzag path of buoyant magnetic tubes and the generation of vorticity along their periphery'
+  pdf: papers/emonet_rast_2001_paper.pdf
+  html: http://www.journals.uchicago.edu/doi/abs/10.1086/319469
+- title: 'The physics of twisted magnetic tubes rising in a stratified medium: Two-dimensional results'
+  pdf: papers/emonet_f_1998_paper.pdf
+  html: http://www.journals.uchicago.edu/doi/abs/10.1086/305074
+- title: 'The rise of twisted magnetic tubes in a stratified medium'
+  pdf: papers/moreno_t_1996_paper.pdf
+  html: http://www.journals.uchicago.edu/doi/abs/10.1086/310360
+- title: 'MHS-equilibrium of twisted magnetic tubes'
+- title: 'Equilibrium of twisted horizontal magnetic flux tubes'
+  pdf: papers/emonet_f_1996_paper.pdf
+  html: http://ucp.uchicago.edu/cgi-bin/resolve?id=doi:10.1086/176858

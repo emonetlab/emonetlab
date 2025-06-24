@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en" class="grade-c">
+<head>
+    <title>Odour motion sensing enhances navigation of complex plumes | Nature</title>
+    <link rel="canonical" href="/articles/s41586-022-05423-4">
+    <noscript>
+        <meta http-equiv="Refresh" content="0; https://www.nature.com/articles/s41586-022-05423-4.pdf">
+    </noscript>
+    
+    
+    <meta name="journal_id" content="41586"/>
+    <meta name="dc.title" content="Odour motion sensing enhances navigation of complex plumes"/>
+    <meta name="dc.source" content="Nature 2022 611:7937"/>
+    <meta name="dc.format" content="text/html"/>
+    <meta name="dc.publisher" content="Nature Publishing Group"/>
+    <meta name="dc.date" content="2022-11-09"/>
+    <meta name="dc.type" content="OriginalPaper"/>
+    <meta name="dc.language" content="En"/>
+    <meta name="dc.copyright" content="2022 The Author(s), under exclusive licence to Springer Nature Limited"/>
+    <meta name="dc.rights" content="2022 The Author(s), under exclusive licence to Springer Nature Limited"/>
+    <meta name="dc.rightsAgent" content="journalpermissions@springernature.com"/>
+    <meta name="dc.description" content="Odour plumes in the wild are spatially complex and rapidly fluctuating structures carried by turbulent airflows1&#8211;4. To successfully navigate plumes in search of food and mates, insects must extract and integrate multiple features of the odour signal, including odour identity5, intensity6 and timing6&#8211;12. Effective navigation requires balancing these multiple streams of olfactory information and integrating them with other sensory inputs, including mechanosensory and visual cues9,12,13. Studies dating back a century have indicated that, of these many sensory inputs, the wind provides the main directional cue in turbulent plumes, leading to the longstanding model of insect odour navigation as odour-elicited upwind motion6,8&#8211;12,14,15. Here we show that Drosophila melanogaster shape their navigational decisions using an additional directional cue&#8212;the direction of motion of odours&#8212;which they detect using temporal correlations in the odour signal between their two antennae. Using a high-resolution virtual-reality paradigm to deliver spatiotemporally complex fictive odours to freely walking flies, we demonstrate that such odour-direction sensing involves algorithms analogous to those in visual-direction sensing16. Combining simulations, theory and experiments, we show that odour motion contains valuable directional information that is absent from the airflow alone, and that both Drosophila and virtual agents are aided by that information in navigating naturalistic plumes. The generality of our findings suggests that odour-direction sensing may exist throughout the animal kingdom and could improve olfactory robot navigation in uncertain environments. Odour motion contains valuable directional information that is absent from the airflow alone, and Drosophila use this directional information to shape their navigational decisions."/>
+    <meta name="prism.issn" content="1476-4687"/>
+    <meta name="prism.publicationName" content="Nature"/>
+    <meta name="prism.publicationDate" content="2022-11-09"/>
+    <meta name="prism.volume" content="611"/>
+    <meta name="prism.number" content="7937"/>
+    <meta name="prism.section" content="OriginalPaper"/>
+    <meta name="prism.startingPage" content="754"/>
+    <meta name="prism.endingPage" content="761"/>
+    <meta name="prism.copyright" content="2022 The Author(s), under exclusive licence to Springer Nature Limited"/>
+    <meta name="prism.rightsAgent" content="journalpermissions@springernature.com"/>
+    <meta name="prism.url" content="https://www.nature.com/articles/s41586-022-05423-4"/>
+    <meta name="prism.doi" content="doi:10.1038/s41586-022-05423-4"/>
+    <meta name="citation_pdf_url" content="https://www.nature.com/articles/s41586-022-05423-4.pdf"/>
+    <meta name="citation_fulltext_html_url" content="https://www.nature.com/articles/s41586-022-05423-4"/>
+    <meta name="citation_journal_title" content="Nature"/>
+    <meta name="citation_journal_abbrev" content="Nature"/>
+    <meta name="citation_publisher" content="Nature Publishing Group"/>
+    <meta name="citation_issn" content="1476-4687"/>
+    <meta name="citation_title" content="Odour motion sensing enhances navigation of complex plumes"/>
+    <meta name="citation_volume" content="611"/>
+    <meta name="citation_issue" content="7937"/>
+    <meta name="citation_publication_date" content="2022/11"/>
+    <meta name="citation_online_date" content="2022/11/09"/>
+    <meta name="citation_firstpage" content="754"/>
+    <meta name="citation_lastpage" content="761"/>
+    <meta name="citation_article_type" content="Article"/>
+    <meta name="citation_language" content="en"/>
+    <meta name="dc.identifier" content="doi:10.1038/s41586-022-05423-4"/>
+    <meta name="DOI" content="10.1038/s41586-022-05423-4"/>
+    <meta name="size" content="746926"/>
+    <meta name="citation_doi" content="10.1038/s41586-022-05423-4"/>
+    <meta name="citation_springer_api_url" content="http://api.springer.com/xmldata/jats?q=doi:10.1038/s41586-022-05423-4&amp;api_key="/>
+    <meta name="description" content="Odour plumes in the wild are spatially complex and rapidly fluctuating structures carried by turbulent airflows1&#8211;4. To successfully navigate plumes in search of food and mates, insects must extract and integrate multiple features of the odour signal, including odour identity5, intensity6 and timing6&#8211;12. Effective navigation requires balancing these multiple streams of olfactory information and integrating them with other sensory inputs, including mechanosensory and visual cues9,12,13. Studies dating back a century have indicated that, of these many sensory inputs, the wind provides the main directional cue in turbulent plumes, leading to the longstanding model of insect odour navigation as odour-elicited upwind motion6,8&#8211;12,14,15. Here we show that Drosophila melanogaster shape their navigational decisions using an additional directional cue&#8212;the direction of motion of odours&#8212;which they detect using temporal correlations in the odour signal between their two antennae. Using a high-resolution virtual-reality paradigm to deliver spatiotemporally complex fictive odours to freely walking flies, we demonstrate that such odour-direction sensing involves algorithms analogous to those in visual-direction sensing16. Combining simulations, theory and experiments, we show that odour motion contains valuable directional information that is absent from the airflow alone, and that both Drosophila and virtual agents are aided by that information in navigating naturalistic plumes. The generality of our findings suggests that odour-direction sensing may exist throughout the animal kingdom and could improve olfactory robot navigation in uncertain environments. Odour motion contains valuable directional information that is absent from the airflow alone, and Drosophila use this directional information to shape their navigational decisions."/>
+    <meta name="dc.creator" content="Kadakia, Nirag"/>
+    <meta name="dc.creator" content="Demir, Mahmut"/>
+    <meta name="dc.creator" content="Michaelis, Brenden T."/>
+    <meta name="dc.creator" content="DeAngelis, Brian D."/>
+    <meta name="dc.creator" content="Reidenbach, Matthew A."/>
+    <meta name="dc.creator" content="Clark, Damon A."/>
+    <meta name="dc.creator" content="Emonet, Thierry"/>
+    <meta name="dc.subject" content="Biological physics"/>
+    <meta name="dc.subject" content="Dynamical systems"/>
+    <meta name="dc.subject" content="Fluid dynamics"/>
+    <meta name="dc.subject" content="Navigation"/>
+    <meta name="dc.subject" content="Olfactory receptors"/>
+    <meta name="citation_reference" content="citation_journal_title=Physiol. Entomol.; citation_title=Spatial and temporal structures of pheromone plumes in fields and forests; citation_author=J Murlis, MA Willis, RT Card&#233;; citation_volume=25; citation_publication_date=2000; citation_pages=211-222; citation_doi=10.1046/j.1365-3032.2000.00176.x; citation_id=CR1"/>
+    <meta name="citation_reference" content="citation_journal_title=J. Chem. Ecol.; citation_title=Physical processes and real-time chemical measurement of the insect olfactory environment; citation_author=JA Riffell, L Abrell, JG Hildebrand; citation_volume=34; citation_publication_date=2008; citation_pages=837-853; citation_doi=10.1007/s10886-008-9490-7; citation_id=CR2"/>
+    <meta name="citation_reference" content="citation_journal_title=Phys. Rev. X; citation_title=Odor landscapes in turbulent environments; citation_author=A Celani, E Villermaux, M Vergassola; citation_volume=4; citation_publication_date=2014; citation_pages=041015; citation_id=CR3"/>
+    <meta name="citation_reference" content="Connor, E. G., McHugh, M. K. &amp; Crimaldi, J. P. Quantification of airborne odor plumes using planar laser-induced fluorescence. Exp. Fluids 59, 137 (2018)."/>
+    <meta name="citation_reference" content="citation_journal_title=eLife; citation_title=Odor-identity dependent motor programs underlie behavioral responses to odors; citation_author=SH Jung, C Hueston, V Bhandawat; citation_volume=4; citation_publication_date=2015; citation_pages=e11092; citation_doi=10.7554/eLife.11092; citation_id=CR5"/>
+    <meta name="citation_reference" content="citation_journal_title=eLife; citation_title=Elementary sensory-motor transformations underlying olfactory navigation in walking fruit-flies; citation_author=E Alvarez-Salvado; citation_volume=7; citation_publication_date=2018; citation_pages=e37815; citation_doi=10.7554/eLife.37815; citation_id=CR6"/>
+    <meta name="citation_reference" content="citation_journal_title=Zool. Sci.; citation_title=Self-generated zigzag turning of Bombyx mori males during pheromone-mediated upwind walking; citation_author=R Kanzaki, N Sugi, T Shibuya; citation_volume=9; citation_publication_date=1992; citation_pages=515-527; citation_id=CR7"/>
+    <meta name="citation_reference" content="citation_journal_title=Nature; citation_title=Fine-scale structure of pheromone plumes modulates upwind orientation of flying moths; citation_author=A Mafra-Neto, RT Card&#233;; citation_volume=369; citation_publication_date=1994; citation_pages=142-144; citation_doi=10.1038/369142a0; citation_id=CR8"/>
+    <meta name="citation_reference" content="citation_journal_title=Curr. Biol.; citation_title=Plume-tracking behavior of flying Drosophila emerges from a set of distinct sensory-motor reflexes; citation_author=F Breugel, MH Dickinson; citation_volume=24; citation_publication_date=2014; citation_pages=274-286; citation_doi=10.1016/j.cub.2013.12.023; citation_id=CR9"/>
+    <meta name="citation_reference" content="citation_journal_title=eLife; citation_title=Walking Drosophila navigate complex plumes using stochastic decisions biased by the timing of odor encounters; citation_author=M Demir, N Kadakia, HD Anderson, DA Clark, T Emonet; citation_volume=9; citation_publication_date=2020; citation_pages=e57524; citation_doi=10.7554/eLife.57524; citation_id=CR10"/>
+    <meta name="citation_reference" content="citation_journal_title=Proc. Natl Acad. Sci. USA; citation_title=Reiterative responses to single strands of odor promote sustained upwind flight and odor source location by moths; citation_author=NJ Vickers, TC Baker; citation_volume=91; citation_publication_date=1994; citation_pages=5756-5760; citation_doi=10.1073/pnas.91.13.5756; citation_id=CR11"/>
+    <meta name="citation_reference" content="citation_journal_title=J. Exp. Biol.; citation_title=Free-flight responses of Drosophila melanogaster to attractive odors; citation_author=SA Budick, MH Dickinson; citation_volume=209; citation_publication_date=2006; citation_pages=3001-3017; citation_doi=10.1242/jeb.02305; citation_id=CR12"/>
+    <meta name="citation_reference" content="citation_journal_title=Neuron; citation_title=Encoding of wind direction by central neurons in Drosophila; citation_author=MP Suver; citation_volume=102; citation_publication_date=2019; citation_pages=828-842; citation_doi=10.1016/j.neuron.2019.03.012; citation_id=CR13"/>
+    <meta name="citation_reference" content="citation_journal_title=J. Comp. Physiol. A; citation_title=Geruchliche raumorientierung von Drosophila melanogaster; citation_author=C Fl&#252;gge; citation_volume=20; citation_publication_date=1934; citation_pages=463-500; citation_id=CR14"/>
+    <meta name="citation_reference" content="citation_journal_title=Science; citation_title=Pheromone-regulated anemotaxis in flying moths; citation_author=JS Kennedy, D Marsh; citation_volume=184; citation_publication_date=1974; citation_pages=999-1001; citation_doi=10.1126/science.184.4140.999; citation_id=CR15"/>
+    <meta name="citation_reference" content="citation_journal_title=Z. Naturforsch.; citation_title=Systemtheoretische analyse der zeit-, reihenfolgen-und vorzeichenauswertung bei der bewegungsperzeption des r&#252;sselk&#228;fers chlorophanus; citation_author=B Hassenstein, WZ Reichardt; citation_volume=11; citation_publication_date=1956; citation_pages=513-524; citation_doi=10.1515/znb-1956-9-1004; citation_id=CR16"/>
+    <meta name="citation_reference" content="citation_journal_title=Nature; citation_title=Asymmetric neurotransmitter release enables rapid odour lateralization in Drosophila; citation_author=Q Gaudry, EJ Hong, J Kain, BL Bivort, RI Wilson; citation_volume=493; citation_publication_date=2013; citation_pages=424-428; citation_doi=10.1038/nature11747; citation_id=CR17"/>
+    <meta name="citation_reference" content="citation_journal_title=Curr. Biol.; citation_title=Flies require bilateral sensory input to track odor gradients in flight; citation_author=BJ Duistermars, DM Chow, MA Frye; citation_volume=19; citation_publication_date=2009; citation_pages=1301-1307; citation_doi=10.1016/j.cub.2009.06.022; citation_id=CR18"/>
+    <meta name="citation_reference" content="citation_journal_title=Proc. Lond. Math. Soc.; citation_title=Diffusion by continuous movements; citation_author=GI Taylor; citation_volume=20; citation_publication_date=1922; citation_pages=196-212; citation_doi=10.1112/plms/s2-20.1.196; citation_id=CR19"/>
+    <meta name="citation_reference" content="citation_journal_title=Nat. Methods; citation_title=Independent optical excitation of distinct neural populations; citation_author=NC Klapoetke; citation_volume=11; citation_publication_date=2014; citation_pages=338-346; citation_doi=10.1038/nmeth.2836; citation_id=CR20"/>
+    <meta name="citation_reference" content="citation_journal_title=Neuron; citation_title=Behavior reveals selective summation and max pooling among olfactory processing channels; citation_author=JS Bell, RI Wilson; citation_volume=91; citation_publication_date=2016; citation_pages=425-438; citation_doi=10.1016/j.neuron.2016.06.011; citation_id=CR21"/>
+    <meta name="citation_reference" content="citation_journal_title=eLife; citation_title=Spatiotemporally precise optogenetic activation of sensory neurons in freely walking Drosophila; citation_author=BD DeAngelis, JA Zavatone-Veth, AD Gonzalez-Suarez, DA Clark; citation_volume=9; citation_publication_date=2020; citation_pages=e54183; citation_doi=10.7554/eLife.54183; citation_id=CR22"/>
+    <meta name="citation_reference" content="citation_journal_title=Nature; citation_title=Select Drosophila glomeruli mediate innate olfactory attraction and aversion; citation_author=JL Semmelhack, JW Wang; citation_volume=459; citation_publication_date=2009; citation_pages=218-223; citation_doi=10.1038/nature07983; citation_id=CR23"/>
+    <meta name="citation_reference" content="citation_journal_title=Proc. Natl Acad. Sci. USA; citation_title=Humans navigate with stereo olfaction; citation_author=Y Wu, K Chen, Y Ye, T Zhang, W Zhou; citation_volume=117; citation_publication_date=2020; citation_pages=16065-16071; citation_doi=10.1073/pnas.2004642117; citation_id=CR24"/>
+    <meta name="citation_reference" content="citation_journal_title=J. Exp. Biol.; citation_title=Olfactory modulation of flight in Drosophila is sensitive, selective and rapid; citation_author=V Bhandawat, G Maimon, MH Dickinson, RI Wilson; citation_volume=213; citation_publication_date=2010; citation_pages=3625-3635; citation_doi=10.1242/jeb.040402; citation_id=CR25"/>
+    <meta name="citation_reference" content="citation_journal_title=Neuron; citation_title=Direct measurement of correlation responses in Drosophila elementary motion detectors reveals fast timescale tuning; citation_author=E Salazar-Gatzimas; citation_volume=92; citation_publication_date=2016; citation_pages=227-239; citation_doi=10.1016/j.neuron.2016.09.017; citation_id=CR26"/>
+    <meta name="citation_reference" content="citation_journal_title=Vision Res.; citation_title=Sensitivity for reverse-phi motion; citation_author=RJ Bours, MC Kroes, MJ Lankheet; citation_volume=49; citation_publication_date=2009; citation_pages=1-9; citation_doi=10.1016/j.visres.2008.09.014; citation_id=CR27"/>
+    <meta name="citation_reference" content="citation_journal_title=Proc. Natl Acad. Sci. USA; citation_title=Neural correlates of illusory motion perception in Drosophila; citation_author=JC Tuthill, ME Chiappe, MB Reiser; citation_volume=108; citation_publication_date=2011; citation_pages=9685-9690; citation_doi=10.1073/pnas.1100062108; citation_id=CR28"/>
+    <meta name="citation_reference" content="citation_journal_title=Nat. Neurosci.; citation_title=Perception of Fourier and non-Fourier motion by larval zebrafish; citation_author=MB Orger, MC Smear, SM Anstis, H Baier; citation_volume=3; citation_publication_date=2000; citation_pages=1128-1133; citation_doi=10.1038/80649; citation_id=CR29"/>
+    <meta name="citation_reference" content="citation_journal_title=Neuron; citation_title=Two-dimensional substructure of MT receptive fields; citation_author=MS Livingstone, CC Pack, RT Born; citation_volume=30; citation_publication_date=2001; citation_pages=781-793; citation_doi=10.1016/S0896-6273(01)00313-0; citation_id=CR30"/>
+    <meta name="citation_reference" content="citation_journal_title=Vision Res.; citation_title=Illusory reversal of visual depth and movement during changes of contrast; citation_author=SM Anstis, BJ Rogers; citation_volume=15; citation_publication_date=1975; citation_pages=957-961; citation_doi=10.1016/0042-6989(75)90236-9; citation_id=CR31"/>
+    <meta name="citation_reference" content="citation_journal_title=J. Vis.; citation_title=A set of high-order spatiotemporal stimuli that elicit motion and reverse-phi percepts; citation_author=Q Hu, JD Victor; citation_volume=10; citation_publication_date=2010; citation_pages=9; citation_doi=10.1167/10.3.9; citation_id=CR32"/>
+    <meta name="citation_reference" content="citation_journal_title=Nat. Neurosci.; citation_title=Flies and humans share a motion estimation strategy that exploits natural scene statistics; citation_author=DA Clark; citation_volume=17; citation_publication_date=2014; citation_pages=296-303; citation_doi=10.1038/nn.3600; citation_id=CR33"/>
+    <meta name="citation_reference" content="citation_journal_title=Neuron; citation_title=Convergence, divergence, and reconvergence in a feedforward network improves neural speed and accuracy; citation_author=JM Jeanne, RI Wilson; citation_volume=88; citation_publication_date=2015; citation_pages=1014-1026; citation_doi=10.1016/j.neuron.2015.10.018; citation_id=CR34"/>
+    <meta name="citation_reference" content="citation_journal_title=eLife; citation_title=Olfactory receptor neurons use gain control and complementary kinetics to encode intermittent odorant stimuli; citation_author=S Gorur-Shandilya, M Demir, J Long, DA Clark, T Emonet; citation_volume=6; citation_publication_date=2017; citation_pages=e27670; citation_doi=10.7554/eLife.27670; citation_id=CR35"/>
+    <meta name="citation_reference" content="citation_journal_title=Nat. Neurosci.; citation_title=Sensory processing in the Drosophila antennal lobe increases reliability and separability of ensemble odor representations; citation_author=V Bhandawat, SR Olsen, NW Gouwens, ML Schlief, RI Wilson; citation_volume=10; citation_publication_date=2007; citation_pages=1474-1482; citation_doi=10.1038/nn1976; citation_id=CR36"/>
+    <meta name="citation_reference" content="citation_journal_title=ACS Sensors; citation_title=Resolving fast gas transients with metal oxide sensors; citation_author=D Drix, M Schmuker; citation_volume=6; citation_publication_date=2021; citation_pages=688-692; citation_doi=10.1021/acssensors.0c02006; citation_id=CR37"/>
+    <meta name="citation_reference" content="citation_journal_title=Sensors; citation_title=Fast Measurements with MOX Sensors: a least-squares approach to blind deconvolution; citation_author=D Martinez, J Burgues, S Marco; citation_volume=19; citation_publication_date=2019; citation_pages=4029; citation_doi=10.3390/s19184029; citation_id=CR38"/>
+    <meta name="citation_reference" content="citation_journal_title=Int. J. Robot. Res.; citation_title=Robot odor localization: a taxonomy and survey; citation_author=G Kowadlo, RA Russell; citation_volume=27; citation_publication_date=2008; citation_pages=869-894; citation_doi=10.1177/0278364908095118; citation_id=CR39"/>
+    <meta name="citation_reference" content="citation_journal_title=Sensors; citation_title=Smelling nano aerial vehicle for gas source localization and mapping; citation_author=J Burgues, V Hernandez, AJ Lilienthal, S Marco; citation_volume=19; citation_publication_date=2019; citation_pages=478; citation_doi=10.3390/s19030478; citation_id=CR40"/>
+    <meta name="citation_reference" content="citation_journal_title=PLoS Comput. Biol.; citation_title=Information-theoretic analysis of realistic odor plumes: What cues are useful for determining location?; citation_author=SD Boie; citation_volume=14; citation_publication_date=2018; citation_pages=e1006275; citation_doi=10.1371/journal.pcbi.1006275; citation_id=CR41"/>
+    <meta name="citation_reference" content="citation_journal_title=eLife; citation_title=Sensing complementary temporal features of odor signals enhances navigation of diverse turbulent plumes; citation_author=V Jayaram, N Kadakia, T Emonet; citation_volume=11; citation_publication_date=2022; citation_pages=e72415; citation_doi=10.7554/eLife.72415; citation_id=CR42"/>
+    <meta name="citation_reference" content="citation_journal_title=Annu. Rev. Conden. Matter Phys.; citation_title=Olfactory sensing and navigation in turbulent environments; citation_author=G Reddy, VN Murthy, M Vergassola; citation_volume=13; citation_publication_date=2022; citation_pages=191-213; citation_doi=10.1146/annurev-conmatphys-031720-032754; citation_id=CR43"/>
+    <meta name="citation_reference" content="citation_journal_title=Proc. Natl Acad. Sci. USA; citation_title=Turbulent mixing: a perspective; citation_author=KR Sreenivasan; citation_volume=116; citation_publication_date=2019; citation_pages=18175-18183; citation_doi=10.1073/pnas.1800463115; citation_id=CR44"/>
+    <meta name="citation_reference" content="citation_journal_title=Cell; citation_title=Comprehensive maps of Drosophila higher olfactory centers: spatially segregated fruit and pheromone representation; citation_author=GS Jefferis; citation_volume=128; citation_publication_date=2007; citation_pages=1187-1203; citation_doi=10.1016/j.cell.2007.01.040; citation_id=CR45"/>
+    <meta name="citation_reference" content="citation_journal_title=Nature; citation_title=Fast odour dynamics are encoded in the olfactory system and guide behaviour; citation_author=T Ackels; citation_volume=593; citation_publication_date=2021; citation_pages=558-563; citation_doi=10.1038/s41586-021-03514-2; citation_id=CR46"/>
+    <meta name="citation_reference" content="citation_journal_title=J. Neurosci.; citation_title=Intensity invariant dynamics and odor-specific latencies in olfactory receptor neuron response; citation_author=C Martelli, JR Carlson, T Emonet; citation_volume=33; citation_publication_date=2013; citation_pages=6285-6297; citation_doi=10.1523/JNEUROSCI.0426-12.2013; citation_id=CR47"/>
+    <meta name="citation_reference" content="citation_journal_title=Nat. Neurosci.; citation_title=Precise olfactory responses tile the sniff cycle; citation_author=R Shusterman, MC Smear, AA Koulakov, D Rinberg; citation_volume=14; citation_publication_date=2011; citation_pages=1039-1044; citation_doi=10.1038/nn.2877; citation_id=CR48"/>
+    <meta name="citation_reference" content="citation_journal_title=PLoS Comput. Biol.; citation_title=Neurally encoding time for olfactory navigation; citation_author=IJ Park; citation_volume=12; citation_publication_date=2016; citation_pages=e1004682; citation_doi=10.1371/journal.pcbi.1004682; citation_id=CR49"/>
+    <meta name="citation_reference" content="citation_journal_title=Nat. Neurosci.; citation_title=Synaptic and circuit mechanisms promoting broadband transmission of olfactory stimulus dynamics; citation_author=KI Nagel, EJ Hong, RI Wilson; citation_volume=18; citation_publication_date=2015; citation_pages=56-65; citation_doi=10.1038/nn.3895; citation_id=CR50"/>
+    <meta name="citation_reference" content="citation_journal_title=PLoS Comput. Biol.; citation_title=Mechanisms underlying attraction to odors in walking Drosophila; citation_author=L Tao, S Ozarkar, V Bhandawat; citation_volume=16; citation_publication_date=2020; citation_pages=e1007718; citation_doi=10.1371/journal.pcbi.1007718; citation_id=CR51"/>
+    <meta name="citation_reference" content="citation_journal_title=Neuron; citation_title=Odor coding in the Drosophila antenna; citation_author=M Bruyne, K Foster, JR Carlson; citation_volume=30; citation_publication_date=2001; citation_pages=537-552; citation_doi=10.1016/S0896-6273(01)00289-6; citation_id=CR52"/>
+    <meta name="citation_reference" content="citation_journal_title=J. Exp. Biol.; citation_title=Controlling and measuring dynamic odorant stimuli in the laboratory; citation_author=S Gorur-Shandilya, C Martelli, M Demir, T Emonet; citation_volume=222; citation_publication_date=2019; citation_pages=jeb207787; citation_doi=10.1242/jeb.207787; citation_id=CR53"/>
+    <meta name="citation_reference" content="citation_journal_title=Phys. Fluids; citation_title=Simple models of turbulent flows; citation_author=SB Pope; citation_volume=23; citation_publication_date=2011; citation_pages=011301; citation_doi=10.1063/1.3531744; citation_id=CR54"/>
+    <meta name="citation_reference" content="citation_journal_title=Nat. Neurosci.; citation_title=Dynamic nonlinearities enable direction opponency in Drosophila elementary motion detectors; citation_author=BA Badwan, MS Creamer, JA Zavatone-Veth, DA Clark; citation_volume=22; citation_publication_date=2019; citation_pages=1318-1326; citation_doi=10.1038/s41593-019-0443-y; citation_id=CR55"/>
+    <meta name="citation_reference" content="citation_journal_title=Q. J. Mech. Appl. Math.; citation_title=On diffusion by discontinuous movements, and on the telegraph equation; citation_author=S Goldstein; citation_volume=4; citation_publication_date=1951; citation_pages=129-156; citation_doi=10.1093/qjmam/4.2.129; citation_id=CR56"/>
+    <meta name="citation_reference" content="citation_journal_title=Proc. Natl Acad. Sci. USA; citation_title=Olfactory search at high Reynolds number; citation_author=E Balkovsky, BI Shraiman; citation_volume=99; citation_publication_date=2002; citation_pages=12589-12593; citation_doi=10.1073/pnas.192393499; citation_id=CR57"/>
+    <meta name="citation_reference" content="citation_journal_title=Genetics; citation_title=Regulation of odor receptor genes in trichoid sensilla of the Drosophila antenna; citation_author=CJ Miller, JR Carlson; citation_volume=186; citation_publication_date=2010; citation_pages=79-95; citation_doi=10.1534/genetics.110.117622; citation_id=CR58"/>
+    <meta name="citation_author" content="Kadakia, Nirag"/>
+    <meta name="citation_author_institution" content="Department of Molecular, Cellular and Developmental Biology, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Quantitative Biology Institute, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Swartz Foundation for Theoretical Neuroscience, Yale University, New Haven, USA"/>
+    <meta name="citation_author" content="Demir, Mahmut"/>
+    <meta name="citation_author_institution" content="Department of Molecular, Cellular and Developmental Biology, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Quantitative Biology Institute, Yale University, New Haven, USA"/>
+    <meta name="citation_author" content="Michaelis, Brenden T."/>
+    <meta name="citation_author_institution" content="Department of Environmental Sciences, University of Virginia, Charlottesville, USA"/>
+    <meta name="citation_author" content="DeAngelis, Brian D."/>
+    <meta name="citation_author_institution" content="Department of Molecular, Cellular and Developmental Biology, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Quantitative Biology Institute, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Interdepartmental Neuroscience Program, Yale University, New Haven, USA"/>
+    <meta name="citation_author" content="Reidenbach, Matthew A."/>
+    <meta name="citation_author_institution" content="Department of Environmental Sciences, University of Virginia, Charlottesville, USA"/>
+    <meta name="citation_author" content="Clark, Damon A."/>
+    <meta name="citation_author_institution" content="Department of Molecular, Cellular and Developmental Biology, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Quantitative Biology Institute, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Interdepartmental Neuroscience Program, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Department of Physics, Yale University, New Haven, USA"/>
+    <meta name="citation_author" content="Emonet, Thierry"/>
+    <meta name="citation_author_institution" content="Department of Molecular, Cellular and Developmental Biology, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Quantitative Biology Institute, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Interdepartmental Neuroscience Program, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Department of Physics, Yale University, New Haven, USA"/>
+    <meta name="access_endpoint" content="https://www.nature.com/platform/readcube-access"/>
+    <meta name="twitter:site" content="@nature"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:image:alt" content="Content cover image"/>
+    <meta name="twitter:title" content="Odour motion sensing enhances navigation of complex plumes"/>
+    <meta name="twitter:description" content="Nature - Odour motion contains valuable directional information that is absent from the airflow alone, and Drosophila use this directional information to shape their navigational decisions."/>
+    <meta name="twitter:image" content="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-05423-4/MediaObjects/41586_2022_5423_Fig1_HTML.png"/>
+    
+
+    <script src="//content.readcube.com/nature/epdf.js"></script>
+    
+<!-- Google Tag Manager -->
+<script data-test="gtm-head">
+    window.initGTM = function() {
+        if (window.config.mustardcut) {
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+                var f = d.getElementsByTagName(s)[0],
+                        j = d.createElement(s),
+                        dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = 'https://sgtm.nature.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-MRVXSHQ');
+        }
+    }
+</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MRVXSHQ"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<div class="break-box box-1 js-box-1" id="small-screen"></div>
+<div class="break-box box-2 js-box-2" id="single-column"></div>
+<div class="break-box box-3 js-box-3" id="smaller-screen"></div>
+<div class="break-box box-4 js-box-4" id="standard-screen"></div>
+</body>
+</html>

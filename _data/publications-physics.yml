@@ -1,46 +1,62 @@
 
-- authors: "Vogler A., Shelyag S., Schussler M., Cattaneo F. Emonet, T. & Linde T"
-  title: "Simulations of magneto-convection in the solar photosphere - Equations, methods, and results of the MURaM code"
-  journal: "Astronomy & Astrophysics"
-  edition: "429, 335-U113 (2005)"
-  date: "2005"
+- authors: Vogler A., Shelyag S., Schussler M., Cattaneo F. Emonet, T. & Linde T
+  title: Simulations of magneto-convection in the solar photosphere - Equations, methods, and results of the MURaM code,
+  journal: Astronomy & Astrophysics
+  edition: 429, 335-U113 (2005)
+  date: '2005'
+  pdf: /assets/papers/past/vogler_linde_2005_paper.pdf
+  html: http://www.aanda.org/index.php?option=article&access=doi&doi=10.1051/0004-6361:20041507
 
-- authors: "Cattaneo F., Emonet, T. & Weiss N."
-  title: "On the interaction between convection and magnetic fields"
-  journal: "Astrophysical Journal, 588, 1183-1198 (2003)"
-  date: "2003"
+- authors: Cattaneo F., Emonet, T. & Weiss N.
+  title: On the interaction between convection and magnetic fields,
+  journal: Astrophysical Journal, 588, 1183-1198 (2003)
+  date: '2003'
+  pdf: /assets/papers/past/cattaneo_weiss_2003_paper.pdf
+  html: http://www.journals.uchicago.edu/doi/abs/10.1086/374313
 
-- authors: "Almeida J., Emonet, T. & Cattaneo F."
-  title: "Polarization of photospheric lines from turbulent dynamo simulations"
-  journal: "Astrophysical Journal, 585, 536-552 (2003)"
-  date: "2003"
+- authors: Almeida J., Emonet, T. & Cattaneo F.
+  title: Polarization of photospheric lines from turbulent dynamo simulations
+  journal: Astrophysical Journal, 585, 536-552 (2003)
+  date: '2003'
+  pdf: /assets/papers/past/almeida_cattaneo_2003_paper.pdf
+  html: http://www.journals.uchicago.edu/doi/abs/10.1086/346077
 
-- authors: "Emonet, T. & Cattaneo, F."
-  title: "Small-scale photospheric fields: Observational evidence and numerical simulations"
-  journal: "Astrophysical Journal, 560, L197-L200 (2001)"
-  date: "2001"
+- authors: Emonet, T. & Cattaneo, F.
+  title: 'Small-scale photospheric fields: Observational evidence and numerical simulations'
+  journal: Astrophysical Journal, 560, L197-L200 (2001)
+  date: '2001'
+  pdf: /assets/papers/past/emonet_f_2001_paper.pdf
+  html: http://www.journals.uchicago.edu/doi/abs/10.1086/324315
 
-- authors: "Emonet, T., Moreno Insertis, F. & Rast M."
-  title: "The zigzag path of buoyant magnetic tubes and the generation of vorticity along their periphery"
-  journal: "Astrophysical Journal, 549, 1212-1220 (2001)"
-  date: "2001"
+- authors: Emonet, T., Moreno Insertis, F. & Rast M.
+  title: The zigzag path of buoyant magnetic tubes and the generation of vorticity along their periphery
+  journal: Astrophysical Journal, 549, 1212-1220 (2001)
+  date: '2001'
+  pdf: /assets/papers/past/emonet_rast_2001_paper.pdf
+  html: http://www.journals.uchicago.edu/doi/abs/10.1086/319469
 
-- authors: "Emonet, T. & Moreno Insertis, F."
-  title: "The physics of twisted magnetic tubes rising in a stratified medium: Two-dimensional results"
-  journal: "Astrophysical Journal, 492, 804-821 (1998)"
-  date: "1998"
+- authors: Emonet, T. & Moreno Insertis, F.
+  title: 'The physics of twisted magnetic tubes rising in a stratified medium: Two-dimensional results'
+  journal: Astrophysical Journal, 492, 804-821 (1998)
+  date: '1998'
+  pdf: /assets/papers/past/emonet_f_1998_paper.pdf
+  html: http://www.journals.uchicago.edu/doi/abs/10.1086/305074
 
-- authors: "Moreno Insertis, F. & Emonet, T."
-  title: "The rise of twisted magnetic tubes in a stratified medium"
-  journal: "Astrophysical Journal, 472, L53-& (1996)"
-  date: "1996"
+- authors: Moreno Insertis, F. & Emonet, T.
+  title: The rise of twisted magnetic tubes in a stratified medium
+  journal: Astrophysical Journal, 472, L53-& (1996)
+  date: '1996'
+  pdf: /assets/papers/past/moreno_t_1996_paper.pdf
+  html: http://www.journals.uchicago.edu/doi/abs/10.1086/310360
 
-- authors: "Emonet, T. & Moreno-Insertis, F."
-  title: "MHS-equilibrium of twisted magnetic tubes"
-  journal: "Astrophysical Letters & Communications, 34, 9-15 (1996)"
-  date: "1996"
+- authors: Emonet, T. & Moreno-Insertis, F.
+  title: MHS-equilibrium of twisted magnetic tubes
+  journal: Astrophysical Letters & Communications, 34, 9-15 (1996)
+  date: '1996'
 
-- authors: "Emonet, T. & Moreno Insertis, F."
-  title: "Equilibrium of twisted horizontal magnetic flux tubes"
-  journal: "Astrophysical Journal, 458, 783-801 (1996)"
-  date: "1996"
+- authors: Emonet, T. & Moreno Insertis, F.
+  title: Equilibrium of twisted horizontal magnetic flux tubes
+  journal: Astrophysical Journal, 458, 783-801 (1996)
+  date: '1996'
+  pdf: /assets/papers/past/emonet_f_1996_paper.pdf
+  html: http://ucp.uchicago.edu/cgi-bin/resolve?id=doi:10.1086/176858

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en" class="grade-c">
+<head>
+    <title>Spatial self-organization resolves conflicts between individuality and collective migration | Nature Communications</title>
+    <link rel="canonical" href="/articles/s41467-018-04539-4">
+    <noscript>
+        <meta http-equiv="Refresh" content="0; https://www.nature.com/articles/s41467-018-04539-4.pdf">
+    </noscript>
+    
+    
+    <meta name="journal_id" content="41467"/>
+    <meta name="dc.title" content="Spatial self-organization resolves conflicts between individuality and collective migration"/>
+    <meta name="dc.source" content="Nature Communications 2018 9:1"/>
+    <meta name="dc.format" content="text/html"/>
+    <meta name="dc.publisher" content="Nature Publishing Group"/>
+    <meta name="dc.date" content="2018-06-05"/>
+    <meta name="dc.type" content="OriginalPaper"/>
+    <meta name="dc.language" content="En"/>
+    <meta name="dc.copyright" content="2018 The Author(s)"/>
+    <meta name="dc.rights" content="2018 The Author(s)"/>
+    <meta name="dc.rightsAgent" content="journalpermissions@springernature.com"/>
+    <meta name="dc.description" content="Collective behavior can spontaneously emerge when individuals follow common rules of interaction. However, the behavior of each individual differs due to existing genetic and non-genetic variation within the population. It remains unclear how this individuality is managed to achieve collective behavior. We quantify individuality in bands of clonal Escherichia coli cells that migrate collectively along a channel by following a self-generated gradient of attractant. We discover that despite substantial differences in individual chemotactic abilities, the cells are able to migrate as a coherent group by spontaneously sorting themselves within the moving band. This sorting mechanism ensures that differences between individual chemotactic abilities are compensated by differences in the local steepness of the traveling gradient each individual must navigate, and determines the minimum performance required to travel with the band. By resolving conflicts between individuality and collective migration, this mechanism enables populations to maintain advantageous diversity while on the move. How bacteria migrate collectively despite individual phenotypic variation is not understood. Here, the authors show that cells spontaneously sort themselves within moving bands such that variations in individual tumble bias, a determinant of gradient climbing speed, are compensated by the local gradient steepness experienced by individuals."/>
+    <meta name="prism.issn" content="2041-1723"/>
+    <meta name="prism.publicationName" content="Nature Communications"/>
+    <meta name="prism.publicationDate" content="2018-06-05"/>
+    <meta name="prism.volume" content="9"/>
+    <meta name="prism.number" content="1"/>
+    <meta name="prism.section" content="OriginalPaper"/>
+    <meta name="prism.startingPage" content="1"/>
+    <meta name="prism.endingPage" content="12"/>
+    <meta name="prism.copyright" content="2018 The Author(s)"/>
+    <meta name="prism.rightsAgent" content="journalpermissions@springernature.com"/>
+    <meta name="prism.url" content="https://www.nature.com/articles/s41467-018-04539-4"/>
+    <meta name="prism.doi" content="doi:10.1038/s41467-018-04539-4"/>
+    <meta name="citation_pdf_url" content="https://www.nature.com/articles/s41467-018-04539-4.pdf"/>
+    <meta name="citation_fulltext_html_url" content="https://www.nature.com/articles/s41467-018-04539-4"/>
+    <meta name="citation_journal_title" content="Nature Communications"/>
+    <meta name="citation_journal_abbrev" content="Nat Commun"/>
+    <meta name="citation_publisher" content="Nature Publishing Group"/>
+    <meta name="citation_issn" content="2041-1723"/>
+    <meta name="citation_title" content="Spatial self-organization resolves conflicts between individuality and collective migration"/>
+    <meta name="citation_volume" content="9"/>
+    <meta name="citation_issue" content="1"/>
+    <meta name="citation_online_date" content="2018/06/05"/>
+    <meta name="citation_firstpage" content="1"/>
+    <meta name="citation_lastpage" content="12"/>
+    <meta name="citation_article_type" content="Article"/>
+    <meta name="citation_fulltext_world_readable" content=""/>
+    <meta name="citation_language" content="en"/>
+    <meta name="dc.identifier" content="doi:10.1038/s41467-018-04539-4"/>
+    <meta name="DOI" content="10.1038/s41467-018-04539-4"/>
+    <meta name="size" content="290752"/>
+    <meta name="citation_doi" content="10.1038/s41467-018-04539-4"/>
+    <meta name="citation_springer_api_url" content="http://api.springer.com/xmldata/jats?q=doi:10.1038/s41467-018-04539-4&amp;api_key="/>
+    <meta name="description" content="Collective behavior can spontaneously emerge when individuals follow common rules of interaction. However, the behavior of each individual differs due to existing genetic and non-genetic variation within the population. It remains unclear how this individuality is managed to achieve collective behavior. We quantify individuality in bands of clonal Escherichia coli cells that migrate collectively along a channel by following a self-generated gradient of attractant. We discover that despite substantial differences in individual chemotactic abilities, the cells are able to migrate as a coherent group by spontaneously sorting themselves within the moving band. This sorting mechanism ensures that differences between individual chemotactic abilities are compensated by differences in the local steepness of the traveling gradient each individual must navigate, and determines the minimum performance required to travel with the band. By resolving conflicts between individuality and collective migration, this mechanism enables populations to maintain advantageous diversity while on the move. How bacteria migrate collectively despite individual phenotypic variation is not understood. Here, the authors show that cells spontaneously sort themselves within moving bands such that variations in individual tumble bias, a determinant of gradient climbing speed, are compensated by the local gradient steepness experienced by individuals."/>
+    <meta name="dc.creator" content="Fu, X."/>
+    <meta name="dc.creator" content="Kato, S."/>
+    <meta name="dc.creator" content="Long, J."/>
+    <meta name="dc.creator" content="Mattingly, H. H."/>
+    <meta name="dc.creator" content="He, C."/>
+    <meta name="dc.creator" content="Vural, D. C."/>
+    <meta name="dc.creator" content="Zucker, S. W."/>
+    <meta name="dc.creator" content="Emonet, T."/>
+    <meta name="dc.subject" content="Bacterial systems biology"/>
+    <meta name="dc.subject" content="Cellular noise"/>
+    <meta name="dc.subject" content="Chemotaxis"/>
+    <meta name="dc.subject" content="Collective cell migration"/>
+    <meta name="citation_reference" content="Sumpter D. J. T. Collective Animal Behavior. Princeton Univ. Press (2010)."/>
+    <meta name="citation_reference" content="citation_journal_title=Nature; citation_title=Metabolic co-dependence gives rise to collective oscillations within biofilms; citation_author=J Liu; citation_volume=523; citation_publication_date=2015; citation_pages=550-554; citation_doi=10.1038/nature14660; citation_id=CR2"/>
+    <meta name="citation_reference" content="citation_journal_title=Adv. Stud. Behav.; citation_title=Self-organization and collective behavior in vertebrates; citation_author=ID Couzin, J Krause; citation_volume=32; citation_publication_date=2003; citation_pages=1-75; citation_doi=10.1016/S0065-3454(03)01001-5; citation_id=CR3"/>
+    <meta name="citation_reference" content="citation_journal_title=Phys. Rep.; citation_title=Collective motion; citation_author=T Vicsek, A Zafeiris; citation_volume=517; citation_publication_date=2012; citation_pages=71-140; citation_doi=10.1016/j.physrep.2012.03.004; citation_id=CR4"/>
+    <meta name="citation_reference" content="citation_journal_title=Nature; citation_title=The chorus-line hypothesis of maneuver coordination in avian flocks; citation_author=WK Potts; citation_volume=309; citation_publication_date=1984; citation_pages=344-345; citation_doi=10.1038/309344a0; citation_id=CR5"/>
+    <meta name="citation_reference" content="citation_journal_title=Proc. Natl Acad. Sci. USA; citation_title=Interaction ruling animal collective behavior depends on topological rather than metric distance: evidence from a field study; citation_author=M Ballerini; citation_volume=105; citation_publication_date=2008; citation_pages=1232-1237; citation_doi=10.1073/pnas.0711437105; citation_id=CR6"/>
+    <meta name="citation_reference" content="citation_journal_title=Zentr Bakteriol. Parasite.; citation_title=Ueber atmungsfiguren beweglicher bakterien; citation_author=MW Beyerinck; citation_volume=114; citation_publication_date=1893; citation_pages=827; citation_id=CR7"/>
+    <meta name="citation_reference" content="citation_journal_title=Science; citation_title=Chemotaxis in bacteria; citation_author=J Adler; citation_volume=153; citation_publication_date=1966; citation_pages=708-716; citation_doi=10.1126/science.153.3737.708; citation_id=CR8"/>
+    <meta name="citation_reference" content="citation_journal_title=J. Bacteriol.; citation_title=Effect of amino acids and oxygen on chemotaxis in Escherichia coli; citation_author=J Adler; citation_volume=92; citation_publication_date=1966; citation_pages=121-129; citation_id=CR9"/>
+    <meta name="citation_reference" content="citation_journal_title=J. Theor. Biol.; citation_title=Traveling bands of chemotactic bacteria: a theoretical analysis; citation_author=EF Keller, LA Segel; citation_volume=30; citation_publication_date=1971; citation_pages=235-248; citation_doi=10.1016/0022-5193(71)90051-8; citation_id=CR10"/>
+    <meta name="citation_reference" content="citation_journal_title=Proc. Natl Acad. Sci. USA; citation_title=Directional persistence of chemotactic bacteria in a traveling concentration wave; citation_author=J Saragosti; citation_volume=108; citation_publication_date=2011; citation_pages=16235-16240; citation_doi=10.1073/pnas.1101996108; citation_id=CR11"/>
+    <meta name="citation_reference" content="citation_journal_title=Proc. Natl Acad. Sci. USA; citation_title=Migration of bacteria in semisolid agar; citation_author=AJ Wolfe, HC Berg; citation_volume=86; citation_publication_date=1989; citation_pages=6973-6977; citation_doi=10.1073/pnas.86.18.6973; citation_id=CR12"/>
+    <meta name="citation_reference" content="citation_journal_title=Nature; citation_title=Non-genetic individuality: chance in the single cell; citation_author=JL Spudich, DE Koshland; citation_volume=262; citation_publication_date=1976; citation_pages=467-471; citation_doi=10.1038/262467a0; citation_id=CR13"/>
+    <meta name="citation_reference" content="citation_journal_title=Nat. Rev. Mol. Cell Biol.; citation_title=The front and rear of collective cell migration; citation_author=R Mayor, S Etienne-Manneville; citation_volume=17; citation_publication_date=2016; citation_pages=97-109; citation_doi=10.1038/nrm.2015.14; citation_id=CR14"/>
+    <meta name="citation_reference" content="citation_journal_title=Science; citation_title=Phenotypic diversity, population growth, and information in fluctuating environments; citation_author=E Kussell, S Leibler; citation_volume=309; citation_publication_date=2005; citation_pages=2075-2078; citation_doi=10.1126/science.1114383; citation_id=CR15"/>
+    <meta name="citation_reference" content="citation_journal_title=Annu. Rev. Microbiol.; citation_title=Bistability, epigenetics, and bet-hedging in bacteria; citation_author=JW Veening, WK Smits, OP Kuipers; citation_volume=62; citation_publication_date=2008; citation_pages=193-210; citation_doi=10.1146/annurev.micro.62.081307.163002; citation_id=CR16"/>
+    <meta name="citation_reference" content="citation_journal_title=eLife; citation_title=Adaptability of non-genetic diversity in bacterial chemotaxis; citation_author=NW Frankel; citation_volume=3; citation_publication_date=2014; citation_pages=e03526; citation_doi=10.7554/eLife.03526; citation_id=CR17"/>
+    <meta name="citation_reference" content="citation_journal_title=Nat. Rev. Microbiol.; citation_title=A functional perspective on phenotypic heterogeneity in microorganisms; citation_author=M Ackermann; citation_volume=13; citation_publication_date=2015; citation_pages=497-508; citation_doi=10.1038/nrmicro3491; citation_id=CR18"/>
+    <meta name="citation_reference" content="citation_journal_title=Sci. Rep.; citation_title=Self-organized sorting limits behavioral variability in swarms; citation_author=K Copenhagen, DA Quint, A Gopinathan; citation_volume=6; citation_publication_date=2016; citation_doi=10.1038/srep31808; citation_id=CR19"/>
+    <meta name="citation_reference" content="citation_journal_title=Annu. Rev. Biophys.; citation_title=Behavioral variability and phenotypic diversity in bacterial chemotaxis; citation_author=AJ Waite, NW Frankel, T Emonet; citation_volume=47; citation_publication_date=2018; citation_pages=27.21-27.22; citation_doi=10.1146/annurev-biophys-062215-010954; citation_id=CR20"/>
+    <meta name="citation_reference" content="citation_journal_title=PLoS Comput. Biol.; citation_title=Direct correlation between motile behavior and protein abundance in single cells; citation_author=YS Dufour, S Gillet, NW Frankel, DB Weibel, T Emonet; citation_volume=12; citation_publication_date=2016; citation_pages=e1005041; citation_doi=10.1371/journal.pcbi.1005041; citation_id=CR21"/>
+    <meta name="citation_reference" content="citation_journal_title=Mol. Syst. Biol.; citation_title=Non-genetic diversity modulates population performance; citation_author=AJ Waite; citation_volume=12; citation_publication_date=2016; citation_pages=895; citation_doi=10.15252/msb.20167044; citation_id=CR22"/>
+    <meta name="citation_reference" content="citation_journal_title=Adv. Phys.; citation_title=Cooperative self-organization of microorganisms; citation_author=E Ben-Jacob, I Cohen, H Levine; citation_volume=49; citation_publication_date=2000; citation_pages=395-554; citation_doi=10.1080/000187300405228; citation_id=CR23"/>
+    <meta name="citation_reference" content="citation_journal_title=Discret. Contin. Dyn. Syst. A; citation_title=Development of traveling waves in an interacting two-species chemotaxis model; citation_author=L Tai-Chia, W Zhi-An; citation_volume=34; citation_publication_date=2014; citation_pages=2907-2927; citation_id=CR24"/>
+    <meta name="citation_reference" content="citation_journal_title=PLoS Comput. Biol.; citation_title=Traveling pulses for a two-species chemotaxis model; citation_author=C Emako, C Gayrard, A Buguin, L Neves de Almeida, N Vauchelet; citation_volume=12; citation_publication_date=2016; citation_pages=e1004843; citation_doi=10.1371/journal.pcbi.1004843; citation_id=CR25"/>
+    <meta name="citation_reference" content="citation_journal_title=Proc. Natl Acad. Sci. USA; citation_title=Motility of Escherichia coli cells in clusters formed by chemotactic aggregation; citation_author=N Mittal, EO Budrene, MP Brenner, A Oudenaarden; citation_volume=100; citation_publication_date=2003; citation_pages=13259-13263; citation_doi=10.1073/pnas.2233626100; citation_id=CR26"/>
+    <meta name="citation_reference" content="citation_journal_title=Proc. Natl Acad. Sci. USA; citation_title=Bacterial strategies for chemotaxis response; citation_author=A Celani, M Vergassola; citation_volume=107; citation_publication_date=2010; citation_pages=1391-1396; citation_doi=10.1073/pnas.0909673107; citation_id=CR27"/>
+    <meta name="citation_reference" content="citation_journal_title=Phys. Rev. Lett.; citation_title=Pathway-based mean-field model for Escherichia coli chemotaxis; citation_author=G Si, T Wu, Q Ouyang, Y Tu; citation_volume=109; citation_publication_date=2012; citation_pages=048101; citation_doi=10.1103/PhysRevLett.109.048101; citation_id=CR28"/>
+    <meta name="citation_reference" content="citation_journal_title=PLoS Comput. Biol.; citation_title=Limits of feedback control in bacterial chemotaxis; citation_author=YS Dufour, X Fu, L Hernandez-Nunez, T Emonet; citation_volume=10; citation_publication_date=2014; citation_pages=e1003694; citation_doi=10.1371/journal.pcbi.1003694; citation_id=CR29"/>
+    <meta name="citation_reference" content="citation_journal_title=Nature; citation_title=Functional interactions between receptors in bacterial chemotaxis; citation_author=V Sourjik, HC Berg; citation_volume=428; citation_publication_date=2004; citation_pages=437-441; citation_doi=10.1038/nature02406; citation_id=CR30"/>
+    <meta name="citation_reference" content="citation_journal_title=Sci. Rep.; citation_title=Cell-cell communication enhances bacterial chemotaxis toward external attractants; citation_author=Z Long, B Quaife, H Salman, ZN Oltvai; citation_volume=7; citation_publication_date=2017; citation_doi=10.1038/s41598-017-13183-9; citation_id=CR31"/>
+    <meta name="citation_reference" content="citation_journal_title=J. Bacteriol.; citation_title=Chemotaxis toward amino acids in Escherichia coli; citation_author=R Mesibov, J Adler; citation_volume=112; citation_publication_date=1972; citation_pages=315-326; citation_id=CR32"/>
+    <meta name="citation_reference" content="citation_journal_title=Phys. Rev. Lett.; citation_title=E. coli and oxygen: a motility transition; citation_author=C Douarche, A Buguin, H Salman, A Libchaber; citation_volume=102; citation_publication_date=2009; citation_pages=198101; citation_doi=10.1103/PhysRevLett.102.198101; citation_id=CR33"/>
+    <meta name="citation_reference" content="citation_journal_title=Phys. Rev. Lett.; citation_title=Particle diffusion in a quasi-two-dimensional bacterial bath; citation_author=XL Wu, A Libchaber; citation_volume=84; citation_publication_date=2000; citation_pages=3017-3020; citation_doi=10.1103/PhysRevLett.84.3017; citation_id=CR34"/>
+    <meta name="citation_reference" content="citation_journal_title=Proc. Natl Acad. Sci. USA; citation_title=Fluid dynamics and noise in bacterial cell-cell and cell-surface scattering; citation_author=K Drescher, J Dunkel, LH Cisneros, S Ganguly, RE Goldstein; citation_volume=108; citation_publication_date=2011; citation_pages=10940-10945; citation_doi=10.1073/pnas.1019079108; citation_id=CR35"/>
+    <meta name="citation_reference" content="citation_journal_title=Proc. Natl Acad. Sci. USA; citation_title=Collective motion and density fluctuations in bacterial colonies; citation_author=HP Zhang, A Be&#8217;er, EL Florin, HL Swinney; citation_volume=107; citation_publication_date=2010; citation_pages=13626-13630; citation_doi=10.1073/pnas.1001651107; citation_id=CR36"/>
+    <meta name="citation_reference" content="citation_journal_title=Biophys. J.; citation_title=Physical mechanisms for chemotactic pattern formation by bacteria; citation_author=MP Brenner, LS Levitov, EO Budrene; citation_volume=74; citation_publication_date=1998; citation_pages=1677-1693; citation_doi=10.1016/S0006-3495(98)77880-4; citation_id=CR37"/>
+    <meta name="citation_reference" content="citation_journal_title=Biophys. J.; citation_title=Quasi-elastic light scattering from migrating chemotactic bands of Escherichia coli; citation_author=M Holz, SH Chen; citation_volume=23; citation_publication_date=1978; citation_pages=15-31; citation_doi=10.1016/S0006-3495(78)85429-0; citation_id=CR38"/>
+    <meta name="citation_reference" content="citation_journal_title=J. Theor. Biol.; citation_title=A numerical study of the formation and propagation of traveling bands of chemotactic bacteria; citation_author=TL Scribner, LA Segel, EH Rogers; citation_volume=46; citation_publication_date=1974; citation_pages=189-219; citation_doi=10.1016/0022-5193(74)90147-7; citation_id=CR39"/>
+    <meta name="citation_reference" content="citation_journal_title=J. Math. Biol.; citation_title=A gradually slowing travelling band of chemotactic bacteria; citation_author=A Novick-Cohen, LA Segel; citation_volume=19; citation_publication_date=1984; citation_pages=125-132; citation_doi=10.1007/BF00275935; citation_id=CR40"/>
+    <meta name="citation_reference" content="citation_journal_title=Curr. Opin. Microbiol.; citation_title=Exploring the function of bacterial chemotaxis; citation_author=J Wong-Ng, A Celani, M Vergassola; citation_volume=45; citation_publication_date=2018; citation_pages=16-21; citation_doi=10.1016/j.mib.2018.01.010; citation_id=CR41"/>
+    <meta name="citation_reference" content="citation_journal_title=Biophys. J.; citation_title=A model for traveling bands of chemotactic bacteria; citation_author=IR Lapidus, R Schiller; citation_volume=22; citation_publication_date=1978; citation_pages=1-13; citation_doi=10.1016/S0006-3495(78)85466-6; citation_id=CR42"/>
+    <meta name="citation_reference" content="citation_journal_title=B Math. Biol.; citation_title=Traveling bands of chemotactic bacteria in the context of population-growth; citation_author=D Lauffenburger, CR Kennedy, R Aris; citation_volume=46; citation_publication_date=1984; citation_pages=19-40; citation_doi=10.1007/BF02463721; citation_id=CR43"/>
+    <meta name="citation_reference" content="citation_journal_title=Discret. Cont. Dyn.-B; citation_title=Mathematics of traveling waves in chemotaxis review paper; citation_author=ZA Wang; citation_volume=18; citation_publication_date=2013; citation_pages=601-641; citation_doi=10.3934/dcdsb.2013.18.601; citation_id=CR44"/>
+    <meta name="citation_reference" content="citation_journal_title=SIAM J. Appl. Math.; citation_title=From individual to collective behavior in bacterial chemotaxis; citation_author=R Erban, HG Othmer; citation_volume=65; citation_publication_date=2005; citation_pages=361-391; citation_doi=10.1137/S0036139903433232; citation_id=CR45"/>
+    <meta name="citation_reference" content="citation_journal_title=PLoS Biol.; citation_title=Self-generated chemoattractant gradients: attractant depletion extends the range and robustness of chemotaxis; citation_author=L Tweedy, DA Knecht, GM Mackay, RH Insall; citation_volume=14; citation_publication_date=2016; citation_pages=e1002404; citation_doi=10.1371/journal.pbio.1002404; citation_id=CR46"/>
+    <meta name="citation_reference" content="citation_journal_title=eLife; citation_title=The evolution of distributed sensing and collective computation in animal populations; citation_author=AM Hein; citation_volume=4; citation_publication_date=2015; citation_pages=e10955; citation_doi=10.7554/eLife.10955; citation_id=CR47"/>
+    <meta name="citation_reference" content="citation_journal_title=Mol. Microbiol.; citation_title=Relation between chemotaxis and consumption of amino acids in bacteria; citation_author=Y Yang; citation_volume=96; citation_publication_date=2015; citation_pages=1272-1282; citation_doi=10.1111/mmi.13006; citation_id=CR48"/>
+    <meta name="citation_reference" content="citation_journal_title=SIAM J. Appl. Math.; citation_title=On the relationship between cell balance equations for chemotactic cell populations; citation_author=RM Ford, PT Cummings; citation_volume=52; citation_publication_date=1992; citation_pages=1426-1441; citation_doi=10.1137/0152082; citation_id=CR49"/>
+    <meta name="citation_reference" content="citation_journal_title=Nature; citation_title=Chemotaxis in Escherichia coli analysed by three-dimensional tracking; citation_author=HC Berg, DA Brown; citation_volume=239; citation_publication_date=1972; citation_pages=500-504; citation_doi=10.1038/239500a0; citation_id=CR50"/>
+    <meta name="citation_reference" content="citation_journal_title=Biophys. J.; citation_title=Bacterial thermotaxis by speed modulation; citation_author=M Demir, H Salman; citation_volume=103; citation_publication_date=2012; citation_pages=1683-1690; citation_doi=10.1016/j.bpj.2012.09.005; citation_id=CR51"/>
+    <meta name="citation_reference" content="citation_journal_title=Annu. Rev. Mater. Sci.; citation_title=Soft lithography; citation_author=YWG Xia; citation_volume=28; citation_publication_date=1998; citation_pages=153-184; citation_doi=10.1146/annurev.matsci.28.1.153; citation_id=CR52"/>
+    <meta name="citation_reference" content="citation_journal_title=J. Biol. Methods; citation_title=Advanced methods of microscope control using muManager software; citation_author=AD Edelstein; citation_volume=1; citation_publication_date=2014; citation_pages=e10; citation_doi=10.14440/jbm.2014.36; citation_id=CR53"/>
+    <meta name="citation_reference" content="citation_journal_title=Lab. Chip.; citation_title=Studies of bacterial aerotaxis in a microfluidic device; citation_author=M Adler, M Erickstad, E Gutierrez, A Groisman; citation_volume=12; citation_publication_date=2012; citation_pages=4835-4847; citation_doi=10.1039/c2lc21006a; citation_id=CR54"/>
+    <meta name="citation_reference" content="citation_journal_title=Anal. Biochem.; citation_title=A method for the determination of diffusion coefficients for small molecules in aqueous solution; citation_author=JR Hazel, BD Sidell; citation_volume=166; citation_publication_date=1987; citation_pages=335-341; citation_doi=10.1016/0003-2697(87)90582-3; citation_id=CR55"/>
+    <meta name="citation_reference" content="citation_journal_title=J. Biol. Chem.; citation_title=Resolution of the multiplicity of the glutamate and aspartate transport systems of Escherichia coli; citation_author=GD Schellenberg, CE Furlong; citation_volume=252; citation_publication_date=1977; citation_pages=9055-9064; citation_id=CR56"/>
+    <meta name="citation_reference" content="Wetzel R. G. in Limnology: Lake and River Ecosystems, 3rd edn (Academic Press, 2001)."/>
+    <meta name="citation_reference" content="citation_journal_title=Lab. Chip.; citation_title=Development of an integrated microfluidic platform for dynamic oxygen sensing and delivery in a flowing medium; citation_author=AP Vollmer, RF Probstein, R Gilbert, T Thorsen; citation_volume=5; citation_publication_date=2005; citation_pages=1059-1066; citation_doi=10.1039/b508097e; citation_id=CR58"/>
+    <meta name="citation_author" content="Fu, X."/>
+    <meta name="citation_author_institution" content="Department of Molecular, Cellular, and Developmental Biology, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China"/>
+    <meta name="citation_author" content="Kato, S."/>
+    <meta name="citation_author_institution" content="Department of Molecular, Cellular, and Developmental Biology, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Department of Molecular Biotechnology, Graduate School of Advanced Sciences of Matter, Hiroshima University, Higashi-Hiroshima, Hiroshima, Japan"/>
+    <meta name="citation_author" content="Long, J."/>
+    <meta name="citation_author_institution" content="Department of Molecular, Cellular, and Developmental Biology, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Department of Physics, Yale University, New Haven, USA"/>
+    <meta name="citation_author" content="Mattingly, H. H."/>
+    <meta name="citation_author_institution" content="Department of Molecular, Cellular, and Developmental Biology, Yale University, New Haven, USA"/>
+    <meta name="citation_author" content="He, C."/>
+    <meta name="citation_author_institution" content="Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China"/>
+    <meta name="citation_author" content="Vural, D. C."/>
+    <meta name="citation_author_institution" content="Department of Molecular, Cellular, and Developmental Biology, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Department of Physics, University of Notre Dame, Notre Dame, USA"/>
+    <meta name="citation_author" content="Zucker, S. W."/>
+    <meta name="citation_author_institution" content="Department of Computer Science, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Department of Biomedical Engineering, Yale University, New Haven, USA"/>
+    <meta name="citation_author" content="Emonet, T."/>
+    <meta name="citation_author_institution" content="Department of Molecular, Cellular, and Developmental Biology, Yale University, New Haven, USA"/>
+    <meta name="citation_author_institution" content="Department of Physics, Yale University, New Haven, USA"/>
+    <meta name="access_endpoint" content="https://www.nature.com/platform/readcube-access"/>
+    <meta name="twitter:site" content="@NatureComms"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:image:alt" content="Content cover image"/>
+    <meta name="twitter:title" content="Spatial self-organization resolves conflicts between individuality and collective migration"/>
+    <meta name="twitter:description" content="Nature Communications - How bacteria migrate collectively despite individual phenotypic variation is not understood. Here, the authors show that cells spontaneously sort themselves within moving..."/>
+    <meta name="twitter:image" content="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-04539-4/MediaObjects/41467_2018_4539_Fig1_HTML.jpg"/>
+    
+
+    <script src="//content.readcube.com/nature/epdf.js"></script>
+    
+<!-- Google Tag Manager -->
+<script data-test="gtm-head">
+    window.initGTM = function() {
+        if (window.config.mustardcut) {
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+                var f = d.getElementsByTagName(s)[0],
+                        j = d.createElement(s),
+                        dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = 'https://sgtm.nature.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-MRVXSHQ');
+        }
+    }
+</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MRVXSHQ"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<div class="break-box box-1 js-box-1" id="small-screen"></div>
+<div class="break-box box-2 js-box-2" id="single-column"></div>
+<div class="break-box box-3 js-box-3" id="smaller-screen"></div>
+<div class="break-box box-4 js-box-4" id="standard-screen"></div>
+</body>
+</html>
