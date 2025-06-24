@@ -382,9 +382,9 @@
   date: '2008'
   pdf: /assets/papers/past/guet_cluzel_2008_paper.pdf
   html: http://nar.oxfordjournals.org/cgi/content/full/gkn329v1/
-  supp._info._file_1: /assets/papers/past/2008_nucleic_acids_research_supp1.doc
-  supp._info._file_2: /assets/papers/past/2008_nucleic_acids_research_supp2.ppt
-  extra: ''
+  extra: |-
+    - [Supp. Doc](/assets/papers/past/2008_nucleic_acids_research_supp1.doc)
+    - [Supp. PPT](/assets/papers/past/2008_nucleic_acids_research_supp2.ppt)
 
 - authors: Le TT, Emonet T, Harlepp S., Guet CC, Cluzel P
   title: Dynamical determinants of inducible gene expression in a single bacterium
