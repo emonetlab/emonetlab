@@ -431,18 +431,17 @@
   title: Escherichia coli chemotaxis is information limited
   journal: Nature Physics 17, 1426–1431
   date: '2021'
-  extra: '\* contributed equally, #co-corresponding authors
- - Неоптимальная обработка информации замедлила хемотаксис кишечной палочки, Dec 3, 2021
- - Bacterial bandwidth, Yale News, Dec 7, 2021
- - Information processing constrains how E. coli bacteria navigate chemical gradients, by Ingrid Fadelli, Phys.org News, January 11, 2022
- - E. coli’s Streaming Bandwidth, By Abigail Jolteus, May 16, 202'
+  extra: |-
+    \* contributed equally, #co-corresponding authors
+   - [Неоптимальная обработка информации замедлила хемотаксис кишечной палочки](https://nplus1.ru/news/2021/12/03/e-coli-inf)
+   - [Bacterial bandwidth, Yale News](https://news.yale.edu/2021/12/07/insights-outcomes-extra-electrons-virtual-scribes-and-more)
+   - [Information processing constrains how E. coli bacteria navigate chemical gradients](https://phys.org/news/2022-01-constrains-coli-bacteria-chemical-gradients.html)
+   - [E. coli’s Streaming Bandwidth](https://www.yalescientific.org/2022/05/e-colis-streaming-bandwidth%EF%BF%BC/)
 
 - authors: Kamino K, Keegstra JM, Long J, Emonet T*, Shimizu TS*
   title: Adaptive tuning of cell sensory diversity without changes in gene expression
   journal: Science Advances, Vol. 6, no. 46, eabc1087
   date: '2020'
- - Dynamic risk management in cell populations, EurekaAlert Nov 13 2020
- - Cellular bet hedgers cash in when environment changes, Yale New'
   html: https://advances.sciencemag.org/content/6/46/eabc1087
   pdf: /assets/papers/past/kamino_shimizu_2020_paper.pdf
   suppinfo: /assets/papers/past/2020_scienceAdvancesKeita_SM.pdf
