@@ -176,7 +176,8 @@
   journal: Annual Review of Biophysics
   edition: 47:27.1–27.22 (2018)
   date: '2018'
-  html_and_pdf: http://www.annualreviews.org/eprint/v9f7Sf7kXICsk49Ve84q/full/10.1146/annurev-biophys-062215-010954
+  html: http://www.annualreviews.org/eprint/v9f7Sf7kXICsk49Ve84q/full/10.1146/annurev-biophys-062215-010954
+  pdf: /assets/papers/past/waite_frankel_emonet_018.pdf
   extra: ''
 
 - authors: Keegstra JM, Kamino K, Anquez F, Lazova MD, Emonet T, Shimizu TS
@@ -186,7 +187,6 @@
   date: '2017'
   pdf: /assets/papers/past/keegstra_shimizu_2017_paper.pdf
   html: https://elifesciences.org/articles/27455
-  suppinfo: /assets/papers/past/keegstra_shimizu_2017_suppinfo.035
   extra: ''
 
 - authors: Long J, Zucker SW, Emonet T
@@ -217,7 +217,7 @@
   edition: 9(9):e1003230 (2013)
   date: '2013'
   pdf: /assets/papers/past/pontius_emonet_2013_paper.pdf
-  supp.info.: /assets/papers/past/2013_pontius_PlosCompBio_SuppInfo.pdf
+  suppinfo: /assets/papers/past/2013_pontius_PlosCompBio_SuppInfo.pdf
   html: http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003230
   extra: ''
 
