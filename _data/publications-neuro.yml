@@ -16,7 +16,8 @@
 
 - authors: 'Choi K*, Rosenbluth W*, Graf IR, Kadakia N#, Emonet T#'
   title: 'Bifurcation enhances temporal information encoding in the olfactory periphery'
-  journal: 'PRX Life 2, 043011'
+  journal: 'PRX Life 2'
+  edition: '043011'
   date: '2024-11'
   extra: |-
     \* contributed equally; # co-corresponding authors
@@ -81,7 +82,8 @@
 
 - authors: 'Jayaram V*, Kadakia N*, Emonet T'
   title: 'Sensing complementary temporal features of odor signals enhances navigation of diverse turbulent plumes'
-  journal: 'eLife, 11:e72415'
+  journal: 'eLife'
+  edition: '11:e72415'
   date: '2022-01-24'
   html: https://elifesciences.org/articles/72415
   extra: |-
@@ -89,7 +91,8 @@
 
 - authors: 'Gorur-Shandilya S*, Demir M*, Long J, Clark DA1, Emonet T1'
   title: 'Olfactory receptor neurons use gain control and complementary kinetics to encode intermittent odorant stimuli'
-  journal: 'eLife, 6:e27670'
+  journal: 'eLife'
+  edition: '6:e27670'
   date: '2017'
   doi: 10.7554/eLife.27670
   extra: |-

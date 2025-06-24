@@ -1,7 +1,8 @@
 
 - authors: 'Vo L*, Avgidis F*, Mattingly HH*, Edmonds K, Burger I, Balasubramanian R, Shimizu TS, Kazmierczak BI, Emonet T'
   title: 'Non-genetic adaptation by collective migration.'
-  journal: 'PNAS, 122 (8) e2423774122'
+  journal: 'PNAS'
+  edition: '122 (8) e2423774122'
   date: '2025'
   doi: https://doi.org/10.1073/pnas.2423774122
   html: https://www.pnas.org/doi/10.1073/pnas.2423774122
@@ -98,7 +99,8 @@
 
 - authors: 'Sneddon MW, Faeder JR, Emonet T'
   title: 'Efficient modeling, simulation and coarse-graining of biological complexity with NFsim,'
-  journal: 'Nature Methods, 8:177-183'
+  journal: 'Nature Methods'
+  edition: '8:177-183'
   date: '2011'
   html: http://www.nature.com/nmeth/journal/v8/n2/full/nmeth0211-130.html
   github: http://www.nfsim.org
@@ -357,7 +359,8 @@
 
 - authors: 'Alexander RP, Kim PM, Emonet T*, and Gerstein MB*'
   title: 'Understanding Modularity in Molecular Networks Requires Dynamics'
-  journal: 'Sci. Signal., 81(2):44 (2009)'
+  journal: 'Sci. Signal.'
+  edition: '81(2):44 (2009)'
   date: '2009'
   extra: |-
     \* Co-corresponding author
@@ -461,7 +464,8 @@
 
 - authors: 'Kamino K, Keegstra JM, Long J, Emonet T*, Shimizu TS*'
   title: 'Adaptive tuning of cell sensory diversity without changes in gene expression'
-  journal: 'Science Advances, Vol. 6, no. 46, eabc1087'
+  journal: 'Science Advances'
+  edition: 'Vol. 6, no. 46, eabc1087'
   date: '2020'
   html: https://advances.sciencemag.org/content/6/46/eabc1087
   pdf: /assets/papers/past/kamino_shimizu_2020_paper.pdf
@@ -473,7 +477,8 @@
 
 - authors: 'Fu X*, Kato S*,  Long J, Mattingly HH, He C, Vural DC, Zucker SW & Emonet T'
   title: 'Spatial Self-Organization Resolves Conflicts Between Individuality and Collective Migration'
-  journal: 'Nature Communications 9, Article number: 2177'
+  journal: 'Nature Communications'
+  edition: '9, 2177'
   date: '2018'
   html: https://www.nature.com/articles/s41467-018-04539-4
   pdf: /assets/papers/past/fu_emonet_2018_paper.pdf
@@ -485,7 +490,8 @@
 
 - authors: 'Waite AJ*, Frankel NW*, Dufour Y*, Johnston JF, Long J and Emonet T'
   title: 'Non‐genetic diversity modulates population performance'
-  journal: 'Molecular Systems Biology, 12: 895, 1-14'
+  journal: 'Molecular Systems Biology'
+  edition: '12: 895, 1-14'
   date: '2016'
   extra: |-
     \* contributed equally
