@@ -1,32 +1,40 @@
 
-- authors: Brudner S, Zhou B, Jayaram V, Santana GM, Clark DA, Emonet T
-  title: Fly navigational responses to odor motion and gradient cues are tuned to plume statistics
-  journal: bioRxiv
-  date: '2025-04-03'
-  doi: https://doi.org/10.1101/2025.03.31.646361
-  10.1101/2025.03.31.646361: https://doi.org/10.1101/2025.03.31.646361
+- authors: 'Kim HS, Santana GM, Sancer G, Emonet T, Jeanne JM'
+  title: 'Divergent synaptic dynamics originate parallel pathways for computation and behavior in an olfactory circuit'
+  journal: 'Current Biology'
+  date: '2025-06-19'
+  doi: 10.1016/j.cub.2025.05.051
+  pdf: /assets/papers/2025/2025_KimSantanaCurrBio.pdf
+  suppinfo: /assets/papers/2025/2025_KimSantanaCurrBio_supp.pdf
+  html: https://www.cell.com/current-biology/fulltext/S0960-9822(25)00667-0
 
-- authors: Choi K*, Rosenbluth W*, Graf IR, Kadakia N#, Emonet T#
-  title: Bifurcation enhances temporal information encoding in the olfactory periphery
-  journal: PRX Life 2, 043011
-  date: 2024-11
+- authors: 'Brudner S, Zhou B, Jayaram V, Santana GM, Clark DA, Emonet T'
+  title: 'Fly navigational responses to odor motion and gradient cues are tuned to plume statistics'
+  journal: 'bioRxiv'
+  date: '2025-04-03'
+  doi: 10.1101/2025.03.31.646361
+
+- authors: 'Choi K*, Rosenbluth W*, Graf IR, Kadakia N#, Emonet T#'
+  title: 'Bifurcation enhances temporal information encoding in the olfactory periphery'
+  journal: 'PRX Life 2, 043011'
+  date: '2024-11'
   extra: |-
     \* contributed equally; # co-corresponding authors
   html: https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.043011
 
-- authors: Szyszka P, Emonet T, Edwards TL
-  title: 'Extracting spatial information from temporal odor patterns: insights from insects.'
-  journal: Current Opinion in Insect Science
-  edition: 59:101082 (2023)
+- authors: 'Szyszka P, Emonet T, Edwards TL'
+  title: 'Extracting spatial information from temporal odor patterns: insights from insects'
+  journal: 'Current Opinion in Insect Science'
+  edition: '59:101082 (2023)'
   doi: 10.1016/j.cois.2023.101082
-  date: 2023-10
+  date: '2023-10'
   html: https://authors.elsevier.com/c/1hTg97tYJFnQVO
   pdf: /assets/papers/2023/2023_EmonetCurrOpInsSci.pdf
 
-- authors: Jayaram V*, Sehdev A*, Kadakia N, Brown EA, Emonet T
-  title: Temporal novelty detection and multiple timescale integration drive Drosophila orientation dynamics in temporally diverse olfactory environments
-  journal: PLoS Computational Biology
-  edition: 19(5):e1010606 (2023)
+- authors: 'Jayaram V*, Sehdev A*, Kadakia N, Brown EA, Emonet T'
+  title: 'Temporal novelty detection and multiple timescale integration drive Drosophila orientation dynamics in temporally diverse olfactory environments'
+  journal: 'PLoS Computational Biology'
+  edition: '19(5):e1010606 (2023)'
   doi: 10.1371/journal.pcbi.1010606
   date: '2023-05-11'
   html: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010606
@@ -36,10 +44,10 @@
   extra: |-
     \* contributed equally
 
-- authors: Kadakia N, Demir M, Michaelis BT, DeAngelis, BD, Reidenbach MA, Clark DA*, Emonet T*
-  title: Odour motion sensing enhances complex plume navigation
-  journal: Nature
-  edition: 611, pages 754–761 (2022)
+- authors: 'Kadakia N, Demir M, Michaelis BT, DeAngelis, BD, Reidenbach MA, Clark DA*, Emonet T*'
+  title: 'Odour motion sensing enhances complex plume navigation'
+  journal: 'Nature'
+  edition: '611, pages 754–761 (2022)'
   doi: 10.1038/s41586-022-05423-4
   date: '2022-11-09'
   html: https://doi.org/10.1038/s41586-022-05423-4
@@ -49,17 +57,17 @@
   github: https://github.com/emonetlab/opto-track
   twitter: https://twitter.com/EmonetLab/status/1590465867589988354
   extra: |-
-    \* co-corresponding authors.
+    \* co-corresponding authors
     - [News and Views: Flies catch wind of where smells come from](https://doi.org/10.1038/d41586-022-03561-3), by Floris van Breugel and Bingni W. Brunton, Nature, [10.1038/d41586-022-03561-3](https://doi.org/10.1038/d41586-022-03561-3), Nov 9 2022
     - [Yale News article](https://news.yale.edu/2022/11/09/flies-smell-motion-odors-and-use-it-navigate-yale-study-finds) by Bill Hathaway
     - [YouTube: Flies smell the motion of odors and use it to navigate](https://www.youtube.com/embed/3CC-0t8vPPM)
     - [How animals follow their nose](https://knowablemagazine.org/article/living-world/2023/how-animals-follow-their-nose), Knowable Magazine, by Dana Mackenzie, March 6 2023
   suppinfo: papers/kadakia_emonet_2022_suppinfo.pdf
 
-- authors: Demir M*, Kadakia N*, Anderson HD, Clark DA, Emonet T
-  title: Walking Drosophila navigate complex plumes using stochastic decisions biased
+- authors: 'Demir M*, Kadakia N*, Anderson HD, Clark DA, Emonet T'
+  title: 'Walking Drosophila navigate complex plumes using stochastic decisions biased'
     by the timing of odor encounters
-  journal: eLife, 9:e57524
+  journal: 'eLife, 9:e57524'
   date: '2020'
   extra: |-
     \* contributed equally
@@ -71,17 +79,17 @@
   pdf: /assets/papers/past/demir_emonet_2020_paper.pdf
   suppinfo: /assets/papers/past/2020_elife_demir_kadakia_figures_and_SI.pdf
 
-- authors: Jayaram V*, Kadakia N*, Emonet T
-  title: Sensing complementary temporal features of odor signals enhances navigation of diverse turbulent plumes
-  journal: eLife, 11:e72415
+- authors: 'Jayaram V*, Kadakia N*, Emonet T'
+  title: 'Sensing complementary temporal features of odor signals enhances navigation of diverse turbulent plumes'
+  journal: 'eLife, 11:e72415'
   date: '2022-01-24'
   html: https://elifesciences.org/articles/72415
   extra: |-
     \* contributed equall
 
-- authors: Gorur-Shandilya S*, Demir M*, Long J, Clark DA1, Emonet T1
-  title: Olfactory receptor neurons use gain control and complementary kinetics to encode intermittent odorant stimuli
-  journal: eLife, 6:e27670
+- authors: 'Gorur-Shandilya S*, Demir M*, Long J, Clark DA1, Emonet T1'
+  title: 'Olfactory receptor neurons use gain control and complementary kinetics to encode intermittent odorant stimuli'
+  journal: 'eLife, 6:e27670'
   date: '2017'
   doi: 10.7554/eLife.27670
   extra: |-
@@ -89,67 +97,67 @@
   html: https://elifesciences.org/articles/27670
   pdf: /assets/papers/past/gorurshandilya_emonet_2017_paper.pdf
 
-- authors: Emonet T & Vergassola M
-  title: Olfactory cues and memories in animal navigation
-  journal: Nature Review Physics
-  edition: (2024)
+- authors: 'Emonet T & Vergassola M'
+  title: 'Olfactory cues and memories in animal navigation'
+  journal: 'Nature Review Physics'
+  edition: '(2024)'
   date: '2024'
   doi: 10.1038/s42254-024-00710-7
   html: https://www.nature.com/articles/s42254-024-00710-7
 
-- authors: Brudner S, Emonet T
+- authors: 'Brudner S, Emonet T'
   title: 'Navigation: Where is that smell coming from?'
-  journal: eLife
-  edition: 11:e82635 (2022)
+  journal: 'eLife'
+  edition: '11:e82635 (2022)'
   date: '2022'
   html: https://elifesciences.org/articles/82635
 
-- authors: Kadakia N & Emonet T
-  title: Front-end Weber-Fechner gain control enhances the fidelity of combinatorial odor coding
-  journal: eLife
+- authors: 'Kadakia N & Emonet T'
+  title: 'Front-end Weber-Fechner gain control enhances the fidelity of combinatorial odor coding'
+  journal: 'eLife'
   edition: '8: e45293 (2019)'
   date: '2019'
   html: https://elifesciences.org/articles/45293
   pdf: /assets/papers/past/kadakia_emonet_2019_paper.pdf
 
-- authors: Gorur-Shandilya S, Martelli C, Demir M, Emonet T
-  title: Controlling and measuring dynamic odorant stimuli in the laboratory
-  journal: Journal of Experimental Biology
+- authors: 'Gorur-Shandilya S, Martelli C, Demir M, Emonet T'
+  title: 'Controlling and measuring dynamic odorant stimuli in the laboratory'
+  journal: 'Journal of Experimental Biology'
   edition: '222: jeb207787 (2019)'
   date: '2019'
   html: https://journals.biologists.com/jeb/article/222/23/jeb207787/223562/Controlling-and-measuring-dynamic-odorant-stimuli
   pdf: /assets/papers/past/gorurshandilya_emonet_2019_paper.pdf
 
-- authors: Raccuglia D, McCurdy LY, Demir M, Gorur-Shandilya S, Kunst M, Emonet T, Nitabach MN
-  title: Presynaptic GABA receptors mediate temporal contrast enhancement in Drosophila olfactory sensory neurons and modulate odor-driven behavioral kinetics
-  journal: eNeuro
-  edition: (2016)
+- authors: 'Raccuglia D, McCurdy LY, Demir M, Gorur-Shandilya S, Kunst M, Emonet T, Nitabach MN'
+  title: 'Presynaptic GABA receptors mediate temporal contrast enhancement in Drosophila olfactory sensory neurons and modulate odor-driven behavioral kinetics'
+  journal: 'eNeuro'
+  edition: '(2016)'
   date: '2016'
   doi: 10.1523/ENEURO.0080-16.2016
   html: http://eneuro.org/content/early/2016/07/25/ENEURO.0080-16.2016
 
-- authors: Mathew D, Martelli C, Kelley-Swift E, Brusalis C, Gershow M, Samuel AD, Emonet T, Carlson JR
-  title: Functional diversity among sensory receptors in a Drosophila olfactory circuit.
-  journal: PNAS
-  edition: 110(23):E2134-43 (2013)
+- authors: 'Mathew D, Martelli C, Kelley-Swift E, Brusalis C, Gershow M, Samuel AD, Emonet T, Carlson JR'
+  title: 'Functional diversity among sensory receptors in a Drosophila olfactory circuit'
+  journal: 'PNAS'
+  edition: '110(23):E2134-43 (2013)'
   date: '2013'
   pdf: /assets/papers/past/mathew_carlson_2013_paper.pdf
   suppinfo: /assets/papers/past/2013_dennis-supp1.pdf
   github: /assets/papers/past/2013_dennis_supp2.xlsx
   html: http://www.pnas.org/content/110/23/E2134.short
 
-- authors: Martelli C, Carlson J, and Emonet T
-  title: Intensity invariant dynamics and odor-specific latencies in olfactory receptor neuron response.
-  journal: Journal of Neuroscience
-  edition: 33(15):6285-6297 (2013)
+- authors: 'Martelli C, Carlson J, and Emonet T'
+  title: 'Intensity invariant dynamics and odor-specific latencies in olfactory receptor neuron response'
+  journal: 'Journal of Neuroscience'
+  edition: '33(15):6285-6297 (2013)'
   date: '2013'
   pdf: /assets/papers/past/martelli_and_2013_paper.pdf
   html: http://www.jneurosci.org/content/33/15/6285.short
 
-- authors: Su CY, Martelli C, Emonet T, Carlson JR
-  title: Temporal coding of odor mixtures in an olfactory receptor neuron.,
-  journal: PNAS
-  edition: 108(12):5075-80 (2011)
+- authors: 'Su CY, Martelli C, Emonet T, Carlson JR'
+  title: 'Temporal coding of odor mixtures in an olfactory receptor neuron.,'
+  journal: 'PNAS'
+  edition: '108(12):5075-80 (2011)'
   date: '2011'
   pdf: /assets/papers/past/su_carlson_2011_paper.pdf
   html: http://www.pnas.org/content/108/12/5075
