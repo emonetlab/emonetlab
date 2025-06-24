@@ -10,7 +10,8 @@
   title: Bifurcation enhances temporal information encoding in the olfactory periphery
   journal: PRX Life 2, 043011
   date: 2024-11
-  extra: '\* contributed equally; # co-corresponding authors'
+  extra: |-
+    \* contributed equally; # co-corresponding authors
   html: https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.043011
 
 - authors: Szyszka P, Emonet T, Edwards TL
@@ -32,7 +33,8 @@
   pdf: /assets/papers/past/jayaram_emonet_2023_paper.pdf
   preprint: https://www.biorxiv.org/content/10.1101/2022.09.28.509840v2
   twitter: https://twitter.com/EmonetLab/status/1673383450076651528
-  extra: \* contributed equally
+  extra: |-
+    \* contributed equally
 
 - authors: Kadakia N, Demir M, Michaelis BT, DeAngelis, BD, Reidenbach MA, Clark DA*, Emonet T*
   title: Odor motion sensing enhances complex plume navigation
@@ -74,15 +76,16 @@
   journal: eLife, 11:e72415
   date: '2022-01-24'
   html: https://elifesciences.org/articles/72415
-  extra: \* contributed equall
+  extra: |-
+    \* contributed equall
 
 - authors: Gorur-Shandilya S*, Demir M*, Long J, Clark DA1, Emonet T1
   title: Olfactory receptor neurons use gain control and complementary kinetics to encode intermittent odorant stimuli
   journal: eLife, 6:e27670
   date: '2017'
   doi: 10.7554/eLife.27670
-  extra: \* contributed equally; 1corresponding authors
-  doi:_10.7554/elife.27670: https://doi.org/10.7554/eLife.27670
+  extra: |-
+    \* contributed equally; 1corresponding authors
   html: https://elifesciences.org/articles/27670
   pdf: /assets/papers/past/gorurshandilya_emonet_2017_paper.pdf
 

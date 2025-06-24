@@ -6,7 +6,8 @@
   doi: https://doi.org/10.1073/pnas.2423774122
   html: https://www.pnas.org/doi/10.1073/pnas.2423774122
   pdf: /assets/papers/2025/vo_avgidis_mattingly_2025.pdf
-  extra: \* co-first authors
+  extra: |-
+    \* co-first authors
   preprint: https://www.biorxiv.org/content/10.1101/2024.01.02.573956v1
 
 - authors: Antani JD, Ward T,  Emonet T, Turner PE
@@ -43,7 +44,8 @@
   title: Direct measurement of dynamic attractant gradients reveals breakdown of the Patlak-Keller-Segel chemotaxis model
   journal: PNAS 121 (3) e2309251121
   date: '2023'
-  extra: \* contributed equall
+  extra: |-
+    \* contributed equall
   html: https://www.pnas.org/doi/10.1073/pnas.2309251121
   pdf: /assets/papers/past/phan_emonet_2023_paper.pdf
   suppinfo: /assets/papers/past/phan_emonet_2023_suppinfo.pdf
@@ -52,13 +54,15 @@
   title: Cyclic di-GMP differentially tunes a bacterial flagellar motor through a novel class of CheY-like regulators
   journal: eLife 6:e28842
   date: '2017'
-  extra: \* contributed equally
+  extra: |-
+    \* contributed equally
 
 - authors: Das D, Chatti D, Emonet T*, Holley SA*
   title: Patterned Disordered Cell Motion Ensures Vertebral Column Symmetry
   journal: Developmental Cell, 42(2), 170-180.e5
   date: '2017'
-  extra: \* corresponding authors
+  extra: |-
+    \* corresponding authors
   html: http://www.cell.com/developmental-cell/abstract/S1534-5807(17)30508-7
   pdf: /assets/papers/past/das_holley_2017_paper.pdf
   suppinfo: /assets/papers/past/das_holley_2017_suppinfo.pdf
@@ -76,7 +80,8 @@
   title: High-throughput, subpixel precision analysis of bacterial morphogenesis and intracellular spatio-temporal dynamics.
   journal: Mol. Micro., 80(3):612–627
   date: 2011-05
-  extra: \* Co-corresponding authors
+  extra: |-
+    \* Co-corresponding authors
   pdf: /assets/papers/past/sliusarenko__2011_paper.pdf
   html: http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2958.2011.07579.x/abstract
   suppinfo: /assets/papers/past/2011_mol_micro_supp.pdf
@@ -307,7 +312,8 @@
   journal: Molecular Systems Biology
   edition: 6:437 (2010)
   date: '2010'
-  extra: \* Co-first author
+  extra: |-
+    \* Co-first author
   pdf: /assets/papers/past/feinerman__2010_paper.pdf
   html: http://www.nature.com/msb/journal/v6/n1/full/msb201090.html
   suppinfo: /assets/papers/past/2010_msb201090_supp.pdf
@@ -346,7 +352,8 @@
   title: Understanding Modularity in Molecular Networks Requires Dynamics
   journal: Sci. Signal., 81(2):44 (2009)
   date: '2009'
-  extra: \* Co-corresponding author
+  extra: |-
+    \* Co-corresponding author
   pdf: /assets/papers/past/alexander_and_2009_paper.pdf
   html: http://stke.sciencemag.org/cgi/content/full/sigtrans;2/81/pe44
 
@@ -365,7 +372,8 @@
   journal: PNAS
   edition: 105(9):3304-9(2008)
   date: '2008'
-  extra: \* Corresponding author
+  extra: |-
+    \* Corresponding author
   pdf: /assets/papers/past/emonet_cluzel_2008_paper.pdf
   html: http://www.pnas.org/cgi/content/full/105/9/3304
   suppinfo: /assets/papers/past/2008_pnas_supp.pdf
@@ -412,17 +420,19 @@
   journal: Bioinformatics
   edition: 21(11):2714-21 (2005)
   date: '2005'
-  extra: \* Corresponding author
   pdf: /assets/papers/past/emonet_cluzel_2005_paper.pdf
   html: http://bioinformatics.oxfordjournals.org/cgi/content/full/21/11/2714
   suppinfo: /assets/papers/past/2005_bioinformatics_supp.pdf
+  extra: |-
+    \* Corresponding author
 
 - authors: Korobkova E.*, Emonet T.*, Vilar J., Shimizu T. & Cluzel P
   title: From molecular noise to behavioral variability in a single bacterium
   journal: Nature
   edition: 428, 574-578 (2004)
   date: '2004'
-  extra: \* co-first author
+  extra: |-
+    \* co-first author
   pdf: /assets/papers/past/korobkova_cluzel_2004_paper.pdf
   html: http://www.nature.com/nature/journal/v428/n6982/full/nature02404.html
   suppinfo: /assets/papers/past/2004_nature_supp.pdf
