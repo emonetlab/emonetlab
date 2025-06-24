@@ -120,7 +120,7 @@
   html: https://www.pnas.org/doi/10.1073/pnas.2211807120
   pdf: /assets/papers/past/kamino_emonet_2023_paper.pdf
   suppinfo: /assets/papers/past/kamino_emonet_2023_suppinfo.pdf
-  twitter: https://twitter.com/EmonetLab/status/1643640901095268353
+  # twitter: https://twitter.com/EmonetLab/status/1643640901095268353
   extra: ''
 
 - authors: 'Moore JP, Kamino K, Kottou R, Shimizu, TS, Emonet T'
