@@ -80,13 +80,12 @@
   title: High-throughput, subpixel precision analysis of bacterial morphogenesis and intracellular spatio-temporal dynamics.
   journal: Mol. Micro., 80(3):612–627
   date: 2011-05
-  extra: |-
-    \* Co-corresponding authors
   pdf: /assets/papers/past/sliusarenko__2011_paper.pdf
   html: http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2958.2011.07579.x/abstract
   suppinfo: /assets/papers/past/2011_mol_micro_supp.pdf
   github: http://www.microbetracker.org
   extra: |-
+    \* Co-corresponding authors
     - [Movies](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2958.2011.07579.x/suppinfo)
 
 - authors: Sneddon MW, Faeder JR, Emonet T
@@ -110,9 +109,8 @@
   date: '2023-04-04'
   html: https://www.pnas.org/doi/10.1073/pnas.2211807120
   pdf: /assets/papers/past/kamino_emonet_2023_paper.pdf
-  suppinfo: /assets/papers/2023/2023_KaminoPNASSuppInfo.pdf
-  twitter: https://twitter.com/EmonetLab/status/1643640901095268353
   suppinfo: /assets/papers/past/kamino_emonet_2023_suppinfo.pdf
+  twitter: https://twitter.com/EmonetLab/status/1643640901095268353
   extra: ''
 
 - authors: Moore JP, Kamino K, Kottou R, Shimizu, TS, Emonet T
@@ -317,7 +315,6 @@
   pdf: /assets/papers/past/feinerman__2010_paper.pdf
   html: http://www.nature.com/msb/journal/v6/n1/full/msb201090.html
   suppinfo: /assets/papers/past/2010_msb201090_supp.pdf
-  extra: ''
 
 - authors: Park H, Guet CC, Emonet T, Cluzel P
   title: Fine-Tuning of Chemotactic Response in E. coli Determined by High-Throughput Capillary Assay,
