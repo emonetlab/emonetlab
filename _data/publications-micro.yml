@@ -446,17 +446,18 @@
 
 - authors: 'Mattingly HH*, Kamino K*, Machta BB#, Emonet T#'
   title: 'Escherichia coli chemotaxis is information limited'
-  journal: 'Nature Physics 17, 1426–1431'
+  journal: 'Nature Physics'
+  edition: '17, 1426–1431'
   date: '2021'
   html: https://www.nature.com/articles/s41567-021-01380-3
   pdf: /assets/papers/past/mattingly_emonet_2021_paper.pdf
   suppinfo: /assets/papers/past/mattingly_emonet_2021_suppinfo.pdf
   extra: |-
     \* contributed equally, #co-corresponding authors
-   - [Неоптимальная обработка информации замедлила хемотаксис кишечной палочки](https://nplus1.ru/news/2021/12/03/e-coli-inf)
-   - [Bacterial bandwidth, Yale News](https://news.yale.edu/2021/12/07/insights-outcomes-extra-electrons-virtual-scribes-and-more)
-   - [Information processing constrains how E. coli bacteria navigate chemical gradients](https://phys.org/news/2022-01-constrains-coli-bacteria-chemical-gradients.html)
-   - [E. coli’s Streaming Bandwidth](https://www.yalescientific.org/2022/05/e-colis-streaming-bandwidth%EF%BF%BC/)
+    - [Неоптимальная обработка информации замедлила хемотаксис кишечной палочки](https://nplus1.ru/news/2021/12/03/e-coli-inf)
+    - [Bacterial bandwidth, Yale News](https://news.yale.edu/2021/12/07/insights-outcomes-extra-electrons-virtual-scribes-and-more)
+    - [Information processing constrains how E. coli bacteria navigate chemical gradients](https://phys.org/news/2022-01-constrains-coli-bacteria-chemical-gradients.html)
+    - [E. coli’s Streaming Bandwidth](https://www.yalescientific.org/2022/05/e-colis-streaming-bandwidth%EF%BF%BC/)
 
 - authors: 'Kamino K, Keegstra JM, Long J, Emonet T*, Shimizu TS*'
   title: 'Adaptive tuning of cell sensory diversity without changes in gene expression'
