@@ -9,7 +9,7 @@ permalink: /gallery/
 
 <h3>Pictures Our Lab 2018 2019</h3>
 <div class="image-gallery" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  {% assign gallery_image_path = "assets/img/pictures-our-lab-2018-2019" %}
+  {% assign gallery_image_path = "assets/galleries/2018_2019" %}
   {% assign image_files = "'Henry-and-Natalya-showing-their-salsa-moves.jpg', 'img_0546.jpg', 'img_0542.jpg', 'Thierrys-house-post-dinner.jpg', "}" %} <!-- Creates a Liquid array of filenames -->
 
   {% for image_filename in image_files %}
