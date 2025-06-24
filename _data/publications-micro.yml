@@ -31,6 +31,7 @@
   edition: '2024.07.09.602750'
   date: '2024-07-13'
   doi: https://doi.org/10.1101/2024.07.09.602750
+  preprint: https://www.biorxiv.org/content/10.1101/2024.07.09.602750v1
   extra: |-
     \* contributed equally; ǂ contributed equally; # co-corresponding author
 
@@ -40,6 +41,7 @@
   edition: '2024.05.28.596300'
   date: '2024-05-28'
   doi: https://doi.org/10.1101/2024.05.28.596300
+  preprint: https://www.biorxiv.org/content/10.1101/2024.05.28.596300v2
   extra: |-
     # co-corresponding author
 
@@ -155,6 +157,7 @@
   journal: 'mBio'
   edition: '12:e00831-21 (2021)'
   date: '2021'
+  html: https://journals.asm.org/doi/10.1128/mbio.00831-21
 
 - authors: 'Schniederberend M, Johnston JF, Shine E, Shen C, Jain R, Emonet T, Kazmierczak BI'
   title: 'Modulation of flagellar rotation in surface-attached bacteria: a circuit for rapid surface-sensing'
@@ -167,7 +170,9 @@
   title: 'A rule from bacteria to balance growth and expansion'
   journal: 'Nature'
   edition: '153, 708–2 (2019)'
+  doi: 10.1038/d41586-019-03348-z
   date: '2019'
+  html: https://www.nature.com/articles/d41586-019-03348-z
 
 - authors: 'Das D, Jülich D, Schwendinger-Schreck J, Guillon E, Lawton AK, Dray N, Emonet T, O’Hern CS, Shattuck MD, Holley SA'
   title: 'Organization of Embryonic Morphogenesis via Mechanical Information'
@@ -401,6 +406,7 @@
   journal: 'Proceedings of the National Academy of Sciences'
   edition: '102 (26):9160-4 (2005)'
   date: '2005'
+  html: https://www.pnas.org/doi/10.1073/pnas.0503311102
 
 - authors: 'Emonet T*, Macal CM, North MJ, Wickersham CE, Cluzel P'
   title: 'AgentCell: a digital single-cell assay for bacterial chemotaxis'
