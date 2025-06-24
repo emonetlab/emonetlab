@@ -24,13 +24,13 @@ description: microbiology publications page.
     <li><span class="fa-li"><i class="far fa-copy"></i></span>PDF Supplemental Information</li>
     <li><span class="fa-li"><i class="far fa-file-powerpoint"></i></span>Preprint</li>
     <!-- <li><span class="fa-li"><i class="fab fa-twitter"></i></span>Twitter</li> -->
-    <li><span class="fa-li"><i class="fab fa-github"></i></span>GitHub</li>
+    <li><span class="fa-li"><i class="fab fa-github"></i></span>GitHub/Code</li>
   </ul>
 </div>
 <br />
 
 {% comment %}
-  Sort the combined publications by date (most recent first). 
+  Sort the combined publications by date (most recent first).
   Ensure your YAML 'date' fields are in a recognized format.
 {% endcomment %}
 {% assign sorted_publications = publications_all | sort:"date" | reverse %}
