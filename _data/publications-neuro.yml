@@ -65,19 +65,19 @@
   suppinfo: papers/kadakia_emonet_2022_suppinfo.pdf
 
 - authors: 'Demir M*, Kadakia N*, Anderson HD, Clark DA, Emonet T'
-  title: 'Walking Drosophila navigate complex plumes using stochastic decisions biased'
-    by the timing of odor encounters
-  journal: 'eLife, 9:e57524'
+  title: 'Walking Drosophila navigate complex plumes using stochastic decisions biased by the timing of odor encounters'
+  journal: 'eLife'
+  edition: '9:e57524'
   date: '2020'
+  html: https://elifesciences.org/articles/63385
+  pdf: /assets/papers/past/demir_emonet_2020_paper.pdf
+  suppinfo: /assets/papers/past/2020_elife_demir_kadakia_figures_and_SI.pdf
   extra: |-
     \* contributed equally
     - [Olfactory Navigation: Tempo is the key by Celani, eLife](https://elifesciences.org/articles/63385)
     - [How insects find their targets in a chaotic world by William Hathaway](https://news.yale.edu/2020/11/03/how-insects-find-their-targets-chaotic-world)
     - [YouTube video](https://www.youtube.com/watch?v=NsjouzeURIw)
     - [Yale scientists track how walking fruit flies navigate to odor sources by Katlin Flores](https://yaledailynews.com/blog/2020/11/16/yale-scientists-track-how-walking-fruit-flies-navigate-to-odor-sources/)
-  html: https://elifesciences.org/articles/63385
-  pdf: /assets/papers/past/demir_emonet_2020_paper.pdf
-  suppinfo: /assets/papers/past/2020_elife_demir_kadakia_figures_and_SI.pdf
 
 - authors: 'Jayaram V*, Kadakia N*, Emonet T'
   title: 'Sensing complementary temporal features of odor signals enhances navigation of diverse turbulent plumes'
