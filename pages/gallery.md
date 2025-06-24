@@ -2,9 +2,9 @@
 title: Gallery
 description: Photos from lab parties, outings, conferences...
 background:
-  img: /assets/backgrounds/AdobeStock_1159200585.jpeg
+  img: /assets/backgrounds/AdobeStock_561560383.jpeg
   by: Adobe Stock
 permalink: /gallery/
 ---
 
-##### soon...
+##### Coming soon...
