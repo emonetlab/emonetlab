@@ -17,7 +17,9 @@
   when: "2015-2022"
   image: mahmut-demir.jpg # Can be external link
   now: Senior Research Scientist, [Apple Tree Partners](https://www.appletreepartners.com).
-  website: https://scholar.google.com/citations?user=G6PyTbEAAAAJ&hl=en
+  googlescholar: https://scholar.google.com/citations?user=G6PyTbEAAAAJ&hl=en
+  website: https://www.linkedin.com/in/mahmut-demir-78361370/
+
 
 - name: "Average Phan"
   role: "Postdoc"
@@ -34,6 +36,7 @@
   description: >
     Agastya is an undergraduate interested in applying mathematical and computational modelling techniques to biological systems. He is currently working on using data assimilation to quantify the cellular parameters that govern bacterial chemotaxis. In his free time, he enjoys swimming, playing basketball and finding new music to listen to.
   email: agastya.rana@yale.edu
+  website: https://www.linkedin.com/in/agastya-rana/
 
 - name: "Austen Theroux"
   role: "Undergraduate Student"
@@ -52,6 +55,7 @@
   description: >
     Rafaela is an undergraduate interested in studying biochemistry through the lens of mathematical modeling. She is currently trying to understand how different binding modalities affect the diversity of sensory parameters in bacterial chemosensing. In her free time, she writes for the Yale Daily News and enjoys spending time outdoors.
   email: rafaela.kottou@yale.edu
+  website: https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACir-30BeubVf1TOBH32Y6hIofC1pyri4EY&keywords=rafaela%20kottou&origin=RICH_QUERY_SUGGESTION&position=0&searchId=08badb03-7d06-451e-a453-ee8c181e8b49&sid=VXp&spellCorrectionEnabled=false
 
 - name: "Ravi Balasubramanian"
   role: "Undergraduate Student"
@@ -72,6 +76,7 @@
     Viraaj is a physics graduate student, having graduated from UChicago in 2019 with bachelor's degrees in math and physics. He is broadly interested in theoretical and computational biophysics and understanding information processing, decision making and optimality in biological systems. In his free time he enjoys playing and watching cricket, tennis and soccer, as well as playing board games, watching movies and trying out new restaurants with friends.
   email: viraaj.jayaram@yale.edu
   now: Machine Learning Engineer, Schrodinger NYC
+  website: https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACCo9Q8BxBrz7tP6fs3qdkFnLwIsQxfHhGA&keywords=viraaj%20jayaram&origin=RICH_QUERY_SUGGESTION&position=0&searchId=6df6f9b2-2fe4-4774-ad78-c33399a4d305&sid=-k%40&spellCorrectionEnabled=false
 
 - name: "Swayamshree Patra"
   role: "Postdoc"
@@ -80,16 +85,19 @@
   description: >
     Swayamshree is working on the theoretical aspects of chemical navigation. She finished her PhD at Indian Institute of Technology Kanpur under the guidance of Debashish Chowdhury where she developed theories for control and coordination of flagellar length in multiflagellated eukaryotes. In her free time she loves to explore new techniques of digital art for communicating her scientific projects.
   email: swayamshree.patra@yale.edu
+  website: https://www.linkedin.com/in/swayamshree-patra/
 
 - name: "Henry Mattingly"
   role: "Postdoc"
   image: empty.jpg
-  now: Associate Research Scientist at CCB, Flatiron Institute
+  now: Associate Research Scientist at [CCB](https://www.simonsfoundation.org/flatiron/center-for-computational-biology/), Flatiron Institute
+  website: https://www.linkedin.com/in/henry-mattingly-5289a357?original_referer=https%3A%2F%2Fwww.google.com%2F
 
 - name: "Keita Kamino"
   role: "Postdoc"
   image: empty.jpg
-  now: Assistant Professor at Academia Sinica, Taiwan
+  now: Assistant Professor at [Academia Sinica](https://www.sinica.edu.tw/en), Taiwan
+  website: https://scholar.google.nl/citations?user=wiRRPvYAAAAJ&hl=en
 
 - name: "Artur Wachtel"
   role: "Postdoc"
@@ -98,32 +106,38 @@
 - name: "Adam Waite"
   role: "Postdoc"
   image: empty.jpg
-  now: Research Specialist at Calico Labs
+  now: Research Specialist at [Calico Labs](https://www.calicolabs.com/)
+  website: https://www.linkedin.com/in/adam-waite-784bab124/
 
 - name: "Amitaba Nandi"
   role: "Postdoc"
   image: empty.jpg
   now: Assistant Professor at IIT, Bombay, India
+  website: http://www.phy.iitb.ac.in/en/employee-profile/amitabha-nandi
 
 - name: "Carlotta Martelli"
   role: "Postdoc"
   image: empty.jpg
   now: Junior Group Leader, J. Gutenberg University Mainz, Germany
+  website: https://mrtlllab.uni-mainz.de/people.html
 
 - name: "Dervis Can Vural"
   role: "Postdoc"
   image: empty.jpg
   now: Assistant Professor at Notre Dame University, IN
+  website: https://www3.nd.edu/~dvural/
 
 - name: "Garrit Jentsch"
   role: "Postdoc"
   image: empty.jpg
   now: Managing director of BAST GmbH Clinical Data Science and Model Based Drug Development
+  website: https://bastde.com/team/
 
 - name: "Oleksii Sliusarenko"
   role: "Postdoc"
   image: empty.jpg
   now: Quant researcher at a quantitative hedge fund
+  website: https://www.linkedin.com/in/sliusarenko/
 
 - name: "Roger Alexander"
   role: "Postdoc"
@@ -134,16 +148,19 @@
   role: "Postdoc"
   image: empty.jpg
   now: Assistant Professor, Shenzhen Institute of Advanced Technology, The Chinese Academy of Sciences, Shenzhen, China
+  website: http://isynbio.siat.ac.cn/fulab/
 
 - name: "Yann Dufour"
   role: "Postdoc"
   image: empty.jpg
   now: Assistant Professor at Michigan State University, Lansing, MI
+  website: http://dufour.mmg.msu.edu/
 
 - name: "Setsu Kato"
   role: "Postdoc"
   image: empty.jpg
   now: Assistant Professor at Hiroshima University, Japan
+  website: http://seeds.office.hiroshima-u.ac.jp/profile/en.1847ce8a69a0b3e1520e17560c007669.html
 
 - name: "Junjiajia Long"
   role: "Graduate Student"
@@ -154,21 +171,25 @@
   role: "Graduate Student"
   image: empty.jpg
   now: Director of Scientific Computing at Predicine
+  website: https://www.linkedin.com/in/msneddon/
 
 - name: "Nicholas Frankel"
   role: "Graduate Student"
   image: empty.jpg
   now: Postdoc with Wendell Lim at UCSF, San Francisco, CA
+  website: http://limlab.ucsf.edu/people/nickfrankel.html
 
 - name: "Srinivas Gorur-Shandilya"
   role: "Graduate Student"
   image: empty.jpg
   now: Postdoc with Eve Marder, Brandeis University
+  website: http://srinivas.gs/
 
 - name: "William Pontius"
   role: "Graduate Student"
   image: empty.jpg
-  now: Software Engineer, Mighty.com, New York City
+  now: Software Engineer, [Mighty.com](http://mighty.com/), New York City
+  website: https://www.linkedin.com/in/wpontius/
 
 - name: "Tomas Lamot"
   role: "Postgraduate Student"
@@ -204,11 +225,13 @@
   role: "Undergraduate Student"
   image: empty.jpg
   now: Nuclear Engineer at Naval Reactors, Washington DC
+  website: https://www.linkedin.com/in/william-rosenbluth-a01a12173/
 
 - name: "Ethan Brown"
   role: "Undergraduate Student"
   image: empty.jpg
-  now: Bioinformatics analyst at Tempus Labs, Chicago
+  website: https://www.linkedin.com/in/ethan-brown-a00771147/
+  now: Bioinformatics analyst at [Tempus Labs](https://www.tempus.com/), Chicago
 
 - name: "Jude Ong"
   role: "Undergraduate Student"
