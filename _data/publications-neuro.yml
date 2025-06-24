@@ -37,7 +37,7 @@
     \* contributed equally
 
 - authors: Kadakia N, Demir M, Michaelis BT, DeAngelis, BD, Reidenbach MA, Clark DA*, Emonet T*
-  title: Odor motion sensing enhances complex plume navigation
+  title: Odour motion sensing enhances complex plume navigation
   journal: Nature
   edition: 611, pages 754–761 (2022)
   doi: 10.1038/s41586-022-05423-4
@@ -117,6 +117,8 @@
   journal: Journal of Experimental Biology
   edition: '222: jeb207787 (2019)'
   date: '2019'
+  html: https://journals.biologists.com/jeb/article/222/23/jeb207787/223562/Controlling-and-measuring-dynamic-odorant-stimuli
+  pdf: /assets/papers/past/gorurshandilya_emonet_2019_paper.pdf
 
 - authors: Raccuglia D, McCurdy LY, Demir M, Gorur-Shandilya S, Kunst M, Emonet T, Nitabach MN
   title: Presynaptic GABA receptors mediate temporal contrast enhancement in Drosophila olfactory sensory neurons and modulate odor-driven behavioral kinetics

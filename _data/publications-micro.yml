@@ -87,7 +87,7 @@
   suppinfo: /assets/papers/past/2011_mol_micro_supp.pdf
   github: http://www.microbetracker.org
   extra: |-
-    [Movies](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2958.2011.07579.x/suppinfo)
+    - [Movies](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2958.2011.07579.x/suppinfo)
 
 - authors: Sneddon MW, Faeder JR, Emonet T
   title: Efficient modeling, simulation and coarse-graining of biological complexity with NFsim,
@@ -201,7 +201,7 @@
   pdf: /assets/papers/past/long_emonet_2017_paper.pdf
   suppinfo: /assets/papers/past/long_emonet_2017_suppinfo.pdf
   extra: |-
-    [Movie](/assets/papers/past/long_emonet_2017_movie.avi)
+    - [Movie](/assets/papers/past/long_emonet_2017_movie.avi)
 
 - authors: Frankel N, Pontius W,Dufour Y, Long J,Hernandez-Nunez, Emonet T
   title: Adaptability of non-genetic diversity in bacterial chemotaxis
@@ -441,6 +441,9 @@
   title: Escherichia coli chemotaxis is information limited
   journal: Nature Physics 17, 1426–1431
   date: '2021'
+  html: https://www.nature.com/articles/s41567-021-01380-3
+  pdf: /assets/papers/past/mattingly_emonet_2021_paper.pdf
+  suppinfo: /assets/papers/past/mattingly_emonet_2021_suppinfo.pdf
   extra: |-
     \* contributed equally, #co-corresponding authors
    - [Неоптимальная обработка информации замедлила хемотаксис кишечной палочки](https://nplus1.ru/news/2021/12/03/e-coli-inf)
@@ -457,8 +460,8 @@
   suppinfo: /assets/papers/past/2020_scienceAdvancesKeita_SM.pdf
   extra: |-
     \* corresponding authors
-    [Dynamic risk management in cell populations](https://www.eurekalert.org/pub_releases/2020-11/a-drm111020.php)
-    [Cellular bet hedgers cash in when environment changes](https://news.yale.edu/2020/11/16/insights-outcomes-cellular-bet-hedgers-and-message-magnetar)
+    - [Dynamic risk management in cell populations](https://www.eurekalert.org/pub_releases/2020-11/a-drm111020.php)
+    - [Cellular bet hedgers cash in when environment changes](https://news.yale.edu/2020/11/16/insights-outcomes-cellular-bet-hedgers-and-message-magnetar)
 
 - authors: Fu X*, Kato S*,  Long J, Mattingly HH, He C, Vural DC, Zucker SW & Emonet T
   title: Spatial Self-Organization Resolves Conflicts Between Individuality and Collective Migration
@@ -469,8 +472,8 @@
   suppinfo: /assets/papers/past/fu_emonet_2018_suppinfo.pdf
   extra: |-
     \* contributed equally
-    [Bacterial balancing act: preserving diversity while on the move](https://news.yale.edu/2018/06/05/bacterial-balancing-act-preserving-diversity-while-move)
-    [Spatial Self-Organization Resolves Conflicts Between Individuality and Collective Migration](https://prelights.biologists.com/highlights/spatial-self-organization-resolves-conflicts-individuality-collective-migration/)
+    - [Bacterial balancing act: preserving diversity while on the move](https://news.yale.edu/2018/06/05/bacterial-balancing-act-preserving-diversity-while-move)
+    - [Spatial Self-Organization Resolves Conflicts Between Individuality and Collective Migration](https://prelights.biologists.com/highlights/spatial-self-organization-resolves-conflicts-individuality-collective-migration/)
 
 - authors: Waite AJ*, Frankel NW*, Dufour Y*, Johnston JF, Long J and Emonet T
   title: Non‐genetic diversity modulates population performance
