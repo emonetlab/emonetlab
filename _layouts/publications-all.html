@@ -77,7 +77,7 @@ description: all publications page.
       {% if paper.extra %}
         {{ paper.extra | markdownify | newline_to_br | split: '<br />' }}
       {% else %}
-        '<br />'
+        <br />
       {% endif %}
 
       <ul class="list-inline">
