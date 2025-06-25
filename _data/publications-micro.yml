@@ -1,6 +1,6 @@
 
 - authors: 'Vo L*, Avgidis F*, Mattingly HH*, Edmonds K, Burger I, Balasubramanian R, Shimizu TS, Kazmierczak BI, Emonet T'
-  title: 'Non-genetic adaptation by collective migration.'
+  title: 'Non-genetic adaptation by collective migration'
   journal: 'Proceedings of the National Academy of Sciences'
   edition: '122 (8) e2423774122'
   date: '2025'
@@ -89,7 +89,7 @@
     Note: There were several typos in the published PDF. Make sure to use our corrected version
 
 - authors: 'Sliusarenko O, Heinritz J, Emonet T*, Jacobs-Wagner C.*'
-  title: 'High-throughput, subpixel precision analysis of bacterial morphogenesis and intracellular spatio-temporal dynamics.'
+  title: 'High-throughput, subpixel precision analysis of bacterial morphogenesis and intracellular spatio-temporal dynamics'
   journal: 'Molecular Microbiology'
   edition: '80(3):612–627'
   date: '2011-05'
@@ -136,7 +136,7 @@
   pdf: https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fa%2F1jOXh8YyDfqlJ%257E/1/0102019092dc7bf0-310ee50e-40e7-4ae2-8805-1c6360e1d038-000000/tG0kLQ5N6zL9EjyLPytcztkP9sg=381
 
 - authors: 'Mattingly H, Emonet T'
-  title: 'Collective behavior and non-genetic inheritance allow bacterial populations to adapt to changing environments.'
+  title: 'Collective behavior and non-genetic inheritance allow bacterial populations to adapt to changing environments'
   journal: 'Proceedings of the National Academy of Sciences'
   edition: '119 (26) e2117377119 (2022)'
   date: '2022'
@@ -220,7 +220,7 @@
   suppinfo: /assets/papers/past/2014_Frankel.zip
 
 - authors: 'Pontius W, Sneddon MW, Emonet T'
-  title: 'Adaptation dynamics in densely clustered chemoreceptors.'
+  title: 'Adaptation dynamics in densely clustered chemoreceptors'
   journal: 'PLoS Computational Biology'
   edition: '9(9):e1003230 (2013)'
   date: '2013'
@@ -229,7 +229,7 @@
   html: http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003230
 
 - authors: 'Dray N, Lawton AK, Nandi A, D. Jülich, Emonet T, Holley SA'
-  title: 'Cell-Fibronectin interactions propel vertebrate trunk elongation via tissue mechanics.'
+  title: 'Cell-Fibronectin interactions propel vertebrate trunk elongation via tissue mechanics'
   journal: 'Current Biology'
   edition: '23(14):1335-41. (2013)'
   date: '2013'
@@ -237,7 +237,7 @@
   html: http://www.sciencedirect.com/science/article/pii/S0960982213006775
 
 - authors: 'Lawton AK, Nandi A, Stulberg MJ, Dray N, Sneddon MW, Pontius W, Emonet T, and Holley SA'
-  title: 'Regulated tissue fluidity steers zebrafish body elongation.'
+  title: 'Regulated tissue fluidity steers zebrafish body elongation'
   journal: 'Development'
   edition: '140(3):573-82 (2013)'
   date: '2013'
@@ -246,7 +246,7 @@
   suppinfo: /assets/papers/past/2013_Lawton_supp.pdf
 
 - authors: 'Trofka A, Schwendinger-Schreck J, Brend T, Pontius W, Emonet T, and Holley SA'
-  title: 'The Her7 node modulates the network topology of the zebrafish segmentation clock via sequestration of the Hes6 hub.'
+  title: 'The Her7 node modulates the network topology of the zebrafish segmentation clock via sequestration of the Hes6 hub'
   journal: 'Development'
   edition: '139:940-947 (2012)'
   date: '2012'
@@ -255,7 +255,7 @@
   suppinfo: /assets/papers/past/2012_Development_Trofka_Supp.zip
 
 - authors: 'Sneddon MW and Emonet T'
-  title: 'Modeling cellular signaling: taking space into the computation.'
+  title: 'Modeling cellular signaling: taking space into the computation'
   journal: 'Nature Methods'
   edition: '9:239–242 (2012)'
   date: '2012'
@@ -263,7 +263,7 @@
   html: http://www.nature.com/nmeth/journal/v9/n3/full/nmeth.1900.html?WT.ec_id=NMETH-201203
 
 - authors: 'Sneddon MW, Pontius W, Emonet T'
-  title: 'Stochastic coordination of multiple actuators reduces latency and improves chemotactic response in bacteria.'
+  title: 'Stochastic coordination of multiple actuators reduces latency and improves chemotactic response in bacteria'
   journal: 'Proceedings of the National Academy of Sciences'
   edition: '109(3): 805-810 (2012)'
   date: '2012'
@@ -272,7 +272,7 @@
   suppinfo: /assets/papers/past/Sneddon-2011-Appendix.pdf
 
 - authors: 'Dufour YS, Sneddon MW, Emonet T'
-  title: 'Thermal robustness: lessons from bacterial chemotaxis.'
+  title: 'Thermal robustness: lessons from bacterial chemotaxis'
   journal: 'Current Biology'
   edition: '21(12):R465-8 (2011)'
   date: '2011'
@@ -280,7 +280,7 @@
   html: http://www.sciencedirect.com/science/article/pii/S0960982211005410
 
 - authors: 'Chylek LA, Hu B, Blinov ML, Emonet T, Faeder JR, Goldstein Byron, Gutenkunst RN, Haugh JM, Lipniacki T, Posner RG, Yang J and Hlavacek WS'
-  title: 'Guidelines for visualizing and annotating rule-based models.'
+  title: 'Guidelines for visualizing and annotating rule-based models'
   journal: 'Mol. BioSyst'
   edition: '(2011)'
   date: '2011'
@@ -345,7 +345,7 @@
 
 - authors: 'Alexander RP, Kim PM, Emonet T*, and Gerstein MB*'
   title: 'Understanding Modularity in Molecular Networks Requires Dynamics'
-  journal: 'Sci. Signal.'
+  journal: 'Sci. Signal'
   edition: '81(2):44 (2009)'
   date: '2009'
   pdf: /assets/papers/past/alexander_and_2009_paper.pdf
