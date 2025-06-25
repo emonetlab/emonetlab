@@ -28,6 +28,7 @@ Navigation menu items and links are located in `_data/navigation.yml`.
 All data is sorted alphabetically. No need to reorder entries in the source data files when adding/removing information.
 
 -  Lab members data is located in `_data/team.yml`.
+   - Headshots must have a square aspect ratio and be located in `assets/team/`
 -  Alumni data is located in `_data/alumni.yml`.
   - Once a lab member leaves:
     - Move their picture from `assets/team` to `assets/team/alumni`.
@@ -58,7 +59,9 @@ All data is sorted by date. No need to reorder entries in the source data files 
 
 -  Neuroscience publications data is located in `_data/publications-neuro.yml`.
 -  Microbiology publications data is located in `_data/publications-micro.yml`.
-  - ***Note:** the "Everything" publications page populates automatically by combining data from both files.*
+-  PDFs for papers or supp. info. files should be stored in `assets/papers/`.
+
+***Note:** the "Everything" publications page populates automatically by combining data from both files.*
 
 
 Example entry for a new publication:
