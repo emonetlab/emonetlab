@@ -16,7 +16,8 @@ hero:
 
 <!-- #### What We Do -->
 
-We investigate how organisms compute and interpret chemical signals. By combining quantitative experiments with mathematical modeling, our research decodes the processes that drive navigation. Our goal is to explain the signal processing and decision-making mechanisms used to translate chemical cues into behavior.
+We combine experiments with theory to understand the computations organisms perform to navigate chemical environments, and the molecular and cellular circuits that enable them. At the smaller scale we analyze information processing in individual bacteria and neurons, the molecular basis of individuality, and how biological diversity can benefit populations. At the larger scale of whole organisms, we examine the neural circuits fruit flies use to extract navigational cues from odor signals and to combine such information with other cues and memory to perform goal-oriented navigation. 
+<!-- We investigate how organisms compute and interpret chemical signals. By combining quantitative experiments with mathematical modeling, our research decodes the processes that drive navigation. Our goal is to explain the signal processing and decision-making mechanisms used to translate chemical cues into behavior. -->
 
 <br>
 
@@ -31,13 +32,13 @@ Chemical navigation is not just about following chemical gradients—it involves
 <div class="col-lg">
     <ul class="fa-ul">
         <li>
-            <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Signal Integration</strong>: Combining spatial and temporal sensory information.
+            <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Extracting information from signals</strong>: Detecting and processing signals to extract relevant information and combine information from various cues.
         </li>
         <li>
-            <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Decision Making</strong>: Choosing optimal paths based on environmental inputs.
+            <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Decision Making</strong>: Choosing optimal paths based on environmental inputs, while taking into account how behavioral decisions actively change the signals that will be experienced next.
         </li>
         <li>
-            <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Biological Computation</strong>: How these processes are executed at the molecular and cellular levels.
+            <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Biological Computation</strong>: How these processes are executed at the molecular, cellular and population levels, and how biological diversity and collective behavior lead to emergent adaptive function. 
         </li>
     </ul>
 </div>
