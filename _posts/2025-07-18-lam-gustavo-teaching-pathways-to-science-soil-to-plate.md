@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Gustavo's new paper from our collaboration with the Jeanne Lab!"
+title: "Lam and Gustavo taught a class for Pathways to Science"
 background: "assets/posts/2025-07-18-lam-gustavo-teaching-pathways-to-science-soil-to-plate/activity.jpg"
 background-use: "no"
 date: "2025-07-18"
@@ -9,7 +9,7 @@ date: "2025-07-18"
 
 ![]({{ site.baseurl }}/assets/posts/2025-07-18-lam-gustavo-teaching-pathways-to-science-soil-to-plate/group.jpg)
 
-Last week, [Lam](https://emonet.biology.yale.edu/team/#Lam+Vo) and [Gustavo](https://emonet.biology.yale.edu/team/#Gustavo+Madeira+Santana), along with Mariela Garcia Arredondo, led a 5-day workshop "From Soil to Plate: How Microbes Grow Our Food," for high school students in the [Yale Pathways to Science](https://onha.yale.edu/pathways-science) summer program!
+Last week, [Lam](https://emonet.biology.yale.edu/team/#Lam+Vo) and [Gustavo](https://emonet.biology.yale.edu/team/#Gustavo+Madeira+Santana), along with Mariela Garcia Arredondo, led a 5-day workshop, "From Soil to Plate: How Microbes Grow Our Food," for high school students in the [Yale Pathways to Science](https://onha.yale.edu/pathways-science) summer program!
 
 ![]({{ site.baseurl }}/assets/posts/2025-07-18-lam-gustavo-teaching-pathways-to-science-soil-to-plate/activity.jpg)
 
