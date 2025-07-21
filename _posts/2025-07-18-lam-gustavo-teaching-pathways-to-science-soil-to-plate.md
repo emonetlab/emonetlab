@@ -1,17 +1,17 @@
 ---
 layout: "post"
 title: "Lam and Gustavo taught a class for Pathways to Science"
-background: "assets/posts/2025-07-18-lam-gustavo-teaching-pathways-to-science-soil-to-plate/activity.jpg"
+background: "assets/posts/2025-07-18-lam-gustavo-teaching-pathways-to-science-soil-to-plate/activity.jpeg"
 background-use: "no"
 date: "2025-07-18"
 ---
 # Lam and Gustavo taught a class for Pathways to Science 
 
-![]({{ site.baseurl }}/assets/posts/2025-07-18-lam-gustavo-teaching-pathways-to-science-soil-to-plate/group.jpg)
+![]({{ site.baseurl }}/assets/posts/2025-07-18-lam-gustavo-teaching-pathways-to-science-soil-to-plate/group.jpeg)
 
 Last week, [Lam](https://emonet.biology.yale.edu/team/#Lam+Vo) and [Gustavo](https://emonet.biology.yale.edu/team/#Gustavo+Madeira+Santana), along with Mariela Garcia Arredondo, led a 5-day workshop, "From Soil to Plate: How Microbes Grow Our Food," for high school students in the [Yale Pathways to Science](https://onha.yale.edu/pathways-science) summer program!
 
-![]({{ site.baseurl }}/assets/posts/2025-07-18-lam-gustavo-teaching-pathways-to-science-soil-to-plate/activity.jpg)
+![]({{ site.baseurl }}/assets/posts/2025-07-18-lam-gustavo-teaching-pathways-to-science-soil-to-plate/activity.jpeg)
 
 It was an awesome week of hands-on science! The students visited the Yale Farm, where they collected their own soil samples. In the lab, they learned how to grow and isolate bacteria, peek at their DNA using PCR, and even test their special abilities—like watching them swim under the microscope!
 
