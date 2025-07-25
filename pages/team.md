@@ -7,6 +7,11 @@ background:
   img: /assets/backgrounds/AdobeStock_445690126.jpeg
   # by: Adobe Stock
 # toc: true
+redirect_from:
+  - /people
+  - /thierrys-bio
+  - /positions
+  - /galleries
 ---
 
 For past lab members, see our [Alumni]({{ '/alumni/' | absolute_url }}) page.
