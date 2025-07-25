@@ -5,6 +5,8 @@ background: "assets/posts/2018-08-25-kavli-institute-for-theoretical-physics-at-
 background-use: "no"
 date: "2018-08-25"
 original_url: "https://emonet.biology.yale.edu/news/kavli-institute-theoretical-physics-ucsb"
+redirect_from:
+  - /news/kavli-institute-theoretical-physics-ucsb
 ---
 # Kavli Institute for Theoretical Physics at UCSB
 

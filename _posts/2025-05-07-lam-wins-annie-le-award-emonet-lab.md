@@ -5,6 +5,8 @@ background: "assets/posts/2025-05-07-lam-wins-annie-le-award-emonet-lab/image_3.
 background-use: "no"
 date: "2025-05-07"
 original_url: "https://emonet.biology.yale.edu/news/lam-wins-annie-le-award"
+redirect_from:
+  - /news/lam-wins-annie-le-award
 ---
 # Lam wins Annie Le Award!
 

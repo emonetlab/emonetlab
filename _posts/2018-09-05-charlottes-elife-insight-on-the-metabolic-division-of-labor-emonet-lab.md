@@ -5,6 +5,8 @@ background: "assets/posts/2018-09-05-charlottes-elife-insight-on-the-metabolic-d
 background-use: "no"
 date: "2018-09-05"
 original_url: "https://emonet.biology.yale.edu/news/charlottes-elife-insight-metabolic-division-labor"
+redirect_from:
+  - /news/charlottes-elife-insight-metabolic-division-labor
 ---
 # Charlotte’s eLife Insight on the metabolic division of labor
 

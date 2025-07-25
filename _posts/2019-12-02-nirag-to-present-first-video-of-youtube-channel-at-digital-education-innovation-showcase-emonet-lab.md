@@ -5,6 +5,8 @@ background: "assets/posts/2019-12-02-nirag-to-present-first-video-of-youtube-cha
 background-use: "no"
 date: "2019-12-02"
 original_url: "https://emonet.biology.yale.edu/news/nirag-present-first-video-youtube-channel-digital-education-innovation-showcase"
+redirect_from:
+  - /news/nirag-present-first-video-youtube-channel-digital-education-innovation-showcase
 ---
 # Nirag to present first video of YouTube channel at Digital Education Innovation Showcase
 

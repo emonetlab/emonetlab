@@ -5,6 +5,8 @@ background: "assets/posts/2016-03-29-daniel-seara-wins-nsf-phd-felowship-emonet-
 background-use: "no"
 date: "2016-03-29"
 original_url: "https://emonet.biology.yale.edu/news/daniel-seara-wins-nsf-phd-felowship"
+redirect_from:
+  - /news/daniel-seara-wins-nsf-phd-felowship
 ---
 # Daniel Seara wins NSF PhD felowship
 

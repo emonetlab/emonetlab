@@ -5,6 +5,8 @@ background: "assets/posts/2023-04-05-lam-awarded-f31-fellowship-emonet-lab/img_5
 background-use: "no"
 date: "2023-04-05"
 original_url: "https://emonet.biology.yale.edu/news/lam-awarded-f31-fellowship"
+redirect_from:
+  - /news/lam-awarded-f31-fellowship
 ---
 # Lam awarded F31 fellowship!
 

@@ -5,6 +5,8 @@ background: "assets/posts/2017-08-04-disorder-helps-maintain-a-straight-spine-em
 background-use: "no"
 date: "2017-08-04"
 original_url: "https://emonet.biology.yale.edu/news/disorder-helps-maintain-straight-spine"
+redirect_from:
+  - /news/disorder-helps-maintain-straight-spine
 ---
 # Disorder helps maintain a straight spine
 

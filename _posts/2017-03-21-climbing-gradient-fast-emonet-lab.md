@@ -5,6 +5,8 @@ background: "assets/posts/2017-03-21-climbing-gradient-fast-emonet-lab/screen_sh
 background-use: "no"
 date: "2017-03-21"
 original_url: "https://emonet.biology.yale.edu/news/climbing-gradient-fast"
+redirect_from:
+  - /news/climbing-gradient-fast
 ---
 # Climbing gradient fast
 

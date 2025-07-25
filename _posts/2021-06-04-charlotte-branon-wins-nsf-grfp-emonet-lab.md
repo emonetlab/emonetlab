@@ -5,6 +5,8 @@ background: "assets/posts/2021-06-04-charlotte-branon-wins-nsf-grfp-emonet-lab/c
 background-use: "no"
 date: "2021-06-04"
 original_url: "https://emonet.biology.yale.edu/news/charlotte-branon-wins-nsf-grfp"
+redirect_from:
+  - /news/charlotte-branon-wins-nsf-grfp
 ---
 # Charlotte Branon wins NSF GRFP
 

@@ -5,6 +5,8 @@ background: "assets/posts/2023-06-21-viraaj-and-aartis-paper-published-in-plos-c
 background-use: "no"
 date: "2023-06-21"
 original_url: "https://emonet.biology.yale.edu/news/viraaj-and-aartis-paper-published-plos-comp-bio"
+redirect_from:
+  - /news/viraaj-and-aartis-paper-published-plos-comp-bio
 ---
 # Viraaj and Aarti’s paper published in Plos Comp Bio!
 

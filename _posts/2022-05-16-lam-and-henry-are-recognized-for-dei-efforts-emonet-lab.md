@@ -5,6 +5,8 @@ background: "assets/posts/2022-05-16-lam-and-henry-are-recognized-for-dei-effort
 background-use: "no"
 date: "2022-05-16"
 original_url: "https://emonet.biology.yale.edu/news/lam-and-henry-are-recognized-dei-efforts"
+redirect_from:
+  - /news/lam-and-henry-are-recognized-dei-efforts
 ---
 # Lam and Henry are recognized for DEI efforts
 

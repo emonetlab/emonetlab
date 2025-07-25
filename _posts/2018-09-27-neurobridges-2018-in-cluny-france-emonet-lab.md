@@ -5,6 +5,8 @@ background: "assets/posts/2018-09-27-neurobridges-2018-in-cluny-france-emonet-la
 background-use: "no"
 date: "2018-09-27"
 original_url: "https://emonet.biology.yale.edu/news/neurobridges-2018-cluny-france"
+redirect_from:
+  - /news/neurobridges-2018-cluny-france
 ---
 # NeuroBridges 2018 in Cluny, France
 

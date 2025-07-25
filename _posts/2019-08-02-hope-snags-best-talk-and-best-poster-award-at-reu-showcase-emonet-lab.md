@@ -5,6 +5,8 @@ background: "assets/posts/2019-08-02-hope-snags-best-talk-and-best-poster-award-
 background-use: "no"
 date: "2019-08-02"
 original_url: "https://emonet.biology.yale.edu/news/hope-snags-best-talk-and-best-poster-award-reu-showcase"
+redirect_from:
+  - /news/hope-snags-best-talk-and-best-poster-award-reu-showcase
 ---
 # Hope snags best talk and best poster award at REU showcase
 

@@ -5,6 +5,8 @@ background: "assets/posts/2022-04-19-henry-keita-and-mahmut-moving-on-to-new-pos
 background-use: "no"
 date: "2022-04-19"
 original_url: "https://emonet.biology.yale.edu/news/henry-keita-and-mahmut-moving-new-positions"
+redirect_from:
+  - /news/henry-keita-and-mahmut-moving-new-positions
 ---
 # Henry, Keita and Mahmut Moving on to new positions!
 

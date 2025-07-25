@@ -5,6 +5,8 @@ background: "assets/posts/2020-03-27-mahmut-and-nirags-preprint-posted-how-droso
 background-use: "no"
 date: "2020-03-27"
 original_url: "https://emonet.biology.yale.edu/news/mahmut-and-nirags-preprint-posted-how-drosophila-navigate-complex-intermittent-odor-plumes"
+redirect_from:
+  - /news/mahmut-and-nirags-preprint-posted-how-drosophila-navigate-complex-intermittent-odor-plumes
 ---
 # Mahmut and Nirag’s preprint posted: How Drosophila navigate complex, intermittent odor plumes
 

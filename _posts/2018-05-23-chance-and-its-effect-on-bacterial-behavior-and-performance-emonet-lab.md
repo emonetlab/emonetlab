@@ -5,6 +5,8 @@ background: "assets/posts/2018-05-23-chance-and-its-effect-on-bacterial-behavior
 background-use: "no"
 date: "2018-05-23"
 original_url: "https://emonet.biology.yale.edu/news/chance-and-its-effect-bacterial-behavior-and-performance"
+redirect_from:
+  - /news/chance-and-its-effect-bacterial-behavior-and-performance
 ---
 # Chance and its effect on bacterial behavior and performance
 

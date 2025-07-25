@@ -5,6 +5,8 @@ background: "assets/posts/2015-05-17-nick-frankel-wins-john-spangler-nicholas-di
 background-use: "no"
 date: "2015-05-17"
 original_url: "https://emonet.biology.yale.edu/news/nick-frankel-wins-john-spangler-nicholas-dissertation-prize"
+redirect_from:
+  - /news/nick-frankel-wins-john-spangler-nicholas-dissertation-prize
 ---
 # Nick Frankel wins John Spangler Nicholas Dissertation Prize
 

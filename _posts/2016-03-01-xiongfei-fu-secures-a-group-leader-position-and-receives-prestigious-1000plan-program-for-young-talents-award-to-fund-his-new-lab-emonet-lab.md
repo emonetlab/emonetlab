@@ -5,6 +5,8 @@ background: "assets/posts/2016-03-01-xiongfei-fu-secures-a-group-leader-position
 background-use: "no"
 date: "2016-03-01"
 original_url: "https://emonet.biology.yale.edu/news/xiongfei-fu-secures-group-leader-position-and-receives-prestigious-1000plan-program-young"
+redirect_from:
+  - /news/xiongfei-fu-secures-group-leader-position-and-receives-prestigious-1000plan-program-young
 ---
 # Xiongfei Fu secures a group leader position and receives prestigious “1000Plan Program for Young Talents” award to fund his new lab
 

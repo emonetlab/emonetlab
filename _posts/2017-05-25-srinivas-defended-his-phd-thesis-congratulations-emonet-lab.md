@@ -5,6 +5,8 @@ background: "assets/posts/2017-05-25-srinivas-defended-his-phd-thesis-congratula
 background-use: "no"
 date: "2017-05-25"
 original_url: "https://emonet.biology.yale.edu/news/srinivas-defended-his-phd-thesis-congratulations"
+redirect_from:
+  - /news/srinivas-defended-his-phd-thesis-congratulations
 ---
 # Srinivas defended his PhD Thesis Congratulations!
 

@@ -5,6 +5,8 @@ background: "assets/posts/2018-09-13-congrats-to-junjiajia-for-defending-his-the
 background-use: "no"
 date: "2018-09-13"
 original_url: "https://emonet.biology.yale.edu/news/congrats-junjiajia-defending-his-thesis"
+redirect_from:
+  - /news/congrats-junjiajia-defending-his-thesis
 ---
 # Congrats to Junjiajia for defending his thesis!
 

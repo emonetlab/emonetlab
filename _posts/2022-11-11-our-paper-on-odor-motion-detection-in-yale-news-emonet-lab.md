@@ -5,6 +5,8 @@ background: "assets/posts/2022-11-11-our-paper-on-odor-motion-detection-in-yale-
 background-use: "no"
 date: "2022-11-11"
 original_url: "https://emonet.biology.yale.edu/news/our-paper-odor-motion-detection-yale-news"
+redirect_from:
+  - /news/our-paper-odor-motion-detection-yale-news
 ---
 # Our paper on odor motion detection in Yale News
 

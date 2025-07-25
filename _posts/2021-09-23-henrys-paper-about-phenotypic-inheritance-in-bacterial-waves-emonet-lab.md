@@ -5,6 +5,8 @@ background: "assets/posts/2021-09-23-henrys-paper-about-phenotypic-inheritance-i
 background-use: "no"
 date: "2021-09-23"
 original_url: "https://emonet.biology.yale.edu/news/henrys-paper-about-phenotypic-inheritance-bacterial-waves"
+redirect_from:
+  - /news/henrys-paper-about-phenotypic-inheritance-bacterial-waves
 ---
 # Henry’s paper about phenotypic inheritance in bacterial waves
 

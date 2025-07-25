@@ -5,6 +5,8 @@ background: "assets/posts/2019-12-02-srinivas-carlotta-and-mahmuts-paper-on-how-
 background-use: "no"
 date: "2019-12-02"
 original_url: "https://emonet.biology.yale.edu/news/srinivas-carlotta-and-mahmuts-paper-how-deliver-accurate-and-precise-dynamic-odor-stimuli"
+redirect_from:
+  - /news/srinivas-carlotta-and-mahmuts-paper-how-deliver-accurate-and-precise-dynamic-odor-stimuli
 ---
 # Srinivas’, Carlotta, and Mahmut’s paper on how to deliver accurate and precise dynamic odor stimuli published in the Journal of Experimental Biology!
 

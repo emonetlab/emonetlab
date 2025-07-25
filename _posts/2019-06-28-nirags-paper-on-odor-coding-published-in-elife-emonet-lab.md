@@ -5,6 +5,8 @@ background: "assets/posts/2019-06-28-nirags-paper-on-odor-coding-published-in-el
 background-use: "no"
 date: "2019-06-28"
 original_url: "https://emonet.biology.yale.edu/news/nirags-paper-odor-coding-published-elife"
+redirect_from:
+  - /news/nirags-paper-odor-coding-published-elife
 ---
 # Nirag’s paper on odor coding published in eLife!
 

@@ -5,6 +5,8 @@ background: "assets/posts/2019-01-15-henry-awarded-an-nih-postdoctoral-fellowshi
 background-use: "no"
 date: "2019-01-15"
 original_url: "https://emonet.biology.yale.edu/news/henry-awarded-nih-postdoctoral-fellowship"
+redirect_from:
+  - /news/henry-awarded-nih-postdoctoral-fellowship
 ---
 # Henry awarded an NIH postdoctoral fellowship!
 

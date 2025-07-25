@@ -5,6 +5,8 @@ background: "assets/posts/2021-05-04-jeremy-moore-wins-nsf-grfp-emonet-lab/jerem
 background-use: "no"
 date: "2021-05-04"
 original_url: "https://emonet.biology.yale.edu/news/jeremy-moore-wins-nsf-grfp"
+redirect_from:
+  - /news/jeremy-moore-wins-nsf-grfp
 ---
 # Jeremy Moore wins NSF GRFP
 

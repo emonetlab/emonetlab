@@ -5,6 +5,8 @@ background: "assets/posts/2020-11-03-mahmut-and-nirags-paper-is-out-together-wit
 background-use: "no"
 date: "2020-11-03"
 original_url: "https://emonet.biology.yale.edu/news/mahmut-and-nirags-paper-out-together-insight-article"
+redirect_from:
+  - /news/mahmut-and-nirags-paper-out-together-insight-article
 ---
 # Mahmut and Nirag’s paper is out together with an insight article
 

@@ -5,6 +5,8 @@ background: "assets/posts/2022-11-10-discovery-of-odor-motion-detection-publishe
 background-use: "no"
 date: "2022-11-10"
 original_url: "https://emonet.biology.yale.edu/news/discovery-odor-motion-detection-published-nature"
+redirect_from:
+  - /news/discovery-odor-motion-detection-published-nature
 ---
 # Discovery of odor motion detection published in Nature
 

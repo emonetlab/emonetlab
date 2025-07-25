@@ -5,6 +5,8 @@ background: "assets/posts/2016-12-19-diversity-matters-a-new-study-from-the-emon
 background-use: "no"
 date: "2016-12-19"
 original_url: "https://emonet.biology.yale.edu/news/diversity-matters-new-study-emonet-lab-shows-how-diversity-modulates-population-performance"
+redirect_from:
+  - /news/diversity-matters-new-study-emonet-lab-shows-how-diversity-modulates-population-performance
 ---
 # Diversity matters: a new study from the Emonet lab shows how diversity modulates population performance
 

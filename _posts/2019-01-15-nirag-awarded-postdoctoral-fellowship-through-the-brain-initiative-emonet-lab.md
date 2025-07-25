@@ -5,6 +5,8 @@ background: "assets/posts/2019-01-15-nirag-awarded-postdoctoral-fellowship-throu
 background-use: "no"
 date: "2019-01-15"
 original_url: "https://emonet.biology.yale.edu/news/nirag-awarded-postdoctoral-fellowship-through-brain-initiative"
+redirect_from:
+  - /news/nirag-awarded-postdoctoral-fellowship-through-brain-initiative
 ---
 # Nirag awarded postdoctoral fellowship through the BRAIN Initiative
 

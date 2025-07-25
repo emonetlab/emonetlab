@@ -5,6 +5,8 @@ background: "assets/posts/2018-06-06-reconciliating-individuality-and-collective
 background-use: "no"
 date: "2018-06-06"
 original_url: "https://emonet.biology.yale.edu/news/reconciliating-individuality-and-collective-behavior"
+redirect_from:
+  - /news/reconciliating-individuality-and-collective-behavior
 ---
 # Reconciliating individuality and collective behavior
 

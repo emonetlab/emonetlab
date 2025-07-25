@@ -5,6 +5,8 @@ background: "assets/posts/2024-01-09-seeing-how-bacteria-change-their-enviroment
 background-use: "no"
 date: "2024-01-09"
 original_url: "https://emonet.biology.yale.edu/news/seeing-how-bacteria-change-their-enviroment"
+redirect_from:
+  - /news/seeing-how-bacteria-change-their-enviroment
 ---
 # Seeing how bacteria change their enviroment
 

@@ -5,6 +5,8 @@ background: "assets/posts/2019-12-22-welcome-baby-hakan-emonet-lab/img-20191217-
 background-use: "no"
 date: "2019-12-22"
 original_url: "https://emonet.biology.yale.edu/news/welcome-baby-hakan"
+redirect_from:
+  - /news/welcome-baby-hakan
 ---
 # Welcome Baby Hakan!
 

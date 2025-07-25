@@ -5,6 +5,8 @@ background: "assets/posts/2020-07-07-welcome-baby-samaira-emonet-lab/61577727292
 background-use: "no"
 date: "2020-07-07"
 original_url: "https://emonet.biology.yale.edu/news/welcome-baby-samaira"
+redirect_from:
+  - /news/welcome-baby-samaira
 ---
 # Welcome Baby Samaira
 

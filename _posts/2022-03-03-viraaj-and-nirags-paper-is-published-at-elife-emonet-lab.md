@@ -5,6 +5,8 @@ background: "assets/posts/2022-03-03-viraaj-and-nirags-paper-is-published-at-eli
 background-use: "no"
 date: "2022-03-03"
 original_url: "https://emonet.biology.yale.edu/news/viraaj-and-nirags-paper-published-elife"
+redirect_from:
+  - /news/viraaj-and-nirags-paper-published-elife
 ---
 # Viraaj and Nirag’s paper is published at eLife
 

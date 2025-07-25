@@ -5,6 +5,8 @@ background: "assets/posts/2021-11-29-henry-and-keitas-information-paper-is-live-
 background-use: "no"
 date: "2021-11-29"
 original_url: "https://emonet.biology.yale.edu/news/henry-and-keitas-information-paper-live-nature-physics"
+redirect_from:
+  - /news/henry-and-keitas-information-paper-live-nature-physics
 ---
 # Henry and Keita’s Information Paper Is Live on Nature Physics!
 

@@ -5,6 +5,8 @@ background: "assets/posts/2020-11-17-keitas-paper-about-dynamic-risk-management-
 background-use: "no"
 date: "2020-11-17"
 original_url: "https://emonet.biology.yale.edu/news/keitas-paper-about-dynamic-risk-management-cell-populations"
+redirect_from:
+  - /news/keitas-paper-about-dynamic-risk-management-cell-populations
 ---
 # Keita’s paper about dynamic risk management in cell populations
 
