@@ -28,14 +28,6 @@
   description: >
     Josh is an undergraduate at Yale studying neuroscience and is interested in understanding temporal integration of odor stimuli in Drosophila and how this can be translated into behavior. Before his interest in neuroscience, he studied cutting-edge methods in medical imaging including photon-counting detector CT scanners and medical 3D printing. Outside of the lab, Josh has a passion for art and design, and hopes to one day combine his scientific background with his artistic interests in the field of medicine.
 
-- name: Lechi Akalaonu
-  role: Undergraduate
-  when: "2024-"
-  image: empty.jpg
-  email: lechi.akalaonu@yale.edu
-  description: >
-    Kelechi is an undergraduate at Yale studying Neuroscience with a certificate of Advanced Study in French. His interests lie in circuits and computational neuroscience; in the lab he is studying the neural circuitry that underlies spatial memory/place preference in Drosophila olfactory navigation.
-
 - name: Kevin Chen
   role: Postdoc
   when: "2024-"
