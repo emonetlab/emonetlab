@@ -12,6 +12,9 @@ redirect_from:
   - /thierrys-bio
   - /positions
   - /galleries
+  - /gallery/lab-photos-2021-2022
+  - /gallery/lab-photos-2022-2023
+  - /gallery/lab-photos-2023-2024
 ---
 
 For past lab members, see our [Alumni]({{ '/alumni/' | absolute_url }}) page.
