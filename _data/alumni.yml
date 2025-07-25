@@ -300,7 +300,7 @@
 - name: "Michael Weiner"
   role: "Undergraduate Student"
   image: empty.jpg
-  now: Graduate student Cornell University
+  now: Graduate student at Cornell University
 
 - name: "Tobias Holden"
   role: "Undergraduate Student"
@@ -315,8 +315,10 @@
   role: "Undergraduate Student"
   when: "2023"
   image: empty.jpg
+  now: Graduate student at Harvard University
 
 - name: "Karah Edmonds"
   role: "Undergraduate Student"
   when: "2024"
   image: empty.jpg
+  now: Undergraduate student at Belmont University
