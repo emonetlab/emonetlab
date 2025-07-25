@@ -5,7 +5,7 @@ title: All Publications
 permalink: /pubs-all/
 background:
   img: /assets/backgrounds/AdobeStock_296936119.jpeg
-  by: Adobe Stock
+  by: Adobe
 redirect_from:
   - /software
 ---

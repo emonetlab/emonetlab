@@ -1,5 +1,5 @@
 - name: Lechi Akalaonu
-  role: Undergraduate
+  role: "Undergraduate Student"
   when: "2024-2025"
   image: empty.jpg
   email: lechi.akalaonu@yale.edu

@@ -5,7 +5,7 @@
 
 # Example entry
 # - name: Gustavo Madeira Santana
-#   role: Graduate Student
+#   role: "Graduate Student"
 #   program: >
 #     [Interdepartmental Neuroscience Program](https://medicine.yale.edu/inp/), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
 #   image: empty.jpg
@@ -21,7 +21,7 @@
 #   website: https://gumadeiras.com
 
 - name: Josh Chen
-  role: Undergraduate
+  role: "Undergraduate Student"
   when: "2024-"
   image: josh-chen.jpg
   email: josh.chen@yale.edu
@@ -29,7 +29,7 @@
     Josh is an undergraduate at Yale studying neuroscience and is interested in understanding temporal integration of odor stimuli in Drosophila and how this can be translated into behavior. Before his interest in neuroscience, he studied cutting-edge methods in medical imaging including photon-counting detector CT scanners and medical 3D printing. Outside of the lab, Josh has a passion for art and design, and hopes to one day combine his scientific background with his artistic interests in the field of medicine.
 
 - name: Kevin Chen
-  role: Postdoc
+  role: "Postdoc"
   when: "2024-"
   image: kevin-chen.jpg
   googlescholar: nDBcpSAAAAAJ
@@ -38,7 +38,7 @@
     Kevin is interested in animal behavior, biophysical models, and network dynamics. He completed his PhD with Andy Leifer and Jonathan Pillow at Princeton, where he studied worm chemotaxis through biophysical experiments and statistical modeling. Working with the Emonet and Clark labs, Kevin hopes to characterize how seemingly simple systems, like fruit flies, can produce complex behaviors and sophisticated computations during sensory navigation. Outside of the lab, Kevin enjoys jogging, reading, origami, music, and bubble tea.
 
 - name: Kiri Choi
-  role: Postdoc
+  role: "Postdoc"
   when: "2023-"
   image: kiri-choi.jpg
   googlescholar: vu7Ma2QAAAAJ
@@ -47,7 +47,7 @@
     Kiri is interested in how the brain encodes and processes olfactory information and makes appropriate decisions. Previously, he was a research fellow at the Korea Institute for Advanced Study under the mentorship of Changbong Hyeon, where he studied how a brain’s spatial, structural, and connective characteristics contribute to its functionality. He completed his PhD in Bioengineering at the University of Washington under the advice of Herbert M. Sauro, where he designed the biochemical reaction networks using high-throughput simulation studies.
 
 - name: Fotis Avgidis
-  role: Postdoc
+  role: "Postdoc"
   when: "2024-"
   image: fotis-avgidis.jpg
   googlescholar: AvQIo1kAAAAJ
@@ -56,7 +56,7 @@
     Fotis is broadly interested in how living organisms process information and how information processing shapes behavior. He completed his PhD with Tom Shimizu at AMOLF in the Netherlands, where he studied the origins of sensory diversity in bacteria and the dynamics of the bacterial chemotaxis system near criticality. Before developing a fascination for biology, he dabbled in quantum computing and particle accelerators. Outside of science, he enjoys reading, traveling, visiting art museums, and taking photos.
 
 - name: Carrie Nardella
-  role: Senior Administrative Assistant
+  role: "Senior Administrative Assistant"
   image: carrie-nardella.jpg
   email: carrie.nardella@yale.edu
   description: >
@@ -64,7 +64,7 @@
 
 - name: Gustavo Madeira Santana
   when: "2021-"
-  role: Graduate Student
+  role: "Graduate Student"
   program: >
     [Interdepartmental Neuroscience Program](https://medicine.yale.edu/inp/), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
   image: gustavo-santana.jpg
@@ -77,7 +77,7 @@
 
 - name: Jeremy Moore
   when: "2020-"
-  role: Graduate Student
+  role: "Graduate Student"
   program: >
     [Graduate Program in Molecular, Cellular, and Developmental Biology](https://mcdb.yale.edu)
   image: jeremy-moore.jpg
@@ -87,7 +87,7 @@
 
 - name: Jyot Antani
   when: "2020-"
-  role: Postdoc
+  role: "Postdoc"
   image: jyot-antani.jpg
   email: jyot.antani@yale.edu
   website: https://antanij.netlify.app/
@@ -97,7 +97,7 @@
 
 - name: Lam Vo
   when: "2020-"
-  role: Graduate Student
+  role: "Graduate Student"
   program: >
     [Graduate Program in Molecular, Cellular, and Developmental Biology](https://mcdb.yale.edu), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
   image: lam-vo.png
@@ -107,14 +107,14 @@
 
 - name: Samuel Brudner
   when: "2022-"
-  role: Postdoc
+  role: "Postdoc"
   image: sam-brudner.png
   email: samuel.brudner@yale.edu
   description: >
     Sam is interested in the mechanics of adaptive animal behavior. He studies how hungry fruit flies decide where to look for food based on patterns in the odors drifting over them. He was previously a grad student at Duke with Dr. Richard Mooney where he studied how young finches learn to imitate the songs of adult birds. He hopes that studying how animals solve tasks, we will broaden our understanding of what intelligence is, and how brains create it. Apart from neuroscience, Sam likes food, music, dancing, and learning about native plants and animals where he lives.
 
 - name: Thierry Emonet
-  role: Principal Investigator
+  role: "Principal Investigator"
   image: thierry-emonet-crop.jpg
   googlescholar: k93FQp4AAAAJ
   twitter: emonetlab

@@ -5,7 +5,7 @@ description: Who we are.
 permalink: /team/
 background:
   img: /assets/backgrounds/AdobeStock_445690126.jpeg
-  # by: Adobe Stock
+  by: Adobe
 # toc: true
 redirect_from:
   - /people

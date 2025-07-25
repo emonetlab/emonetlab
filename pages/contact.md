@@ -2,7 +2,7 @@
 title: Get in touch
 background:
   img: /assets/backgrounds/AdobeStock_624387143.jpeg
-  by: Adobe Stock
+  by: Adobe
 permalink: /contact/
 ---
 
