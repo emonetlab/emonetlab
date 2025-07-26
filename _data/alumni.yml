@@ -313,12 +313,16 @@
 
 - name: "Isabel Burger"
   role: "Undergraduate Student"
+  program: >
+    [PEB REU](https://physics-engineering-biology.yale.edu/summer-research-in-physical-engineering-biology)
   when: "2023"
   image: empty.jpg
   now: Graduate student at Harvard University
 
 - name: "Karah Edmonds"
   role: "Undergraduate Student"
+  program: >
+    [PEB REU](https://physics-engineering-biology.yale.edu/summer-research-in-physical-engineering-biology)
   when: "2024"
   image: empty.jpg
   now: Undergraduate student at Belmont University

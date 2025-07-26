@@ -22,6 +22,8 @@
 
 - name: Ava Carroll
   role: "Undergraduate Student"
+  program: >
+    [PEB REU](https://physics-engineering-biology.yale.edu/summer-research-in-physical-engineering-biology)
   when: "2025"
   image: ava-carroll.jpg
   email: avacarroll907@gmail.com
