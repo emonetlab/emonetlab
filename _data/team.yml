@@ -20,6 +20,14 @@
 #   email: gustavo.santana@yale.edu
 #   website: https://gumadeiras.com
 
+- name: Ava Carroll
+  role: "Undergraduate Student"
+  when: "2025"
+  image: ava-carroll.jpg
+  email: avacarroll907@gmail.com
+  description: >
+    Ava is an undergraduate studying physics at Smith College. She is interested in biophysics and in the future hopes to study autoimmune diseases, specifically Celiac disease. In her free time Ava likes to bake, do yoga and read epic fantasy novels.
+
 - name: Josh Chen
   role: "Undergraduate Student"
   when: "2024-"
