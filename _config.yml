@@ -35,6 +35,8 @@ plugins:                                # If you build your site on gh-pages, on
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - mini_magick
+  - exifr
 whitelist:
   - jekyll-redirect-from
 exclude:
