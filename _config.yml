@@ -39,11 +39,12 @@ plugins:                                # If you build your site on gh-pages, on
   - exifr
 whitelist:
   - jekyll-redirect-from
+  - mini_magick
+  - exifr
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
-  - node_modules
   - LICENSE
   - package-lock.json
   - package.json
