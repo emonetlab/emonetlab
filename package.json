@@ -1,21 +1,23 @@
 {
-  "name": "petridish",
+  "name": "emonetlab",
   "version": "1.0.0",
   "description": "Jekyll theme for research project websites.",
-  "author": "Peter Desmet",
-  "license": "MIT",
-  "homepage": "https://github.com/peterdesmet/petridish",
   "keywords": [
     "jekyll",
     "theme"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/peterdesmet/petridish.git"
-  },
+  "homepage": "https://github.com/peterdesmet/petridish",
   "bugs": {
     "url": "https://github.com/peterdesmet/petridish/issues"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterdesmet/petridish.git"
+  },
+  "license": "MIT",
+  "author": "Peter Desmet",
+  "type": "commonjs",
+  "main": "index.js",
   "scripts": {
     "copy:bootstrap-scss": "mkdir -p _sass/bootstrap && cp -r node_modules/bootstrap/scss/* _sass/bootstrap",
     "copy:fontawesome": "mkdir -p assets/theme/webfonts && cp -r node_modules/@fortawesome/fontawesome-free/webfonts/* assets/theme/webfonts && cp node_modules/@fortawesome/fontawesome-free/css/all.min.css assets/theme/css/fontawesome-all.min.css",
@@ -33,6 +35,7 @@
     "anchor-js": "^4.3.1",
     "bootstrap": "^5.1.3",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.6.0"
+    "jquery": "^3.6.0",
+    "lightgallery": "^2.9.0-beta.1"
   }
 }

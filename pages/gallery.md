@@ -1,4 +1,5 @@
 ---
+layout: layout-with-gallery
 title: Gallery
 description: Photos from lab parties, outings, conferences...
 background:
@@ -8,3 +9,5 @@ permalink: /gallery/
 ---
 
 <h3>Pictures Our Lab 2018 2019</h3>
+
+{% include album.html albumname="2018_2019" %}
