@@ -30,20 +30,3 @@ permalink: /gallery/
   This single, pure JavaScript block will find and initialize ALL galleries.
 =============================================================================
 {%- endcomment -%}
-
-<script type="text/javascript">
-document.addEventListener('DOMContentLoaded', function() {
-// Find all gallery containers on the page using the common class
-const galleries = document.querySelectorAll('.lightgallery-album');
-
-// Loop through each found gallery in JavaScript and initialize it
-galleries.forEach(gallery => {
-lightGallery(gallery, {
-plugins: [lgZoom, lgThumbnail],
-speed: 500,
-selector: 'a'
-});
-});
-});
-</script>
-
