@@ -1,11 +1,10 @@
 {%- comment -%}
-=============================================================================
-  This file now ONLY generates the HTML for the gallery's images.
-  The <script> tag has been removed.
-=============================================================================
+  This file ONLY generates the HTML for one album's images.
+  The <script> tag has been REMOVED.
+  A class "lightgallery-album" has been ADDED to the main div.
 {%- endcomment -%}
 
-<div id="{{include.albumname | slugify}}">
+<div id="{{ include.albumname | slugify }}" class="lightgallery-album">
 
     {%- assign details_filename = include.albumname | append: '_details' -%}
     {%- assign captions_data = site.data.galleries[details_filename] -%}
@@ -35,5 +34,4 @@
     {%- endunless -%}
     {%- endif -%}
     {%- endfor -%}
-
 </div>

@@ -25,22 +25,23 @@ permalink: /gallery/
   <br>
 {% endfor %}
 
-
 {%- comment -%}
 =============================================================================
-  This single script block at the end will initialize ALL galleries.
+  This single, pure JavaScript block will find and initialize ALL galleries.
 =============================================================================
 {%- endcomment -%}
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function() {
-        {% for album in album_names %}
-            const galleryElement{{ forloop.index }} = document.getElementById("{{ album | slugify }}");
-            if (galleryElement{{ forloop.index }}) {
-                lightGallery(galleryElement{{ forloop.index }}, {
-                    plugins: [lgZoom, lgThumbnail],
-                    speed: 500
-                });
-            }
-        {% endfor %}
+        // Find all gallery containers on the page using the common class
+        const galleries = document.querySelectorAll('.lightgallery-album');
+        
+        // Loop through each found gallery in JavaScript and initialize it
+        galleries.forEach(gallery => {
+            lightGallery(gallery, {
+                plugins: [lgZoom, lgThumbnail],
+                speed: 500,
+                selector: 'a'
+            });
+        });
     });
 </script>
