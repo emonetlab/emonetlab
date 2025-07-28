@@ -12,7 +12,7 @@
     {%- if image_details and image_details.caption != "" -%}
       {%- assign caption_text = image_details.caption -%}
     {%- else -%}
-      {%- assign caption_text = "&nbsp;" -%} {# Use a non-breaking space for empty captions #}
+      {%- assign caption_text = "&nbsp;" -%}
     {%- endif -%}
 
     <a href="{{ image.path | relative_url }}" data-sub-html="{{ caption_text | escape }}">
