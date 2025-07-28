@@ -1,32 +1,31 @@
-<div id="{{include.albumname}}">
+{%- comment -%}
+=============================================================================
+  This file now ONLY generates the HTML for the gallery's images.
+  The <script> tag has been removed.
+=============================================================================
+{%- endcomment -%}
 
-    {%- comment -%} Load the caption data from the corresponding YAML file {%- endcomment -%}
+<div id="{{include.albumname | slugify}}">
+
     {%- assign details_filename = include.albumname | append: '_details' -%}
     {%- assign captions_data = site.data.galleries[details_filename] -%}
 
     {%- for image in site.static_files -%}
-    {%- if image.path contains 'images/gallery' and image.path contains include.albumname -%}
+    {%- if image.path contains include.albumname and image.path contains 'images/gallery' -%}
     {%- unless image.path contains 'thumbnails' -%}
 
-    {%- comment -%}
-      Find the details for the current image by matching its filename
-      in the captions_data we loaded earlier.
-    {%- endcomment -%}
     {%- assign image_details = captions_data | where: 'filename', image.name | first -%}
 
-    {%- comment -%} Set the caption text from the YAML data, or use an empty string as a fallback {%- endcomment -%}
     {%- if image_details -%}
       {%- assign caption_text = image_details.caption -%}
     {%- else -%}
       {%- assign caption_text = "" -%}
     {%- endif -%}
 
-    {%- comment -%} Generate a unique ID for this item's caption element {%- endcomment -%}
-    {%- assign caption_id = "caption-" | append: forloop.index -%}
+    {%- assign caption_id = include.albumname | slugify | append: '-' | append: forloop.index -%}
 
-    {%- comment -%} Use the reliable hidden div pattern for the caption {%- endcomment -%}
-    <a href="{{ image.path }}" data-sub-html="#{{ caption_id }}">
-        <img src="/thumbnails{{ image.path }}" loading="lazy" />
+    <a href="{{ image.path | relative_url }}" data-sub-html="#{{ caption_id }}">
+        <img src="/thumbnails{{ image.path | relative_url }}" loading="lazy" />
 
         <div id="{{ caption_id }}" style="display:none;">
             <h4>{{ caption_text }}</h4>
@@ -38,13 +37,3 @@
     {%- endfor -%}
 
 </div>
-
-{%- comment -%} Use a DOMContentLoaded listener for robust script execution {%- endcomment -%}
-<script type="text/javascript">
-    document.addEventListener('DOMContentLoaded', function() {
-        const galleryElement = document.getElementById("{{include.albumname}}");
-        if (galleryElement) {
-            lightGallery(galleryElement);
-        }
-    });
-</script>
