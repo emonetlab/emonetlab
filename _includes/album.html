@@ -3,14 +3,23 @@
     {%- for image in site.static_files -%}
     {%- if image.path contains 'images/gallery' and image.path contains include.albumname -%}
     {%- unless image.path contains 'thumbnails' -%}
-    <a href="{{ image.path }}" data-sub-html="{% exiftag image_description, , {{ image.path }} %}">
+
+    {%- comment -%} Logic to set the caption text {%- endcomment -%}
+    {%- if image.basename | downcase | starts_with: 'img' -%}
+      {%- assign caption = "" -%}
+    {%- else -%}
+      {%- assign caption = image.basename | replace: '-', ' ' -%}
+    {%- endif -%}
+
+    <a href="{{ image.path }}" data-sub-html="{{ caption }}">
         <img src="/thumbnails{{ image.path }}" />
     </a>
+
     {%- endunless -%}
     {%- endif -%}
     {%- endfor -%}
 
 </div>
 <script type="text/javascript">
-    lightGallery(document.getElementById("{{include.albumname}}")); 
+    lightGallery(document.getElementById("{{include.albumname}}"));
 </script>

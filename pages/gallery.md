@@ -12,14 +12,17 @@ permalink: /gallery/
 
 {% include album.html albumname="2023-2024" %}
 
+<br>
 <h3>2022 - 2023</h3>
 
 {% include album.html albumname="2022-2023" %}
 
+<br>
 <h3>2021 - 2022</h3>
 
 {% include album.html albumname="2021-2022" %}
 
+<br>
 <h3>2018 - 2019</h3>
 
 {% include album.html albumname="2018-2019" %}
