@@ -1,7 +1,11 @@
 ---
 layout: layout-with-gallery
 title: Gallery
-# ... (rest of your front matter)
+description: Photos from lab parties, outings, conferences...
+background:
+  img: /assets/backgrounds/AdobeStock_561560383.jpeg
+  by: Adobe
+permalink: /gallery/
 ---
 
 {% assign album_names = "2023-2024,2022-2023,2021-2022,2018-2019" | split: "," %}
