@@ -86,3 +86,7 @@ Example entry for a new publication:
     - [YouTube: Flies smell the motion of odors and use it to navigate](https://www.youtube.com/embed/3CC-0t8vPPM)
     - [How animals follow their nose](https://knowablemagazine.org/article/living-world/2023/how-animals-follow-their-nose), Knowable Magazine, by Dana Mackenzie, March 6 2023
 ```
+
+## Adding a gallery
+
+Soon...
