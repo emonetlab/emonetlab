@@ -30,7 +30,7 @@ logo: "/assets/theme/images/emonet lab logo.png" # Logo in navbar, will be displ
 mini_magick:
     thumbnail: # Preset name
         source: assets/images # source directory - change this to whatever you want
-        destination: thumbnails # generated destination directory
+        destination: thumbnails/assets/images # generated destination directory
         resize: "100x70^" # standard imagemagick options - you can chain multiple commands
         gravity: "center"
         extent: "100x70"
