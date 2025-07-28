@@ -4,20 +4,26 @@ description: Default template for pages and posts, with contained width.
 ---
 
 <!-- lightgallery Stuff -->
+<link type="text/css" rel="stylesheet" href="/node_modules/lightgallery/css/lightgallery-bundle.css" />
+
 <script src="/node_modules/lightgallery/lightgallery.umd.js"></script>
-<script src="/node_modules/lightgallery/plugins/thumbnail/lg-thumbnail.umd.js"></script>
 <script src="/node_modules/lightgallery/plugins/zoom/lg-zoom.umd.js"></script>
+<script src="/node_modules/lightgallery/plugins/thumbnail/lg-thumbnail.umd.js"></script>
+<script src="/node_modules/lightgallery/plugins/captions/lg-captions.umd.js"></script>
 
 {{ content }}
 
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function() {
-        // Find all gallery containers on the page using the common class
         const galleries = document.querySelectorAll('.lightgallery-album');
 
-        // Loop through each found gallery in JavaScript and initialize it
         galleries.forEach(gallery => {
-            lightGallery(gallery);
+            lightGallery(gallery, {
+                // Add lgCaptions to this array
+                plugins: [lgZoom, lgThumbnail, lgCaptions],
+                speed: 500,
+                selector: 'a'
+            });
         });
     });
 </script>
