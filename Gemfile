@@ -11,7 +11,9 @@ gem "jekyll-redirect-from"
 gem "kramdown", "~> 2.4.0"
 gem "kramdown-parser-gfm", "~> 1.1.0"
 gem "liquid", "~> 4.0.4"
+
 # --- Dependencies for your custom _plugins ---
+gem "rmagick"
 gem "mini_magick"
 gem "exifr"
 
