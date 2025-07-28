@@ -8,21 +8,53 @@ background:
 permalink: /gallery/
 ---
 
-<h3>2023 - 2024</h3>
+{% comment %}
+=============================================================================
+  Step 1: Automatically Discover and Sort All Galleries
+=============================================================================
+This block inspects the `_data/galleries` directory, extracts the album
+names from the filenames (e.g., '2021-2022' from '2021-2022_details.yml'),
+and sorts them in reverse chronological order.
+{% endcomment %}
 
-{% include album.html albumname="2023-2024" %}
+{% assign temp_album_names = "" | split: "" %}
+{% for gallery_file in site.data.galleries %}
+  {% assign album_name = gallery_file[0] | remove_suffix: '_details' %}
+  {% assign temp_album_names = temp_album_names | push: album_name %}
+{% endfor %}
+ 
+{% assign sorted_albums = temp_album_names | sort | reverse %}
 
-<br>
-<h3>2022 - 2023</h3>
 
-{% include album.html albumname="2022-2023" %}
+{% comment %}
+=============================================================================
+  Step 2: Build the Table of Contents from the Sorted List
+=============================================================================
+This loops through the sorted list of album names to create the TOC.
+{% endcomment %}
 
-<br>
-<h3>2021 - 2022</h3>
+<nav id="toc" style="margin-bottom:40px;">
+  <h3>Galleries by Year</h3>
+  <ul>
+    {% for album in sorted_albums %}
+      <li>
+        <a href="#{{ album | slugify }}">{{ album }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
 
-{% include album.html albumname="2021-2022" %}
 
-<br>
-<h3>2018 - 2019</h3>
+{% comment %}
+=============================================================================
+  Step 3: Render Each Gallery Section from the Sorted List
+=============================================================================
+This loops through the same sorted list to create the section header and
+include the album, ensuring they appear in the correct order on the page.
+{% endcomment %}
 
-{% include album.html albumname="2018-2019" %}
+{% for album in sorted_albums %}
+  <h3 id="{{ album | slugify }}">{{ album }}</h3>
+  {% include album.html albumname=album %}
+  <br>
+{% endfor %}
