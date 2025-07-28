@@ -29,11 +29,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install ImageMagick 6
+      - name: Install ImageMagick Dependencies
         run: |
           sudo apt-get update
-          # This version string is specific to Ubuntu 22.04 and may break on runner updates
-          sudo apt-get install -y imagemagick=8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5
+          # This installs the binaries, development headers, and pkg-config helper
+          sudo apt-get install -y libmagickwand-dev pkg-config
           echo "--- VERIFYING IMAGEMAGICK VERSION ---"
           convert --version
 
