@@ -27,6 +27,14 @@ font_serif: true                        # Font type for page content: serif (def
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 logo: "/assets/theme/images/emonet lab logo.png" # Logo in navbar, will be displayed with 30px height
 
+mini_magick:
+    thumbnail: # Preset name
+        source: assets/images # source directory - change this to whatever you want
+        destination: thumbnails # generated destination directory
+        resize: "100x70^" # standard imagemagick options - you can chain multiple commands
+        gravity: "center"
+        extent: "100x70"
+
 # BUILD SETTINGS
 markdown: kramdown
 auto_ids: false
