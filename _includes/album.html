@@ -1,32 +1,35 @@
 <div id="{{include.albumname}}">
 
+    {%- comment -%} Load the caption data from the corresponding YAML file {%- endcomment -%}
+    {%- assign details_filename = include.albumname | append: '_details' -%}
+    {%- assign captions_data = site.data.galleries[details_filename] -%}
+
     {%- for image in site.static_files -%}
     {%- if image.path contains 'images/gallery' and image.path contains include.albumname -%}
     {%- unless image.path contains 'thumbnails' -%}
 
-    {%- comment -%} Step 1: Generate a unique ID for this item's caption element {%- endcomment -%}
-    {%- assign caption_id = "caption-" | append: forloop.index -%}
-
-    {%- comment -%} Step 2: Get the filename without the extension {%- endcomment -%}
-    {%- assign filename_base = image.name | remove: image.extname -%}
-
-    {%- comment -%} Step 3: Set the caption based on the filename {%- endcomment -%}
-    {%- if filename_base | downcase | starts_with: 'img' -%}
-      {%- assign caption_text = "" -%}
+    {%- comment -%}
+      Find the details for the current image by matching its filename
+      in the captions_data we loaded earlier.
+    {%- endcomment -%}
+    {%- assign image_details = captions_data | where: 'filename', image.name | first -%}
+    
+    {%- comment -%} Set the caption text from the YAML data, or use an empty string as a fallback {%- endcomment -%}
+    {%- if image_details -%}
+      {%- assign caption_text = image_details.caption -%}
     {%- else -%}
-      {%- assign caption_text = filename_base | replace: '-', ' ' -%}
+      {%- assign caption_text = "" -%}
     {%- endif -%}
 
-    {%- comment -%}
-      The data-sub-html now points to the ID of the hidden div.
-      This is the most reliable method.
-    {%- endcomment -%}
+    {%- comment -%} Generate a unique ID for this item's caption element {%- endcomment -%}
+    {%- assign caption_id = "caption-" | append: forloop.index -%}
+
+    {%- comment -%} Use the reliable hidden div pattern for the caption {%- endcomment -%}
     <a href="{{ image.path }}" data-sub-html="#{{ caption_id }}">
         <img src="/thumbnails{{ image.path }}" />
-
-        {%- comment -%} This hidden div holds the actual caption markup {%- endcomment -%}
+        
         <div id="{{ caption_id }}" style="display:none;">
-            {{ caption_text }}
+            <h4>{{ caption_text }}</h4>
         </div>
     </a>
 
@@ -35,6 +38,13 @@
     {%- endfor -%}
 
 </div>
+
+{%- comment -%} Use a DOMContentLoaded listener for robust script execution {%- endcomment -%}
 <script type="text/javascript">
-    lightGallery(document.getElementById("{{include.albumname}}"));
+    document.addEventListener('DOMContentLoaded', function() {
+        const galleryElement = document.getElementById("{{include.albumname}}");
+        if (galleryElement) {
+            lightGallery(galleryElement);
+        }
+    });
 </script>

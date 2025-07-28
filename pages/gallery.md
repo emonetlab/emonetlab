@@ -8,16 +8,6 @@ background:
 permalink: /gallery/
 ---
 
-<script type="text/javascript">
-    document.addEventListener('DOMContentLoaded', function() {
-        // This code will only run after the full HTML page is loaded
-        const galleryElement = document.getElementById("{{include.albumname}}");
-        if (galleryElement) {
-            lightGallery(galleryElement);
-        }
-    });
-</script>
-
 <h3>2023 - 2024</h3>
 
 {% include album.html albumname="2023-2024" %}
