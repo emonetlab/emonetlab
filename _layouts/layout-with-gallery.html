@@ -21,7 +21,7 @@ description: Default template for pages and posts, with contained width.
         // Loop through each found gallery in JavaScript and initialize it
         galleries.forEach(gallery => {
             lightGallery(gallery, {
-                plugins: [lgZoom, lgThumbnail],
+                plugins: [lgZoom, lgThumbnail, lgCaptions],
                 speed: 500,
                 selector: 'a'
             });
