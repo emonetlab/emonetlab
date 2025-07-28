@@ -3,6 +3,10 @@ layout: default
 description: Default template for pages and posts, with contained width.
 ---
 
+<script src="/node_modules/lightgallery/lightgallery.umd.js"></script>
+<script src="/node_modules/lightgallery/plugins/zoom/lg-zoom.umd.js"></script>
+<script src="/node_modules/lightgallery/plugins/thumbnail/lg-thumbnail.umd.js"></script>
+
 {{ content }}
 
 <script type="text/javascript">
@@ -12,7 +16,8 @@ description: Default template for pages and posts, with contained width.
         galleries.forEach(gallery => {
             lightGallery(gallery, {
                 // Add lgCaptions to this array
-                plugins: [lgZoom, lgThumbnail, lgCaptions],
+                plugins: [lgZoom, lgThumbnail],
+                relativeCaption: true,
                 speed: 500,
                 selector: 'a'
             });
