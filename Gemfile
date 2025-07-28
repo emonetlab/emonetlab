@@ -1,7 +1,17 @@
 source "https://rubygems.org"
-gem "github-pages", group: :jekyll_plugins
-gem "webrick", "~> 1.7"
-gem 'jekyll-seo-tag'
-gem 'jekyll-redirect-from'
+
+# The Jekyll static site generator
+gem "jekyll", "~> 3.10.0"
+# gem "github-pages", group: :jekyll_plugins
+# --- Plugins from your _config.yml ---
+gem "jekyll-feed"
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
+gem "jekyll-redirect-from"
+
+# --- Dependencies for your custom _plugins ---
 gem "mini_magick"
 gem "exifr"
+
+# Required for running a local server with Jekyll 4 and Ruby 3+
+gem "webrick", "~> 1.7"
