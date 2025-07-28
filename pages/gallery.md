@@ -24,3 +24,20 @@ permalink: /gallery/
   {% include album.html albumname=album %}
   <br>
 {% endfor %}
+
+
+{%- content_for scripts -%}
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function() {
+        const galleries = document.querySelectorAll('.lightgallery-album');
+        
+        galleries.forEach(gallery => {
+            lightGallery(gallery, {
+                plugins: [lgZoom, lgThumbnail, lgCaptions],
+                speed: 500,
+                selector: 'a'
+            });
+        });
+    });
+</script>
+{%- end_content_for -%}
