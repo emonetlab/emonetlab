@@ -57,3 +57,15 @@ $enable-rounded: {% if site.rounded_corners != false %}true{% else %}false{% end
   @import "_team";              // Team members
 @import "_footer";              // Footer
 @import "_custom";              // Custom styling
+
+.lightgallery-album {
+  // Use flexbox for easy wrapping and alignment
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px; // This adds a 10px gap between all items, both horizontally and vertically
+
+  a {
+    // Each image link will now have a bottom margin to create row spacing
+    margin-bottom: 10px; // You can adjust this value
+  }
+}
