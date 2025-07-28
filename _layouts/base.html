@@ -10,7 +10,7 @@
       {% include header.html %}
 
       <div class="container content">
-          
+
         {{ content
           | replace: '<table', '<div class="table-responsive"><table'
           | replace: '</table>', '</table></div>'
@@ -21,6 +21,13 @@
     </main>
 
     {% include footer.html %}
+
+    <script src="/node_modules/lightgallery/lightgallery.umd.js"></script>
+    <script src="/node_modules/lightgallery/plugins/zoom/lg-zoom.umd.js"></script>
+    <script src="/node_modules/lightgallery/plugins/thumbnail/lg-thumbnail.umd.js"></script>
+    <script src="/node_modules/lightgallery/plugins/captions/lg-captions.umd.js"></script>
+    {{ content_for_scripts }}
+
 
   </body>
 </html>
