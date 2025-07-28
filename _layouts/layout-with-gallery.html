@@ -15,9 +15,7 @@ description: Default template for pages and posts, with contained width.
 
         galleries.forEach(gallery => {
             lightGallery(gallery, {
-                // Add lgCaptions to this array
                 plugins: [lgZoom, lgThumbnail],
-                relativeCaption: true,
                 speed: 500,
                 selector: 'a'
             });

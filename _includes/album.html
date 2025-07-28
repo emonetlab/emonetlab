@@ -1,9 +1,3 @@
-{%- comment -%}
-  This file ONLY generates the HTML for one album's images.
-  The <script> tag has been REMOVED.
-  A class "lightgallery-album" has been ADDED to the main div.
-{%- endcomment -%}
-
 <div id="{{ include.albumname | slugify }}" class="lightgallery-album">
 
     {%- assign details_filename = include.albumname | append: '_details' -%}
@@ -15,20 +9,14 @@
 
     {%- assign image_details = captions_data | where: 'filename', image.name | first -%}
 
-    {%- if image_details -%}
+    {%- if image_details and image_details.caption != "" -%}
       {%- assign caption_text = image_details.caption -%}
     {%- else -%}
-      {%- assign caption_text = "" -%}
+      {%- assign caption_text = "&nbsp;" -%} {# Use a non-breaking space for empty captions #}
     {%- endif -%}
 
-    {%- assign caption_id = include.albumname | slugify | append: '-' | append: forloop.index -%}
-
-    <a href="{{ image.path | relative_url }}" data-sub-html="#{{ caption_id }}">
+    <a href="{{ image.path | relative_url }}" data-sub-html="{{ caption_text | escape }}">
         <img src="/thumbnails{{ image.path | relative_url }}" loading="lazy" />
-
-        <div id="{{ caption_id }}" style="display:none;">
-            <h4>{{ caption_text }}</h4>
-        </div>
     </a>
 
     {%- endunless -%}
