@@ -13,7 +13,7 @@
       in the captions_data we loaded earlier.
     {%- endcomment -%}
     {%- assign image_details = captions_data | where: 'filename', image.name | first -%}
-    
+
     {%- comment -%} Set the caption text from the YAML data, or use an empty string as a fallback {%- endcomment -%}
     {%- if image_details -%}
       {%- assign caption_text = image_details.caption -%}
@@ -27,7 +27,7 @@
     {%- comment -%} Use the reliable hidden div pattern for the caption {%- endcomment -%}
     <a href="{{ image.path }}" data-sub-html="#{{ caption_id }}">
         <img src="/thumbnails{{ image.path }}" />
-        
+
         <div id="{{ caption_id }}" style="display:none;">
             <h4>{{ caption_text }}</h4>
         </div>
