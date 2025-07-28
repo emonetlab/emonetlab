@@ -8,7 +8,7 @@
     <title>{{ page.title }} - {{ site.title }}</title>
   {% endif %}
 
-  {% comment %}Deprecated variables{% endcomment %} 
+  {% comment %}Deprecated variables{% endcomment %}
   {% if site.email %}
     {% assign site.social.email = site.email %}
   {% endif %}
@@ -72,4 +72,9 @@
   <script src="{{ '/assets/theme/js/bootstrap.min.js' | relative_url }}"></script>
    <!-- Stuff for lightGallery -->
   <link type="text/css" rel="stylesheet" href="/node_modules/lightgallery/css/lightgallery-bundle.css" />
+
+  <script src="/node_modules/lightgallery/lightgallery.umd.js"></script>
+  <script src="/node_modules/lightgallery/plugins/zoom/lg-zoom.umd.js"></script>
+  <script src="/node_modules/lightgallery/plugins/thumbnail/lg-thumbnail.umd.js"></script>
+  <script src="/node_modules/lightgallery/plugins/captions/lg-captions.umd.js"></script>
 </head>
