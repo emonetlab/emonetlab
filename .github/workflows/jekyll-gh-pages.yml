@@ -29,10 +29,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install ImageMagick
+      - name: Install ImageMagick 6
         run: |
           sudo apt-get update
-          sudo apt-get install -y imagemagick
+          # This version string is specific to Ubuntu 22.04 and may break on runner updates
+          sudo apt-get install -y imagemagick=8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5
+          echo "--- VERIFYING IMAGEMAGICK VERSION ---"
+          convert --version
 
       - name: Setup Node
         uses: actions/setup-node@v4
