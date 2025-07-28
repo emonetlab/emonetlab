@@ -4,11 +4,14 @@
     {%- if image.path contains 'images/gallery' and image.path contains include.albumname -%}
     {%- unless image.path contains 'thumbnails' -%}
 
-    {%- comment -%} Logic to set the caption text {%- endcomment -%}
-    {%- if image.basename | downcase | starts_with: 'img' -%}
+    {%- comment -%} Step 1: Get the filename without the extension {%- endcomment -%}
+    {%- assign filename_base = image.name | remove: image.extname -%}
+
+    {%- comment -%} Step 2: Set the caption based on the filename {%- endcomment -%}
+    {%- if filename_base | downcase | starts_with: 'img' -%}
       {%- assign caption = "" -%}
     {%- else -%}
-      {%- assign caption = image.basename | replace: '-', ' ' -%}
+      {%- assign caption = filename_base | replace: '-', ' ' -%}
     {%- endif -%}
 
     <a href="{{ image.path }}" data-sub-html="{{ caption }}">
