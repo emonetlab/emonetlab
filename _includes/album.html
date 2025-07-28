@@ -4,18 +4,30 @@
     {%- if image.path contains 'images/gallery' and image.path contains include.albumname -%}
     {%- unless image.path contains 'thumbnails' -%}
 
-    {%- comment -%} Step 1: Get the filename without the extension {%- endcomment -%}
+    {%- comment -%} Step 1: Generate a unique ID for this item's caption element {%- endcomment -%}
+    {%- assign caption_id = "caption-" | append: forloop.index -%}
+
+    {%- comment -%} Step 2: Get the filename without the extension {%- endcomment -%}
     {%- assign filename_base = image.name | remove: image.extname -%}
 
-    {%- comment -%} Step 2: Set the caption based on the filename {%- endcomment -%}
+    {%- comment -%} Step 3: Set the caption based on the filename {%- endcomment -%}
     {%- if filename_base | downcase | starts_with: 'img' -%}
-      {%- assign caption = "" -%}
+      {%- assign caption_text = "" -%}
     {%- else -%}
-      {%- assign caption = filename_base | replace: '-', ' ' -%}
+      {%- assign caption_text = filename_base | replace: '-', ' ' -%}
     {%- endif -%}
 
-    <a href="{{ image.path }}" data-sub-html="{{ caption }}">
+    {%- comment -%}
+      The data-sub-html now points to the ID of the hidden div.
+      This is the most reliable method.
+    {%- endcomment -%}
+    <a href="{{ image.path }}" data-sub-html="#{{ caption_id }}">
         <img src="/thumbnails{{ image.path }}" />
+
+        {%- comment -%} This hidden div holds the actual caption markup {%- endcomment -%}
+        <div id="{{ caption_id }}" style="display:none;">
+            {{ caption_text }}
+        </div>
     </a>
 
     {%- endunless -%}
