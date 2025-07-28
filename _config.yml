@@ -37,6 +37,10 @@ mini_magick:
 
 # BUILD SETTINGS
 markdown: kramdown
+sass:
+  style: compressed
+  sass_dir: _sass
+
 auto_ids: false
 plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
   - jekyll-feed

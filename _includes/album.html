@@ -26,7 +26,7 @@
 
     {%- comment -%} Use the reliable hidden div pattern for the caption {%- endcomment -%}
     <a href="{{ image.path }}" data-sub-html="#{{ caption_id }}">
-        <img src="/thumbnails{{ image.path }}" />
+        <img src="/thumbnails{{ image.path }}" loading="lazy" />
 
         <div id="{{ caption_id }}" style="display:none;">
             <h4>{{ caption_text }}</h4>
