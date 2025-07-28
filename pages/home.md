@@ -38,7 +38,7 @@ Chemical navigation is not just about following chemical gradients—it involves
             <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Decision Making</strong>: Choosing optimal paths based on environmental inputs, while taking into account how behavioral decisions actively change the signals that will be experienced next.
         </li>
         <li>
-            <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Biological Computation</strong>: How these processes are executed at the molecular, cellular and population levels, and how biological diversity and collective behavior lead to emergent adaptive function. 
+            <i class="fa-li fa fa-chevron-circle-right"></i> <strong>Biological Computation</strong>: How these processes are executed at the molecular, cellular, and population levels, and how biological diversity and collective behavior lead to emergent adaptive function. 
         </li>
     </ul>
 </div>
@@ -70,7 +70,7 @@ Our lab offers a unique environment where interdisciplinary research meets pione
 <div class="col-lg">
     <ul class="fa-ul">
         <li>
-			<i class="fa-li fa fa-chevron-circle-right"></i> For more on bacterial chemotaxis, see our <a href="pubs-micro/">Microbiolgy papers</a>.
+			<i class="fa-li fa fa-chevron-circle-right"></i> For more on bacterial chemotaxis, see our <a href="pubs-micro/">Microbiology papers</a>.
         </li>
         <li>
 			<i class="fa-li fa fa-chevron-circle-right"></i> For more on fruit fly olfactory navigation, see our <a href="pubs-neuro/">Neuroscience papers</a>.
