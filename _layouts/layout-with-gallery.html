@@ -4,7 +4,7 @@ description: Default template for pages and posts, with contained width.
 ---
 
 <!-- lightgallery Stuff -->
-<link type="text/css" rel="stylesheet" href="/node_modules/lightgallery/css/lightgallery-bundle.css" />
+<!-- <link type="text/css" rel="stylesheet" href="/node_modules/lightgallery/css/lightgallery-bundle.css" /> -->
 
 <script src="/node_modules/lightgallery/lightgallery.umd.js"></script>
 <script src="/node_modules/lightgallery/plugins/zoom/lg-zoom.umd.js"></script>
@@ -21,7 +21,7 @@ description: Default template for pages and posts, with contained width.
         // Loop through each found gallery in JavaScript and initialize it
         galleries.forEach(gallery => {
             lightGallery(gallery, {
-                plugins: [lgZoom, lgThumbnail, lgCaptions],
+                plugins: [lgZoom, lgThumbnail],
                 speed: 500,
                 selector: 'a'
             });
