@@ -8,6 +8,9 @@ columns:
     - text: Team
       href: team/
       new_window: false
+    - text: Gallery
+      href: gallery/
+      new_window: false
     - text: Microbiology
       href: pubs-micro/
       new_window: false
