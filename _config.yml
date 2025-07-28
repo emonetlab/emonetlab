@@ -43,7 +43,6 @@ whitelist:
   - exifr
 exclude:
   - README.md
-  - Gemfile
   - Gemfile.lock
   - LICENSE
   - package-lock.json
