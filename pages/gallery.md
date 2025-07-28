@@ -24,9 +24,3 @@ permalink: /gallery/
   {% include album.html albumname=album %}
   <br>
 {% endfor %}
-
-{%- comment -%}
-=============================================================================
-  This single, pure JavaScript block will find and initialize ALL galleries.
-=============================================================================
-{%- endcomment -%}
