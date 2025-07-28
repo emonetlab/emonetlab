@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Climbing gradient fast"
 background: "assets/posts/2017-03-21-climbing-gradient-fast-emonet-lab/screen_shot_2017-03-21_at_2.39.43_pm_1.png"
 background-use: "no"

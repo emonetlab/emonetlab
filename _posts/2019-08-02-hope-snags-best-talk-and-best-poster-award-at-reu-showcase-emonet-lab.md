@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Hope snags best talk and best poster award at REU showcase"
 background: "assets/posts/2019-08-02-hope-snags-best-talk-and-best-poster-award-at-reu-showcase-emonet-lab/img-1313_1.jpg"
 background-use: "no"

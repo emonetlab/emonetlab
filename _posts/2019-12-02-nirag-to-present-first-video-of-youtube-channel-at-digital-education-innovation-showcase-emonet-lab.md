@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Nirag to present first video of YouTube channel at Digital Education Innovation Showcase"
 background: "assets/posts/2019-12-02-nirag-to-present-first-video-of-youtube-channel-at-digital-education-innovation-showcase-emonet-lab/pic6.jpg"
 background-use: "no"

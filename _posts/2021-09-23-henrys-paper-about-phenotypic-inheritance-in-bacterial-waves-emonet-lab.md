@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Henry’s paper about phenotypic inheritance in bacterial waves"
 background: "assets/posts/2021-09-23-henrys-paper-about-phenotypic-inheritance-in-bacterial-waves-emonet-lab/inheritancepic.png"
 background-use: "no"

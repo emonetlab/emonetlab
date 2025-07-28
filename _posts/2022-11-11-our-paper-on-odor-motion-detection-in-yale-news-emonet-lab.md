@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Our paper on odor motion detection in Yale News"
 background: "assets/posts/2022-11-11-our-paper-on-odor-motion-detection-in-yale-news-emonet-lab/screen_shot_2022-11-11_at_4.03.45_pm.png"
 background-use: "no"

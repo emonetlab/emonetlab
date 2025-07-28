@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Reconciliating individuality and collective behavior"
 background: "assets/posts/2018-06-06-reconciliating-individuality-and-collective-behavior-emonet-lab/screen_shot_2018-06-06_at_11.22.15_am.png"
 background-use: "no"

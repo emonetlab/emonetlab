@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Gustavo's new paper from our collaboration with the Jeanne Lab!"
 background: "assets/posts/2025-07-07-gustavo-new-paper-from-our-collaboration-with-the-jeanne-lab/image.jpg"
 background-use: "no"

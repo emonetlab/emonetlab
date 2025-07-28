@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Charlotte’s eLife Insight on the metabolic division of labor"
 background: "assets/posts/2018-09-05-charlottes-elife-insight-on-the-metabolic-division-of-labor-emonet-lab/elife-38578-fig1-v1_0.jpg"
 background-use: "no"

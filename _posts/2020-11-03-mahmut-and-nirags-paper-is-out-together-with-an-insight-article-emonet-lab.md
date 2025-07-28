@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Mahmut and Nirag’s paper is out together with an insight article"
 background: "assets/posts/2020-11-03-mahmut-and-nirags-paper-is-out-together-with-an-insight-article-emonet-lab/elife-63385-fig1-v1.jpg"
 background-use: "no"

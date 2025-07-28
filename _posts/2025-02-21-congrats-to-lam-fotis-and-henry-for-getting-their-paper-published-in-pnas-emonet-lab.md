@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Congrats to Lam Fotis and Henry for getting their paper published in PNAS"
 background: "assets/posts/2025-02-21-congrats-to-lam-fotis-and-henry-for-getting-their-paper-published-in-pnas-emonet-lab/picture2.png"
 background-use: "no"

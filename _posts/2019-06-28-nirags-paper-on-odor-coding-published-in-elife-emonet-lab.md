@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Nirag’s paper on odor coding published in eLife!"
 background: "assets/posts/2019-06-28-nirags-paper-on-odor-coding-published-in-elife-emonet-lab/img_for_website.png"
 background-use: "no"

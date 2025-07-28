@@ -29,11 +29,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Sets up a Ruby environment and installs your gems
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: 'npm'
+
+      - name: Install JS dependencies
+        run: npm ci
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'
+          ruby-version: '3.3.4'
           bundler-cache: true
 
       - name: Build with Jekyll

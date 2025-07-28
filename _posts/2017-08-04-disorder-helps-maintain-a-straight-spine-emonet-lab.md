@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Disorder helps maintain a straight spine"
 background: "assets/posts/2017-08-04-disorder-helps-maintain-a-straight-spine-emonet-lab/devcellorderdisorder.png"
 background-use: "no"

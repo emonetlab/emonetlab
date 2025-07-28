@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Kavli Institute for Theoretical Physics at UCSB"
 background: "assets/posts/2018-08-25-kavli-institute-for-theoretical-physics-at-ucsb-emonet-lab/snav18-thumb_0.png"
 background-use: "no"

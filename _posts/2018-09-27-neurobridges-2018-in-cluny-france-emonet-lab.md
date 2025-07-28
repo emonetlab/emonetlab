@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "NeuroBridges 2018 in Cluny, France"
 background: "assets/posts/2018-09-27-neurobridges-2018-in-cluny-france-emonet-lab/mahmut2_0.jpg"
 background-use: "no"

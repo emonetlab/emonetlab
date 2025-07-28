@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Lam wins Annie Le Award!"
 background: "assets/posts/2025-05-07-lam-wins-annie-le-award-emonet-lab/image_3.png"
 background-use: "no"

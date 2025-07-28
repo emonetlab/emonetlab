@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Welcome Baby Hakan!"
 background: "assets/posts/2019-12-22-welcome-baby-hakan-emonet-lab/img-20191217-wa0021.jpg"
 background-use: "no"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Srinivas’, Carlotta, and Mahmut’s paper on how to deliver accurate and precise dynamic odor stimuli published in the Journal of Experimental Biology!"
 background: "assets/posts/2019-12-02-srinivas-carlotta-and-mahmuts-paper-on-how-to-deliver-accurate-and-precise-dynamic-odor-stimuli-published-in-the-journal-of-experimental-biology-emonet-lab/odorstim.png"
 background-use: "no"

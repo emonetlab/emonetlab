@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Jeremy defended his thesis!"
 background: "assets/posts/2025-05-01-jeremy-defended-his-thesis/jeremy.jpeg"
 background-use: "no"

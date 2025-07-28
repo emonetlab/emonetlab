@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Jeremy Moore wins NSF GRFP"
 background: "assets/posts/2021-05-04-jeremy-moore-wins-nsf-grfp-emonet-lab/jeremypic.jpg"
 background-use: "no"

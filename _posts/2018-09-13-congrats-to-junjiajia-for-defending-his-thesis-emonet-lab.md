@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Congrats to Junjiajia for defending his thesis!"
 background: "assets/posts/2018-09-13-congrats-to-junjiajia-for-defending-his-thesis-emonet-lab/img_2322.jpg"
 background-use: "no"

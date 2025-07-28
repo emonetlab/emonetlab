@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Mahmut and Nirag’s preprint posted: How Drosophila navigate complex, intermittent odor plumes"
 background: "assets/posts/2020-03-27-mahmut-and-nirags-preprint-posted-how-drosophila-navigate-complex-intermittent-odor-plumes-emonet-lab/website_pic.png"
 background-use: "no"

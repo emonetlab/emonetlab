@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Srinivas defended his PhD Thesis Congratulations!"
 background: "assets/posts/2017-05-25-srinivas-defended-his-phd-thesis-congratulations-emonet-lab/srinivas_celbrating.jpg"
 background-use: "no"

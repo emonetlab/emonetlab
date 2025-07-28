@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Nirag is awarded a NIH K99 Pathway to independence award"
 background: "assets/posts/2021-02-18-nirag-is-awarded-a-nih-k99-pathway-to-independence-award-emonet-lab/nirag500x500.jpg"
 background-use: "no"

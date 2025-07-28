@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Daniel Seara wins NSF PhD felowship"
 background: "assets/posts/2016-03-29-daniel-seara-wins-nsf-phd-felowship-emonet-lab/daniel_seara.jpg"
 background-use: "no"

@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Yann’s paper on experimental mapping of protein abundance to cell behavior accepted in PLoS Comp Bio"
 background: "assets/posts/2016-07-18-yanns-paper-on-experimental-mapping-of-protein-abundance-to-cell-behavior-accepted-in-plos-comp-bio-emonet-lab/yannpaper.png"
 background-use: "no"

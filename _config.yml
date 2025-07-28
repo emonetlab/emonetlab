@@ -41,6 +41,8 @@ whitelist:
   - jekyll-redirect-from
   - mini_magick
   - exifr
+include:
+  - "node_modules/lightgallery/"
 exclude:
   - README.md
   - Gemfile

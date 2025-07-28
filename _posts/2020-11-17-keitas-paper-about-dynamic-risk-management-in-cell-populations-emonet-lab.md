@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Keita’s paper about dynamic risk management in cell populations"
 background: "assets/posts/2020-11-17-keitas-paper-about-dynamic-risk-management-in-cell-populations-emonet-lab/keita_paper.jpg"
 background-use: "no"

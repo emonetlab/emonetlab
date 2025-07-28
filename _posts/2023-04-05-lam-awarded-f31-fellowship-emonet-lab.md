@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Lam awarded F31 fellowship!"
 background: "assets/posts/2023-04-05-lam-awarded-f31-fellowship-emonet-lab/img_5513_0.jpg"
 background-use: "no"

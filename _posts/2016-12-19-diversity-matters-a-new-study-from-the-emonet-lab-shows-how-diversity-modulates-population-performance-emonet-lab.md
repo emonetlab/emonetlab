@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Diversity matters: a new study from the Emonet lab shows how diversity modulates population performance"
 background: "assets/posts/2016-12-19-diversity-matters-a-new-study-from-the-emonet-lab-shows-how-diversity-modulates-population-performance-emonet-lab/g3485_0.png"
 background-use: "no"

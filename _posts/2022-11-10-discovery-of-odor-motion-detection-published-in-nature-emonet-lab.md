@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Discovery of odor motion detection published in Nature"
 background: "assets/posts/2022-11-10-discovery-of-odor-motion-detection-published-in-nature-emonet-lab/screen_shot_2022-11-10_at_10.56.33_am.png"
 background-use: "no"

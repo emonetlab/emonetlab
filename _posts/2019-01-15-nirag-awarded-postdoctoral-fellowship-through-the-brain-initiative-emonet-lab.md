@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Nirag awarded postdoctoral fellowship through the BRAIN Initiative"
 background: "assets/posts/2019-01-15-nirag-awarded-postdoctoral-fellowship-through-the-brain-initiative-emonet-lab/2019_01_15_grant_pic_0.png"
 background-use: "no"

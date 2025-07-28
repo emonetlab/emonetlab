@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Xiongfei Fu secures a group leader position and receives prestigious “1000Plan Program for Young Talents” award to fund his new lab"
 background: "assets/posts/2016-03-01-xiongfei-fu-secures-a-group-leader-position-and-receives-prestigious-1000plan-program-for-young-talents-award-to-fund-his-new-lab-emonet-lab/x_0.png"
 background-use: "no"

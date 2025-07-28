@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Henry and Keita’s Information Paper Is Live on Nature Physics!"
 background: "assets/posts/2021-11-29-henry-and-keitas-information-paper-is-live-on-nature-physics-emonet-lab/informationpapergraphic.png"
 background-use: "no"
