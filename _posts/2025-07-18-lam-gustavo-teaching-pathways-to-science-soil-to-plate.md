@@ -1,10 +1,10 @@
 ---
-title: "Lam and Gustavo taught a class for Pathways to Science"
+title: "Lam and Gustavo taught a workshop for Pathways to Science"
 background: "assets/posts/2025-07-18-lam-gustavo-teaching-pathways-to-science-soil-to-plate/activity.jpeg"
 background-use: "no"
 date: "2025-07-18"
 ---
-# Lam and Gustavo taught a class for Pathways to Science 
+# Lam and Gustavo taught a workshop for Pathways to Science 
 
 ![]({{ site.baseurl }}/assets/posts/2025-07-18-lam-gustavo-teaching-pathways-to-science-soil-to-plate/group.jpeg)
 
