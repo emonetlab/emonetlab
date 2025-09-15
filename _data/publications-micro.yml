@@ -23,7 +23,7 @@
   journal: 'Current Biology'
   edition: '34(20), R972-R977'
   date: '2024-10-21'
-  html: https://authors.elsevier.com/a/1jzSR3QW8S6Eyz
+  html: https://doi.org/10.1016/j.cub.2024.05.054
 
 - authors: 'Mattingly HH*, Kamino K*, Ong Jǂ, Kottou Rǂ, Emonet T#, Machta BB#'
   title: 'E. coli do not count single molecules'
@@ -31,7 +31,7 @@
   edition: '2024.07.09.602750'
   date: '2024-07-13'
   doi: https://doi.org/10.1101/2024.07.09.602750
-  preprint: https://www.biorxiv.org/content/10.1101/2024.07.09.602750v1
+  preprint: https://www.biorxiv.org/content/10.1101/2024.07.09.602750v2
   extra: |-
     \* contributed equally; ǂ contributed equally; # co-corresponding author
 
@@ -476,9 +476,8 @@
   journal: 'Molecular Systems Biology'
   edition: '12: 895, 1-14'
   date: '2016'
-  html: http://msb.embopress.org/content/13/1/909
-  pdf: /assets/papers/past/waite_emonet_2016_paper.pdf
-  suppinfo: /assets/papers/past/2016_waite_suppinfo.pdf
+  html: https://doi.org/10.15252/msb.20167044
+  pdf: /assets/papers/past/waite-et-al-2016-non-genetic-diversity-modulates-population-performance.pdf
   extra: |-
     \* contributed equally
     - [Stochastic gene expression: bacterial elites in chemotaxis](https://www.embopress.org/doi/full/10.15252/msb.20167458)
