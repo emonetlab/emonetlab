@@ -2,6 +2,7 @@
 - authors: 'Kim HS, Santana GM, Sancer G, Emonet T, Jeanne JM'
   title: 'Divergent synaptic dynamics originate parallel pathways for computation and behavior in an olfactory circuit'
   journal: 'Current Biology'
+  edition: '35, 3146–3162 (2025)'
   date: '2025-06-19'
   doi: 10.1016/j.cub.2025.05.051
   pdf: /assets/papers/2025/2025_KimSantanaCurrBio.pdf
@@ -17,7 +18,7 @@
 
 - authors: 'Choi K*, Rosenbluth W*, Graf IR, Kadakia N#, Emonet T#'
   title: 'Bifurcation enhances temporal information encoding in the olfactory periphery'
-  journal: 'PRX Life 2'
+  journal: 'PRX Life 2 (2024)'
   edition: '043011'
   date: '2024-11'
   html: https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.043011
@@ -68,7 +69,7 @@
 - authors: 'Demir M*, Kadakia N*, Anderson HD, Clark DA, Emonet T'
   title: 'Walking Drosophila navigate complex plumes using stochastic decisions biased by the timing of odor encounters'
   journal: 'eLife'
-  edition: '9:e57524'
+  edition: '9:e57524 (2020)'
   date: '2020-11-03'
   html: https://elifesciences.org/articles/57524
   pdf: /assets/papers/past/demir_emonet_2020_paper.pdf
@@ -83,7 +84,7 @@
 - authors: 'Jayaram V*, Kadakia N*, Emonet T'
   title: 'Sensing complementary temporal features of odor signals enhances navigation of diverse turbulent plumes'
   journal: 'eLife'
-  edition: '11:e72415'
+  edition: '11:e72415 (2022)'
   date: '2022-01-24'
   html: https://elifesciences.org/articles/72415
   pdf: /assets/papers/2022/2022_JayaramELife.pdf
@@ -93,7 +94,7 @@
 - authors: 'Gorur-Shandilya S*, Demir M*, Long J, Clark DA1, Emonet T1'
   title: 'Olfactory receptor neurons use gain control and complementary kinetics to encode intermittent odorant stimuli'
   journal: 'eLife'
-  edition: '6:e27670'
+  edition: '6:e27670 (2017)'
   date: '2017'
   doi: 10.7554/eLife.27670
   html: https://elifesciences.org/articles/27670
@@ -104,7 +105,7 @@
 - authors: 'Emonet T & Vergassola M'
   title: 'Olfactory cues and memories in animal navigation'
   journal: 'Nature Review Physics'
-  edition: '(2024)'
+  edition: '6, 215–216 (2024)'
   date: '2024'
   doi: 10.1038/s42254-024-00710-7
   html: https://www.nature.com/articles/s42254-024-00710-7

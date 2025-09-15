@@ -2,7 +2,7 @@
 - authors: 'Vo L*, Avgidis F*, Mattingly HH*, Edmonds K, Burger I, Balasubramanian R, Shimizu TS, Kazmierczak BI, Emonet T'
   title: 'Non-genetic adaptation by collective migration'
   journal: 'Proceedings of the National Academy of Sciences'
-  edition: '122 (8) e2423774122'
+  edition: '122 (8) e2423774122 (2025)'
   date: '2025'
   doi: https://doi.org/10.1073/pnas.2423774122
   html: https://www.pnas.org/doi/10.1073/pnas.2423774122
@@ -14,14 +14,14 @@
 - authors: 'Antani JD, Ward T,  Emonet T, Turner PE'
   title: 'Microscopic phage adsorption assay: High-throughput quantification of virus particle attachment to host bacterial cells'
   journal: 'Proceedings of the National Academy of Sciences'
-  edition: '121 (52) e2410905121'
+  edition: '121 (52) e2410905121 (2024)'
   date: '2024-12-19'
   html: https://www.pnas.org/doi/10.1073/pnas.2410905121
 
 - authors: 'Moore J, Emonet T'
   title: 'Physics of bacterial chemotaxis'
   journal: 'Current Biology'
-  edition: '34(20), R972-R977'
+  edition: '34(20), R972-R977 (2024)'
   date: '2024-10-21'
   html: https://doi.org/10.1016/j.cub.2024.05.054
 
@@ -48,7 +48,7 @@
 - authors: 'Phan TV*, Mattingly HH*, Vo Lam, Marvin JS, Looger LL, Emonet T'
   title: 'Direct measurement of dynamic attractant gradients reveals breakdown of the Patlak-Keller-Segel chemotaxis model'
   journal: 'Proceedings of the National Academy of Sciences'
-  edition: '121 (3) e2309251121'
+  edition: '121 (3) e2309251121 (2023)'
   date: '2023'
   html: https://www.pnas.org/doi/10.1073/pnas.2309251121
   pdf: /assets/papers/past/phan_emonet_2023_paper.pdf
@@ -59,7 +59,7 @@
 - authors: 'Nesper J*, Hug I*, Kato S*, Hee C-S*, Habazettl JM, Mandredi P, Grzesiek S, Tilman S, Emonet T, Jenal U'
   title: 'Cyclic di-GMP differentially tunes a bacterial flagellar motor through a novel class of CheY-like regulators'
   journal: 'eLife'
-  edition: '6:e28842'
+  edition: '6:e28842 (2017)'
   date: '2017'
   html: https://elifesciences.org/articles/28842
   pdf: /assets/papers/past/nesper_jenal_2017_paper.pdf
@@ -69,7 +69,7 @@
 - authors: 'Das D, Chatti D, Emonet T*, Holley SA*'
   title: 'Patterned Disordered Cell Motion Ensures Vertebral Column Symmetry'
   journal: 'Developmental Cell'
-  edition: '42(2), 170-180.e5'
+  edition: '42(2), 170-180.e5 (2017)'
   date: '2017'
   html: http://www.cell.com/developmental-cell/abstract/S1534-5807(17)30508-7
   pdf: /assets/papers/past/das_holley_2017_paper.pdf
