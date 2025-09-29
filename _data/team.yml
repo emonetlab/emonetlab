@@ -20,6 +20,16 @@
 #   email: gustavo.santana@yale.edu
 #   website: https://gumadeiras.com
 
+- name: Terukimi Hayashi
+  role: "Undergraduate Student"
+  program: >
+    [PEB REU](https://physics-engineering-biology.yale.edu/summer-research-in-physical-engineering-biology)
+  when: "2025"
+  image: terukimi-hayashi.jpg
+  email: terukimi.hayashi@gmail.com
+  description: >
+    Terukimi is an undergraduate student at Williams College and is strongly interested in the intersection of physics, computation, and biology. His research experience includes conducting behavioral analyses of Drosophila in fluctuating odor environments using optogenetics and proposing kinetic models for cotranscriptional splicing in human mRNA. In his free time, he enjoys being active, dabbling in the arts, and exploring cities.
+
 - name: Ava Carroll
   role: "Undergraduate Student"
   program: >
