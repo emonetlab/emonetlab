@@ -57,15 +57,6 @@
   description: >
     Kevin is interested in animal behavior, biophysical models, and network dynamics. He completed his PhD with Andy Leifer and Jonathan Pillow at Princeton, where he studied worm chemotaxis through biophysical experiments and statistical modeling. Working with the Emonet and Clark labs, Kevin hopes to characterize how seemingly simple systems, like fruit flies, can produce complex behaviors and sophisticated computations during sensory navigation. Outside of the lab, Kevin enjoys jogging, reading, origami, music, and bubble tea.
 
-- name: Kiri Choi
-  role: "Postdoc"
-  when: "2023-"
-  image: kiri-choi.jpg
-  googlescholar: vu7Ma2QAAAAJ
-  email: kiri.choi@yale.edu
-  description: >
-    Kiri is interested in how the brain encodes and processes olfactory information and makes appropriate decisions. Previously, he was a research fellow at the Korea Institute for Advanced Study under the mentorship of Changbong Hyeon, where he studied how a brain’s spatial, structural, and connective characteristics contribute to its functionality. He completed his PhD in Bioengineering at the University of Washington under the advice of Herbert M. Sauro, where he designed the biochemical reaction networks using high-throughput simulation studies.
-
 - name: Fotis Avgidis
   role: "Postdoc"
   when: "2024-"
@@ -94,16 +85,6 @@
   website: https://gumadeiras.com
   description: >
     Gustavo completed his undergraduate in Computer Engineering at the Federal University of Rio Grande do Sul in Brazil, where he studied the ontogeny of vocal communication in mice. He is currently interested in understanding how flies explore spatiotemporal features of odor plumes for optimal navigation. In his free time, he spends too much money going to concerts, and enjoys playing guitar.
-
-- name: Jeremy Moore
-  when: "2020-"
-  role: "Graduate Student"
-  program: >
-    [Graduate Program in Molecular, Cellular, and Developmental Biology](https://mcdb.yale.edu)
-  image: jeremy-moore.jpg
-  email: jeremy.moore@yale.edu
-  description: >
-    Jeremy did his undergraduate degree in molecular biology at Kenyon College. He is interested in how bacteria make decisions in complex environments and is currently studying how they integrate information from multiple signals at once. In his free time, he enjoys playing piano, cooking, and video games.
 
 - name: Jyot Antani
   when: "2020-"

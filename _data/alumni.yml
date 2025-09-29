@@ -1,3 +1,23 @@
+
+- name: Jeremy Moore
+  when: "2020-2025"
+  role: "Graduate Student"
+  program: >
+    [Graduate Program in Molecular, Cellular, and Developmental Biology](https://mcdb.yale.edu)
+  image: jeremy-moore.jpg
+  email: jeremy.moore@yale.edu
+  description: >
+    Jeremy did his undergraduate degree in molecular biology at Kenyon College. He is interested in how bacteria make decisions in complex environments and is currently studying how they integrate information from multiple signals at once. In his free time, he enjoys playing piano, cooking, and video games.
+
+- name: Kiri Choi
+  role: "Postdoc"
+  when: "2023-2025"
+  image: kiri-choi.jpg
+  googlescholar: vu7Ma2QAAAAJ
+  email: kiri.choi@yale.edu
+  description: >
+    Kiri is interested in how the brain encodes and processes olfactory information and makes appropriate decisions. Previously, he was a research fellow at the Korea Institute for Advanced Study under the mentorship of Changbong Hyeon, where he studied how a brain’s spatial, structural, and connective characteristics contribute to its functionality. He completed his PhD in Bioengineering at the University of Washington under the advice of Herbert M. Sauro, where he designed the biochemical reaction networks using high-throughput simulation studies.
+
 - name: Lechi Akalaonu
   role: "Undergraduate Student"
   when: "2024-2025"
