@@ -1,7 +1,7 @@
 
 - authors: 'Vo L*, Avgidis F*, Mattingly HH*, Edmonds K, Burger I, Balasubramanian R, Shimizu TS, Kazmierczak BI, Emonet T'
   title: 'Non-genetic adaptation by collective migration'
-  journal: 'Proceedings of the National Academy of Sciences'
+  journal: 'PNAS'
   edition: '122 (8) e2423774122 (2025)'
   date: '2025'
   doi: https://doi.org/10.1073/pnas.2423774122
@@ -14,7 +14,7 @@
 
 - authors: 'Antani JD, Ward T,  Emonet T, Turner PE'
   title: 'Microscopic phage adsorption assay: High-throughput quantification of virus particle attachment to host bacterial cells'
-  journal: 'Proceedings of the National Academy of Sciences'
+  journal: 'PNAS'
   edition: '121 (52) e2410905121 (2024)'
   date: '2024-12-19'
   html: https://www.pnas.org/doi/10.1073/pnas.2410905121
@@ -47,7 +47,7 @@
 
 - authors: 'Phan TV*, Mattingly HH*, Vo Lam, Marvin JS, Looger LL, Emonet T'
   title: 'Direct measurement of dynamic attractant gradients reveals breakdown of the Patlak-Keller-Segel chemotaxis model'
-  journal: 'Proceedings of the National Academy of Sciences'
+  journal: 'PNAS'
   edition: '121 (3) e2309251121 (2023)'
   date: '2023'
   html: https://www.pnas.org/doi/10.1073/pnas.2309251121
@@ -117,7 +117,7 @@
 
 - authors: 'Kamino K, Kadakia N, Avgidis F, Liu Z, Aoki K, Shimizu TS, Emonet T'
   title: 'Optimal inference of molecular interaction dynamics in FRET microscopy'
-  journal: 'Proceedings of the National Academy of Sciences'
+  journal: 'PNAS'
   edition: '120 (15) e2211807120 (2023)'
   doi: 10.1073/pnas.2211807120
   date: '2023-04-04'
@@ -137,7 +137,7 @@
 
 - authors: 'Mattingly H, Emonet T'
   title: 'Collective behavior and non-genetic inheritance allow bacterial populations to adapt to changing environments'
-  journal: 'Proceedings of the National Academy of Sciences'
+  journal: 'PNAS'
   edition: '119 (26) e2117377119 (2022)'
   date: '2022'
   html: https://www.pnas.org/doi/10.1073/pnas.2117377119
@@ -264,7 +264,7 @@
 
 - authors: 'Sneddon MW, Pontius W, Emonet T'
   title: 'Stochastic coordination of multiple actuators reduces latency and improves chemotactic response in bacteria'
-  journal: 'Proceedings of the National Academy of Sciences'
+  journal: 'PNAS'
   edition: '109(3): 805-810 (2012)'
   date: '2012'
   pdf: /assets/papers/past/sneddon_emonet_2012_paper.pdf
@@ -336,7 +336,7 @@
 
 - authors: 'Sliusarenko O, Cabeen M, Wolgemuth C, Jacobs-Wagner C, Emonet T'
   title: 'The processivity of peptidoglycan synthesis provides a built-in mechanism for the robustness of straight-rod cell morphology,'
-  journal: 'Proceedings of the National Academy of Sciences'
+  journal: 'PNAS'
   edition: '107(22):10086-91 (2010)'
   date: '2010'
   pdf: /assets/papers/past/sliusarenko_emonet_2010_paper.pdf
@@ -355,7 +355,7 @@
 
 - authors: 'Alyahya SA, Alexander R, Costa T, Henriques AO, Emonet T, and Jacobs-Wagner C'
   title: 'RodZ, a component of the bacterial core morphogenic apparatus,'
-  journal: 'Proceedings of the National Academy of Sciences'
+  journal: 'PNAS'
   edition: '106(4):1239-44 (2009)'
   date: '2009'
   pdf: /assets/papers/past/alyahya__2009_paper.pdf
@@ -364,7 +364,7 @@
 
 - authors: 'Emonet T*, Cluzel P'
   title: 'Relationship between cellular response and behavioral variability in bacterial chemotaxis'
-  journal: 'Proceedings of the National Academy of Sciences'
+  journal: 'PNAS'
   edition: '105(9):3304-9(2008)'
   date: '2008'
   pdf: /assets/papers/past/emonet_cluzel_2008_paper.pdf
@@ -403,7 +403,7 @@
 
 - authors: 'Le TT, Harlepp S., Guet CC, Dittmar K, Emonet T, Pan T., Cluzel P'
   title: 'Real-time RNA profiling within a single bacterium'
-  journal: 'Proceedings of the National Academy of Sciences'
+  journal: 'PNAS'
   edition: '102 (26):9160-4 (2005)'
   date: '2005'
   html: https://www.pnas.org/doi/10.1073/pnas.0503311102
