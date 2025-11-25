@@ -308,7 +308,7 @@ See the script comments for detailed usage instructions.
 #### Gallery Not Displaying
 
 **Solutions:**
-- ✅ Verify LightGallery dependencies are installed: `npm install`
+- ✅ Verify LightGallery dependencies are installed: `npm install` (installs `lightgallery` from `package.json`)
 - ✅ Check that `layout-with-gallery` is specified in `pages/gallery.md` frontmatter
 - ✅ Ensure image paths follow the pattern: `assets/images/gallery/<year>/`
 
