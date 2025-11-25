@@ -20,6 +20,15 @@
 #   email: gustavo.santana@yale.edu
 #   website: https://gumadeiras.com
 
+- name: Chin Yuan Ong (CY)
+  role: "Graduate Student"
+  when: "2024-"
+  image: chinyuan-ong.jpg
+  googlescholar: cO-P0oAAAAAJ&hl
+  email: chinyuan.ong@yale.edu
+  description: >
+    CY is a Physics PhD student interested in how bacteria with different motility patterns use distinct strategies to navigate complex environments, which he studies through simulations and experiments. When he’s not in the lab, you’ll probably find him cooking, taking photographs, playing music, or planning his next trip outdoors.
+
 - name: Terukimi Hayashi
   role: "Undergraduate Student"
   program: >
