@@ -10,6 +10,7 @@ This repository contains the Jekyll-based website for the Emonet Lab. This guide
 - [Editing the Navigation Menu](#editing-the-navigation-menu)
 - [Adding Lab Members and Alumni](#adding-lab-members-and-alumni)
 - [Adding Publications](#adding-publications)
+- [Updating the Gallery](#updating-the-gallery)
 - [Customizing Footer and Social Links](#customizing-footer-and-social-links)
 - [Local Development and Testing](#local-development-and-testing)
 - [GitHub Actions and Deployment](#github-actions-and-deployment)
@@ -194,6 +195,138 @@ The "Everything" publications page automatically combines all publication files.
 - Use YAML multiline strings (`>` or `|-`) for long author lists or extra information
 - The `date` field (YYYY-MM-DD format) controls the sort order
 
+
+---
+
+## Updating the Gallery
+
+The website features a gallery page displaying photo albums from lab parties, outings, and conferences. Galleries are organized by year and use the [LightGallery JS library](https://www.lightgalleryjs.com/) for an elegant viewing experience.
+
+### Gallery Structure
+
+- **Gallery page:** `pages/gallery.md`
+- **Layout template:** `_layouts/layout-with-gallery.html`
+- **Album component:** `_includes/album.html`
+- **Image directories:** `assets/images/gallery/<album_year>/`
+- **Caption files:** `_data/galleries/<album_year>_details.yml`
+
+### Adding a New Gallery (New Year)
+
+Follow these steps to add a gallery for a new year:
+
+1. **Create the image folder:**
+   ```bash
+   mkdir -p assets/images/gallery/2024-2025
+   ```
+
+2. **Add your images:**
+   - Place all photos for the year in the folder you just created
+   - Supported formats: `.jpg`, `.jpeg`, `.png`
+   - Images will be displayed as clickable thumbnails in the gallery
+
+3. **Create a captions file (optional but recommended):**
+   
+   Create a new file: `_data/galleries/2024-2025_details.yml`
+   
+   ```yaml
+   - filename: "raclette-day.jpg"
+     caption: "Raclette day"
+   - filename: "birthday-boy-part-1.jpg"
+     caption: "Birthday boy part 1"
+   - filename: "group-photo.jpg"
+     caption: "Lab retreat 2024"
+   ```
+   
+   **Notes:**
+   - The `filename` must exactly match the image filename in your gallery folder
+   - Captions are optional - leave `caption: ""` for images without captions
+   - Captions appear in the lightbox view when clicking on images
+
+4. **Update the gallery page:**
+   
+   Edit `pages/gallery.md` and add your new year to the `album_names` list:
+   
+   ```liquid
+   {% assign album_names = "2024-2025,2023-2024,2022-2023,2021-2022" | split: "," %}
+   ```
+   
+   **Important:** Albums should be listed in reverse chronological order (newest first)
+
+5. **Commit and push:**
+   ```bash
+   git add assets/images/gallery/2024-2025/
+   git add _data/galleries/2024-2025_details.yml
+   git add pages/gallery.md
+   git commit -m "Add 2024-2025 gallery"
+   git push
+   ```
+
+### Adding Photos to an Existing Gallery
+
+To add more photos to an existing year:
+
+1. **Add new images** to the appropriate folder (e.g., `assets/images/gallery/2023-2024/`)
+
+2. **Update the captions file** at `_data/galleries/2023-2024_details.yml`:
+   ```yaml
+   - filename: "new-photo.jpg"
+     caption: "New lab event"
+   ```
+
+3. **Commit and push** your changes
+
+### Gallery Features
+
+- **Responsive thumbnails:** Images automatically display as thumbnails on the page
+- **Lightbox viewer:** Click any image to open the full-size gallery viewer
+- **Navigation:** Use arrows or keyboard to navigate between photos
+- **Zoom:** Click on images in the lightbox to zoom in/out
+- **Captions:** Captions display below images in the lightbox view
+- **Table of contents:** Jump to specific years using the links at the top
+
+### Advanced: Automated Gallery Download
+
+For bulk importing galleries from external sources, you can use the automation script:
+
+**Script location:** `old_website/emonet_galleries_download.py`
+
+This Python script can:
+- Scrape images from specified gallery URLs
+- Automatically download and organize images into year folders
+- Generate caption YAML files based on image metadata
+
+**To use:**
+1. Edit the script to configure gallery URLs and output directory
+2. Run: `python old_website/emonet_galleries_download.py`
+3. Review generated files and move them to the appropriate directories
+4. Update `pages/gallery.md` with the new album names
+
+See the script comments for detailed usage instructions.
+
+### Troubleshooting Gallery Issues
+
+#### Gallery Not Displaying
+
+**Solutions:**
+- ✅ Verify LightGallery dependencies are installed: `npm install`
+- ✅ Check that `layout-with-gallery` is specified in `pages/gallery.md` frontmatter
+- ✅ Ensure image paths follow the pattern: `assets/images/gallery/<year>/`
+
+#### Images Not Appearing in Gallery
+
+**Solutions:**
+- ✅ Check folder structure: images must be in `assets/images/gallery/<album_year>/`
+- ✅ Verify album name in `pages/gallery.md` matches your folder name exactly
+- ✅ Ensure images are committed and pushed to the repository
+- ✅ Check file extensions are lowercase (`.jpg`, not `.JPG`)
+
+#### Captions Not Showing
+
+**Solutions:**
+- ✅ Verify caption file exists: `_data/galleries/<album_year>_details.yml`
+- ✅ Check that `filename` in YAML exactly matches image filename
+- ✅ Ensure YAML syntax is valid (proper indentation, quotes around strings)
+- ✅ Captions only appear in the lightbox view, not on thumbnails
 
 ---
 
@@ -522,6 +655,4 @@ For more detailed information about Jekyll and the Petridish theme:
 
 The `old_website/emonet_to_jekyll.py` script was used to migrate content from the old Drupal website to Jekyll. This script is no longer needed for regular website updates but is kept for reference.
 
-## Gallery Feature
-
-Gallery functionality is planned for future development.
+The `old_website/emonet_galleries_download.py` script can be used to automate downloading and organizing gallery images from external sources. See the [Updating the Gallery](#updating-the-gallery) section for details.
