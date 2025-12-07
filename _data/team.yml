@@ -20,6 +20,14 @@
 #   email: gustavo.santana@yale.edu
 #   website: https://gumadeiras.com
 
+- name: Ethan Dintzner
+  role: "Graduate Student"
+  when: "2024-"
+  image: ethan-dintzner.jpg
+  email: ethan.dintzner@yale.edu
+  description: >
+    Ethan is a graduate student interested in the exciting mechanisms of V. cholera chemotaxis signaling and adaptation. He studied math and biology during his undergraduate at UChicago and enjoys seeing the connections between math, biochemistry, and chemotaxis. In his free time, he likes reading, eating New Haven pizza, and playing games with his brothers.
+
 - name: Chin Yuan Ong (CY)
   role: "Graduate Student"
   when: "2024-"
