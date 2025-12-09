@@ -21,6 +21,15 @@
 #   website: https://gumadeiras.com
 
 - name: Ethan Dintzner
+  role: "Postdoc"
+  when: "2025-"
+  image: Yuanchi-Ha.jpg
+  googlescholar: MZJ8N58AAAAJ&hl
+  email: yh794@yale.edu
+  description: >
+    Yuanchi is broadly interested in how various behaviors adapt to changing environments. She completed her PhD with Lingchong You at Duke University, where she studied the temporal dynamics of mobile genetic elements in microbial communities under changing environments, using ordinary differential equation models and experiments. She is currently investigating the emergence of new spatial configurations of chemotaxis phenotypes when populations encounter novel environments. Outside of the lab, Yuanchi enjoys photography, watching old movies, and learning about art and history.
+
+- name: Ethan Dintzner
   role: "Graduate Student"
   when: "2024-"
   image: ethan-dintzner.jpg
