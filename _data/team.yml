@@ -32,6 +32,8 @@
 - name: Ethan Dintzner
   role: "Graduate Student"
   when: "2024-"
+  program: >
+    [Graduate Program in Molecular, Cellular, and Developmental Biology](https://mcdb.yale.edu), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
   image: ethan-dintzner.jpg
   email: ethan.dintzner@yale.edu
   description: >
@@ -40,6 +42,8 @@
 - name: Chin Yuan Ong (CY)
   role: "Graduate Student"
   when: "2024-"
+  program: >
+    [Graduate Program in Physics](https://physics.yale.edu/), [Program in Physics, Engineering and Biology](https://physics-engineering-biology.yale.edu)
   image: chinyuan-ong.jpg
   googlescholar: cO-P0oAAAAAJ&hl
   email: chinyuan.ong@yale.edu
