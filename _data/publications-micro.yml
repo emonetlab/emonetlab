@@ -1,11 +1,12 @@
 - authors: 'Mattingly HH*, Kamino K, Ong J, Kottou R, Emonet T*, Machta B*'
   title: 'E. coli chemosensing accuracy is not limited by stochastic molecule arrivals'
   journal: 'Nature Physics'
+  edition: (2026)
   date: '2026'
   doi: https://doi.org/10.1038/s41567-025-03111-4
   html: https://www.nature.com/articles/s41567-025-03111-4
   pdf: /assets/papers/2026/2026_Mattingly_NaturePhysics.pdf
-  preprint: https://www.biorxiv.org/content/10.1101/2024.01.02.573956v1
+  preprint: https://www.biorxiv.org/content/10.1101/2024.07.09.602750v2
   extra: |-
     \* corresponding authors
     - [News & Views: Endres, GR, Bacteria may not be good at chemotaxis](https://www.nature.com/articles/s41567-025-03103-4)
@@ -36,15 +37,6 @@
   edition: '34(20), R972-R977 (2024)'
   date: '2024-10-21'
   html: https://doi.org/10.1016/j.cub.2024.05.054
-
-- authors: 'Mattingly HH*, Kamino K*, Ong Jǂ, Kottou Rǂ, Emonet T#, Machta BB#'
-  title: 'E. coli do not count single molecules'
-  journal: 'Nature Physics'
-  edition: 'accepted (2025)'
-  date: '2025'
-  preprint: https://www.biorxiv.org/content/10.1101/2024.07.09.602750v2
-  extra: |-
-    \* contributed equally; ǂ contributed equally; # co-corresponding author
 
 - authors: 'Sherry DM, Graf IR#, Bryant SJ, Emonet T#, Machta BB#'
   title: 'Lattice ultrasensitivity produces large gain in E. coli chemosensing'
