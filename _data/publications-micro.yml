@@ -1,3 +1,14 @@
+- authors: 'Mattingly HH*, Kamino K, Ong J, Kottou R, Emonet T*, Machta B*'
+  title: 'E. coli chemosensing accuracy is not limited by stochastic molecule arrivals'
+  journal: 'Nature Physics'
+  date: '2026'
+  doi: https://doi.org/10.1038/s41567-025-03111-4
+  html: https://www.nature.com/articles/s41567-025-03111-4
+  pdf: /assets/papers/2026/2026_Mattingly_NaturePhysics.pdf
+  preprint: https://www.biorxiv.org/content/10.1101/2024.01.02.573956v1
+  extra: |-
+    \* corresponding authors
+    - [News & Views: Endres, GR, Bacteria may not be good at chemotaxis](https://www.nature.com/articles/s41567-025-03103-4)
 
 - authors: 'Vo L*, Avgidis F*, Mattingly HH*, Edmonds K, Burger I, Balasubramanian R, Shimizu TS, Kazmierczak BI, Emonet T'
   title: 'Non-genetic adaptation by collective migration'
