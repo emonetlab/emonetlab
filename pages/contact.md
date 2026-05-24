@@ -31,11 +31,11 @@ P:  +1 (203) 432-9599
 E: carrie.nardella@yale.edu
 ```
 
-##### Packages shipping address (FedEx, UPS, …)
+##### Packages (FedEx, UPS, …)
 
 ```
-BASS Receiving
-266 Whitney Ave.
+Southwest Service Node / Kroon Dock
+41 Sachem St.
 YSB C169
 New Haven, CT 06511
 P: +1 (203) 432-9599
