@@ -33,9 +33,20 @@ E: carrie.nardella@yale.edu
 
 ##### Packages (FedEx, UPS, …)
 
+Regular packages:
+
 ```
 Southwest Service Node / Kroon Dock
 41 Sachem St.
+YSB C169
+New Haven, CT 06511
+P: +1 (203) 432-9599
+```
+
+Packages containing `chemicals`:
+
+```
+295 Prospect Street
 YSB C169
 New Haven, CT 06511
 P: +1 (203) 432-9599
