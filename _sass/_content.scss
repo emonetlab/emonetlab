@@ -1,16 +1,16 @@
 // Content
 
 .content {
-  font-family: $custom_font, $font-family-sans-serif;
+  font-family: $font-family-base;
   
-  // Use base font for headings
+  // Match content headings to body copy.
   h1,
   h2,
   h3,
   h4,
   h5,
   h6 {
-    font-family: $font-family-base;
+    font-family: inherit;
   }
 
   // Hide h1 headings in content, its use is reserved for header
