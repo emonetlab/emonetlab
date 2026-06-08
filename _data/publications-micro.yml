@@ -1,7 +1,17 @@
+- authors: 'Sherry DM, Graf IR*, Bryant SJ, Emonet T*, Machta B*'
+  title: 'Lattice Ultrasensitivity Amplifies Signals in E. coli without Finely-Tuned Allosteric Interactions'
+  journal: 'PRX Life'
+  edition: '4, 023027 (2026)'
+  date: '2026'
+  doi: https://doi.org/10.1103/7dgz-l5fd
+  html: https://journals.aps.org/prxlife/abstract/10.1103/7dgz-l5fd
+  pdf: /assets/papers/2026/sherry_etal_prxlife_2026.pdf
+  preprint: https://doi.org/10.48550/arXiv.2405.18331
+
 - authors: 'Mattingly HH*, Kamino K, Ong J, Kottou R, Emonet T*, Machta B*'
   title: 'E. coli chemosensing accuracy is not limited by stochastic molecule arrivals'
   journal: 'Nature Physics'
-  edition: (2026)
+  edition: '22, pages 123–130 (2026)'
   date: '2026'
   doi: https://doi.org/10.1038/s41567-025-03111-4
   html: https://www.nature.com/articles/s41567-025-03111-4
