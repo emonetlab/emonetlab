@@ -1,3 +1,11 @@
+- authors: 'Brudner S*, Zhou B*, Jayaram V, MAdeira Santana G, Crimaldi JP, Clark DA#, Emonet T#'
+  title: 'Fly navigational responses exploit plume-specific odor motion and gradient cues'
+  journal: 'PNAS'
+  edition: 'accepted'
+  date: '2026-06'
+  preprint: https://doi.org/10.1101/2025.03.31.646361
+  extra: |-
+    \* contributed equally; \#corresponding authors
 
 - authors: 'Kim HS, Santana GM, Sancer G, Emonet T, Jeanne JM'
   title: 'Divergent synaptic dynamics originate parallel pathways for computation and behavior in an olfactory circuit'

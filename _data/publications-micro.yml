@@ -1,18 +1,10 @@
 
-- authors: 'Brudner S*, Zhou B*, Jayaram V, MAdeira Santana G, Crimaldi JP, Clark DA#, Emonet T#'
-  title: 'Fly navigational responses exploit plume-specific odor motion and gradient cues'
-  journal: 'PNAS'
-  edition: 'accepted'
-  date: '2026'
-  preprint: https://doi.org/10.1101/2025.03.31.646361
-  extra: |-
-    \* contributed equally; \#corresponding authors
 
 - authors: 'Sherry DM, Graf IR*, Bryant SJ, Emonet T*, Machta B*'
   title: 'Lattice Ultrasensitivity Amplifies Signals in E. coli without Finely-Tuned Allosteric Interactions'
   journal: 'PRX Life'
   edition: '4, 023027 (2026)'
-  date: '2026'
+  date: '2026-06-08'
   doi: https://doi.org/10.1103/7dgz-l5fd
   html: https://journals.aps.org/prxlife/abstract/10.1103/7dgz-l5fd
   pdf: /assets/papers/2026/2026_sherry_etal_prxlife.pdf
@@ -22,7 +14,7 @@
   title: 'E. coli chemosensing accuracy is not limited by stochastic molecule arrivals'
   journal: 'Nature Physics'
   edition: '22, pages 123–130 (2026)'
-  date: '2026'
+  date: '2026-01-08'
   doi: https://doi.org/10.1038/s41567-025-03111-4
   html: https://www.nature.com/articles/s41567-025-03111-4
   pdf: /assets/papers/2026/2026_Mattingly_NaturePhysics.pdf
@@ -35,7 +27,7 @@
   title: 'Non-genetic adaptation by collective migration'
   journal: 'PNAS'
   edition: '122 (8) e2423774122 (2025)'
-  date: '2025'
+  date: '2025-02-19'
   doi: https://doi.org/10.1073/pnas.2423774122
   html: https://www.pnas.org/doi/10.1073/pnas.2423774122
   pdf: /assets/papers/2025/2025_VoAvgidisMattinglyPNAS.pdf
