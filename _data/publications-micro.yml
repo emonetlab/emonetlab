@@ -1,3 +1,13 @@
+
+- authors: 'Brudner S*, Zhou B*, Jayaram V, MAdeira Santana G, Crimaldi JP, Clark DA#, Emonet T#'
+  title: 'Fly navigational responses exploit plume-specific odor motion and gradient cues'
+  journal: 'PNAS'
+  edition: 'accepted'
+  date: '2026'
+  preprint: https://doi.org/10.1101/2025.03.31.646361
+  extra: |-
+    \* contributed equally; \#corresponding authors
+
 - authors: 'Sherry DM, Graf IR*, Bryant SJ, Emonet T*, Machta B*'
   title: 'Lattice Ultrasensitivity Amplifies Signals in E. coli without Finely-Tuned Allosteric Interactions'
   journal: 'PRX Life'
@@ -5,7 +15,7 @@
   date: '2026'
   doi: https://doi.org/10.1103/7dgz-l5fd
   html: https://journals.aps.org/prxlife/abstract/10.1103/7dgz-l5fd
-  pdf: /assets/papers/2026/sherry_etal_prxlife_2026.pdf
+  pdf: /assets/papers/2026/2026_sherry_etal_prxlife.pdf
   preprint: https://doi.org/10.48550/arXiv.2405.18331
 
 - authors: 'Mattingly HH*, Kamino K, Ong J, Kottou R, Emonet T*, Machta B*'
