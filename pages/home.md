@@ -10,13 +10,20 @@ hero:
   img: /assets/backgrounds/AdobeStock_460158415.jpeg
 ---
 
-#### We use chemical navigation as a dynamic framework to explore how signals guide behaviors—ranging from molecules and cells to entire populations.
+#### We use chemical navigation as a dynamic framework to investigate how indiviodual cells, populations of cells and animals make flexible decisions in changing environments.
 
 <br>
 
 <!-- #### What We Do -->
 
-We combine experiments with theory to understand the computations organisms perform to navigate chemical environments, and the molecular and cellular circuits that enable them. At the smaller scale we analyze information processing in individual bacteria and neurons, the molecular basis of individuality, and how biological diversity can benefit populations. At the larger scale of whole organisms, we examine the neural circuits fruit flies use to extract navigational cues from odor signals and to combine such information with other cues and memory to perform goal-oriented navigation. 
+Our lab combines experiments, theory, and quantitative modeling to uncover the principles that allow organisms to navigate complex chemical landscapes. We study two complementary systems: bacteria, which we view as multicellular organisms, and the fruit fly Drosophila. Despite their differences, both face the same challenge of extracting information from noisy sensory signals to generate adaptive behavior.
+<br>
+In bacteria, we investigate how sensory strategies vary across species with diverse swimming behaviors, how non-genetic individuality arises, and how a single genome generates collective behaviors that remain adaptive as environments change. In insects, we study how the fly brain extracts navigational information from odor signals and combines this information with other sensory cues and memory to guide goal-directed navigation.
+<br>
+Our lab is highly interdisciplinary. Microbiologists and neurobiologists work alongside physicists, engineers, and theorists, and students have the opportunity to develop both experimental and computational expertise. 
+
+
+<!-- We combine experiments with theory to understand the computations organisms perform to navigate chemical environments, and the molecular and cellular circuits that enable them. At the smaller scale we analyze information processing in individual bacteria and neurons, the molecular basis of individuality, and how biological diversity can benefit populations. At the larger scale of whole organisms, we examine the neural circuits fruit flies use to extract navigational cues from odor signals and to combine such information with other cues and memory to perform goal-oriented navigation. -->
 <!-- We investigate how organisms compute and interpret chemical signals. By combining quantitative experiments with mathematical modeling, our research decodes the processes that drive navigation. Our goal is to explain the signal processing and decision-making mechanisms used to translate chemical cues into behavior. -->
 
 <br>
