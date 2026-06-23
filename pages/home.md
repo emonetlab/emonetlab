@@ -10,16 +10,18 @@ hero:
   img: /assets/backgrounds/AdobeStock_460158415.jpeg
 ---
 
-#### We use chemical navigation as a dynamic framework to investigate how indiviodual cells, populations of cells and animals make flexible decisions in changing environments.
+#### We use chemical navigation as a dynamic framework to investigate how individual cells, populations of cells, and animals make flexible decisions in changing environments.
 
 <br>
 
 <!-- #### What We Do -->
 
-Our lab combines experiments, theory, and quantitative modeling to uncover the principles that allow organisms to navigate complex chemical landscapes. We study two complementary systems: bacteria, which we view as multicellular organisms, and the fruit fly Drosophila. Despite their differences, both face the same challenge of extracting information from noisy sensory signals to generate adaptive behavior.
-<br>
+We combine experiments, theory, and quantitative modeling to uncover the principles that allow organisms to navigate complex chemical landscapes. We study two complementary systems: bacteria, which we view as multicellular organisms, and the fruit fly Drosophila. Despite their differences, both face the same challenge of extracting information from noisy sensory signals to generate adaptive behavior.
+<br><br>
+
 In bacteria, we investigate how sensory strategies vary across species with diverse swimming behaviors, how non-genetic individuality arises, and how a single genome generates collective behaviors that remain adaptive as environments change. In insects, we study how the fly brain extracts navigational information from odor signals and combines this information with other sensory cues and memory to guide goal-directed navigation.
-<br>
+<br><br>
+
 Our lab is highly interdisciplinary. Microbiologists and neurobiologists work alongside physicists, engineers, and theorists, and students have the opportunity to develop both experimental and computational expertise. 
 
 
