@@ -44,6 +44,7 @@
   extra: |-
     \* co-first authors
     - [E. coli's hidden talent](https://www.yalescientific.org/2025/09/e-colis-hidden-talent/)
+    - [How do cells respond to changes? It’s not all in the genes](https://news.yale.edu/2025/02/20/how-do-cells-respond-changes-its-not-all-genes/)
 
 - authors: 'Antani JD, Ward T,  Emonet T, Turner PE'
   title: 'Microscopic phage adsorption assay: High-throughput quantification of virus particle attachment to host bacterial cells'
@@ -59,15 +60,6 @@
   date: '2024-10-21'
   html: https://doi.org/10.1016/j.cub.2024.05.054
 
-- authors: 'Sherry DM, Graf IR#, Bryant SJ, Emonet T#, Machta BB#'
-  title: 'Lattice ultrasensitivity produces large gain in E. coli chemosensing'
-  journal: 'bioRxiv'
-  edition: '2024.05.28.596300'
-  date: '2024-05-28'
-  doi: https://doi.org/10.1101/2024.05.28.596300
-  preprint: https://www.biorxiv.org/content/10.1101/2024.05.28.596300v2
-  extra: |-
-    # co-corresponding author
 
 - authors: 'Phan TV*, Mattingly HH*, Vo Lam, Marvin JS, Looger LL, Emonet T'
   title: 'Direct measurement of dynamic attractant gradients reveals breakdown of the Patlak-Keller-Segel chemotaxis model'
