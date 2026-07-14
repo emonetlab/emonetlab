@@ -1,9 +1,11 @@
 - authors: 'Brudner S*, Zhou B*, Jayaram V, Santana GM, Crimaldi JP, Clark DA#, Emonet T#'
   title: 'Fly navigational responses exploit plume-specific odor motion and gradient cues'
   journal: 'PNAS'
-  edition: 'accepted'
-  date: '2026-06'
-  preprint: https://doi.org/10.1101/2025.03.31.646361
+  edition: '123 (29) e2608896123 (2026)'
+  date: '2026-07-14'
+  doi: 10.1073/pnas.2608896123
+  pdf: /assets/papers/2026/2026_brudner-et-al-PNAS-fly-navigational-responses-exploit-plume.pdf
+  html: https://www.pnas.org/doi/10.1073/pnas.2608896123
   extra: |-
     \* contributed equally; \#corresponding authors
 
