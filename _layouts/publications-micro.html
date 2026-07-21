@@ -4,16 +4,17 @@ description: microbiology publications page.
 ---
 
 {% comment %}
-  Load the YAML files for micro and physics publications.
-  Use bracket notation for keys with hyphens.
+  Load the microbiology, physics, and shared publication files.
+  Use bracket notation for keys that contain hyphens.
 {% endcomment %}
 {% assign pubs_micro = site.data["publications-micro"] %}
 {% assign pubs_physics = site.data["publications-physics"] %}
+{% assign pubs_shared = site.data["publications-shared"] %}
 
 {% comment %}
-  Combine the two arrays.
+  Combine the publication lists.
 {% endcomment %}
-{% assign publications_all = pubs_micro | concat: pubs_physics %}
+{% assign publications_all = pubs_micro | concat: pubs_physics | concat: pubs_shared %}
 
 {{ content }}
 <div>

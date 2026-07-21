@@ -1,3 +1,15 @@
+- authors: 'Santana GM*, Vashistha H*, Emonet T#, Clark DA#'
+  title: 'A neural circuit for olfactory motion detection'
+  journal: 'bioRxiv'
+  edition: '2026.07.13.738327 (2026)'
+  date: '2026-07-20'
+  doi: 10.64898/2026.07.13.738327
+  html: https://www.biorxiv.org/content/10.64898/2026.07.13.738327v1
+  pdf: /assets/papers/2026/2026_Santana_etal_biorxiv.pdf
+  preprint: https://www.biorxiv.org/content/10.64898/2026.07.13.738327v1
+  extra: |-
+    \* co-first authors; \# co-last authors
+
 - authors: 'Brudner S*, Zhou B*, Jayaram V, Santana GM, Crimaldi JP, Clark DA#, Emonet T#'
   title: 'Fly navigational responses exploit plume-specific odor motion and gradient cues'
   journal: 'PNAS'

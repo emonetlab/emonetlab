@@ -4,16 +4,17 @@ description: neuroscience publications page.
 ---
 
 {% comment %}
-  Load the YAML files for neuroscience and physics publications.
-  Note: Use the bracket notation for keys with hyphens.
+  Load the neuroscience, physics, and shared publication files.
+  Use bracket notation for keys that contain hyphens.
 {% endcomment %}
 {% assign pubs_neuro = site.data["publications-neuro"] %}
 {% assign pubs_physics = site.data["publications-physics"] %}
+{% assign pubs_shared = site.data["publications-shared"] %}
 
 {% comment %}
-  Combine the two arrays.
+  Combine the publication lists.
 {% endcomment %}
-{% assign publications_all = pubs_neuro | concat: pubs_physics %}
+{% assign publications_all = pubs_neuro | concat: pubs_physics | concat: pubs_shared %}
 
 {{ content }}
 <div>

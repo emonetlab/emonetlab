@@ -1,5 +1,11 @@
 .DS_Store
 
+# Ignore generated Jekyll files
+/_site/
+/.sass-cache/
+/.jekyll-cache/
+/.jekyll-metadata
+
 # Ignore local Bundler cache and configuration
 /vendor/bundle
 /.bundle

@@ -153,6 +153,7 @@ Publications are organized by research area and automatically sorted by date.
 
 - **Neuroscience publications:** `_data/publications-neuro.yml`
 - **Microbiology publications:** `_data/publications-micro.yml`
+- **Publications for both areas:** `_data/publications-shared.yml`
 - **PDFs and supplementary files:** `assets/papers/`
 
 The "Everything" publications page automatically combines all publication files.
