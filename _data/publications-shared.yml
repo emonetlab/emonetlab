@@ -1,3 +1,13 @@
+- authors: 'Chen KS, Leighton MP, Clark DA, Emonet T'
+  title: 'A behavior-environment information loop drives sensory navigation'
+  journal: 'arXiv'
+  edition: 'arXiv:2607.26295 (2026)'
+  date: '2026-07-28'
+  doi: 10.48550/arXiv.2607.26295
+  html: https://arxiv.org/abs/2607.26295
+  pdf: /assets/papers/2026/2026_Chen_etal_arxiv.pdf
+  preprint: https://arxiv.org/abs/2607.26295
+
 - authors: 'Leighton MP, Betancourt JM, Emonet T, Machta BB, Abbott MC'
   title: 'On the Information Required for Feedback Control'
   journal: 'arXiv'
