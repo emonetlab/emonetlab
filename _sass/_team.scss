@@ -3,6 +3,14 @@
 .team-member {
   margin-bottom: $grid-gutter-width;
 
+  .publication-links {
+    margin-top: 6px;
+  }
+
+  .publication-extra > :last-child {
+    margin-bottom: 0;
+  }
+
   // Image container
   .flex-shrink-0 {
     width: 100px;

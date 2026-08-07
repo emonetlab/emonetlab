@@ -77,12 +77,12 @@ description: all publications page.
       </div>
 
       {% if paper.extra %}
-        {{ paper.extra | markdownify | newline_to_br | split: '<br />' }}
-      {% else %}
-        <br />
+        <div class="publication-extra">
+          {{ paper.extra | markdownify | newline_to_br | split: '<br />' }}
+        </div>
       {% endif %}
 
-      <ul class="list-inline">
+      <ul class="list-inline publication-links">
         {% if paper.html %}
           <li class="list-inline-item">
             <a href="{{ paper.html }}" title="Publication Website"><i class="fa fa-desktop"></i></a>
