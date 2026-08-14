@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # The Jekyll static site generator
-gem "jekyll", "~> 3.10.0"
+gem "jekyll", "~> 4.4.1"
 # gem "github-pages", group: :jekyll_plugins
 # --- Plugins from your _config.yml ---
 gem "jekyll-feed"
