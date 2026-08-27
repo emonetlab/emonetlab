@@ -33,7 +33,7 @@ E: carrie.nardella@yale.edu
 
 ##### Packages (FedEx, UPS, …)
 
-Regular packages:
+Regular packages (including strains but NO chemicals):
 
 ```
 Southwest Service Node / Kroon Dock
@@ -43,7 +43,7 @@ New Haven, CT 06511
 P: +1 (203) 432-9599
 ```
 
-Packages containing `chemicals`:
+Packages containing `chemicals` (do not use for strains):
 
 ```
 295 Prospect Street
