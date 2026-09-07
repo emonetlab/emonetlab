@@ -4,7 +4,7 @@ This repository contains the Jekyll-based website for the Emonet Lab at Yale Uni
 
 ## Repository Overview
 
-- **Framework**: Jekyll 3.10 static site generator
+- **Framework**: Jekyll static site generator; use the version in `Gemfile` and `Gemfile.lock`.
 - **Theme**: Custom theme based on Petridish
 - **Deployment**: GitHub Pages via GitHub Actions
 - **Live Site**: https://emonetlab.github.io/emonetlab
