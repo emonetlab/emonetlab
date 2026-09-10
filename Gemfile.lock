@@ -64,7 +64,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
     mercenary (0.4.0)
-    mini_magick (5.3.3)
+    mini_magick (5.4.0)
       logger
     observer (0.1.2)
     pathutil (0.16.2)
