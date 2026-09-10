@@ -21,7 +21,7 @@
   journal: 'PRX Life'
   edition: '4, 023027 (2026)'
   date: '2026-06-08'
-  doi: https://doi.org/10.1103/7dgz-l5fd
+  doi: 10.1103/7dgz-l5fd
   html: https://journals.aps.org/prxlife/abstract/10.1103/7dgz-l5fd
   pdf: /assets/papers/2026/2026_sherry_etal_prxlife.pdf
   preprint: https://doi.org/10.48550/arXiv.2405.18331
@@ -31,7 +31,7 @@
   journal: 'Nature Physics'
   edition: '22, pages 123–130 (2026)'
   date: '2026-01-08'
-  doi: https://doi.org/10.1038/s41567-025-03111-4
+  doi: 10.1038/s41567-025-03111-4
   html: https://www.nature.com/articles/s41567-025-03111-4
   pdf: /assets/papers/2026/2026_Mattingly_NaturePhysics.pdf
   preprint: https://www.biorxiv.org/content/10.1101/2024.07.09.602750v2
@@ -44,7 +44,7 @@
   journal: 'PNAS'
   edition: '122 (8) e2423774122 (2025)'
   date: '2025-02-19'
-  doi: https://doi.org/10.1073/pnas.2423774122
+  doi: 10.1073/pnas.2423774122
   html: https://www.pnas.org/doi/10.1073/pnas.2423774122
   pdf: /assets/papers/2025/2025_VoAvgidisMattinglyPNAS.pdf
   preprint: https://www.biorxiv.org/content/10.1101/2024.01.02.573956v1
