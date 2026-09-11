@@ -18,7 +18,8 @@ description: team page.
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
       {% if member.image %}
-          <img src="{{ 'assets/team/' | append: member.image | relative_url }}" alt="{{ member.name }}">
+          {% assign photo_path = 'assets/team/' | append: member.image %}
+          {% include profile-photo.html path=photo_path name=member.name %}
       {% endif %}
     </div>
     <div>
@@ -100,7 +101,7 @@ description: team page.
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
       {% if member.image %}
-        <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+        {% include profile-photo.html path=member.image name=member.name %}
       {% endif %}
     </div>
     <div>

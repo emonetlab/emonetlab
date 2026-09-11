@@ -28,6 +28,15 @@ rounded_corners: true                   # Enable (default) rounded corners on bo
 logo: "/assets/theme/images/emonet lab logo.png" # Logo in navbar, will be displayed with 30px height
 
 mini_magick:
+    profile:
+        source: assets/team
+        destination: thumbnails/assets/team
+        format: webp
+        minimum_bytes: 100000 # Leave photos below 100 KB unchanged
+        auto_orient: true
+        resize: "300x300^>" # 300px short edge; never enlarge smaller originals
+        strip: true
+        quality: 85
     gallery_preview:
         source: assets/images/gallery
         destination: gallery-images/preview

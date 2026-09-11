@@ -21,6 +21,7 @@ module Jekyll
         @name = @format ? "#{name}.#{@format}" : name
         @dst_dir = preset.delete('destination')
         @src_dir = preset.delete('source')
+        preset.delete('minimum_bytes')
         @commands = preset
         @relative_path = File.join(*[@dir, @name].compact)
         @extname = File.extname(@name)
@@ -74,10 +75,17 @@ module Jekyll
       def generate(site)
         return unless site.config['mini_magick']
 
+        site.data['profile_images'] = {}
         site.config['mini_magick'].each_pair do |name, preset|
           Dir.chdir preset['source'] do
            Dir.glob(File.join("**", "*.{png,jpg,jpeg,gif,webp}")) do |source|
+              next if File.size(source) < preset.fetch('minimum_bytes', 0)
+
               site.static_files << GeneratedImageFile.new(site, site.source, preset['destination'], source, preset.clone)
+              if name == 'profile'
+                original = File.join(preset['source'], source)
+                site.data['profile_images'][original] = File.join(preset['destination'], "#{source}.#{preset['format']}")
+              end
              end
           end
         end

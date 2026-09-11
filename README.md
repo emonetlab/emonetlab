@@ -115,7 +115,7 @@ Lab members and alumni data is stored in separate YAML files and automatically s
    ```
 
 2. **Add profile photo:**
-   - Place a square aspect ratio image in `assets/team/`
+   - Place the original photo in `assets/team/`; a square crop is not required
    - Name it to match the `image` field (e.g., `gustavo-santana.jpg`)
    - If no photo is available, use `empty.jpg`
 
@@ -150,6 +150,19 @@ When a lab member leaves:
   keep evidence gaps and unresolved questions in the private review packet.
 - Collaborator photos use a site-relative path in `_data/collaborators.yml`,
   such as `image: assets/team/collaborators/damon-clark.jpg`.
+- Team, alumni, and collaborator photos are displayed as circular thumbnails
+  at 100 × 100 CSS pixels, with a crop aligned to the top. Keep the original
+  source image; do not stretch it into a square. During `bundle exec jekyll build`,
+  photos below 100 KB are served unchanged. For larger photos,
+  the `profile` preset in `_config.yml` generates WebP copies at quality 85,
+  with a 300-pixel short edge (up to 3× display density). Smaller photos are
+  never enlarged. Orientation is applied before metadata is removed.
+  Generated files use `thumbnails/<original path>.webp` in `_site`; do not
+  edit these files or change the YAML image fields to point to them.
+  The layouts load portraits as needed when the visitor scrolls. Every portrait
+  links to its original, full-resolution file in a new tab. The shared
+  `_includes/profile-photo.html` uses the build's `site.data.profile_images`
+  map to select a generated copy or the unchanged original.
 
 
 ---
@@ -552,7 +565,7 @@ bundle exec jekyll serve --port 4001
 **Solutions:**
 - ✅ Verify photo is in correct directory: `assets/team/` or `assets/team/alumni/`
 - ✅ Check that `image` field in YAML matches actual filename
-- ✅ Ensure image has square aspect ratio
+- ✅ Run the Jekyll build to generate profile thumbnails; check the build log for image errors
 - ✅ Use lowercase file extensions (.jpg, .png)
 - ✅ Use `empty.jpg` as placeholder if no photo available
 
