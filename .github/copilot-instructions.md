@@ -46,7 +46,7 @@ This repository contains the Jekyll-based website for the Emonet Lab at Yale Uni
 
 ### Gallery
 
-- Images: `assets/images/gallery/<year>/`
+- Images: `assets/gallery/<year>/`
 - Captions: `_data/galleries/<year>_details.yml`
 - Update album list in `pages/gallery.md`
 

@@ -71,12 +71,12 @@ check(site.static_files.count { |file| file.relative_path.delete_prefix('/').sta
 puts 'Published albums: single pages, complete photo collections, neighboring links, and viewer assets passed.'
 
 Dir.mktmpdir('gallery-fixture-') do |scratch|
-  FileUtils.mkdir_p(File.join(scratch, 'assets/images/gallery/2099-2100'))
+  FileUtils.mkdir_p(File.join(scratch, 'assets/gallery/2099-2100'))
   FileUtils.mkdir_p(File.join(scratch, 'node_modules'))
   File.symlink(File.join(repo, 'node_modules/lightgallery'), File.join(scratch, 'node_modules/lightgallery'))
   source = File.join(scratch, 'tiny.png')
   system('magick', '-size', '2x2', 'xc:white', source, exception: true)
-  200.times { |index| File.symlink(source, File.join(scratch, 'assets/images/gallery/2099-2100', format('%03d.png', index))) }
+  200.times { |index| File.symlink(source, File.join(scratch, 'assets/gallery/2099-2100', format('%03d.png', index))) }
   fixture = Jekyll::Site.new(Jekyll.configuration('source' => scratch, 'destination' => File.join(scratch, '_site'), 'quiet' => true))
   fixture.data['gallery'] = [{ 'id' => '2099-2100', 'cover' => '000.png' }]
   literal_caption = '{{ site.title }} <b>literal & caption</b>'
@@ -92,6 +92,7 @@ Dir.mktmpdir('gallery-fixture-') do |scratch|
   check(JSON.parse(manifest.content)['photos'].first['caption'] == literal_caption, 'manifest preserves literal captions')
   check(manifest.data['render_with_liquid'] == false && manifest.data['layout'].nil?, 'manifest rendering bypass')
   check(JSON.parse(manifest.content)['photos'].first['viewer'].end_with?('/000.png.webp'), 'derivative naming matches plugin')
+  check(JSON.parse(manifest.content)['photos'].first['original'] == '/assets/gallery/2099-2100/000.png', 'original links use the gallery asset directory')
   fixture.data['gallery'].first['cover'] = 'missing.png'
   begin
     Jekyll::GalleryGenerator.new.generate(fixture)

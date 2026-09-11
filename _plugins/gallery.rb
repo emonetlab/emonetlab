@@ -57,7 +57,7 @@ module Jekyll
     def read_album(site, entry)
       id = entry['id']
       title = id.tr('-', '–')
-      directory = File.join(site.source, 'assets/images/gallery', id)
+      directory = File.join(site.source, 'assets/gallery', id)
       filenames = Dir.glob(File.join(directory, '*')).select do |filename|
         File.file?(filename) && IMAGE_EXTENSIONS.include?(File.extname(filename))
       end.map { |filename| File.basename(filename) }.sort
@@ -82,7 +82,7 @@ module Jekyll
           'filename' => filename,
           'caption' => caption,
           'alt' => alt,
-          'original' => "/assets/images/gallery/#{id}/#{filename}",
+          'original' => "/assets/gallery/#{id}/#{filename}",
           'preview' => "/gallery-images/preview/#{id}/#{filename}.webp",
           'viewer' => "/gallery-images/viewer/#{id}/#{filename}.webp",
           'width' => width,

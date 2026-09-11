@@ -38,7 +38,7 @@ mini_magick:
         strip: true
         quality: 85
     gallery_preview:
-        source: assets/images/gallery
+        source: assets/gallery
         destination: gallery-images/preview
         format: webp
         auto_orient: true
@@ -46,7 +46,7 @@ mini_magick:
         strip: true
         quality: 78
     gallery_viewer:
-        source: assets/images/gallery
+        source: assets/gallery
         destination: gallery-images/viewer
         format: webp
         auto_orient: true

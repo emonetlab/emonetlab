@@ -233,14 +233,14 @@ The gallery at `/gallery/` lists published albums by year, with a small cover an
 - **Layouts:** `_layouts/layout-with-gallery.html`, `_layouts/gallery-album.html`
 - **Photo grid:** `_includes/album.html`
 - **Styles and viewer integration:** `assets/theme/css/gallery.css`, `assets/theme/js/gallery.js`
-- **Original photos:** `assets/images/gallery/<year>/`
+- **Original photos:** `assets/gallery/<year>/`
 - **Captions and descriptions:** `_data/galleries/<year>_details.yml`
 
 The index displays at most six covers; older albums use text links. Each album uses one path, such as `/gallery/2022-2023/`, with no photo pagination. Ordinary links remain usable without JavaScript. Existing `/gallery/#2022-2023` links still reach that year on the index.
 
 ### Add an Album or Photos
 
-1. Put lowercase `.jpg`, `.jpeg`, `.png`, `.gif`, or `.webp` images in `assets/images/gallery/<year>/`. Photos appear in filename order. Use names that preserve the intended order.
+1. Put lowercase `.jpg`, `.jpeg`, `.png`, `.gif`, or `.webp` images in `assets/gallery/<year>/`. Photos appear in filename order. Use names that preserve the intended order.
 2. Add or update `_data/galleries/<year>_details.yml`. Filenames must match exactly. `caption` is the visible caption; `alt` provides an image description when the caption alone is not sufficient. Missing descriptions fall back to the caption or a neutral photo number, so add useful descriptions where possible.
 
    ```yaml
