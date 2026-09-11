@@ -346,3 +346,41 @@
   when: "2024"
   image: empty.jpg
   now: Undergraduate student at Belmont University
+
+- name: Jyot Antani
+  when: "2020-2025"
+  role: "Postdoc"
+  image: jyot-antani.jpg
+  email: jyot.antani@yale.edu
+  website: https://antanij.netlify.app/
+  googlescholar: 3S_V-uoAAAAJ
+  description: >
+    Jyot is a joint postdoc with [Paul Turner Lab](https://turnerlab.yale.edu/). In his doctoral work at Texas A&M University, Jyot studied the [sensory functions of the bacterial flagellar motor](https://hdl.handle.net/1969.1/195225). His current work involves visualization of the interactions between bacteria and phages- the viruses that infect bacteria. This research will be useful in the development of phage therapy strategies to battle antimicrobial resistance. In his free time, Jyot enjoys reading high fantasy, exploring parks and beaches, cooking, and eating.
+
+- name: Samuel Brudner
+  when: "2022-2026"
+  role: "Postdoc"
+  image: sam-brudner.png
+  email: samuel.brudner@yale.edu
+  description: >
+    Sam is interested in the mechanics of adaptive animal behavior. He studies how hungry fruit flies decide where to look for food based on patterns in the odors drifting over them. He was previously a grad student at Duke with Dr. Richard Mooney where he studied how young finches learn to imitate the songs of adult birds. He hopes that studying how animals solve tasks, we will broaden our understanding of what intelligence is, and how brains create it. Apart from neuroscience, Sam likes food, music, dancing, and learning about native plants and animals where he lives.
+
+- name: Terukimi Hayashi
+  when: "2025-2026"
+  role: "Undergraduate Student"
+  program: >
+    [PEB REU](https://physics-engineering-biology.yale.edu/summer-research-in-physical-engineering-biology)
+  image: terukimi-hayashi.jpg
+  email: terukimi.hayashi@gmail.com
+  description: >
+    Terukimi is an undergraduate student at Williams College and is strongly interested in the intersection of physics, computation, and biology. His research experience includes conducting behavioral analyses of Drosophila in fluctuating odor environments using optogenetics and proposing kinetic models for cotranscriptional splicing in human mRNA. In his free time, he enjoys being active, dabbling in the arts, and exploring cities.
+
+- name: Ava Carroll
+  when: "2025-2026"
+  role: "Undergraduate Student"
+  program: >
+    [PEB REU](https://physics-engineering-biology.yale.edu/summer-research-in-physical-engineering-biology)
+  image: ava-carroll.jpg
+  email: avacarroll907@gmail.com
+  description: >
+    Ava is an undergraduate studying physics at Smith College. She is interested in biophysics and in the future hopes to study autoimmune diseases, specifically Celiac disease. In her free time Ava likes to bake, do yoga and read epic fantasy novels.

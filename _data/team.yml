@@ -29,6 +29,14 @@
   description: >
     Yuanchi is broadly interested in how various behaviors adapt to changing environments. She completed her PhD with Lingchong You at Duke University, where she studied the temporal dynamics of mobile genetic elements in microbial communities under changing environments, using ordinary differential equation models and experiments. She is currently investigating the emergence of new spatial configurations of chemotaxis phenotypes when populations encounter novel environments. Outside of the lab, Yuanchi enjoys photography, watching old movies, and learning about art and history.
 
+- name: Michael Abbott
+  role: "Postdoc"
+  when: "2026-"
+  image: empty.jpg
+  email: michael.abbott@yale.edu
+  description: >
+    Michael is a postdoc working on ideas about optimal learning from data, and on biologically plausible ways to understand symmetries in the world. Before joining the group, he was in mathematical physics, but decided that figuring out how to calculate the first approximation is more exciting than the 2000th term. Outside of science, Michael likes mountains, books and travelling.
+
 - name: Ethan Dintzner
   role: "Graduate Student"
   when: "2024-"
@@ -49,26 +57,6 @@
   email: chinyuan.ong@yale.edu
   description: >
     CY is a Physics PhD student interested in how bacteria with different motility patterns use distinct strategies to navigate complex environments, which he studies through simulations and experiments. When he’s not in the lab, you’ll probably find him cooking, taking photographs, playing music, or planning his next trip outdoors.
-
-- name: Terukimi Hayashi
-  role: "Undergraduate Student"
-  program: >
-    [PEB REU](https://physics-engineering-biology.yale.edu/summer-research-in-physical-engineering-biology)
-  when: "2025"
-  image: terukimi-hayashi.jpg
-  email: terukimi.hayashi@gmail.com
-  description: >
-    Terukimi is an undergraduate student at Williams College and is strongly interested in the intersection of physics, computation, and biology. His research experience includes conducting behavioral analyses of Drosophila in fluctuating odor environments using optogenetics and proposing kinetic models for cotranscriptional splicing in human mRNA. In his free time, he enjoys being active, dabbling in the arts, and exploring cities.
-
-- name: Ava Carroll
-  role: "Undergraduate Student"
-  program: >
-    [PEB REU](https://physics-engineering-biology.yale.edu/summer-research-in-physical-engineering-biology)
-  when: "2025"
-  image: ava-carroll.jpg
-  email: avacarroll907@gmail.com
-  description: >
-    Ava is an undergraduate studying physics at Smith College. She is interested in biophysics and in the future hopes to study autoimmune diseases, specifically Celiac disease. In her free time Ava likes to bake, do yoga and read epic fantasy novels.
 
 - name: Josh Chen
   role: "Undergraduate Student"
@@ -116,16 +104,6 @@
   description: >
     Gustavo completed his undergraduate in Computer Engineering at the Federal University of Rio Grande do Sul in Brazil, where he studied the ontogeny of vocal communication in mice. He is currently interested in understanding how flies explore spatiotemporal features of odor plumes for optimal navigation. In his free time, he spends too much money going to concerts, and enjoys playing guitar.
 
-- name: Jyot Antani
-  when: "2020-"
-  role: "Postdoc"
-  image: jyot-antani.jpg
-  email: jyot.antani@yale.edu
-  website: https://antanij.netlify.app/
-  googlescholar: 3S_V-uoAAAAJ
-  description: >
-    Jyot is a joint postdoc with [Paul Turner Lab](https://turnerlab.yale.edu/). In his doctoral work at Texas A&M University, Jyot studied the [sensory functions of the bacterial flagellar motor](https://hdl.handle.net/1969.1/195225). His current work involves visualization of the interactions between bacteria and phages- the viruses that infect bacteria. This research will be useful in the development of phage therapy strategies to battle antimicrobial resistance. In his free time, Jyot enjoys reading high fantasy, exploring parks and beaches, cooking, and eating.
-
 - name: Lam Vo
   when: "2020-"
   role: "Graduate Student"
@@ -135,14 +113,6 @@
   email: lam.vo@yale.edu
   description: >
     Lam studied chemotaxis in Azosprillium brasilense at the University of Tennessee at Knoxville during his undergraduate years under Dr. Gladys Alexandre. He is interested in studying spatial sorting in chemotaxis waves and the connection between virulence and chemotaxis in Pseudomonas aeruginosa. When he is not working, he loves watching random Youtube video, listening to music, and exercise. He's looking forward to going to the beach, exploring local boutique shop, and hunting for good restaurants.
-
-- name: Samuel Brudner
-  when: "2022-"
-  role: "Postdoc"
-  image: sam-brudner.png
-  email: samuel.brudner@yale.edu
-  description: >
-    Sam is interested in the mechanics of adaptive animal behavior. He studies how hungry fruit flies decide where to look for food based on patterns in the odors drifting over them. He was previously a grad student at Duke with Dr. Richard Mooney where he studied how young finches learn to imitate the songs of adult birds. He hopes that studying how animals solve tasks, we will broaden our understanding of what intelligence is, and how brains create it. Apart from neuroscience, Sam likes food, music, dancing, and learning about native plants and animals where he lives.
 
 - name: Thierry Emonet
   role: "Principal Investigator"
