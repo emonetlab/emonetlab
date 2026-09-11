@@ -76,6 +76,7 @@ whitelist:
   - exifr
 exclude:
   - README.md
+  - AGENTS.md
   - Gemfile
   - Gemfile.lock
   - LICENSE
