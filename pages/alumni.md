@@ -10,3 +10,5 @@ background:
 ---
 
 Information may not be up to date.
+
+Stay in touch! Email updates to [thierry.emonet@yale.edu](mailto:thierry.emonet@yale.edu).

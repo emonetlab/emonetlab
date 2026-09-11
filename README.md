@@ -141,6 +141,15 @@ When a lab member leaves:
 - No need to manually sort entries - the layouts handle alphabetical ordering automatically
 - The `_layouts/team.html` and `_layouts/alumni.html` pages look for photos in their respective folders automatically
 - Use Markdown in the `description` and `program` fields for formatting and links
+- Alumni can use `now` for a confirmed position or dated career milestone and
+  `past` for past positions and training. Both support Markdown. The alumni
+  page shows `past` in an expandable section. Present the latest approved role
+  or affiliation directly, with career dates where available. Do not add
+  research-status wording such as "last known," "not confirmed," or comments
+  about when a client project ended. Leave a role blank if none is supplied;
+  keep evidence gaps and unresolved questions in the private review packet.
+- Collaborator photos use a site-relative path in `_data/collaborators.yml`,
+  such as `image: assets/team/collaborators/damon-clark.jpg`.
 
 
 ---

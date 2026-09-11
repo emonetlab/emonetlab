@@ -8,6 +8,10 @@
   email: jeremy.moore@yale.edu
   description: >
     Jeremy did his undergraduate degree in molecular biology at Kenyon College. He is interested in how bacteria make decisions in complex environments and is currently studying how they integrate information from multiple signals at once. In his free time, he enjoys playing piano, cooking, and video games.
+  now: >
+    Center for Living Systems Postdoctoral Fellow, University of Chicago, with Seppe Kuehn and Arvind Murugan. [Profile](https://jamesfranckinstitute.uchicago.edu/people/profile/jeremy-moore/)
+  past: >
+    BA in Molecular Biology, Kenyon College; PhD in Molecular, Cellular and Developmental Biology with Thierry Emonet, Yale University (2025).
 
 - name: Kiri Choi
   role: "Postdoc"
@@ -17,81 +21,113 @@
   email: kiri.choi@yale.edu
   description: >
     Kiri is interested in how the brain encodes and processes olfactory information and makes appropriate decisions. Previously, he was a research fellow at the Korea Institute for Advanced Study under the mentorship of Changbong Hyeon, where he studied how a brain’s spatial, structural, and connective characteristics contribute to its functionality. He completed his PhD in Bioengineering at the University of Washington under the advice of Herbert M. Sauro, where he designed the biochemical reaction networks using high-throughput simulation studies.
+  now: >
+    Assistant Professor, Department of Biological Sciences, Keimyung University. [Profile](https://kchoilab.com/people/)
+  past: >
+    BS in Physics and PhD in Bioengineering, University of Washington; Research Fellow, Korea Institute for Advanced Study; Swartz Fellow, Yale University (2023–2025).
 
-- name: Lechi Akalaonu
+- name: Kelechi Akalaonu
   role: "Undergraduate Student"
   when: "2024-2025"
   image: empty.jpg
   email: lechi.akalaonu@yale.edu
   description: >
     Kelechi is an undergraduate at Yale studying Neuroscience with a certificate of Advanced Study in French. His interests lie in circuits and computational neuroscience; in the lab he is studying the neural circuitry that underlies spatial memory/place preference in Drosophila olfactory navigation.
+  now: >
+    Postbaccalaureate Fellow, Mark Stopfer group, NICHD, National Institutes of Health. [Profile](https://annualreport.nichd.nih.gov/stopfer.html)
+  past: >
+    BS, Yale University; undergraduate research in the Emonet Lab (2024–2025).
 
 - name: "Aarti Sehdev"
   when: "2020-2023"
   role: "Postdoc"
   image: aarti-sehdev.jpg # Can be external link
-  now: Data engineer consultant at [Kubrick](https://www.kubrickgroup.com/us/).
+  now: >
+    Data Engineer Consultant, Kubrick Group. [Profile](https://uk.linkedin.com/in/dr-aarti-sehdev)
   website: https://www.linkedin.com/feed/update/urn:li:activity:7020477652058689536/
+  past: >
+    Doctoral researcher, International Max Planck Research School for Organismal Biology; postdoc, Yale University (2020–2023); data engineering consulting with Kubrick and AstraZeneca.
 
 - name: "Nirag Kadakia"
   role: "Postdoc"
   when: "2019-2023"
   image: nirag-kadakia.jpg # Can be external link
-  now: Neural Interfaces Researcher, [Reality Labs](https://tech.fb.com/ar-vr/).
+  now: >
+    Neural Interfaces Researcher, Meta Reality Labs. [Profile](https://www.linkedin.com/in/niragkadakia123)
   website: https://nkadakia.com
+  past: >
+    Doctoral research in Physics, University of California, San Diego; postdoc, Yale University (2019–2023).
 
 - name: "Mahmut Demir"
   role: "Postdoc"
   when: "2015-2022"
   image: mahmut-demir.jpg # Can be external link
-  now: Senior Research Scientist, [Apple Tree Partners](https://www.appletreepartners.com).
+  now: >
+    Senior Research Scientist, ATP Research and Development Labs, Apple Tree Partners. [Profile](https://www.linkedin.com/in/mahmut-demir-78361370/)
   googlescholar: https://scholar.google.com/citations?user=G6PyTbEAAAAJ&hl=en
   website: https://www.linkedin.com/in/mahmut-demir-78361370/
+  past: >
+    PhD in Physics with H. Salman, University of Pittsburgh; postdoc, Yale University (2015–2022).
 
 - name: "Average Phan"
   role: "Postdoc"
   when: "2022-2023"
   image: average-phan.jpg # Can be external link
-  now: Postdoc in the Department of Chemical and Biomolecular Engineering at Johns Hopkins University.
+  now: >
+    Assistant Professor of Physics, Department of Natural Sciences, Pitzer and Scripps Colleges. [Profile](https://trungphan.squarespace.com/about)
   website: https://trungphan.squarespace.com/
+  past: >
+    BS, MIT (2015); PhD, Princeton University (2021); postdoc, Yale University (2021–2023); postdoc in Chemical and Biomolecular Engineering, Johns Hopkins University (2023–2025).
 
 - name: "Agastya Rana"
   role: "Undergraduate Student"
   when: "2022-2023"
   image: agastya-rana.jpg
-  now: Quantitative Trading, SIG
+  now: >
+    Quantitative Trading, Susquehanna (SIG). [Profile](https://www.linkedin.com/in/agastya-rana/)
   description: >
     Agastya is an undergraduate interested in applying mathematical and computational modelling techniques to biological systems. He is currently working on using data assimilation to quantify the cellular parameters that govern bacterial chemotaxis. In his free time, he enjoys swimming, playing basketball and finding new music to listen to.
   email: agastya.rana@yale.edu
   website: https://www.linkedin.com/in/agastya-rana/
+  past: >
+    Undergraduate research in the Emonet Lab, Yale University (2022–2023).
 
 - name: "Austen Theroux"
   role: "Undergraduate Student"
   when: "2022-2023"
   image: austin-theroux.jpg
-  now: Research assistant, Harvard University
+  now: >
+    Research Assistant, Gershman Lab, Harvard University. [Profile](https://gershmanlab.com/people/austen.html)
   description: >
     Austen is an undergraduate student majoring in Earth and Planetary Sciences. He is broadly interested in evolutionary systems and environmental geomicrobiology. He currently studies the evolutionary dynamics of how E. coli develop resistance to bacteriophage chi, a virus that infects bacteria by first binding to the flagella. In his free time, he enjoys swimming, reading, and learning languages.
   email: austin.theroux@yale.edu
+  past: >
+    BS in Ecology and Evolutionary Biology, Yale University; research on social evolution in viruses; undergraduate research in the Emonet Lab (2022–2023).
 
 - name: "Rafaela Kottou"
   role: "Undergraduate Student"
   when: "2021-2023"
   image: rafaela-kottou.jpg
-  now: Analyst, Cornerstone Research
+  now: >
+    Analyst, Cornerstone Research. [Profile](https://www.linkedin.com/in/rafaela-kottou-0a5630170)
   description: >
     Rafaela is an undergraduate interested in studying biochemistry through the lens of mathematical modeling. She is currently trying to understand how different binding modalities affect the diversity of sensory parameters in bacterial chemosensing. In her free time, she writes for the Yale Daily News and enjoys spending time outdoors.
   email: rafaela.kottou@yale.edu
   website: https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACir-30BeubVf1TOBH32Y6hIofC1pyri4EY&keywords=rafaela%20kottou&origin=RICH_QUERY_SUGGESTION&position=0&searchId=08badb03-7d06-451e-a453-ee8c181e8b49&sid=VXp&spellCorrectionEnabled=false
+  past: >
+    Undergraduate studies in English and Molecular, Cellular and Developmental Biology, Yale University; Emonet Lab research (2021–2023).
 
 - name: "Ravi Balasubramanian"
   role: "Undergraduate Student"
   when: "2023-2024"
   image: ravi-balasub.png
-  now: Fullbright Interdisciplinary Masters in Life Sciences, Institut Curie
+  now: >
+    Graduate Student, Lewis-Sigler Institute for Integrative Genomics, Princeton University. [Profile](https://lsi.princeton.edu/people/ravi-nicholas-balasubramanian)
   description: >
     Ravi is an undergraduate interested in the living world and how it is structured on mathematical, physical, and biological levels. He is currently studying how E. coli adapt to their environment and how they spatially organize themselves during group migration. In his free time he enjoys hiking, magical realist literature (Borges in particular), playing sitar, the card game Magic the Gathering, and hosting study breaks for his friends. He also enjoys solving puzzles and making puns.
   email: ravi.balasubramanian@yale.edu
+  past: >
+    BS in Molecular, Cellular and Developmental Biology and BA in Comparative Literature, Yale University (2024); Fulbright study and research at Institut Curie, Paris.
 
 - name: "Viraaj Jayaram"
   role: "Graduate Student"
@@ -102,8 +138,11 @@
   description: >
     Viraaj is a physics graduate student, having graduated from UChicago in 2019 with bachelor's degrees in math and physics. He is broadly interested in theoretical and computational biophysics and understanding information processing, decision making and optimality in biological systems. In his free time he enjoys playing and watching cricket, tennis and soccer, as well as playing board games, watching movies and trying out new restaurants with friends.
   email: viraaj.jayaram@yale.edu
-  now: Machine Learning Engineer, Schrodinger NYC
+  now: >
+    Machine Learning Engineer, Schrödinger. [Profile](https://physics.yale.edu/people/viraaj-jayaram)
   website: https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACCo9Q8BxBrz7tP6fs3qdkFnLwIsQxfHhGA&keywords=viraaj%20jayaram&origin=RICH_QUERY_SUGGESTION&position=0&searchId=6df6f9b2-2fe4-4774-ad78-c33399a4d305&sid=-k%40&spellCorrectionEnabled=false
+  past: >
+    Bachelor’s degrees in Mathematics and Physics, University of Chicago (2019); PhD in Physics with Thierry Emonet, Yale University (2024).
 
 - name: "Swayamshree Patra"
   role: "Postdoc"
@@ -113,239 +152,372 @@
     Swayamshree is working on the theoretical aspects of chemical navigation. She finished her PhD at Indian Institute of Technology Kanpur under the guidance of Debashish Chowdhury where she developed theories for control and coordination of flagellar length in multiflagellated eukaryotes. In her free time she loves to explore new techniques of digital art for communicating her scientific projects.
   email: swayamshree.patra@yale.edu
   website: https://www.linkedin.com/in/swayamshree-patra/
+  now: >
+    Hornbill Ag. [Profile](https://fi.linkedin.com/in/swayamshree-patra)
+  past: >
+    PhD, IIT Kanpur (2015–2021); research in Dresden; postdoc, Yale University (2022–2024).
 
 - name: "Henry Mattingly"
   role: "Postdoc"
-  image: empty.jpg
-  now: Associate Research Scientist at [CCB](https://www.simonsfoundation.org/flatiron/center-for-computational-biology/), Flatiron Institute
+  image: henry-mattingly.jpg
+  now: >
+    Associate Research Scientist, Biophysical Modeling, Center for Computational Biology, Flatiron Institute (since August 2022). [Profile](https://www.simonsfoundation.org/people/henry-mattingly/)
   website: https://www.linkedin.com/in/henry-mattingly-5289a357?original_referer=https%3A%2F%2Fwww.google.com%2F
+  past: >
+    PhD in Chemical and Biological Engineering, Princeton University; postdoctoral associate in Molecular, Cellular and Developmental Biology, Yale University.
 
 - name: "Keita Kamino"
   role: "Postdoc"
-  image: empty.jpg
-  now: Assistant Professor at [Academia Sinica](https://www.sinica.edu.tw/en), Taiwan
+  image: keita-kamino.png
+  now: >
+    Assistant Research Fellow, Institute of Molecular Biology, Academia Sinica (since September 2022). [Profile](https://www.imb.sinica.edu.tw/en/faculty/profile/keita.html)
   website: https://scholar.google.nl/citations?user=wiRRPvYAAAAJ&hl=en
+  past: >
+    PhD, University of Tokyo (2013); postdoc, AMOLF (2013–2017); postdoc, Yale (2017–2019); Associate Research Scientist, Yale (2019–2022); JST PRESTO principal investigator (2022–2025).
 
 - name: "Artur Wachtel"
   role: "Postdoc"
   image: empty.jpg
+  past: >
+    PhD, University of Luxembourg (2018); postdoctoral research in the Emonet Lab, Yale University.
 
 - name: "Adam Waite"
   role: "Postdoc"
   image: empty.jpg
-  now: Research Specialist at [Calico Labs](https://www.calicolabs.com/)
+  now: >
+    Researcher, Calico Life Sciences. [Profile](https://www.linkedin.com/in/adam-waite-784bab124)
   website: https://www.linkedin.com/in/adam-waite-784bab124/
+  past: >
+    PhD in Molecular and Cellular Biology, University of Washington (2007–2013); postdoc, Yale University; Research Specialist, Calico Life Sciences.
 
-- name: "Amitaba Nandi"
+- name: "Amitabha Nandi"
   role: "Postdoc"
-  image: empty.jpg
-  now: Assistant Professor at IIT, Bombay, India
+  image: amitabha-nandi.jpg
+  now: >
+    Professor of Physics, IIT Bombay. [Profile](https://www.phy.iitb.ac.in/index.php/people/faculty)
   website: http://www.phy.iitb.ac.in/en/employee-profile/amitabha-nandi
+  past: >
+    Postdoc, Yale University; Assistant Professor, IIT Bombay (from 2015).
 
 - name: "Carlotta Martelli"
   role: "Postdoc"
-  image: empty.jpg
-  now: Junior Group Leader, J. Gutenberg University Mainz, Germany
-  website: https://mrtlllab.uni-mainz.de/people.html
+  image: carlotta-martelli.jpg
+  now: >
+    Group Leader, Johannes Gutenberg University Mainz. [Profile](https://mrtlllab.uni-mainz.de/people/)
+  website: https://mrtlllab.uni-mainz.de/people/
+  past: >
+    Postdoctoral researcher, Yale University (2009–2013); independent group leader, Johannes Gutenberg University Mainz.
 
 - name: "Dervis Can Vural"
   role: "Postdoc"
-  image: empty.jpg
-  now: Assistant Professor at Notre Dame University, IN
+  image: dervis-can-vural.jpg
+  now: >
+    Associate Professor of Physics, University of Notre Dame. [Profile](https://biophysics.nd.edu/faculty/dervis-can-vural/)
   website: https://www3.nd.edu/~dvural/
+  past: >
+    PhD in Physics, University of Illinois Urbana-Champaign (2011); postdoc, Yale University; Assistant Professor, University of Notre Dame.
 
 - name: "Garrit Jentsch"
   role: "Postdoc"
   image: empty.jpg
-  now: Managing director of BAST GmbH Clinical Data Science and Model Based Drug Development
+  now: >
+    Managing Director, BAST GmbH. [Profile](https://de.linkedin.com/in/garrit-jentsch-01b82456)
   website: https://bastde.com/team/
+  past: >
+    Postdoc, Yale University; pharmacometrics and model-based drug development research at BAST GmbH.
 
 - name: "Oleksii Sliusarenko"
   role: "Postdoc"
   image: empty.jpg
-  now: Quant researcher at a quantitative hedge fund
+  now: >
+    Quantitative researcher at a hedge fund. [Profile](https://www.linkedin.com/in/sliusarenko/)
   website: https://www.linkedin.com/in/sliusarenko/
+  past: >
+    Postdoctoral research in the Emonet Lab, Yale University.
 
 - name: "Roger Alexander"
   role: "Postdoc"
-  image: empty.jpg
-  now: Senior Research Scientist, Pacific Northwest Diabetes Research, Seattle
+  image: roger-alexander.jpg
+  now: >
+    Senior Research Scientist, Pacific Northwest Diabetes Research Institute, Seattle. [Profile](https://pmc.ncbi.nlm.nih.gov/articles/PMC1797150/)
+  past: >
+    Computational biology research at Georgia Tech (2007) and Yale University (2009); research at the Pacific Northwest Diabetes Research Institute.
 
 - name: "Xiongfei Fu"
   role: "Postdoc"
-  image: empty.jpg
-  now: Assistant Professor, Shenzhen Institute of Advanced Technology, The Chinese Academy of Sciences, Shenzhen, China
+  image: xiongfei-fu.png
+  now: >
+    Professor, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; Director, Shenzhen Institute of Synthetic Biology at SIAT. [Profile](https://medimaging.siat.ac.cn/cxqjzx/2025-06/18/article_2025061815563123917.html)
   website: http://isynbio.siat.ac.cn/fulab/
+  past: >
+    Postdoc, Yale University (March 2013–July 2016); faculty member, SIAT (from July 2016).
 
 - name: "Yann Dufour"
   role: "Postdoc"
-  image: empty.jpg
-  now: Assistant Professor at Michigan State University, Lansing, MI
+  image: yann-dufour.jpg
+  now: >
+    DatInsights, Lyon. [Profile](https://fr.linkedin.com/in/yann-dufour)
   website: http://dufour.mmg.msu.edu/
+  past: >
+    Training at the University of Wisconsin-Madison; postdoc, Yale University; Assistant Professor, Michigan State University.
 
 - name: "Setsu Kato"
   role: "Postdoc"
-  image: empty.jpg
-  now: Assistant Professor at Hiroshima University, Japan
+  image: setsu-kato.jpg
+  now: >
+    Associate Professor, Graduate School of Integrated Sciences for Life, Hiroshima University. [Profile](https://seeds.office.hiroshima-u.ac.jp/profile/en.1847ce8a69a0b3e1520e17560c007669.html)
   website: http://seeds.office.hiroshima-u.ac.jp/profile/en.1847ce8a69a0b3e1520e17560c007669.html
+  past: >
+    Postdoc, Yale University; Assistant Professor, Hiroshima University.
 
 - name: "Junjiajia Long"
   role: "Graduate Student"
   image: empty.jpg
-  now: Quantitative trader, Tower Research Capital, NYC.
+  now: >
+    Quantitative Trader, Tower Research Capital. [Profile](https://physics.yale.edu/people/junjiajia-long)
+  past: >
+    PhD in Physics with Thierry Emonet, Yale University (2019).
 
 - name: "Michael Sneddon"
   role: "Graduate Student"
-  image: empty.jpg
-  now: Director of Scientific Computing at Predicine
+  image: michael-sneddon.jpg
+  now: >
+    Joint Genome Institute. [Profile](https://www.linkedin.com/in/msneddon)
   website: https://www.linkedin.com/in/msneddon/
+  past: >
+    Graduate research, Yale University; software engineering and engineering management, Zymergen; Director of Scientific Computing, Predicine (2021–2025).
 
 - name: "Nicholas Frankel"
   role: "Graduate Student"
-  image: empty.jpg
-  now: Postdoc with Wendell Lim at UCSF, San Francisco, CA
+  image: nicholas-frankel.jpg
+  now: >
+    Senti Biosciences. [Profile](https://www.linkedin.com/in/nick-frankel)
   website: http://limlab.ucsf.edu/people/nickfrankel.html
+  past: >
+    PhD in Molecular, Cellular and Developmental Biology, Yale University (2015); postdoc, Wendell Lim Lab, UCSF (2015–2019); Scientist II, Senti Biosciences.
 
 - name: "Srinivas Gorur-Shandilya"
   role: "Graduate Student"
-  image: empty.jpg
-  now: Postdoc with Eve Marder, Brandeis University
+  image: srinivas-gorur-shandilya.webp
+  now: >
+    Lead Computational Scientist, Deep Origin. [Profile](https://www.deeporigin.com/team-member/srinivas)
   website: http://srinivas.gs/
+  past: >
+    PhD in Neuroscience, Yale University (2010–2017); postdoc with Eve Marder, Brandeis University (2017–2021); Senior Computational Neuroscientist, Inscopix/Bruker (from 2021, before joining Deep Origin).
 
 - name: "William Pontius"
   role: "Graduate Student"
   image: empty.jpg
-  now: Software Engineer, [Mighty.com](http://mighty.com/), New York City
+  now: >
+    Senior Software Engineer, Mighty.com. [Profile](https://physics.yale.edu/people/william-pontius)
   website: https://www.linkedin.com/in/wpontius/
+  past: >
+    PhD in Physics with Thierry Emonet, Yale University (2013); software engineering, Mighty.com.
 
 - name: "Tomas Lamot"
   role: "Postgraduate Student"
   image: empty.jpg
-  now: Graduate student at University of Namur in Belgium
+  now: >
+    Graduate student, University of Namur, Belgium. [Profile](https://github.com/emonetlab/emonetlab/blob/b867c57b64ac7761b9a4f971063209bc41fed1ba/_data/alumni.yml#L221)
+  past: >
+    Postgraduate research in the Emonet Lab, Yale University; graduate study, University of Namur.
 
 - name: "Luca Rappez"
   role: "Postgraduate Student"
   image: empty.jpg
-  now: Graduate student at EMBL Heidelberg, Germany
+  now: >
+    Centre for Genomic Regulation, Barcelona. [Profile](https://www.nature.com/articles/s41592-022-01639-4)
+  past: >
+    Postgraduate research in the Emonet Lab, Yale University; doctoral research, EMBL Heidelberg; research with Nicholas Stroustrup at the Centre for Genomic Regulation.
 
 - name: "Noah Olsman"
   role: "Postgraduate Student"
-  image: empty.jpg
-  now: Graduate student at Caltech, Pasadena CA
+  image: noah-olsman.jpg
+  now: >
+    Research Scientist, Paulsson Lab, Department of Systems Biology, Harvard Medical School. [Profile](https://nolsman.com/)
+  past: >
+    BS in Electrical Engineering, University of Southern California (2012); research year at Yale; PhD in Control and Dynamical Systems, Caltech (2013–2018); postdoc, Harvard University (2019–2024).
 
 - name: "Pedro Cisneros"
   role: "Postgraduate Student"
-  image: empty.jpg
-  now: Graduate student at UCSB, Santa Barbara CA
+  image: pedro-cisneros.png
+  now: >
+    Machine Learning Researcher, VMware Research. [Profile](https://sites.google.com/view/pcisnerosv)
+  past: >
+    Electrical Engineering, Pontifical Catholic University of Peru; PhD with Francesco Bullo, University of California, Santa Barbara; postdoctoral scholar/fellow, University of Illinois Urbana-Champaign, working with Banerjee, Koyejo and Amato.
 
 - name: "Sébastien Gillet"
   role: "Postgraduate Student"
-  image: empty.jpg
-  now: Graduate student at University of Namur, Belgium
+  image: sebastien-gillet.png
+  now: >
+    Lead Scientist, Catalent Cell & Gene Therapy. [Profile](https://www.iabs.org/~documents/conferences-and-webinars/2025/leveraging-analytical-and-bioprocess-platforms-for-biological-product-development-and-commercialization/iabsiabs-eu-platform-tech-ebook/)
+  past: >
+    Master’s degree in Biology, University of Namur (2013); PhD, University of Namur; postgraduate research, Yale University; cell and gene therapy research.
 
-- name: "Luis Hernandez-Nuñes"
+- name: "Luis Hernandez-Nunez"
   role: "Postgraduate Student"
-  image: empty.jpg
-  now: Graduate student at Harvard, Cambridge MA
+  image: luis-hernandez-nunez.jpg
+  now: >
+    Assistant Professor of Biology, Stanford University; leads the Hernandez-Nunez Lab. [Profile](https://neuroscience.stanford.edu/people/luis-hernandez-nunez)
+  past: >
+    Mechatronics engineering, National University of Engineering, Peru; research in the Emonet Lab at Yale University; doctoral and postdoctoral training, Harvard University.
 
 - name: "Will Rosenbluth"
   role: "Undergraduate Student"
   image: empty.jpg
-  now: Nuclear Engineer at Naval Reactors, Washington DC
+  now: >
+    Nuclear Engineer, Naval Reactors. [Profile](https://www.linkedin.com/in/william-rosenbluth-a01a12173/)
   website: https://www.linkedin.com/in/william-rosenbluth-a01a12173/
+  past: >
+    Undergraduate research in the Emonet Lab, Yale University; nuclear engineering, Naval Reactors.
 
 - name: "Ethan Brown"
   role: "Undergraduate Student"
   image: empty.jpg
   website: https://www.linkedin.com/in/ethan-brown-a00771147/
-  now: Bioinformatics analyst at [Tempus Labs](https://www.tempus.com/), Chicago
+  now: >
+    Tempus AI. [Profile](https://www.linkedin.com/in/ethan-brown-a00771147)
+  past: >
+    Undergraduate research in the Emonet Lab, Yale University; Bioinformatics Analyst, Tempus Labs.
 
 - name: "Jude Ong"
   role: "Undergraduate Student"
   image: empty.jpg
-  now: Postgraduate researcher at NIH
+  now: >
+    Postgraduate researcher, National Institutes of Health. [Profile](https://pubmed.ncbi.nlm.nih.gov/41550616/)
+  past: >
+    Undergraduate research in the Emonet Lab, Yale University; co-author of the 2026 E. coli chemosensing paper.
 
 - name: "Garima Singh"
   role: "Undergraduate Student"
   image: empty.jpg
-  now: Began job at SparkCognition
+  now: >
+    Grubhub. [Profile](https://www.linkedin.com/in/garimasingh22)
+  past: >
+    Computer science and neuroscience studies, Yale University (2016–2020); work at SparkCognition and Grubhub.
 
 - name: "Helen Cai"
   role: "Undergraduate Student"
-  image: empty.jpg
-  now: Began job at Epic Systems
+  image: helen-cai.jpg
+  now: >
+    MD, Yale School of Medicine, completed in 2026. [Profile](https://elischolar.library.yale.edu/ymtdl/4380/)
+  past: >
+    Yale College (2020); work at Epic Systems; MD thesis with Kartik Pattabiraman, Yale School of Medicine (2026).
 
 - name: "Hope Anderson"
   role: "Undergraduate Student"
-  image: empty.jpg
-  now: Graduate student at The University of Chicago
+  image: hope-anderson.jpg
+  now: >
+    PhD student, Biophysical Sciences, University of Chicago, with Bana Jabri and Sam Riesenfeld. [Profile](https://biophysics.uchicago.edu/the-students/hope_anderson/)
+  past: >
+    Undergraduate, Wellesley College; summer research in the Emonet Lab; graduate study, University of Chicago.
 
 - name: "Charlotte Brannon"
   role: "Undergraduate Student"
-  image: empty.jpg
-  now: Graduate student at Stanford University
+  image: charlotte-brannon.jpg
+  now: >
+    PhD candidate, Biology, Stanford University, Prakash Lab (since autumn 2020). [Profile](https://web.stanford.edu/~cbrannon/)
+  past: >
+    BS in Molecular, Cellular and Developmental Biology and English Literature, Yale University (2019); research with Emonet, Ackermann at ETH Zurich, and Gerstein.
 
 - name: "Adam Fine"
   role: "Undergraduate Student"
-  image: empty.jpg
-  now: Graduate student at University of Chicago physics
+  image: adam-fine.png
+  now: >
+    PhD in Biophysical Sciences, University of Chicago, completed in 2025. [Profile](https://biophysics.uchicago.edu/the-alumni/)
+  past: >
+    Undergraduate research in the Emonet Lab; doctoral research with Matthias Steinrücken, University of Chicago.
 
 - name: "Megan Ayers"
   role: "Undergraduate Student"
-  image: empty.jpg
-  now: Graduate student at Yale University
+  image: megan-ayers.jpg
+  now: >
+    Conducted climate research as a PhD student in Statistics & Data Science at Yale University in 2022. [Profile](https://climatecommunication.yale.edu/about/people-partners/megan-ayers/)
+  past: >
+    Bachelor’s degrees in Mathematics and Physics, Lewis & Clark College; graduate research on climate data, Yale University; graduate researcher, Yale Applied Science Synthesis Program.
 
 - name: "Mattia Mahmoud"
   role: "Undergraduate Student"
-  image: empty.jpg
-  now: Undergraduate at Harvard University
+  image: mattia-mahmoud.webp
+  now: >
+    Perelman School of Medicine, University of Pennsylvania. [Profile](https://www.linkedin.com/in/mattia-mahmoud-phd-mphil-412b5a130)
+  past: >
+    Undergraduate studies, Harvard University; PhD and MPhil; research at Penn Medicine; ASCO merit award (2024).
 
 - name: "Abhishek Sethi"
   role: "Undergraduate Student"
   image: empty.jpg
+  past: >
+    Undergraduate and summer research in the Emonet Lab; contributed scripts and video annotation to Demir et al. (2020).
 
 - name: "Adam Bildersee"
   role: "Undergraduate Student"
-  image: empty.jpg
-  now: Software engineer at Google[x]
+  image: adam-bildersee.jpg
+  now: >
+    Engineering executive. [Profile](https://www.linkedin.com/in/bildersee)
+  past: >
+    Software Engineer, Google[x]; work at Moon Creative Lab; education at UC Berkeley Haas.
 
 - name: "Faez Syed"
   role: "Undergraduate Student"
   image: empty.jpg
+  now: >
+    Neurologist, Baylor Scott & White Health. [Profile](https://www.bswhealth.com/physician/faez-syed)
+  past: >
+    Medical degree, Case Western Reserve University (2020); internal medicine internship, Cleveland Clinic (2021); neurology residency, Cleveland Clinic (2024); epilepsy fellowship, UT Southwestern (2025).
 
 - name: "Jennifer Wang"
   role: "Undergraduate Student"
   image: empty.jpg
+  past: >
+    Undergraduate research in the Emonet Lab, Yale University.
 
 - name: "Michael Weiner"
   role: "Undergraduate Student"
-  image: empty.jpg
-  now: Graduate student at Cornell University
+  image: michael-weiner.jpg
+  now: >
+    Senior Research Scientist and Lead Research Computing Facilitator, PACE, Georgia Institute of Technology. [Profile](https://pace.gatech.edu/staff-list/)
+  past: >
+    BS in Physics, Yale University; MS and PhD in Biophysics, Cornell University; research computing work, PACE, Georgia Institute of Technology.
 
 - name: "Tobias Holden"
   role: "Undergraduate Student"
-  image: empty.jpg
+  image: tobias-holden.jpg
+  now: >
+    Entered the Medical Scientist Training Program at Northwestern University in 2019. [Profile](https://www.feinberg.northwestern.edu/sites/mstp/student-life/student-profiles.html)
+  past: >
+    BS in Molecular, Cellular and Developmental Biology with Quantitative Biology, Yale University (2017); NIH PREP Scholar, Icahn School of Medicine at Mount Sinai; Northwestern MSTP (from 2019).
 
 - name: "Bohan Shakes"
   role: "Undergraduate Student"
   when: "2023"
   image: empty.jpg
+  now: >
+    TikTok. [Profile](https://www.linkedin.com/in/bshakes)
+  past: >
+    Undergraduate, Yale University; research in the Emonet Lab (2023).
 
 - name: "Isabel Burger"
   role: "Undergraduate Student"
   program: >
     [PEB REU](https://physics-engineering-biology.yale.edu/summer-research-in-physical-engineering-biology)
   when: "2023"
-  image: empty.jpg
-  now: Graduate student at Harvard University
+  image: isabel-burger.jpg
+  now: >
+    PhD student, Molecular and Cellular Biology, Harvard University, with Johannes Walter and Joe Loparo. [Profile](https://walter.hms.harvard.edu/people/isabel-burger/)
+  past: >
+    BA in Molecular Biology, Pomona College (2021–2025); Emonet PEB REU (2023); Harvard PhD program (from 2025); joined the Walter and Loparo labs in July 2026.
 
 - name: "Karah Edmonds"
   role: "Undergraduate Student"
   program: >
     [PEB REU](https://physics-engineering-biology.yale.edu/summer-research-in-physical-engineering-biology)
   when: "2024"
-  image: empty.jpg
-  now: Undergraduate student at Belmont University
+  image: karah-edmonds.png
+  now: >
+    Belmont University. [Profile](https://www.linkedin.com/in/karah-edmonds-5a0555314)
+  past: >
+    Undergraduate, Belmont University; Emonet PEB REU (2024); co-author of the 2025 PNAS collective-migration paper.
 
 - name: Jyot Antani
   when: "2020-2025"
@@ -356,6 +528,10 @@
   googlescholar: 3S_V-uoAAAAJ
   description: >
     Jyot is a joint postdoc with [Paul Turner Lab](https://turnerlab.yale.edu/). In his doctoral work at Texas A&M University, Jyot studied the [sensory functions of the bacterial flagellar motor](https://hdl.handle.net/1969.1/195225). His current work involves visualization of the interactions between bacteria and phages- the viruses that infect bacteria. This research will be useful in the development of phage therapy strategies to battle antimicrobial resistance. In his free time, Jyot enjoys reading high fantasy, exploring parks and beaches, cooking, and eating.
+  now: >
+    Scientist, Yale University; Paul Turner Lab, Center for Phage Biology and Therapy, and Quantitative Biology Institute. [Profile](https://antanij.netlify.app/)
+  past: >
+    PhD, Texas A&M University (2021); postdoctoral research at Yale University with Paul Turner and Thierry Emonet.
 
 - name: Samuel Brudner
   when: "2022-2026"
@@ -364,6 +540,8 @@
   email: samuel.brudner@yale.edu
   description: >
     Sam is interested in the mechanics of adaptive animal behavior. He studies how hungry fruit flies decide where to look for food based on patterns in the odors drifting over them. He was previously a grad student at Duke with Dr. Richard Mooney where he studied how young finches learn to imitate the songs of adult birds. He hopes that studying how animals solve tasks, we will broaden our understanding of what intelligence is, and how brains create it. Apart from neuroscience, Sam likes food, music, dancing, and learning about native plants and animals where he lives.
+  past: >
+    Doctoral research with Richard Mooney, Duke University; postdoc, Emonet Lab, Yale University (2022–2026).
 
 - name: Terukimi Hayashi
   when: "2025-2026"
@@ -374,6 +552,10 @@
   email: terukimi.hayashi@gmail.com
   description: >
     Terukimi is an undergraduate student at Williams College and is strongly interested in the intersection of physics, computation, and biology. His research experience includes conducting behavioral analyses of Drosophila in fluctuating odor environments using optogenetics and proposing kinetic models for cotranscriptional splicing in human mRNA. In his free time, he enjoys being active, dabbling in the arts, and exploring cities.
+  now: >
+    Undergraduate, Williams College, class of 2027. [Profile](https://panic.williams.edu/)
+  past: >
+    Biophysics research, Williams College; Emonet PEB REU (2025); research in the Emonet Lab through 2026.
 
 - name: Ava Carroll
   when: "2025-2026"
@@ -384,3 +566,7 @@
   email: avacarroll907@gmail.com
   description: >
     Ava is an undergraduate studying physics at Smith College. She is interested in biophysics and in the future hopes to study autoimmune diseases, specifically Celiac disease. In her free time Ava likes to bake, do yoga and read epic fantasy novels.
+  now: >
+    Undergraduate in Physics and Mathematics, Smith College. [Profile](https://www.linkedin.com/in/ava-carroll-5b6ab3316)
+  past: >
+    Atomic physics research, Smith College (2024); Emonet PEB REU (2025 and 2026); visiting study, University of Oxford (2025–2026).

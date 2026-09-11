@@ -102,6 +102,12 @@ Now output the sections, each with its header.
               {% endif %}
 
               {{ member.now | markdownify }}
+              {% if member.past %}
+                <details>
+                  <summary>Past positions and training</summary>
+                  {{ member.past | markdownify }}
+                </details>
+              {% endif %}
             </div>
           </div>
         {% endfor %}

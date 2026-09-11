@@ -22,56 +22,67 @@
 
 
 - name: Damon Clark
+  image: assets/team/collaborators/damon-clark.jpg
   role: Yale University
   website: http://clarklab.yale.edu/
   googlescholar: 2LlTUJQAAAAJ
 
 - name: Steven Zucker
+  image: assets/team/collaborators/steven-zucker.webp
   role: Yale University
   website: https://seas.yale.edu/faculty-research/faculty-directory/steven-zucker
   googlescholar: rNTIQXYAAAAJ
 
 - name: Grégoire Altan-Bonnet
+  image: assets/team/collaborators/gregoire-altan-bonnet.jpg
   role: National Cancer Institute
   website: https://ccr.cancer.gov/staff-directory/gregoire-altan-bonnet
   googlescholar: 9hotgL4AAAAJ
 
 - name: John Carlson
+  image: assets/team/collaborators/john-carlson.jpg
   role: Yale University
   website: https://carlsonlab.yale.edu
   googlescholar: MdsAt38AAAAJ
 
 - name: Philippe Cluzel
+  image: assets/team/collaborators/philippe-cluzel.jpg
   role: Harvard University
   website: https://cluzel.fas.harvard.edu
   googlescholar: 1DpUSnsAAAAJ
 
 - name: James Faeder
+  image: assets/team/collaborators/james-faeder.jpg
   role: University of Pittsburgh
   website: https://csbweb.csb.pitt.edu/Faculty/Faeder/
   googlescholar: S5bSDxwAAAAJ
 
 - name: Scott Holley
+  image: assets/team/collaborators/scott-holley.jpg
   role: Yale University
   website: https://holleylab.yale.edu
   googlescholar: 6J8JO1kAAAAJ
 
 - name: Christine Jacobs-Wagner
+  image: assets/team/collaborators/christine-jacobs-wagner.jpg
   role: Stanford University
   website: https://jacobswagnerlab.stanford.edu
   googlescholar: U_Vfzf8AAAAJ
 
 - name: Urs Jenal
+  image: assets/team/collaborators/urs-jenal.jpg
   role: Biozentrum, Switzerland
   website: https://www.biozentrum.unibas.ch/research/research-groups/research-groups-a-z/overview/unit/research-group-urs-jenal
   googlescholar: aDi6XK4AAAAJ
 
 - name: Barbara Kazmierczak
+  image: assets/team/collaborators/barbara-kazmierczak.jpg
   role: Yale University
   website: https://medicine.yale.edu/bbs/profile/barbara-kazmierczak/
   googlescholar: GSNyATMAAAAJ
 
 - name: Thomas Shimizu
+  image: assets/team/collaborators/thomas-shimizu.jpg
   role: AMOLF, Netherlands
   website: https://amolf.nl/people/tom-shimizu
   googlescholar:
