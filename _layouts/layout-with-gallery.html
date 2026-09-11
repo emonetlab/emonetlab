@@ -1,24 +1,7 @@
 ---
-layout: default
-description: Default template for pages and posts, with contained width.
+layout: base
+description: Gallery index and album pages.
 ---
-
-<script src="/node_modules/lightgallery/lightgallery.umd.js"></script>
-<script src="/node_modules/lightgallery/plugins/zoom/lg-zoom.umd.js"></script>
-<script src="/node_modules/lightgallery/plugins/thumbnail/lg-thumbnail.umd.js"></script>
-
-{{ content }}
-
-<script type="text/javascript">
-    document.addEventListener('DOMContentLoaded', function() {
-        const galleries = document.querySelectorAll('.lightgallery-album');
-
-        galleries.forEach(gallery => {
-            lightGallery(gallery, {
-                plugins: [lgZoom, lgThumbnail],
-                speed: 500,
-                selector: 'a'
-            });
-        });
-    });
-</script>
+<div class="gallery-page">
+  {{ content }}
+</div>

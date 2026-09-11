@@ -1,0 +1,16 @@
+---
+layout: layout-with-gallery
+---
+<a class="gallery-back" href="{{ '/gallery/' | relative_url }}#{{ page.album.id }}">← All albums</a>
+<div class="gallery-album-heading" id="photos">
+  <h2 id="gallery-album-title">{{ page.album.title }}</h2>
+  <p>{{ page.album.count }} photos</p>
+</div>
+{% include album.html %}
+<nav class="gallery-neighbors" aria-label="Other albums">
+  <div>{% if page.album.newer %}<a href="{{ page.album.newer.url | relative_url }}"><span>Newer album</span>← {{ page.album.newer.title }}</a>{% endif %}</div>
+  <div>{% if page.album.older %}<a href="{{ page.album.older.url | relative_url }}"><span>Older album</span>{{ page.album.older.title }} →</a>{% endif %}</div>
+</nav>
+<script src="{{ '/node_modules/lightgallery/lightgallery.min.js' | relative_url }}" defer></script>
+<script src="{{ '/node_modules/lightgallery/plugins/zoom/lg-zoom.min.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/theme/js/gallery.js' | relative_url }}" defer></script>

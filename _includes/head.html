@@ -71,7 +71,12 @@
   <script src="{{ '/assets/theme/js/popper.min.js' | relative_url }}"></script>
   <script src="{{ '/assets/theme/js/bootstrap.min.js' | relative_url }}"></script>
 
-   <!-- Stuff for lightGallery -->
-  <link type="text/css" rel="stylesheet" href="/node_modules/lightgallery/css/lightgallery-bundle.css" />
+  {% if page.gallery %}
+    <link rel="stylesheet" href="{{ '/assets/theme/css/gallery.css' | relative_url }}">
+  {% endif %}
+  {% if page.layout == 'gallery-album' %}
+    <link rel="stylesheet" href="{{ '/node_modules/lightgallery/css/lightgallery.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/node_modules/lightgallery/css/lg-zoom.css' | relative_url }}">
+  {% endif %}
 
 </head>

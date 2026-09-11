@@ -1,0 +1,9 @@
+# Published albums, newest first. A folder is not published until it is listed here.
+- id: "2023-2024"
+  cover: "Cute.jpg"
+- id: "2022-2023"
+  cover: "Microbiologists-on-the-beach.jpg"
+- id: "2021-2022"
+  cover: "Barbecue-at-Aartis-house-with-friends-from-Clark-lab.jpg"
+- id: "2018-2019"
+  cover: "Thierrys-house-post-dinner.jpg"

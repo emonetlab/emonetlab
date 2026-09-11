@@ -57,13 +57,3 @@ $enable-rounded: {% if site.rounded_corners != false %}true{% else %}false{% end
   @import "_team";              // Team members
 @import "_footer";              // Footer
 @import "_custom";              // Custom styling
-
-.lightgallery-album {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;
-
-  a {
-    margin-bottom: 5px;
-  }
-}

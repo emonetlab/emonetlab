@@ -1,25 +1,11 @@
-<div id="{{ include.albumname | slugify }}" class="lightgallery-album">
-
-    {%- assign details_filename = include.albumname | append: '_details' -%}
-    {%- assign captions_data = site.data.galleries[details_filename] -%}
-
-    {%- for image in site.static_files -%}
-    {%- if image.path contains include.albumname and image.path contains 'images/gallery' -%}
-    {%- unless image.path contains 'thumbnails' -%}
-
-    {%- assign image_details = captions_data | where: 'filename', image.name | first -%}
-
-    {%- if image_details and image_details.caption != "" -%}
-      {%- assign caption_text = image_details.caption -%}
-    {%- else -%}
-      {%- assign caption_text = "&nbsp;" -%}
-    {%- endif -%}
-
-    <a href="{{ image.path | relative_url }}" data-sub-html="{{ caption_text | escape }}">
-        <img src="/thumbnails{{ image.path | relative_url }}" loading="lazy" />
-    </a>
-
-    {%- endunless -%}
-    {%- endif -%}
-    {%- endfor -%}
+<div class="gallery-photos" data-gallery-manifest="{{ page.album.manifest_url | relative_url }}" data-baseurl="{{ site.baseurl }}" aria-label="{{ page.album.title }} photos">
+  {% for photo in page.photos %}
+    <figure>
+      <a href="{{ photo.original | relative_url }}" data-photo-index="{{ photo.index }}" aria-label="Open photo {{ photo.index | plus:1 }}{% if photo.caption != '' %}: {{ photo.caption | escape }}{% endif %}">
+        <img src="{{ photo.preview | relative_url }}" alt="{{ photo.alt | escape }}" width="{{ photo.width }}" height="{{ photo.height }}" loading="{% if forloop.index <= 3 %}eager{% else %}lazy{% endif %}" decoding="async">
+      </a>
+      {% if photo.caption != '' %}<figcaption>{{ photo.caption | escape }}</figcaption>{% endif %}
+    </figure>
+  {% endfor %}
 </div>
+<p class="gallery-status" role="status" aria-live="polite"></p>

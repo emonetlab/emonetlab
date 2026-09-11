@@ -28,12 +28,22 @@ rounded_corners: true                   # Enable (default) rounded corners on bo
 logo: "/assets/theme/images/emonet lab logo.png" # Logo in navbar, will be displayed with 30px height
 
 mini_magick:
-    thumbnail: # Preset name
-        source: assets/images # source directory - change this to whatever you want
-        destination: thumbnails/assets/images # generated destination directory
-        resize: "150x150^" # standard imagemagick options - you can chain multiple commands
-        gravity: "center"
-        extent: "150x150"
+    gallery_preview:
+        source: assets/images/gallery
+        destination: gallery-images/preview
+        format: webp
+        auto_orient: true
+        resize: "640x640>"
+        strip: true
+        quality: 78
+    gallery_viewer:
+        source: assets/images/gallery
+        destination: gallery-images/viewer
+        format: webp
+        auto_orient: true
+        resize: "1600x1600>"
+        strip: true
+        quality: 82
 
 # BUILD SETTINGS
 markdown: kramdown
@@ -55,8 +65,6 @@ whitelist:
   - rmagick
   - mini_magick
   - exifr
-include:
-  - "node_modules/lightgallery/"
 exclude:
   - README.md
   - Gemfile
@@ -66,6 +74,7 @@ exclude:
   - package.json
   - petridish.gemspec
   - vendor
+  - tests
 
 # FRONTMATTER DEFAULTS
 defaults:

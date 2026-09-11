@@ -201,133 +201,58 @@ The "Everything" publications page automatically combines all publication files.
 
 ## Updating the Gallery
 
-The website features a gallery page displaying photo albums from lab parties, outings, and conferences. Galleries are organized by year and use the [LightGallery JS library](https://www.lightgalleryjs.com/) for an elegant viewing experience.
+The gallery at `/gallery/` lists published albums by year, with a small cover and a prominent photo count. Each album has its own URL and shows all its photos on one page. Previews below the first row use lazy loading. Opening a photo starts a viewer for the whole album: use the visible arrows, Left/Right keys, or a touch swipe to move between photos. Escape closes the viewer and returns focus to the photo you opened. The viewer has zoom and original-image download controls.
 
 ### Gallery Structure
 
-- **Gallery page:** `pages/gallery.md`
-- **Layout template:** `_layouts/layout-with-gallery.html`
-- **Album component:** `_includes/album.html`
-- **Image directories:** `assets/images/gallery/<album_year>/`
-- **Caption files:** `_data/galleries/<album_year>_details.yml`
+- **Published album list and covers:** `_data/gallery.yml`, newest first
+- **Index page:** `pages/gallery.md`
+- **Page and JSON generation:** `_plugins/gallery.rb`
+- **Layouts:** `_layouts/layout-with-gallery.html`, `_layouts/gallery-album.html`
+- **Photo grid:** `_includes/album.html`
+- **Styles and viewer integration:** `assets/theme/css/gallery.css`, `assets/theme/js/gallery.js`
+- **Original photos:** `assets/images/gallery/<year>/`
+- **Captions and descriptions:** `_data/galleries/<year>_details.yml`
 
-### Adding a New Gallery (New Year)
+The index displays at most six covers; older albums use text links. Each album uses one path, such as `/gallery/2022-2023/`, with no photo pagination. Ordinary links remain usable without JavaScript. Existing `/gallery/#2022-2023` links still reach that year on the index.
 
-Follow these steps to add a gallery for a new year:
+### Add an Album or Photos
 
-1. **Create the image folder:**
-   ```bash
-   mkdir -p assets/images/gallery/2024-2025
-   ```
+1. Put lowercase `.jpg`, `.jpeg`, `.png`, `.gif`, or `.webp` images in `assets/images/gallery/<year>/`. Photos appear in filename order. Use names that preserve the intended order.
+2. Add or update `_data/galleries/<year>_details.yml`. Filenames must match exactly. `caption` is the visible caption; `alt` provides an image description when the caption alone is not sufficient. Missing descriptions fall back to the caption or a neutral photo number, so add useful descriptions where possible.
 
-2. **Add your images:**
-   - Place all photos for the year in the folder you just created
-   - Supported formats: `.jpg`, `.jpeg`, `.png`
-   - Images will be displayed as clickable thumbnails in the gallery
-
-3. **Create a captions file (optional but recommended):**
-   
-   Create a new file: `_data/galleries/2024-2025_details.yml`
-   
    ```yaml
-   - filename: "raclette-day.jpg"
-     caption: "Raclette day"
-   - filename: "birthday-boy-part-1.jpg"
-     caption: "Birthday boy part 1"
-   - filename: "group-photo.jpg"
-     caption: "Lab retreat 2024"
-   ```
-   
-   **Notes:**
-   - The `filename` must exactly match the image filename in your gallery folder
-   - Captions are optional - leave `caption: ""` for images without captions
-   - Captions appear in the lightbox view when clicking on images
-
-4. **Update the gallery page:**
-   
-   Edit `pages/gallery.md` and add your new year to the `album_names` list:
-   
-   ```liquid
-   {% assign album_names = "2024-2025,2023-2024,2022-2023,2021-2022" | split: "," %}
-   ```
-   
-   **Important:** Albums should be listed in reverse chronological order (newest first)
-
-5. **Commit and push:**
-   ```bash
-   git add assets/images/gallery/2024-2025/
-   git add _data/galleries/2024-2025_details.yml
-   git add pages/gallery.md
-   git commit -m "Add 2024-2025 gallery"
-   git push
+   - filename: "lab-dinner.jpg"
+     caption: "Lab dinner"
+     alt: "Lab members gathered around the dinner table."
    ```
 
-### Adding Photos to an Existing Gallery
+3. To publish a new album, add its ID and cover filename to `_data/gallery.yml`, newest first:
 
-To add more photos to an existing year:
-
-1. **Add new images** to the appropriate folder (e.g., `assets/images/gallery/2023-2024/`)
-
-2. **Update the captions file** at `_data/galleries/2023-2024_details.yml`:
    ```yaml
-   - filename: "new-photo.jpg"
-     caption: "New lab event"
+   - id: "2025-2026"
+     cover: "lab-dinner.jpg"
    ```
 
-3. **Commit and push** your changes
+   A folder alone does not add an album to the gallery. The cover must exist and the album must contain at least one supported image. The build reports invalid entries. Counts, pages, and viewer metadata update automatically when photos are added.
+4. Run `npm ci` if dependencies are not installed, then `bundle exec jekyll build`. Run `bundle exec ruby tests/gallery_test.rb` for complete album pages, photo ordering, and metadata checks. Inspect the index, the full album grid, and viewer navigation before committing through the normal repository workflow.
 
-### Gallery Features
+### Image Loading and Build Output
 
-- **Responsive thumbnails:** Images automatically display as thumbnails on the page
-- **Lightbox viewer:** Click any image to open the full-size gallery viewer
-- **Navigation:** Use arrows or keyboard to navigate between photos
-- **Zoom:** Click on images in the lightbox to zoom in/out
-- **Captions:** Captions display below images in the lightbox view
-- **Table of contents:** Jump to specific years using the links at the top
+The existing MiniMagick generator creates WebP display images through `gallery_preview` and `gallery_viewer` presets in `_config.yml`: maximum 640-pixel and 1600-pixel edges respectively, with orientation corrected and metadata removed. Originals remain unchanged. Generated files belong in the build output, not in source control. Use a clean build destination after changing an image preset so old derivatives are not reused.
 
-### Advanced: Automated Gallery Download
+Album metadata (`/gallery/<year>/photos.json`) is fetched only when a photo is first opened. One LightGallery instance handles the complete album, keeps a small bounded set of slide elements, and preloads one neighbor on each side. There is no all-photo thumbnail strip. The original file is used only for direct links or explicit downloads.
 
-For bulk importing galleries from external sources, you can use the automation script:
+The gallery generator includes only the nine required files from the installed LightGallery package in the site output. This avoids Jekyll's automatic `node_modules` exclusion without publishing the whole dependency tree. Run `npm ci` if the build reports a missing viewer asset. The index does not load viewer scripts or styles.
 
-**Script location:** `old_website/emonet_galleries_download.py`
+### Troubleshooting
 
-This Python script can:
-- Scrape images from specified gallery URLs
-- Automatically download and organize images into year folders
-- Generate caption YAML files based on image metadata
+- **An album is absent:** Check `_data/gallery.yml`; the ID must match its image folder.
+- **A caption is absent:** Match `filename` exactly, including prefixes and case.
+- **The viewer does not open:** Check the browser console and confirm the generated LightGallery scripts and album JSON return successfully. Photo links still open originals if viewer scripts cannot load. A failed JSON request shows a direct-photo link and can be retried.
+- **A preview is stale:** Rebuild into a fresh destination after changing presets.
 
-**To use:**
-1. Edit the script to configure gallery URLs and output directory
-2. Run: `python old_website/emonet_galleries_download.py`
-3. Review generated files and move them to the appropriate directories
-4. Update `pages/gallery.md` with the new album names
-
-See the script comments for detailed usage instructions.
-
-### Troubleshooting Gallery Issues
-
-#### Gallery Not Displaying
-
-**Solutions:**
-- ✅ Verify LightGallery dependencies are installed: `npm install` (installs `lightgallery` from `package.json`)
-- ✅ Check that `layout-with-gallery` is specified in `pages/gallery.md` frontmatter
-- ✅ Ensure image paths follow the pattern: `assets/images/gallery/<year>/`
-
-#### Images Not Appearing in Gallery
-
-**Solutions:**
-- ✅ Check folder structure: images must be in `assets/images/gallery/<album_year>/`
-- ✅ Verify album name in `pages/gallery.md` matches your folder name exactly
-- ✅ Ensure images are committed and pushed to the repository
-- ✅ Check file extensions are lowercase (`.jpg`, not `.JPG`)
-
-#### Captions Not Showing
-
-**Solutions:**
-- ✅ Verify caption file exists: `_data/galleries/<album_year>_details.yml`
-- ✅ Check that `filename` in YAML exactly matches image filename
-- ✅ Ensure YAML syntax is valid (proper indentation, quotes around strings)
-- ✅ Captions only appear in the lightbox view, not on thumbnails
+For bulk imports, `old_website/emonet_galleries_download.py` can collect images and caption files. Review its output before adding an album to the published list.
 
 ---
 
