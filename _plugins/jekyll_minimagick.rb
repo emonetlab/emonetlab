@@ -16,7 +16,9 @@ module Jekyll
         @site = site
         @base = base
         @dir  = dir
-        @name = name
+        @source_name = name
+        @format = preset.delete('format')
+        @name = @format ? "#{name}.#{@format}" : name
         @dst_dir = preset.delete('destination')
         @src_dir = preset.delete('source')
         @commands = preset
@@ -29,7 +31,7 @@ module Jekyll
       #
       # Returns source file path.
       def path
-        File.join(@base, @dir.sub(@dst_dir, @src_dir), @name)
+        File.join(@base, @dir.sub(@dst_dir, @src_dir), @source_name)
       end
 
       # Use MiniMagick to create a derivative image at the destination
@@ -40,15 +42,21 @@ module Jekyll
       def write(dest)
         dest_path = destination(dest)
 
-        return false if File.exist? dest_path and !modified?
-        self.class.mtimes[path] = mtime
+        # Each preset has its own output. A shared source-time cache can make a
+        # later preset skip a changed photo after the first preset updates it.
+        return false if File.file?(dest_path) && File.mtime(dest_path) >= File.mtime(path)
 
         FileUtils.mkdir_p(File.dirname(dest_path))
         image = ::MiniMagick::Image.open(path)
-        image.combine_options do |c|
+        operations = proc do |c|
           @commands.each_pair do |command, arg|
-            c.send command, arg
+            arg == true ? c.send(command) : c.send(command, arg)
           end
+        end
+        if @format
+          image.format(@format, &operations)
+        else
+          image.combine_options(&operations)
         end
         image.write dest_path
 
@@ -68,7 +76,7 @@ module Jekyll
 
         site.config['mini_magick'].each_pair do |name, preset|
           Dir.chdir preset['source'] do
-           Dir.glob(File.join("**", "*.{png,jpg,jpeg,gif}")) do |source|
+           Dir.glob(File.join("**", "*.{png,jpg,jpeg,gif,webp}")) do |source|
               site.static_files << GeneratedImageFile.new(site, site.source, preset['destination'], source, preset.clone)
              end
           end
