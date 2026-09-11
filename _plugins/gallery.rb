@@ -68,7 +68,10 @@ module Jekyll
         raise Errors::FatalException, "Gallery: cover #{entry['cover'].inspect} is missing from album #{id}."
       end
 
-      details = site.data.fetch('galleries', {}).fetch("#{id}_details", [])
+      details = site.data.fetch('galleries', {})["#{id}_details"] || []
+      unless details.is_a?(Array) && details.all? { |detail| detail.is_a?(Hash) && detail['filename'].is_a?(String) }
+        raise Errors::FatalException, "Gallery: _data/galleries/#{id}_details.yml must contain a list of entries with a filename."
+      end
       photos = filenames.each_with_index.map do |filename, index|
         metadata = details.find { |detail| detail['filename'] == filename } || {}
         image = MiniMagick::Image.new(File.join(directory, filename))

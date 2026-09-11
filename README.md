@@ -134,6 +134,10 @@ Put PDFs in `assets/papers/YYYY/`. Set `pdf` to a path such as `/assets/papers/2
 
 A photo folder alone does not add an album to the site. Each listed album needs at least one photo and a valid cover. The build creates the album page and photo count. Keep the original photos; smaller display copies are made during the build.
 
+Captions are optional. You can omit the caption file or leave it empty or with only comments. To add captions, use a list of entries with a `filename`, as shown above. The build reports the file name if the list format is wrong.
+
+Animated GIF and WebP files keep their animation in the smaller display copies. After updating the image-processing code, use the fresh-folder build command below to replace any older copies that contain only one frame.
+
 Check the gallery list, the album page, and the photo viewer. Try its arrows, keyboard controls, zoom, and download button.
 
 ## Change menus and page links

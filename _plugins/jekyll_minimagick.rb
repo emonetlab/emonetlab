@@ -55,7 +55,11 @@ module Jekyll
           end
         end
         if @format
-          image.format(@format, &operations)
+          # Convert every frame and reconstruct partial frames before resizing.
+          image.format(@format, nil) do |c|
+            c.coalesce
+            operations.call(c)
+          end
         else
           image.combine_options(&operations)
         end
