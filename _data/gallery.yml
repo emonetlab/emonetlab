@@ -1,4 +1,8 @@
 # Published albums, newest first. A folder is not published until it is listed here.
+- id: "2026-2027"
+  cover: "IMG_8428.jpg"
+- id: "2025-2026"
+  cover: "jeremy goodbye.jpg"
 - id: "2023-2024"
   cover: "Cute.jpg"
 - id: "2022-2023"
