@@ -211,7 +211,7 @@
   edition: '47:595-616 (2018)'
   date: '2018'
   html: https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-062215-010954
-  pdf: https://www.annualreviews.org/doi/pdf/10.1146/annurev-biophys-062215-010954
+  pdf: /assets/papers/past/waite_frankel_emonet_2018_paper.pdf
 
 - authors: 'Keegstra JM, Kamino K, Anquez F, Lazova MD, Emonet T, Shimizu TS'
   title: 'Phenotypic diversity and temporal variability in a bacterial signaling network revealed by single-cell FRET'
@@ -290,7 +290,7 @@
   journal: 'PNAS'
   edition: '109(3): 805-810 (2012)'
   date: '2012'
-  pdf: /assets/papers/past/sneddon_emonet_2012_paper.pdf
+  pdf: /assets/papers/past/sneddon_pontius_emonet_2012_paper.pdf
   html: http://www.pnas.org/content/109/3/805.short
   suppinfo: /assets/papers/past/Sneddon-2011-Appendix.pdf
 
