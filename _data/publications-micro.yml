@@ -59,6 +59,7 @@
   journal: 'PNAS'
   edition: '121 (52) e2410905121 (2024)'
   date: '2024-12-19'
+  doi: 10.1073/pnas.2410905121
   html: https://www.pnas.org/doi/10.1073/pnas.2410905121
   pdf: /assets/papers/2024/2024_AntaniTurnerPNAS.pdf
 
@@ -76,6 +77,7 @@
   journal: 'PNAS'
   edition: '121 (3) e2309251121 (2024)'
   date: '2024-01-09'
+  doi: 10.1073/pnas.2309251121
   html: https://www.pnas.org/doi/10.1073/pnas.2309251121
   pdf: /assets/papers/past/phan_emonet_2023_paper.pdf
   suppinfo: /assets/papers/past/phan_emonet_2023_suppinfo.pdf
@@ -87,6 +89,7 @@
   journal: 'eLife'
   edition: '6:e28842 (2017)'
   date: '2017'
+  doi: 10.7554/eLife.28842
   html: https://elifesciences.org/articles/28842
   pdf: /assets/papers/past/nesper_jenal_2017_paper.pdf
   extra: |-
@@ -97,6 +100,7 @@
   journal: 'Developmental Cell'
   edition: '42(2), 170-180.e5 (2017)'
   date: '2017'
+  doi: 10.1016/j.devcel.2017.06.020
   html: http://www.cell.com/developmental-cell/abstract/S1534-5807(17)30508-7
   pdf: /assets/papers/past/das_holley_2017_paper.pdf
   suppinfo: /assets/papers/past/das_holley_2017_suppinfo.pdf
@@ -109,6 +113,7 @@
   journal: 'PLoS Computational Biology'
   edition: '10(6):e1003694'
   date: '2014'
+  doi: 10.1371/journal.pcbi.1003694
   pdf: /assets/papers/past/dufour_emonet_2014_paper.pdf
   suppinfo: /assets/papers/past/2014_Dufour_Supp.zip
   html: http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003694
@@ -120,6 +125,7 @@
   journal: 'Molecular Microbiology'
   edition: '80(3):612–627'
   date: '2011-05'
+  doi: 10.1111/j.1365-2958.2011.07579.x
   html: http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2958.2011.07579.x/abstract
   pdf: /assets/papers/past/sliusarenko__2011_paper.pdf
   suppinfo: /assets/papers/past/2011_mol_micro_supp.pdf
@@ -168,6 +174,7 @@
   journal: 'PNAS'
   edition: '119 (26) e2117377119 (2022)'
   date: '2022'
+  doi: 10.1073/pnas.2117377119
   html: https://www.pnas.org/doi/10.1073/pnas.2117377119
   preprint: https://www.biorxiv.org/content/10.1101/2021.09.21.461202v1.full.pdf+html
   pdf: /assets/papers/past/mattingly_emonet_2022_paper.pdf
@@ -178,6 +185,7 @@
   journal: 'International Journal of Molecular Sciences'
   edition: '2021, 22(13), 6960'
   date: '2021'
+  doi: 10.3390/ijms22136960
   html: https://www.mdpi.com/1422-0067/22/13/6960
   pdf: /assets/papers/past/moore_emonet_2021_paper.pdf
 
@@ -186,6 +194,7 @@
   journal: 'mBio'
   edition: '12(3):e00831-21 (2021)'
   date: '2021'
+  doi: 10.1128/mbio.00831-21
   html: https://journals.asm.org/doi/10.1128/mbio.00831-21
   pdf: /assets/papers/past/lin_kazmierczak_2021_paper.pdf
 
@@ -194,6 +203,7 @@
   journal: 'PLoS Pathogens'
   edition: '15(11):e1008149 (2019)'
   date: '2019'
+  doi: 10.1371/journal.ppat.1008149
   html: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008149
   pdf: /assets/papers/past/schniederberend_kazmierczak_2019_paper.pdf
 
@@ -211,6 +221,7 @@
   journal: 'Developmental Cell'
   edition: '49(6):829-839.e5 (2019)'
   date: '2019'
+  doi: 10.1016/j.devcel.2019.05.014
   html: https://www.sciencedirect.com/science/article/pii/S1534580719303867?via%3Dihub
   pdf: /assets/papers/past/das_holley_2019_paper.pdf
   github: https://github.com/emonetlab/Mechanical-Information-Propagation
@@ -220,6 +231,7 @@
   journal: 'Annual Review of Biophysics'
   edition: '47:595-616 (2018)'
   date: '2018'
+  doi: 10.1146/annurev-biophys-062215-010954
   html: https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-062215-010954
   pdf: /assets/papers/past/waite_frankel_emonet_2018_paper.pdf
 
@@ -228,6 +240,7 @@
   journal: 'eLife'
   edition: '6:e27455 (2017)'
   date: '2017'
+  doi: 10.7554/eLife.27455
   pdf: /assets/papers/past/keegstra_shimizu_2017_paper.pdf
   html: https://elifesciences.org/articles/27455
 
@@ -248,6 +261,7 @@
   journal: 'eLife'
   edition: '3:e03526 (2014)'
   date: '2014'
+  doi: 10.7554/eLife.03526
   html: http://elifesciences.org/content/3/e03526
   pdf: /assets/papers/past/frankel_emonet_2014_paper.pdf
   suppinfo: /assets/papers/past/2014_Frankel.zip
@@ -257,6 +271,7 @@
   journal: 'PLoS Computational Biology'
   edition: '9(9):e1003230 (2013)'
   date: '2013'
+  doi: 10.1371/journal.pcbi.1003230
   pdf: /assets/papers/past/pontius_emonet_2013_paper.pdf
   suppinfo: /assets/papers/past/2013_pontius_PlosCompBio_SuppInfo.pdf
   html: http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003230
@@ -266,6 +281,7 @@
   journal: 'Current Biology'
   edition: '23(14):1335-41. (2013)'
   date: '2013'
+  doi: 10.1016/j.cub.2013.05.052
   pdf: /assets/papers/past/dray_holley_2013_paper.pdf
   html: http://www.sciencedirect.com/science/article/pii/S0960982213006775
 
@@ -300,6 +316,7 @@
   journal: 'PNAS'
   edition: '109(3): 805-810 (2012)'
   date: '2012'
+  doi: 10.1073/pnas.1113706109
   pdf: /assets/papers/past/sneddon_pontius_emonet_2012_paper.pdf
   html: http://www.pnas.org/content/109/3/805.short
   suppinfo: /assets/papers/past/Sneddon-2011-Appendix.pdf
@@ -309,6 +326,7 @@
   journal: 'Current Biology'
   edition: '21(12):R465-8 (2011)'
   date: '2011'
+  doi: 10.1016/j.cub.2011.05.014
   pdf: /assets/papers/past/dufour_emonet_2011_paper.pdf
   html: http://www.sciencedirect.com/science/article/pii/S0960982211005410
 
@@ -317,6 +335,7 @@
   journal: 'Mol. BioSyst'
   edition: '7, 2779-2795 (2011)'
   date: '2011'
+  doi: 10.1039/c1mb05077j
   pdf: /assets/papers/past/chylek_hlavacek_2011_paper.pdf
   html: http://pubs.rsc.org/en/Content/ArticleLanding/2011/MB/c1mb05077j
   suppinfo: /assets/papers/past/MolBioSys2011-supp.zip
@@ -326,6 +345,7 @@
   journal: 'Comprehensive Biophysics, Vol. 9: Simulation and Modeling'
   edition: 'Chapter 9.16, pp. 389-413 (2012)'
   date: '2012-04-12'
+  doi: 10.1016/B978-0-12-374920-8.00926-7
   pdf: /assets/papers/past/emonet__2012_paper.pdf
   extra: |-
     Edited by Edward H. Egelman
@@ -335,6 +355,7 @@
   journal: 'Nature'
   edition: '468(7325):819-823 (2010)'
   date: '2010'
+  doi: 10.1038/nature09551
   pdf: /assets/papers/past/park_cluzel_2010_paper.pdf
   html: http://www.nature.com/nature/journal/v468/n7325/full/nature09551.html
   suppinfo: /assets/papers/past/2010b_nature_supp.pdf
@@ -355,6 +376,7 @@
   journal: 'Current Microbiology'
   edition: '62(3):764-769 (2011)'
   date: '2011'
+  doi: 10.1007/s00284-010-9778-z
   pdf: /assets/papers/past/park_cluzel_2011_paper.pdf
   html: http://www.ncbi.nlm.nih.gov/pubmed/20972792
 
@@ -363,6 +385,7 @@
   journal: 'Nature'
   edition: '466(7302):77-81 (2010)'
   date: '2010'
+  doi: 10.1038/nature09152
   pdf: /assets/papers/past/llopis_jacobswagner_2010_paper.pdf
   html: http://www.nature.com/nature/journal/v466/n7302/full/nature09152.html
   suppinfo: /assets/papers/past/2010_nature_supp.pdf
@@ -372,6 +395,7 @@
   journal: 'PNAS'
   edition: '107(22):10086-91 (2010)'
   date: '2010'
+  doi: 10.1073/pnas.1000737107
   pdf: /assets/papers/past/sliusarenko_emonet_2010_paper.pdf
   html: http://www.pnas.org/content/107/22/10086
   suppinfo: /assets/papers/past/2010_pnas_supp.pdf
@@ -391,6 +415,7 @@
   journal: 'PNAS'
   edition: '106(4):1239-44 (2009)'
   date: '2009'
+  doi: 10.1073/pnas.0810794106
   pdf: /assets/papers/past/alyahya__2009_paper.pdf
   html: http://www.pnas.org/content/106/4/1239
   suppinfo: /assets/papers/past/2009_pnas_supp.pdf
@@ -400,6 +425,7 @@
   journal: 'PNAS'
   edition: '105(9):3304-3309 (2008)'
   date: '2008'
+  doi: 10.1073/pnas.0705463105
   pdf: /assets/papers/past/emonet_cluzel_2008_paper.pdf
   html: http://www.pnas.org/cgi/content/full/105/9/3304
   suppinfo: /assets/papers/past/2008_pnas_supp.pdf
@@ -431,6 +457,7 @@
   journal: 'Phys. Rev. Letters'
   edition: '96, 58105 (2006)'
   date: '2006'
+  doi: 10.1103/PhysRevLett.96.058105
   pdf: /assets/papers/past/korobkova_cluzel_2006_paper.pdf
   html: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.96.058105
 
@@ -439,6 +466,7 @@
   journal: 'PNAS'
   edition: '102 (26):9160-4 (2005)'
   date: '2005'
+  doi: 10.1073/pnas.0503311102
   html: https://www.pnas.org/doi/10.1073/pnas.0503311102
   pdf: /assets/papers/past/le_cluzel_2005_paper.pdf
 
@@ -458,6 +486,7 @@
   journal: 'Nature'
   edition: '428, 574-578 (2004)'
   date: '2004'
+  doi: 10.1038/nature02404
   pdf: /assets/papers/past/korobkova_cluzel_2004_paper.pdf
   html: http://www.nature.com/nature/journal/v428/n6982/full/nature02404.html
   suppinfo: /assets/papers/past/2004_nature_supp.pdf
@@ -469,6 +498,7 @@
   journal: 'Nature Physics'
   edition: '17, 1426–1431'
   date: '2021'
+  doi: 10.1038/s41567-021-01380-3
   html: https://www.nature.com/articles/s41567-021-01380-3
   pdf: /assets/papers/past/mattingly_emonet_2021_paper.pdf
   suppinfo: /assets/papers/past/mattingly_emonet_2021_suppinfo.pdf
@@ -484,6 +514,7 @@
   journal: 'Science Advances'
   edition: 'Vol. 6, no. 46, eabc1087'
   date: '2020'
+  doi: 10.1126/sciadv.abc1087
   html: https://advances.sciencemag.org/content/6/46/eabc1087
   pdf: /assets/papers/past/kamino_shimizu_2020_paper.pdf
   suppinfo: /assets/papers/past/2020_scienceAdvancesKeita_SM.pdf
@@ -497,6 +528,7 @@
   journal: 'Nature Communications'
   edition: '9, 2177'
   date: '2018'
+  doi: 10.1038/s41467-018-04539-4
   html: https://www.nature.com/articles/s41467-018-04539-4
   pdf: /assets/papers/past/fu_emonet_2018_paper.pdf
   suppinfo: /assets/papers/past/fu_emonet_2018_suppinfo.pdf
@@ -522,6 +554,7 @@
   journal: 'PLoS Computational Biology'
   edition: '12(9):e1005041 (2016)'
   date: '2016'
+  doi: 10.1371/journal.pcbi.1005041
   html: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005041
   pdf: /assets/papers/past/dufour_emonet_2016_paper.pdf
   suppinfo: /assets/papers/past/dufour_emonet_2016_suppinfo.pdf

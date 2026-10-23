@@ -36,6 +36,7 @@
   journal: 'PRX Life 2 (2024)'
   edition: '043011'
   date: '2024-11'
+  doi: 10.1103/PRXLife.2.043011
   html: https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.043011
   github: https://github.com/emonetlab/bifurcation-temporal-information
   pdf: /assets/papers/2024/2024_ChoiRosenbluthPRXLife.pdf
@@ -86,6 +87,7 @@
   journal: 'eLife'
   edition: '9:e57524 (2020)'
   date: '2020-11-03'
+  doi: 10.7554/eLife.57524
   html: https://elifesciences.org/articles/57524
   pdf: /assets/papers/past/demir_emonet_2020_paper.pdf
   suppinfo: /assets/papers/past/2020_elife_demir_kadakia_figures_and_SI.pdf
@@ -102,6 +104,7 @@
   journal: 'eLife'
   edition: '11:e72415 (2022)'
   date: '2022-01-24'
+  doi: 10.7554/eLife.72415
   html: https://elifesciences.org/articles/72415
   pdf: /assets/papers/2022/2022_JayaramELife.pdf
   github: https://github.com/emonetlab/plume-temporal-navigation
@@ -133,6 +136,7 @@
   journal: 'eLife'
   edition: '11:e82635 (2022)'
   date: '2022'
+  doi: 10.7554/eLife.82635
   html: https://elifesciences.org/articles/82635
   pdf: /assets/papers/2022/2022_BrudnerEmonetELife.pdf
 
@@ -141,6 +145,7 @@
   journal: 'eLife'
   edition: '8: e45293 (2019)'
   date: '2019'
+  doi: 10.7554/eLife.45293
   html: https://elifesciences.org/articles/45293
   pdf: /assets/papers/past/kadakia_emonet_2019_paper.pdf
   github: https://github.com/emonetlab/ORN-WL-gain-control
@@ -150,6 +155,7 @@
   journal: 'Journal of Experimental Biology'
   edition: '222: jeb207787 (2019)'
   date: '2019'
+  doi: 10.1242/jeb.207787
   html: https://journals.biologists.com/jeb/article/222/23/jeb207787/223562/Controlling-and-measuring-dynamic-odorant-stimuli
   pdf: /assets/papers/past/gorurshandilya_emonet_2019_paper.pdf
   github: https://github.com/emonetlab/controlling-dynamic-stimuli
@@ -168,6 +174,7 @@
   journal: 'Proceedings of the National Academy of Sciences'
   edition: '110(23):E2134-43 (2013)'
   date: '2013'
+  doi: 10.1073/pnas.1306976110
   pdf: /assets/papers/past/mathew_carlson_2013_paper.pdf
   suppinfo: /assets/papers/past/2013_dennis-supp1.pdf
   html: http://www.pnas.org/content/110/23/E2134.short
@@ -179,6 +186,7 @@
   journal: 'Journal of Neuroscience'
   edition: '33(15):6285-6297 (2013)'
   date: '2013'
+  doi: 10.1523/JNEUROSCI.0426-12.2013
   pdf: /assets/papers/past/martelli_and_2013_paper.pdf
   html: http://www.jneurosci.org/content/33/15/6285.short
 
@@ -187,6 +195,7 @@
   journal: 'Proceedings of the National Academy of Sciences'
   edition: '108(12):5075-80 (2011)'
   date: '2011'
+  doi: 10.1073/pnas.1100369108
   pdf: /assets/papers/past/su_carlson_2011_paper.pdf
   html: http://www.pnas.org/content/108/12/5075
   suppinfo: /assets/papers/past/2011_pnas_olfaction_supp.pdf
