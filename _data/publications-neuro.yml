@@ -37,6 +37,7 @@
   edition: '043011'
   date: '2024-11'
   html: https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.043011
+  pdf: /assets/papers/2024/2024_ChoiRosenbluthPRXLife.pdf
   extra: |-
     \* contributed equally; # co-corresponding authors
 
@@ -124,6 +125,7 @@
   date: '2024'
   doi: 10.1038/s42254-024-00710-7
   html: https://www.nature.com/articles/s42254-024-00710-7
+  pdf: /assets/papers/2024/2024_EmonetVergassolaNatRevPhys.pdf
 
 - authors: 'Brudner S, Emonet T'
   title: 'Navigation: Where is that smell coming from?'
@@ -131,6 +133,7 @@
   edition: '11:e82635 (2022)'
   date: '2022'
   html: https://elifesciences.org/articles/82635
+  pdf: /assets/papers/2022/2022_BrudnerEmonetELife.pdf
 
 - authors: 'Kadakia N & Emonet T'
   title: 'Front-end Weber-Fechner gain control enhances the fidelity of combinatorial odor coding'
@@ -155,6 +158,7 @@
   date: '2016'
   doi: 10.1523/ENEURO.0080-16.2016
   html: https://www.eneuro.org/content/3/4/ENEURO.0080-16.2016
+  pdf: /assets/papers/past/raccuglia_nitabach_2016_paper.pdf
 
 - authors: 'Mathew D, Martelli C, Kelley-Swift E, Brusalis C, Gershow M, Samuel AD, Emonet T, Carlson JR'
   title: 'Functional diversity among sensory receptors in a Drosophila olfactory circuit'
