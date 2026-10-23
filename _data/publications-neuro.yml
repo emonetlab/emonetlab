@@ -33,8 +33,8 @@
 
 - authors: 'Choi K*, Rosenbluth W*, Graf IR, Kadakia N#, Emonet T#'
   title: 'Bifurcation enhances temporal information encoding in the olfactory periphery'
-  journal: 'PRX Life 2 (2024)'
-  edition: '043011'
+  journal: 'PRX Life'
+  edition: '2, 043011 (2024)'
   date: '2024-11'
   doi: 10.1103/PRXLife.2.043011
   html: https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.043011
@@ -64,10 +64,10 @@
   extra: |-
     \* contributed equally
 
-- authors: 'Kadakia N, Demir M, Michaelis BT, DeAngelis, BD, Reidenbach MA, Clark DA*, Emonet T*'
+- authors: 'Kadakia N, Demir M, Michaelis BT, DeAngelis BD, Reidenbach MA, Clark DA*, Emonet T*'
   title: 'Odour motion sensing enhances navigation of complex plumes'
   journal: 'Nature'
-  edition: '611, pages 754–761 (2022)'
+  edition: '611, 754–761 (2022)'
   doi: 10.1038/s41586-022-05423-4
   date: '2022-11-09'
   pdf: /assets/papers/past/kadakia_emonet_2022_paper.pdf
@@ -124,7 +124,7 @@
 
 - authors: 'Emonet T & Vergassola M'
   title: 'Olfactory cues and memories in animal navigation'
-  journal: 'Nature Review Physics'
+  journal: 'Nature Reviews Physics'
   edition: '6, 215–216 (2024)'
   date: '2024'
   doi: 10.1038/s42254-024-00710-7
@@ -143,7 +143,7 @@
 - authors: 'Kadakia N & Emonet T'
   title: 'Front-end Weber-Fechner gain control enhances the fidelity of combinatorial odor coding'
   journal: 'eLife'
-  edition: '8: e45293 (2019)'
+  edition: '8:e45293 (2019)'
   date: '2019'
   doi: 10.7554/eLife.45293
   html: https://elifesciences.org/articles/45293
@@ -171,8 +171,8 @@
 
 - authors: 'Mathew D, Martelli C, Kelley-Swift E, Brusalis C, Gershow M, Samuel AD, Emonet T, Carlson JR'
   title: 'Functional diversity among sensory receptors in a Drosophila olfactory circuit'
-  journal: 'Proceedings of the National Academy of Sciences'
-  edition: '110(23):E2134-43 (2013)'
+  journal: 'PNAS'
+  edition: '110(23):E2134–E2143 (2013)'
   date: '2013'
   doi: 10.1073/pnas.1306976110
   pdf: /assets/papers/past/mathew_carlson_2013_paper.pdf
@@ -181,10 +181,10 @@
   extra: |-
     - [Supp. Dataset S2 (xlsx)](/assets/papers/past/2013_dennis_supp2.xlsx)
 
-- authors: 'Martelli C, Carlson J, and Emonet T'
+- authors: 'Martelli C, Carlson J, Emonet T'
   title: 'Intensity invariant dynamics and odor-specific latencies in olfactory receptor neuron response'
   journal: 'Journal of Neuroscience'
-  edition: '33(15):6285-6297 (2013)'
+  edition: '33(15):6285–6297 (2013)'
   date: '2013'
   doi: 10.1523/JNEUROSCI.0426-12.2013
   pdf: /assets/papers/past/martelli_and_2013_paper.pdf
@@ -192,8 +192,8 @@
 
 - authors: 'Su CY, Martelli C, Emonet T, Carlson JR'
   title: 'Temporal coding of odor mixtures in an olfactory receptor neuron'
-  journal: 'Proceedings of the National Academy of Sciences'
-  edition: '108(12):5075-80 (2011)'
+  journal: 'PNAS'
+  edition: '108(12):5075–5080 (2011)'
   date: '2011'
   doi: 10.1073/pnas.1100369108
   pdf: /assets/papers/past/su_carlson_2011_paper.pdf
