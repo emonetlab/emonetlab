@@ -9,3 +9,6 @@
 # Ignore local Bundler cache and configuration
 /vendor/bundle
 /.bundle
+
+# Ignore installed npm packages; the build runs npm ci
+/node_modules/
