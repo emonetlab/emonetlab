@@ -13,7 +13,6 @@
   edition: 'arXiv:2607.26295 (2026)'
   date: '2026-07-28'
   doi: 10.48550/arXiv.2607.26295
-  html: https://arxiv.org/abs/2607.26295
   pdf: /assets/papers/2026/2026_Chen_etal_arxiv.pdf
   preprint: https://arxiv.org/abs/2607.26295
 
@@ -23,6 +22,5 @@
   edition: 'arXiv:2607.16639 (2026)'
   date: '2026-07-18'
   doi: 10.48550/arXiv.2607.16639
-  html: https://arxiv.org/abs/2607.16639
   pdf: /assets/papers/2026/2026_Leighton_etal_arxiv.pdf
   preprint: https://arxiv.org/abs/2607.16639

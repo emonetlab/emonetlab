@@ -5,7 +5,6 @@
   journal: "arXiv"
   doi: "10.48550/arXiv.2602.23324"
   date: "2026-02-26"
-  html: "https://arxiv.org/abs/2602.23324"
   pdf: /assets/papers/2026/2026_Betancourt_etal_arxiv.pdf
   preprint: "https://arxiv.org/abs/2602.23324"
 
@@ -14,7 +13,6 @@
   journal: "bioRxiv"
   doi: "10.64898/2026.02.13.705748"
   date: "2026-04-18"
-  html: "https://www.biorxiv.org/content/10.64898/2026.02.13.705748v2"
   pdf: /assets/papers/2026/2026_Avgidis_etal_biorxiv.pdf
   preprint: "https://www.biorxiv.org/content/10.64898/2026.02.13.705748v2"
 
