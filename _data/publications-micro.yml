@@ -206,12 +206,12 @@
   pdf: /assets/papers/past/das_holley_2019_paper.pdf
 
 - authors: 'Waite AJ, Frankel NW, Emonet T'
-  title: 'Behavioral variability and phenotypic variability in bacterial chemotaxis'
+  title: 'Behavioral variability and phenotypic diversity in bacterial chemotaxis'
   journal: 'Annual Review of Biophysics'
-  edition: '47:27.1–27.22 (2018)'
+  edition: '47:595-616 (2018)'
   date: '2018'
-  html: http://www.annualreviews.org/eprint/v9f7Sf7kXICsk49Ve84q/full/10.1146/annurev-biophys-062215-010954
-  pdf: /assets/papers/past/waite_frankel_emonet_018.pdf
+  html: https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-062215-010954
+  pdf: https://www.annualreviews.org/doi/pdf/10.1146/annurev-biophys-062215-010954
 
 - authors: 'Keegstra JM, Kamino K, Anquez F, Lazova MD, Emonet T, Shimizu TS'
   title: 'Phenotypic diversity and temporal variability in a bacterial signaling network revealed by single-cell FRET'
