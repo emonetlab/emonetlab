@@ -49,7 +49,6 @@
   edition: '59:101082 (2023)'
   doi: 10.1016/j.cois.2023.101082
   date: '2023-10'
-  html: https://doi.org/10.1016/j.cois.2023.101082
   pdf: /assets/papers/2023/2023_EmonetCurrOpInsSci.pdf
 
 - authors: 'Jayaram V*, Sehdev A*, Kadakia N, Brown EA, Emonet T'
@@ -71,7 +70,6 @@
   edition: '611, pages 754–761 (2022)'
   doi: 10.1038/s41586-022-05423-4
   date: '2022-11-09'
-  html: https://doi.org/10.1038/s41586-022-05423-4
   pdf: /assets/papers/past/kadakia_emonet_2022_paper.pdf
   suppinfo: /assets/papers/2022/2022_KadakiaNatureSuppInfo.pdf
   preprint: https://www.biorxiv.org/content/10.1101/2021.09.29.462473v3

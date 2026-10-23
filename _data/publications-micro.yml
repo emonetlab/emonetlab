@@ -69,7 +69,7 @@
   journal: 'Current Biology'
   edition: '34(20), R972-R977 (2024)'
   date: '2024-10-21'
-  html: https://doi.org/10.1016/j.cub.2024.05.054
+  doi: 10.1016/j.cub.2024.05.054
   pdf: /assets/papers/2024/2024_MooreEmonetCurrBio.pdf
 
 
@@ -135,7 +135,7 @@
   journal: 'Nature Methods'
   edition: '8:177-183'
   date: '2011'
-  html: https://doi.org/10.1038/nmeth.1546
+  doi: 10.1038/nmeth.1546
   github: https://github.com/emonetlab/nfsim
   pdf: /assets/papers/past/sneddon_emonet_2011_paper.pdf
   suppinfo: /assets/papers/past/2011_nature_methods_supp.pdf
@@ -162,7 +162,6 @@
   edition: '15(7), 628-638.e8 (2024)'
   doi: 10.1016/j.cels.2024.06.003
   date: '2024'
-  html: https://doi.org/10.1016/j.cels.2024.06.003
   pdf: /assets/papers/2024/2024_MooreCellSystems.pdf
   github: https://github.com/emonetlab/SensoryDiversityTuningAnalysis
 
@@ -278,7 +277,7 @@
   edition: '140(3):573-82 (2013)'
   date: '2013'
   pdf: /assets/papers/past/lawton_and_2013_paper.pdf
-  html: https://doi.org/10.1242/dev.090381
+  doi: 10.1242/dev.090381
   suppinfo: /assets/papers/past/2013_Lawton_supp.pdf
 
 - authors: 'Trofka A, Schwendinger-Schreck J, Brend T, Pontius W, Emonet T, and Holley SA'
@@ -287,7 +286,7 @@
   edition: '139:940-947 (2012)'
   date: '2012'
   pdf: /assets/papers/past/trofka_and_2012_paper.pdf
-  html: https://doi.org/10.1242/dev.073544
+  doi: 10.1242/dev.073544
   suppinfo: /assets/papers/past/2012_Development_Trofka_Supp.zip
 
 - authors: 'Sneddon MW and Emonet T'
@@ -296,7 +295,7 @@
   edition: '9:239–242 (2012)'
   date: '2012'
   pdf: /assets/papers/past/sneddon_emonet_2012_paper.pdf
-  html: https://doi.org/10.1038/nmeth.1900
+  doi: 10.1038/nmeth.1900
 
 - authors: 'Sneddon MW, Pontius W, Emonet T'
   title: 'Stochastic coordination of multiple actuators reduces latency and improves chemotactic response in bacteria'
@@ -348,7 +347,7 @@
   edition: '6:437 (2010)'
   date: '2010'
   pdf: /assets/papers/past/feinerman__2010_paper.pdf
-  html: https://doi.org/10.1038/msb.2010.90
+  doi: 10.1038/msb.2010.90
   suppinfo: /assets/papers/past/2010_msb201090_supp.pdf
   extra: |-
     \* Co-first author
@@ -385,7 +384,7 @@
   edition: '2(81):pe44 (2009)'
   date: '2009'
   pdf: /assets/papers/past/alexander_and_2009_paper.pdf
-  html: https://doi.org/10.1126/scisignal.281pe44
+  doi: 10.1126/scisignal.281pe44
   extra: |-
     \* Co-corresponding author
 
@@ -415,7 +414,7 @@
   edition: '36(12):e73 (2008)'
   date: '2008'
   pdf: /assets/papers/past/guet_cluzel_2008_paper.pdf
-  html: https://doi.org/10.1093/nar/gkn329
+  doi: 10.1093/nar/gkn329
   extra: |-
     - [Supp. Doc](/assets/papers/past/2008_nucleic_acids_research_supp1.doc)
     - [Supp. PPT](/assets/papers/past/2008_nucleic_acids_research_supp2.ppt)
@@ -426,7 +425,7 @@
   edition: '90(9):3315-21 (2006)'
   date: '2006'
   pdf: /assets/papers/past/le_cluzel_2006_paper.pdf
-  html: https://doi.org/10.1529/biophysj.105.073353
+  doi: 10.1529/biophysj.105.073353
   suppinfo: /assets/papers/past/2006_biophysical_journal_supp.doc
 
 - authors: 'Korobkova E., Emonet T, Park H, Cluzel P'
@@ -451,7 +450,7 @@
   edition: '21(11):2714-21 (2005)'
   date: '2005'
   pdf: /assets/papers/past/emonet_cluzel_2005_paper.pdf
-  html: https://doi.org/10.1093/bioinformatics/bti391
+  doi: 10.1093/bioinformatics/bti391
   suppinfo: /assets/papers/past/2005_bioinformatics_supp.pdf
   extra: |-
     \* Corresponding author
@@ -513,7 +512,7 @@
   journal: 'Molecular Systems Biology'
   edition: '12: 895, 1-14'
   date: '2016'
-  html: https://doi.org/10.15252/msb.20167044
+  doi: 10.15252/msb.20167044
   pdf: /assets/papers/past/waite-et-al-2016-non-genetic-diversity-modulates-population-performance.pdf
   extra: |-
     \* contributed equally
