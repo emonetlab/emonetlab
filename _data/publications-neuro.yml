@@ -46,7 +46,7 @@
   edition: '59:101082 (2023)'
   doi: 10.1016/j.cois.2023.101082
   date: '2023-10'
-  html: https://authors.elsevier.com/c/1hTg97tYJFnQVO
+  html: https://doi.org/10.1016/j.cois.2023.101082
   pdf: /assets/papers/2023/2023_EmonetCurrOpInsSci.pdf
 
 - authors: 'Jayaram V*, Sehdev A*, Kadakia N, Brown EA, Emonet T'
@@ -154,7 +154,7 @@
   edition: '3(4):ENEURO.0080-16.2016 (2016)'
   date: '2016'
   doi: 10.1523/ENEURO.0080-16.2016
-  html: http://eneuro.org/content/early/2016/07/25/ENEURO.0080-16.2016
+  html: https://www.eneuro.org/content/3/4/ENEURO.0080-16.2016
 
 - authors: 'Mathew D, Martelli C, Kelley-Swift E, Brusalis C, Gershow M, Samuel AD, Emonet T, Carlson JR'
   title: 'Functional diversity among sensory receptors in a Drosophila olfactory circuit'

@@ -129,7 +129,7 @@
   journal: 'Nature Methods'
   edition: '8:177-183'
   date: '2011'
-  html: http://www.nature.com/nmeth/journal/v8/n2/full/nmeth0211-130.html
+  html: https://doi.org/10.1038/nmeth.1546
   github: http://www.nfsim.org
   pdf: /assets/papers/past/sneddon_emonet_2011_paper.pdf
   suppinfo: /assets/papers/past/2011_nature_methods_supp.pdf
@@ -265,7 +265,7 @@
   edition: '140(3):573-82 (2013)'
   date: '2013'
   pdf: /assets/papers/past/lawton_and_2013_paper.pdf
-  html: http://dev.biologists.org/content/140/3/573.long
+  html: https://doi.org/10.1242/dev.090381
   suppinfo: /assets/papers/past/2013_Lawton_supp.pdf
 
 - authors: 'Trofka A, Schwendinger-Schreck J, Brend T, Pontius W, Emonet T, and Holley SA'
@@ -274,7 +274,7 @@
   edition: '139:940-947 (2012)'
   date: '2012'
   pdf: /assets/papers/past/trofka_and_2012_paper.pdf
-  html: http://dev.biologists.org/content/139/5/940.short
+  html: https://doi.org/10.1242/dev.073544
   suppinfo: /assets/papers/past/2012_Development_Trofka_Supp.zip
 
 - authors: 'Sneddon MW and Emonet T'
@@ -283,7 +283,7 @@
   edition: '9:239–242 (2012)'
   date: '2012'
   pdf: /assets/papers/past/sneddon_emonet_2012_paper.pdf
-  html: http://www.nature.com/nmeth/journal/v9/n3/full/nmeth.1900.html?WT.ec_id=NMETH-201203
+  html: https://doi.org/10.1038/nmeth.1900
 
 - authors: 'Sneddon MW, Pontius W, Emonet T'
   title: 'Stochastic coordination of multiple actuators reduces latency and improves chemotactic response in bacteria'
@@ -335,7 +335,7 @@
   edition: '6:437 (2010)'
   date: '2010'
   pdf: /assets/papers/past/feinerman__2010_paper.pdf
-  html: http://www.nature.com/msb/journal/v6/n1/full/msb201090.html
+  html: https://doi.org/10.1038/msb.2010.90
   suppinfo: /assets/papers/past/2010_msb201090_supp.pdf
   extra: |-
     \* Co-first author
@@ -372,7 +372,7 @@
   edition: '2(81):pe44 (2009)'
   date: '2009'
   pdf: /assets/papers/past/alexander_and_2009_paper.pdf
-  html: http://stke.sciencemag.org/cgi/content/full/sigtrans;2/81/pe44
+  html: https://doi.org/10.1126/scisignal.281pe44
   extra: |-
     \* Co-corresponding author
 
@@ -402,7 +402,7 @@
   edition: '36(12):e73 (2008)'
   date: '2008'
   pdf: /assets/papers/past/guet_cluzel_2008_paper.pdf
-  html: http://nar.oxfordjournals.org/cgi/content/full/gkn329v1/
+  html: https://doi.org/10.1093/nar/gkn329
   extra: |-
     - [Supp. Doc](/assets/papers/past/2008_nucleic_acids_research_supp1.doc)
     - [Supp. PPT](/assets/papers/past/2008_nucleic_acids_research_supp2.ppt)
@@ -413,7 +413,7 @@
   edition: '90(9):3315-21 (2006)'
   date: '2006'
   pdf: /assets/papers/past/le_cluzel_2006_paper.pdf
-  html: http://www.biophysj.org/cgi/content/full/90/9/3315
+  html: https://doi.org/10.1529/biophysj.105.073353
   suppinfo: /assets/papers/past/2006_biophysical_journal_supp.doc
 
 - authors: 'Korobkova E., Emonet T, Park H, Cluzel P'
@@ -437,7 +437,7 @@
   edition: '21(11):2714-21 (2005)'
   date: '2005'
   pdf: /assets/papers/past/emonet_cluzel_2005_paper.pdf
-  html: http://bioinformatics.oxfordjournals.org/cgi/content/full/21/11/2714
+  html: https://doi.org/10.1093/bioinformatics/bti391
   suppinfo: /assets/papers/past/2005_bioinformatics_supp.pdf
   extra: |-
     \* Corresponding author
@@ -478,7 +478,7 @@
   suppinfo: /assets/papers/past/2020_scienceAdvancesKeita_SM.pdf
   extra: |-
     \* corresponding authors
-    - [Dynamic risk management in cell populations](https://www.eurekalert.org/pub_releases/2020-11/a-drm111020.php)
+    - [Dynamic risk management in cell populations](https://web.archive.org/web/20201119112015/https://www.eurekalert.org/pub_releases/2020-11/a-drm111020.php)
     - [Cellular bet hedgers cash in when environment changes](https://news.yale.edu/2020/11/16/insights-outcomes-cellular-bet-hedgers-and-message-magnetar)
 
 - authors: 'Fu X*, Kato S*,  Long J, Mattingly HH, He C, Vural DC, Zucker SW & Emonet T'
