@@ -18,6 +18,7 @@
   doi: 10.1073/pnas.2608896123
   pdf: /assets/papers/2026/2026_brudner-et-al-PNAS-fly-navigational-responses-exploit-plume.pdf
   html: https://www.pnas.org/doi/10.1073/pnas.2608896123
+  github: https://github.com/emonetlab/GradientMotionMultiplePlumes
   extra: |-
     \* contributed equally; \#corresponding authors
 
@@ -37,6 +38,7 @@
   edition: '043011'
   date: '2024-11'
   html: https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.043011
+  github: https://github.com/emonetlab/bifurcation-temporal-information
   pdf: /assets/papers/2024/2024_ChoiRosenbluthPRXLife.pdf
   extra: |-
     \* contributed equally; # co-corresponding authors
@@ -90,6 +92,7 @@
   html: https://elifesciences.org/articles/57524
   pdf: /assets/papers/past/demir_emonet_2020_paper.pdf
   suppinfo: /assets/papers/past/2020_elife_demir_kadakia_figures_and_SI.pdf
+  github: https://github.com/emonetlab/fly-walk
   extra: |-
     \* contributed equally
     - [Olfactory Navigation: Tempo is the key by Celani, eLife](https://elifesciences.org/articles/63385)
@@ -104,6 +107,7 @@
   date: '2022-01-24'
   html: https://elifesciences.org/articles/72415
   pdf: /assets/papers/2022/2022_JayaramELife.pdf
+  github: https://github.com/emonetlab/plume-temporal-navigation
   extra: |-
     \* contributed equally
 
@@ -142,6 +146,7 @@
   date: '2019'
   html: https://elifesciences.org/articles/45293
   pdf: /assets/papers/past/kadakia_emonet_2019_paper.pdf
+  github: https://github.com/emonetlab/ORN-WL-gain-control
 
 - authors: 'Gorur-Shandilya S, Martelli C, Demir M, Emonet T'
   title: 'Controlling and measuring dynamic odorant stimuli in the laboratory'
@@ -150,6 +155,7 @@
   date: '2019'
   html: https://journals.biologists.com/jeb/article/222/23/jeb207787/223562/Controlling-and-measuring-dynamic-odorant-stimuli
   pdf: /assets/papers/past/gorurshandilya_emonet_2019_paper.pdf
+  github: https://github.com/emonetlab/controlling-dynamic-stimuli
 
 - authors: 'Raccuglia D, McCurdy LY, Demir M, Gorur-Shandilya S, Kunst M, Emonet T, Nitabach MN'
   title: 'Presynaptic GABA receptors mediate temporal contrast enhancement in Drosophila olfactory sensory neurons and modulate odor-driven behavioral kinetics'
@@ -167,8 +173,9 @@
   date: '2013'
   pdf: /assets/papers/past/mathew_carlson_2013_paper.pdf
   suppinfo: /assets/papers/past/2013_dennis-supp1.pdf
-  github: /assets/papers/past/2013_dennis_supp2.xlsx
   html: http://www.pnas.org/content/110/23/E2134.short
+  extra: |-
+    - [Supp. Dataset S2 (xlsx)](/assets/papers/past/2013_dennis_supp2.xlsx)
 
 - authors: 'Martelli C, Carlson J, and Emonet T'
   title: 'Intensity invariant dynamics and odor-specific latencies in olfactory receptor neuron response'

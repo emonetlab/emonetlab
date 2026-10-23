@@ -49,6 +49,7 @@
   doi: 10.1073/pnas.2423774122
   html: https://www.pnas.org/doi/10.1073/pnas.2423774122
   pdf: /assets/papers/2025/2025_VoAvgidisMattinglyPNAS.pdf
+  github: https://github.com/emonetlab/nongenetic-adaptation-wave
   preprint: https://www.biorxiv.org/content/10.1101/2024.01.02.573956v1
   extra: |-
     \* co-first authors
@@ -101,6 +102,7 @@
   html: http://www.cell.com/developmental-cell/abstract/S1534-5807(17)30508-7
   pdf: /assets/papers/past/das_holley_2017_paper.pdf
   suppinfo: /assets/papers/past/das_holley_2017_suppinfo.pdf
+  github: https://github.com/emonetlab/zebrafish-cell-motion
   extra: |-
     \* corresponding authors
 
@@ -123,7 +125,7 @@
   html: http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2958.2011.07579.x/abstract
   pdf: /assets/papers/past/sliusarenko__2011_paper.pdf
   suppinfo: /assets/papers/past/2011_mol_micro_supp.pdf
-  github: http://www.microbetracker.org
+  github: https://github.com/emonetlab/microbetracker
   extra: |-
     \* Co-corresponding authors
     - [Movies](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2958.2011.07579.x/suppinfo)
@@ -134,7 +136,7 @@
   edition: '8:177-183'
   date: '2011'
   html: https://doi.org/10.1038/nmeth.1546
-  github: http://www.nfsim.org
+  github: https://github.com/emonetlab/nfsim
   pdf: /assets/papers/past/sneddon_emonet_2011_paper.pdf
   suppinfo: /assets/papers/past/2011_nature_methods_supp.pdf
   extra: |-
@@ -151,6 +153,7 @@
   html: https://www.pnas.org/doi/10.1073/pnas.2211807120
   pdf: /assets/papers/past/kamino_emonet_2023_paper.pdf
   suppinfo: /assets/papers/past/kamino_emonet_2023_suppinfo.pdf
+  github: https://github.com/emonetlab/B-FRET
   # twitter: https://twitter.com/EmonetLab/status/1643640901095268353
 
 - authors: 'Moore JP, Kamino K, Kottou R, Shimizu, TS, Emonet T'
@@ -161,6 +164,7 @@
   date: '2024'
   html: https://doi.org/10.1016/j.cels.2024.06.003
   pdf: /assets/papers/2024/2024_MooreCellSystems.pdf
+  github: https://github.com/emonetlab/SensoryDiversityTuningAnalysis
 
 - authors: 'Mattingly H, Emonet T'
   title: 'Collective behavior and nongenetic inheritance allow bacterial populations to adapt to changing environments'
@@ -170,6 +174,7 @@
   html: https://www.pnas.org/doi/10.1073/pnas.2117377119
   preprint: https://www.biorxiv.org/content/10.1101/2021.09.21.461202v1.full.pdf+html
   pdf: /assets/papers/past/mattingly_emonet_2022_paper.pdf
+  github: https://github.com/emonetlab/ks
 
 - authors: 'Moore JP, Kamino K, Emonet T'
   title: 'Non-Genetic Diversity in Chemosensing and Chemotactic Behavior'
@@ -211,6 +216,7 @@
   date: '2019'
   html: https://www.sciencedirect.com/science/article/pii/S1534580719303867?via%3Dihub
   pdf: /assets/papers/past/das_holley_2019_paper.pdf
+  github: https://github.com/emonetlab/Mechanical-Information-Propagation
 
 - authors: 'Waite AJ, Frankel NW, Emonet T'
   title: 'Behavioral variability and phenotypic diversity in bacterial chemotaxis'
