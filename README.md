@@ -112,7 +112,7 @@ Copy a nearby entry and replace its details. Include the authors, title, journal
 
 Papers appear newest first. Write dates as quoted `"YYYY-MM-DD"` values. Use `edition` for volume and pages, `doi` for a DOI such as `10.64898/2026.07.13.738327`, and `html` for the full journal page address.
 
-Put PDFs in `assets/papers/YYYY/`. Set `pdf` to a path such as `/assets/papers/2026/2026_Santana_etal_biorxiv.pdf`. Use `suppinfo` for a supporting PDF, `preprint` for a preprint link, and `extra` for notes or news links. Check the links on every publication page where the paper appears.
+Put PDFs in `assets/papers/YYYY/`. Set `pdf` to a path such as `/assets/papers/2026/2026_Santana_etal_biorxiv.pdf`. Use `suppinfo` for a supporting PDF, `preprint` for a preprint link, `github` for a code repository, and `extra` for notes or news links. Check the links on every publication page where the paper appears.
 
 ## Add gallery photos
 

@@ -23,7 +23,7 @@
 - Keep existing page addresses and old-post redirects working. New posts must not inherit another post's `original_url` or `redirect_from` values.
 - Alumni appear only for the four exact `role` values in the README. Their page renders `now` and `past`, not `description` or `when`.
 - Use approved career facts with dates where available. Leave `now` empty when no later position is supplied. Do not put “last known,” “not confirmed,” or research-status comments into individual profiles. Keep evidence gaps and open questions in private review notes, outside this public repository.
-- Put each paper in one data list. Both research-area pages include the shared and physics lists; Everything combines all four lists. Check each affected page. The Everything and Microbiology layouts currently hardcode their GitHub links to `emonetlab/opto-track`; do not assume the `github` field works there.
+- Put each paper in one data list. Both research-area pages include the shared and physics lists; Everything combines all four lists. Check each affected page. All three publication layouts render the `github` field as the GitHub icon link.
 - Use `relative_url` for local page and image links so a site path prefix works.
 
 ## Images and gallery
