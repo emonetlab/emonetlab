@@ -18,15 +18,7 @@ description: neuroscience publications page.
 
 {{ content }}
 <div>
-  <b>Key:</b>
-  <ul class="fa-ul">
-    <li><span class="fa-li"><i class="fa fa-desktop"></i></span>Journal Website</li>
-    <li><span class="fa-li"><i class="far fa-file-pdf"></i></span>PDF</li>
-    <li><span class="fa-li"><i class="far fa-copy"></i></span>PDF Supplemental Information</li>
-    <li><span class="fa-li"><i class="far fa-file-powerpoint"></i></span>Preprint</li>
-    <!-- <li><span class="fa-li"><i class="fab fa-twitter"></i></span>Twitter</li> -->
-    <li><span class="fa-li"><i class="fab fa-github"></i></span>GitHub/Code</li>
-  </ul>
+  {% include publication-key.html %}
 </div>
 <br />
 
@@ -66,9 +58,6 @@ description: neuroscience publications page.
         {% if paper.edition %}
           {{ paper.edition }}
         {% endif %}
-        {% if paper.doi %}
-          | <a href="https://doi.org/{{ paper.doi }}" title="DOI">{{ paper.doi }}</a>
-        {% endif %}
       </div>
 
       {% if paper.extra %}
@@ -77,38 +66,7 @@ description: neuroscience publications page.
         </div>
       {% endif %}
 
-      <ul class="list-inline publication-links">
-        {% if paper.html %}
-          <li class="list-inline-item">
-            <a href="{{ paper.html }}" title="Publication Website"><i class="fa fa-desktop"></i></a>
-          </li>
-        {% endif %}
-        {% if paper.pdf %}
-          <li class="list-inline-item">
-            <a href="{{ paper.pdf | absolute_url }}" title="PDF"><i class="far fa-file-pdf"></i></a>
-          </li>
-        {% endif %}
-        {% if paper.suppinfo %}
-          <li class="list-inline-item">
-            <a href="{{ paper.suppinfo | absolute_url }}" title="PDF Supplemental Information"><i class="far fa-copy"></i></a>
-          </li>
-        {% endif %}
-        {% if paper.preprint %}
-          <li class="list-inline-item">
-            <a href="{{ paper.preprint }}" title="Preprint"><i class="far fa-file-powerpoint"></i></a>
-          </li>
-        {% endif %}
-        {% if paper.twitter %}
-          <li class="list-inline-item">
-            <a href="{{ paper.twitter }}" title="Twitter"><i class="fab fa-twitter"></i></a>
-          </li>
-        {% endif %}
-        {% if paper.github %}
-          <li class="list-inline-item">
-            <a href="{{ paper.github }}" title="GitHub"><i class="fab fa-github"></i></a>
-          </li>
-        {% endif %}
-      </ul>
+      {% include publication-links.html %}
     </div>
   </div>
 {% endfor %}
