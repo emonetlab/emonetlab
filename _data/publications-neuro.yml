@@ -63,7 +63,7 @@
     \* contributed equally
 
 - authors: 'Kadakia N, Demir M, Michaelis BT, DeAngelis, BD, Reidenbach MA, Clark DA*, Emonet T*'
-  title: 'Odour motion sensing enhances complex plume navigation'
+  title: 'Odour motion sensing enhances navigation of complex plumes'
   journal: 'Nature'
   edition: '611, pages 754–761 (2022)'
   doi: 10.1038/s41586-022-05423-4
@@ -104,7 +104,7 @@
   html: https://elifesciences.org/articles/72415
   pdf: /assets/papers/2022/2022_JayaramELife.pdf
   extra: |-
-    \* contributed equall
+    \* contributed equally
 
 - authors: 'Gorur-Shandilya S*, Demir M*, Long J, Clark DA1, Emonet T1'
   title: 'Olfactory receptor neurons use gain control and complementary kinetics to encode intermittent odorant stimuli'
@@ -151,7 +151,7 @@
 - authors: 'Raccuglia D, McCurdy LY, Demir M, Gorur-Shandilya S, Kunst M, Emonet T, Nitabach MN'
   title: 'Presynaptic GABA receptors mediate temporal contrast enhancement in Drosophila olfactory sensory neurons and modulate odor-driven behavioral kinetics'
   journal: 'eNeuro'
-  edition: '(2016)'
+  edition: '3(4):ENEURO.0080-16.2016 (2016)'
   date: '2016'
   doi: 10.1523/ENEURO.0080-16.2016
   html: http://eneuro.org/content/early/2016/07/25/ENEURO.0080-16.2016
@@ -175,7 +175,7 @@
   html: http://www.jneurosci.org/content/33/15/6285.short
 
 - authors: 'Su CY, Martelli C, Emonet T, Carlson JR'
-  title: 'Temporal coding of odor mixtures in an olfactory receptor neuron.,'
+  title: 'Temporal coding of odor mixtures in an olfactory receptor neuron'
   journal: 'Proceedings of the National Academy of Sciences'
   edition: '108(12):5075-80 (2011)'
   date: '2011'
