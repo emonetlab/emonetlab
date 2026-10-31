@@ -66,6 +66,14 @@
   description: >
     Josh is an undergraduate at Yale studying neuroscience and is interested in understanding temporal integration of odor stimuli in Drosophila and how this can be translated into behavior. Before his interest in neuroscience, he studied cutting-edge methods in medical imaging including photon-counting detector CT scanners and medical 3D printing. Outside of the lab, Josh has a passion for art and design, and hopes to one day combine his scientific background with his artistic interests in the field of medicine.
 
+- name: Renee Antwi
+  role: "Undergraduate Student"
+  when: "2025-"
+  program: >
+    [Yale College](https://yalecollege.yale.edu/)
+  image: empty.jpg
+  email: renee.antwi@yale.edu
+
 - name: Kevin Chen
   role: "Postdoc"
   when: "2024-"
