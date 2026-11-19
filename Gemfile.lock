@@ -53,7 +53,7 @@ GEM
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.21.2)
-    kramdown (2.5.2)
+    kramdown (2.6.1)
       rexml (>= 3.4.4)
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -101,7 +101,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
-  kramdown (~> 2.5.2)
+  kramdown (~> 2.6.1)
   kramdown-parser-gfm (~> 1.1.0)
   liquid (~> 4.0.4)
   mini_magick
